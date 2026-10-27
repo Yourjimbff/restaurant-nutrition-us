@@ -751,17 +751,17 @@ pizzahut,Beer and Wine,Tecate,,150,0,0,0,0,15,13,0,0,,2,,,https://www.nutritioni
 pizzahut,Beer and Wine,White Wine,,150,0,0,0,0,10,5,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Beer and Wine,Yuengling,,140,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Beer and Wine,Ziegenbock,,150,0,0,0,0,15,11,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Big New Yorker,Cheese,,150,11,7,0,40,350,2,0,0,,11,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Large,Cheese,,80,6,3.5,0,20,180,1,0,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Original Stuffed Crust,Cheese,,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Large - Chicago Tavern-Style,Cheese,,40,3,1.5,0,10,90,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Large - Cheesy Bites (Limited Time),Cheese,,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Medium,Cheese,,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Big New Yorker,"Cheese, Big New Yorker",,150,11,7,0,40,350,2,0,0,,11,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Large,"Cheese, Large",,80,6,3.5,0,20,180,1,0,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Original Stuffed Crust,"Cheese, Original Stuffed Crust",,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Large - Chicago Tavern-Style,"Cheese, Large Chicago Tavern-Style",,40,3,1.5,0,10,90,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Large - Cheesy Bites (Limited Time),"Cheese, Large Cheesy Bites (Limited Time)",,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Medium,"Cheese, Medium",,50,4,2.5,0,15,120,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Cheese - Medium,Dairy-Free Cheese,,60,4.5,4,0,0,160,4,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Medium - Chicago Tavern-Style,Cheese,,25,2,1,0,5,60,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Personal Pan,Cheese,,30,2.5,1.5,0,10,75,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Cheese - Small,Cheese,,30,2,1.5,0,10,65,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Crust - Big New Yorker,Hand Tossed Crust (Large),,240,4,0.5,0,0,300,43,2,<1,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Medium - Chicago Tavern-Style,"Cheese, Medium Chicago Tavern-Style",,25,2,1,0,5,60,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Personal Pan,"Cheese, Personal Pan",,30,2.5,1.5,0,10,75,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Cheese - Small,"Cheese, Small",,30,2,1.5,0,10,65,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Crust - Big New Yorker,"Hand Tossed Crust (Large), Big New Yorker",,240,4,0.5,0,0,300,43,2,<1,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Crust - Gluten Free,Udi's Gluten-Free Crust,,60,1,0,0,0,85,12,0,1,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Crust - Large,"14"" Chicago Tavern-Style Crust",,45,0,0,0,0,75,8,0,<1,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Crust - Large,Cheesy Bites Crust (Large),,240,7,3.5,0,15,430,36,1,<1,,8,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
@@ -782,542 +782,542 @@ pizzahut,Crust - Small,Original Pan Crust (Small),,90,2,0,0,0,130,16,<1,0,,2,,,h
 pizzahut,Crust - Small,Thin 'N Crispy Crust (Small),,60,0.5,0,0,0,100,11,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Crust - Personal Pan,Pan Crust (Personal),,100,2.5,0,0,0,140,17,<1,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Crust Finisher - Hand Tossed & Stuffed Crust,Garlic-Parm Hut Blend,,5,0.5,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Big New Yorker,Hut Dust Seasoning,,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Big New Yorker,Pesto Sauce,,30,3,0,0,0,85,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large,Barbeque Drizzle,,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large,Hut Dust Seasoning,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large,Mayonnaise,,80,8,1.5,0,10,55,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large,Pesto Sauce,,20,2,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,Barbeque Drizzle,,10,0,0,0,0,20,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,Hut Dust Seasoning,,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,Pesto Sauce,,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium,Barbeque Drizzle,,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium,Hut Dust Seasoning,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium,Mayonnaise,,60,6,1,0,5,35,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium,Pesto Sauce,,15,1.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,Barbeque Drizzle,,10,0,0,0,0,20,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,Hut Dust Seasoning,,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,Pesto Sauce,,5,0.5,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Personal Pan,Barbeque Drizzle,,30,0,0,0,0,80,8,0,6,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Personal Pan,Mayonnaise,,30,3,0.5,0,<5,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Personal Pan,Pesto Sauce,,10,1,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Small,Barbeque Drizzle,,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Small,Mayonnaise,,30,3,0.5,0,<5,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Drizzles & Finishers - Small,Pesto Sauce,,10,1,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Big New Yorker,Spicy Marinara,,20,0,0,0,0,180,4,<1,2,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Big New Yorker,Sweet Marinara,,20,0,0,0,0,130,4,<1,3,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Gluten Free,Barbeque Pizza Sauce,,0,0,0,0,0,15,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Gluten Free,Bean Pizza Sauce,,15,1,0,0,0,60,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Gluten Free,Classic Marinara,,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Gluten Free,Spicy Marinara,,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Gluten Free,Sweet Marinara,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Barbeque Pizza Sauce,,15,0,0,0,0,55,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Bean Pizza Sauce,,50,3,0,0,0,200,5,2,<1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Classic Marinara,,10,0,0,0,0,105,2,<1,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Creamy Garlic Parmesan Pizza Sauce,,45,4,2,0,0,85,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Spicy Marinara,,10,0,0,0,0,110,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large,Sweet Marinara,,10,0,0,0,0,80,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Chicago Tavern-Style,Barbeque Pizza Sauce,,10,0,0,0,0,30,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Chicago Tavern-Style,Bean Pizza Sauce,,25,1.5,0,0,0,100,3,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Chicago Tavern-Style,Classic Marinara,,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Chicago Tavern-Style,Spicy Marinara,,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Chicago Tavern-Style,Sweet Marinara,,5,0,0,0,0,40,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Barbeque Pizza Sauce,,10,0,0,0,0,35,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Bean Pizza Sauce,,40,2,0,0,0,150,4,1,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Classic Marinara,,10,0,0,0,0,75,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Creamy Garlic Parmesan Pizza Sauce,,25,2.5,1.5,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Spicy Marinara,,10,0,0,0,0,85,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Large - Cheesy Bites (Limited Time),Sweet Marinara,,5,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Barbeque Pizza Sauce,,15,0,0,0,0,55,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Bean Pizza Sauce,,50,3,0,0,0,200,5,2,<1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Classic Marinara,,10,0,0,0,0,105,2,<1,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Creamy Garlic Parmesan Pizza Sauce,,45,4,2,0,0,85,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Spicy Marinara,,10,0,0,0,0,110,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Original Stuffed Crust,Sweet Marinara,,10,0,0,0,0,80,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Barbeque Pizza Sauce,,10,0,0,0,0,35,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Bean Pizza Sauce,,40,2,0,0,0,150,4,1,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Classic Marinara,,10,0,0,0,0,75,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Creamy Garlic Parmesan Pizza Sauce,,25,2.5,1.5,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Spicy Marinara,,10,0,0,0,0,85,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium,Sweet Marinara,,5,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium - Chicago Tavern-Style,Barbeque Pizza Sauce,,5,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium - Chicago Tavern-Style,Bean Pizza Sauce,,20,1,0,0,0,75,2,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium - Chicago Tavern-Style,Classic Marinara,,0,0,0,0,0,35,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium - Chicago Tavern-Style,Spicy Marinara,,0,0,0,0,0,40,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Medium - Chicago Tavern-Style,Sweet Marinara,,0,0,0,0,0,30,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Barbeque Pizza Sauce,,5,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Bean Pizza Sauce,,20,1,0,0,0,75,2,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Classic Marinara,,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Creamy Garlic Parmesan Pizza Sauce,,25,2.5,1,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Spicy Marinara,,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Personal Pan,Sweet Marinara,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Barbeque Pizza Sauce,,0,0,0,0,0,15,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Bean Pizza Sauce,,15,1,0,0,0,60,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Classic Marinara,,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Creamy Garlic Parmesan Pizza Sauce,,25,2.5,1,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Spicy Marinara,,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Sauce - Small,Sweet Marinara,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Applewood Smoked Bacon,,70,6,2,0,10,130,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,BBQ Beef,,160,10,3.5,0.5,30,420,9,1,8,,10,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Beef,,120,11,5,0,35,390,0,0,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Chicken Sausage,,70,4.5,1.5,0,30,310,1,<1,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Crispy Cup Pepperoni,,70,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Diced Roma Tomatoes,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Fresh Green Bell Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Fresh Mushrooms,,5,0,0,0,0,0,<1,0,<1,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Green Chile Peppers,,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Green Olives,,35,3.5,0,0,0,370,<1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Grilled Chicken,,50,1.5,0,0,25,190,<1,0,0,,9,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Ham,,35,2,0.5,0,0,220,<1,0,<1,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Italian Sausage,,150,14,5,0,25,320,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Mediterranean Black Olives,,30,2.5,0,0,0,180,2,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Minced Garlic,,5,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Pepperoni,,100,9,3.5,0,20,240,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Pork & Beef Blend,,120,11,4,0,30,300,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Seasoned Pork,,130,12,4,0,25,250,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Sliced Banana Peppers,,0,0,0,0,0,240,0,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Sliced Jalapeno Peppers,,0,0,0,0,0,680,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Sliced Onions,,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Big New Yorker,Sweet Pineapple,,20,0,0,0,0,0,5,0,4,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Applewood Smoked Bacon,,20,2,0.5,0,<5,40,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Beef,,35,3.5,1.5,0,10,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Chicken Sausage,,20,1.5,0,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Green Olives,,10,1,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Grilled Chicken,,15,0,0,0,10,55,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Ham,,10,0.5,0,0,0,65,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Italian Sausage,,45,4,1.5,0,10,95,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Mediterranean Black Olives,,10,1,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Minced Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Pork & Beef Blend,,35,3.5,1,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Seasoned Pork,,40,3.5,1,0,10,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Sliced Banana Peppers,,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Sliced Jalapeno Peppers,,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Gluten Free,Sweet Pineapple,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Applewood Smoked Bacon,,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,BBQ Beef,,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Beef,,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Cheddar Cheese,,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Chicken Sausage,,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Crispy Cup Pepperoni,,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Fresh Mushrooms,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Green Chile Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Green Olives,,20,2,0,0,0,210,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Grilled Chicken,,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Ham,,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Italian Sausage,,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Mediterranean Black Olives,,15,1.5,0,0,0,100,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Minced Garlic,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Pepperoni,,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Pork & Beef Blend,,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Seasoned Pork,,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Shredded Lettuce,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Sliced Banana Peppers,,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Sliced Jalapeno Peppers,,0,0,0,0,0,380,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Sliced Onions,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Hand Tossed,Sweet Pineapple,,10,0,0,0,0,0,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Applewood Smoked Bacon,,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,BBQ Beef,,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Beef,,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Cheddar Cheese,,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Chicken Sausage,,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Crispy Cup Pepperoni,,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Fresh Mushrooms,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Green Chile Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Green Olives,,20,2,0,0,0,210,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Grilled Chicken,,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Ham,,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Italian Sausage,,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Mediterranean Black Olives,,15,1.5,0,0,0,100,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Minced Garlic,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Pepperoni,,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Pork & Beef Blend,,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Seasoned Pork,,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Shredded Lettuce,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Sliced Banana Peppers,,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Sliced Jalapeno Peppers,,0,0,0,0,0,380,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Sliced Onions,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Original Pan,Sweet Pineapple,,10,0,0,0,0,0,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Applewood Smoked Bacon,,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,BBQ Beef,,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Beef,,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Cheddar Cheese,,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Chicken Sausage,,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Crispy Cup Pepperoni,,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Green Chile Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Green Olives,,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Grilled Chicken,,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Ham,,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Italian Sausage,,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Mediterranean Black Olives,,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Minced Garlic,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Pepperoni,,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Pork & Beef Blend,,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Seasoned Pork,,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Shredded Lettuce,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Sliced Banana Peppers,,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Sliced Jalapeno Peppers,,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Sliced Onions,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Original Stuffed Crust,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Applewood Smoked Bacon,,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,BBQ Beef,,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Beef,,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Cheddar Cheese,,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Chicken Sausage,,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Crispy Cup Pepperoni,,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Fresh Mushrooms,,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Green Chile Peppers,,5,0,0,0,0,0,2,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Green Olives,,25,2.5,0,0,0,270,<1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Grilled Chicken,,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Ham,,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Italian Sausage,,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Mediterranean Black Olives,,20,2,0,0,0,125,1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Minced Garlic,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Pepperoni,,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Pork & Beef Blend,,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Seasoned Pork,,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Shredded Lettuce,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Sliced Banana Peppers,,0,0,0,0,0,170,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Sliced Jalapeno Peppers,,0,0,0,0,0,490,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Sliced Onions,,10,0,0,0,0,0,2,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Thin 'N Crispy,Sweet Pineapple,,15,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Applewood Smoked Bacon,,20,2,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,BBQ Beef,,45,2.5,1,0,10,115,3,0,2,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Beef,,35,3.5,1.5,0,10,120,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Cheddar Cheese,,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Chicken Sausage,,25,1.5,0,0,10,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Crispy Cup Pepperoni,,20,2,1,0,<5,75,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Green Olives,,10,1.5,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Grilled Chicken,,15,0,0,0,10,55,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Ham,,10,0.5,0,0,0,60,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Italian Sausage,,45,4,1.5,0,10,100,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Mediterranean Black Olives,,10,1,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Pepperoni,,25,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Pork & Beef Blend,,40,3.5,1.5,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Seasoned Pork,,40,3.5,1,0,10,80,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Sliced Banana Peppers,,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Sliced Jalapeno Peppers,,0,0,0,0,0,240,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Chicago Tavern-Style,Sweet Pineapple,,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Applewood Smoked Bacon,,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),BBQ Beef,,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Beef,,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Chicken Sausage,,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Fresh Mushrooms,,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Green Olives,,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Grilled Chicken,,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Italian Sausage,,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Mediterranean Black Olives,,10,1,0,0,0,70,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Pork & Beef Blend,,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Seasoned Pork,,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Sliced Banana Peppers,,0,0,0,0,0,95,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Sliced Jalapeno Peppers,,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Sliced Onions,,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Large - Cheesy Bites (Limited Time),Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Applewood Smoked Bacon,,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,BBQ Beef,,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Beef,,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Chicken Sausage,,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Green Chile Peppers,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Green Olives,,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Grilled Chicken,,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Italian Sausage,,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Mediterranean Black Olives,,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Pork & Beef Blend,,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Seasoned Pork,,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Sliced Banana Peppers,,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Sliced Jalapeno Peppers,,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Sliced Onions,,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Hand Tossed,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Applewood Smoked Bacon,,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,BBQ Beef,,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Beef,,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Chicken Sausage,,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Green Chile Peppers,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Green Olives,,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Grilled Chicken,,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Italian Sausage,,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Mediterranean Black Olives,,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Pork & Beef Blend,,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Seasoned Pork,,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Sliced Banana Peppers,,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Sliced Jalapeno Peppers,,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Sliced Onions,,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Pan,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Applewood Smoked Bacon,,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,BBQ Beef,,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Beef,,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Chicken Sausage,,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Green Olives,,15,1.5,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Grilled Chicken,,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Italian Sausage,,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Mediterranean Black Olives,,10,1,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Pork & Beef Blend,,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Seasoned Pork,,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Sliced Banana Peppers,,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Sliced Jalapeno Peppers,,0,0,0,0,0,250,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Original Stuffed Crust,Sweet Pineapple,,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Applewood Smoked Bacon,,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,BBQ Beef,,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Beef,,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Chicken Sausage,,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Green Chile Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Green Olives,,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Grilled Chicken,,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Italian Sausage,,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Mediterranean Black Olives,,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Pork & Beef Blend,,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Seasoned Pork,,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Sliced Banana Peppers,,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Sliced Jalapeno Peppers,,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Sliced Onions,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Thin 'N Crispy,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Applewood Smoked Bacon,,15,1.5,0,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,BBQ Beef,,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Beef,,25,2.5,1,0,5,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Cheddar Cheese,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Chicken Sausage,,20,1,0,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Green Olives,,10,1,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Grilled Chicken,,10,0,0,0,5,40,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Ham,,5,0,0,0,0,40,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Italian Sausage,,30,3,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Mediterranean Black Olives,,5,0.5,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Minced Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Pork & Beef Blend,,25,2.5,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Seasoned Pork,,30,2.5,1,0,5,55,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Sliced Banana Peppers,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Sliced Jalapeno Peppers,,0,0,0,0,0,180,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Medium - Chicago Tavern-Style,Sweet Pineapple,,0,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Applewood Smoked Bacon,,35,3,1,0,5,70,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Beef,,60,6,2.5,0,20,200,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Chicken Sausage,,35,2.5,0.5,0,15,160,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Crispy Cup Pepperoni,,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Green Chile Peppers,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Green Olives,,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Grilled Chicken,,25,0.5,0,0,15,100,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Ham,,20,1,0,0,0,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Italian Sausage,,80,7,2.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Mediterranean Black Olives,,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Pepperoni,,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Pork & Beef Blend,,50,5,2,0,10,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Seasoned Pork,,70,6,2,0,15,135,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Sliced Banana Peppers,,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Sliced Jalapeno Peppers,,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Sliced Onions,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Caulicrust,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Applewood Smoked Bacon,,15,1.5,0,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,BBQ Beef,,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Beef,,25,2.5,1,0,5,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Chicken Sausage,,15,1,0,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Green Chile Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Green Olives,,5,1,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Grilled Chicken,,10,0,0,0,5,40,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Ham,,10,0,0,0,0,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Italian Sausage,,30,3,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Mediterranean Black Olives,,5,0.5,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Minced Garlic,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Pork & Beef Blend,,25,2.5,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Seasoned Pork,,25,2.5,1,0,5,55,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Sliced Banana Peppers,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Sliced Jalapeno Peppers,,0,0,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan,Sweet Pineapple,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Applewood Smoked Bacon,,15,1.5,0.5,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,BBQ Beef,,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Beef,,30,2.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Cheddar Cheese,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Chicken Sausage,,15,1,0,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Green Olives,,10,1,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Grilled Chicken,,10,0,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Ham,,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Italian Sausage,,35,3,1,0,5,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Mediterranean Black Olives,,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Minced Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Pork & Beef Blend,,30,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Seasoned Pork,,30,2.5,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Sliced Banana Peppers,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Sliced Jalapeno Peppers,,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Hand Tossed,Sweet Pineapple,,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Applewood Smoked Bacon,,15,1.5,0.5,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,BBQ Beef,,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Beef,,30,2.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Cheddar Cheese,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Chicken Sausage,,15,1,0,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Green Olives,,10,1,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Grilled Chicken,,10,0,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Ham,,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Italian Sausage,,35,3,1,0,5,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Mediterranean Black Olives,,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Minced Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Pork & Beef Blend,,30,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Seasoned Pork,,30,2.5,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Sliced Banana Peppers,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Sliced Jalapeno Peppers,,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Original Pan,Sweet Pineapple,,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Applewood Smoked Bacon,,20,1.5,0.5,0,<5,35,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,BBQ Beef,,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Beef,,35,3,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Cheddar Cheese,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Chicken Sausage,,20,1.5,0,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Crispy Cup Pepperoni,,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Green Chile Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Green Olives,,10,1,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Grilled Chicken,,15,0,0,0,10,55,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Ham,,10,0.5,0,0,0,65,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Italian Sausage,,45,4,1.5,0,5,95,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Mediterranean Black Olives,,10,0.5,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Minced Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Pepperoni,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Pork & Beef Blend,,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Seasoned Pork,,35,3.5,1,0,10,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Shredded Lettuce,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Sliced Banana Peppers,,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Sliced Jalapeno Peppers,,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Thin N' Crispy,Sweet Pineapple,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Applewood Smoked Bacon,,35,3,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Beef,,70,6,2.5,0,20,210,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Diced Roma Tomatoes,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Fresh Green Bell Peppers,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Green Chile Peppers,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Green Olives,,15,1.5,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Grilled Chicken,,25,0.5,0,0,15,105,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Ham,,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Italian Sausage,,80,7,2.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Mediterranean Black Olives,,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Pepperoni,,25,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Seasoned Pork,,70,7,2,0,15,140,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Sliced Banana Peppers,,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Sliced Jalapeno Peppers,,0,0,0,0,0,290,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Sliced Onions,,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Small - Express - Hand Tossed,Sweet Pineapple,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Applewood Smoked Bacon,,20,1.5,0.5,0,<5,35,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Beef,,40,4,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Cheddar Cheese,,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Diced Roma Tomatoes,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Fresh Green Bell Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Fresh Mushrooms,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Green Chile Peppers,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Green Olives,,10,1,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Grilled Chicken,,15,0,0,0,10,70,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Ham,,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Italian Sausage,,50,4.5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Mediterranean Black Olives,,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Pepperoni,,25,2,1,0,5,55,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Seasoned Pork,,45,4,1.5,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Sliced Banana Peppers,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Sliced Jalapeno Peppers,,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Sliced Onions,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
-pizzahut,Toppings - Personal Pan - Express,Sweet Pineapple,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Big New Yorker,"Hut Dust Seasoning, Big New Yorker",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Big New Yorker,"Pesto Sauce, Big New Yorker",,30,3,0,0,0,85,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large,"Barbeque Drizzle, Large",,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large,"Hut Dust Seasoning, Large",,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large,"Mayonnaise, Large",,80,8,1.5,0,10,55,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large,"Pesto Sauce, Large",,20,2,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,"Barbeque Drizzle, Large Chicago Tavern-Style",,10,0,0,0,0,20,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,"Hut Dust Seasoning, Large Chicago Tavern-Style",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Large - Chicago Tavern-Style,"Pesto Sauce, Large Chicago Tavern-Style",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium,"Barbeque Drizzle, Medium",,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium,"Hut Dust Seasoning, Medium",,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium,"Mayonnaise, Medium",,60,6,1,0,5,35,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium,"Pesto Sauce, Medium",,15,1.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,"Barbeque Drizzle, Medium Chicago Tavern-Style",,10,0,0,0,0,20,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,"Hut Dust Seasoning, Medium Chicago Tavern-Style",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Medium - Chicago Tavern-Style,"Pesto Sauce, Medium Chicago Tavern-Style",,5,0.5,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Personal Pan,"Barbeque Drizzle, Personal Pan",,30,0,0,0,0,80,8,0,6,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Personal Pan,"Mayonnaise, Personal Pan",,30,3,0.5,0,<5,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Personal Pan,"Pesto Sauce, Personal Pan",,10,1,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Small,"Barbeque Drizzle, Small",,15,0,0,0,0,40,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Small,"Mayonnaise, Small",,30,3,0.5,0,<5,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Drizzles & Finishers - Small,"Pesto Sauce, Small",,10,1,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Big New Yorker,"Spicy Marinara, Big New Yorker",,20,0,0,0,0,180,4,<1,2,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Big New Yorker,"Sweet Marinara, Big New Yorker",,20,0,0,0,0,130,4,<1,3,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Gluten Free,"Barbeque Pizza Sauce, Gluten Free",,0,0,0,0,0,15,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Gluten Free,"Bean Pizza Sauce, Gluten Free",,15,1,0,0,0,60,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Gluten Free,"Classic Marinara, Gluten Free",,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Gluten Free,"Spicy Marinara, Gluten Free",,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Gluten Free,"Sweet Marinara, Gluten Free",,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Barbeque Pizza Sauce, Large",,15,0,0,0,0,55,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Bean Pizza Sauce, Large",,50,3,0,0,0,200,5,2,<1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Classic Marinara, Large",,10,0,0,0,0,105,2,<1,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Creamy Garlic Parmesan Pizza Sauce, Large",,45,4,2,0,0,85,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Spicy Marinara, Large",,10,0,0,0,0,110,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large,"Sweet Marinara, Large",,10,0,0,0,0,80,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Chicago Tavern-Style,"Barbeque Pizza Sauce, Large Chicago Tavern-Style",,10,0,0,0,0,30,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Chicago Tavern-Style,"Bean Pizza Sauce, Large Chicago Tavern-Style",,25,1.5,0,0,0,100,3,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Chicago Tavern-Style,"Classic Marinara, Large Chicago Tavern-Style",,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Chicago Tavern-Style,"Spicy Marinara, Large Chicago Tavern-Style",,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Chicago Tavern-Style,"Sweet Marinara, Large Chicago Tavern-Style",,5,0,0,0,0,40,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Barbeque Pizza Sauce, Large Cheesy Bites (Limited Time)",,10,0,0,0,0,35,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Bean Pizza Sauce, Large Cheesy Bites (Limited Time)",,40,2,0,0,0,150,4,1,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Classic Marinara, Large Cheesy Bites (Limited Time)",,10,0,0,0,0,75,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Creamy Garlic Parmesan Pizza Sauce, Large Cheesy Bites (Limited Time)",,25,2.5,1.5,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Spicy Marinara, Large Cheesy Bites (Limited Time)",,10,0,0,0,0,85,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Large - Cheesy Bites (Limited Time),"Sweet Marinara, Large Cheesy Bites (Limited Time)",,5,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Barbeque Pizza Sauce, Original Stuffed Crust",,15,0,0,0,0,55,4,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Bean Pizza Sauce, Original Stuffed Crust",,50,3,0,0,0,200,5,2,<1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Classic Marinara, Original Stuffed Crust",,10,0,0,0,0,105,2,<1,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Creamy Garlic Parmesan Pizza Sauce, Original Stuffed Crust",,45,4,2,0,0,85,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Spicy Marinara, Original Stuffed Crust",,10,0,0,0,0,110,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Original Stuffed Crust,"Sweet Marinara, Original Stuffed Crust",,10,0,0,0,0,80,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Barbeque Pizza Sauce, Medium",,10,0,0,0,0,35,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Bean Pizza Sauce, Medium",,40,2,0,0,0,150,4,1,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Classic Marinara, Medium",,10,0,0,0,0,75,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Creamy Garlic Parmesan Pizza Sauce, Medium",,25,2.5,1.5,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Spicy Marinara, Medium",,10,0,0,0,0,85,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium,"Sweet Marinara, Medium",,5,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium - Chicago Tavern-Style,"Barbeque Pizza Sauce, Medium Chicago Tavern-Style",,5,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium - Chicago Tavern-Style,"Bean Pizza Sauce, Medium Chicago Tavern-Style",,20,1,0,0,0,75,2,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium - Chicago Tavern-Style,"Classic Marinara, Medium Chicago Tavern-Style",,0,0,0,0,0,35,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium - Chicago Tavern-Style,"Spicy Marinara, Medium Chicago Tavern-Style",,0,0,0,0,0,40,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Medium - Chicago Tavern-Style,"Sweet Marinara, Medium Chicago Tavern-Style",,0,0,0,0,0,30,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Barbeque Pizza Sauce, Personal Pan",,5,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Bean Pizza Sauce, Personal Pan",,20,1,0,0,0,75,2,<1,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Classic Marinara, Personal Pan",,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Creamy Garlic Parmesan Pizza Sauce, Personal Pan",,25,2.5,1,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Spicy Marinara, Personal Pan",,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Personal Pan,"Sweet Marinara, Personal Pan",,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Barbeque Pizza Sauce, Small",,0,0,0,0,0,15,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Bean Pizza Sauce, Small",,15,1,0,0,0,60,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Classic Marinara, Small",,5,0,0,0,0,55,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Creamy Garlic Parmesan Pizza Sauce, Small",,25,2.5,1,0,0,50,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Spicy Marinara, Small",,5,0,0,0,0,65,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Sauce - Small,"Sweet Marinara, Small",,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Applewood Smoked Bacon, Big New Yorker",,70,6,2,0,10,130,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"BBQ Beef, Big New Yorker",,160,10,3.5,0.5,30,420,9,1,8,,10,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Beef, Big New Yorker",,120,11,5,0,35,390,0,0,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Chicken Sausage, Big New Yorker",,70,4.5,1.5,0,30,310,1,<1,0,,6,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Crispy Cup Pepperoni, Big New Yorker",,70,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Diced Roma Tomatoes, Big New Yorker",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Fresh Green Bell Peppers, Big New Yorker",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Fresh Mushrooms, Big New Yorker",,5,0,0,0,0,0,<1,0,<1,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Green Chile Peppers, Big New Yorker",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Green Olives, Big New Yorker",,35,3.5,0,0,0,370,<1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Grilled Chicken, Big New Yorker",,50,1.5,0,0,25,190,<1,0,0,,9,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Ham, Big New Yorker",,35,2,0.5,0,0,220,<1,0,<1,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Italian Sausage, Big New Yorker",,150,14,5,0,25,320,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Mediterranean Black Olives, Big New Yorker",,30,2.5,0,0,0,180,2,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Minced Garlic, Big New Yorker",,5,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Pepperoni, Big New Yorker",,100,9,3.5,0,20,240,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Pork & Beef Blend, Big New Yorker",,120,11,4,0,30,300,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Seasoned Pork, Big New Yorker",,130,12,4,0,25,250,<1,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Sliced Banana Peppers, Big New Yorker",,0,0,0,0,0,240,0,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Sliced Jalapeno Peppers, Big New Yorker",,0,0,0,0,0,680,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Sliced Onions, Big New Yorker",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Big New Yorker,"Sweet Pineapple, Big New Yorker",,20,0,0,0,0,0,5,0,4,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Applewood Smoked Bacon, Gluten Free",,20,2,0.5,0,<5,40,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Beef, Gluten Free",,35,3.5,1.5,0,10,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Chicken Sausage, Gluten Free",,20,1.5,0,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Crispy Cup Pepperoni, Gluten Free",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Diced Roma Tomatoes, Gluten Free",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Fresh Green Bell Peppers, Gluten Free",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Fresh Mushrooms, Gluten Free",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Green Chile Peppers, Gluten Free",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Green Olives, Gluten Free",,10,1,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Grilled Chicken, Gluten Free",,15,0,0,0,10,55,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Ham, Gluten Free",,10,0.5,0,0,0,65,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Italian Sausage, Gluten Free",,45,4,1.5,0,10,95,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Mediterranean Black Olives, Gluten Free",,10,1,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Minced Garlic, Gluten Free",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Pepperoni, Gluten Free",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Pork & Beef Blend, Gluten Free",,35,3.5,1,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Seasoned Pork, Gluten Free",,40,3.5,1,0,10,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Sliced Banana Peppers, Gluten Free",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Sliced Jalapeno Peppers, Gluten Free",,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Sliced Onions, Gluten Free",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Gluten Free,"Sweet Pineapple, Gluten Free",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Applewood Smoked Bacon, Large Hand-Tossed",,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"BBQ Beef, Large Hand-Tossed",,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Beef, Large Hand-Tossed",,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Cheddar Cheese, Large Hand-Tossed",,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Chicken Sausage, Large Hand-Tossed",,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Crispy Cup Pepperoni, Large Hand-Tossed",,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Diced Roma Tomatoes, Large Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Fresh Green Bell Peppers, Large Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Fresh Mushrooms, Large Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Green Chile Peppers, Large Hand-Tossed",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Green Olives, Large Hand-Tossed",,20,2,0,0,0,210,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Grilled Chicken, Large Hand-Tossed",,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Ham, Large Hand-Tossed",,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Italian Sausage, Large Hand-Tossed",,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Mediterranean Black Olives, Large Hand-Tossed",,15,1.5,0,0,0,100,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Minced Garlic, Large Hand-Tossed",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Pepperoni, Large Hand-Tossed",,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Pork & Beef Blend, Large Hand-Tossed",,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Seasoned Pork, Large Hand-Tossed",,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Shredded Lettuce, Large Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Sliced Banana Peppers, Large Hand-Tossed",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Sliced Jalapeno Peppers, Large Hand-Tossed",,0,0,0,0,0,380,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Sliced Onions, Large Hand-Tossed",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Hand Tossed,"Sweet Pineapple, Large Hand-Tossed",,10,0,0,0,0,0,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Applewood Smoked Bacon, Large Original Pan",,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"BBQ Beef, Large Original Pan",,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Beef, Large Original Pan",,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Cheddar Cheese, Large Original Pan",,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Chicken Sausage, Large Original Pan",,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Crispy Cup Pepperoni, Large Original Pan",,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Diced Roma Tomatoes, Large Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Fresh Green Bell Peppers, Large Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Fresh Mushrooms, Large Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Green Chile Peppers, Large Original Pan",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Green Olives, Large Original Pan",,20,2,0,0,0,210,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Grilled Chicken, Large Original Pan",,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Ham, Large Original Pan",,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Italian Sausage, Large Original Pan",,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Mediterranean Black Olives, Large Original Pan",,15,1.5,0,0,0,100,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Minced Garlic, Large Original Pan",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Pepperoni, Large Original Pan",,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Pork & Beef Blend, Large Original Pan",,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Seasoned Pork, Large Original Pan",,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Shredded Lettuce, Large Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Sliced Banana Peppers, Large Original Pan",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Sliced Jalapeno Peppers, Large Original Pan",,0,0,0,0,0,380,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Sliced Onions, Large Original Pan",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Original Pan,"Sweet Pineapple, Large Original Pan",,10,0,0,0,0,0,3,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Applewood Smoked Bacon, Original Stuffed Crust",,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"BBQ Beef, Original Stuffed Crust",,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Beef, Original Stuffed Crust",,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Cheddar Cheese, Original Stuffed Crust",,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Chicken Sausage, Original Stuffed Crust",,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Crispy Cup Pepperoni, Original Stuffed Crust",,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Diced Roma Tomatoes, Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Fresh Green Bell Peppers, Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Fresh Mushrooms, Original Stuffed Crust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Green Chile Peppers, Original Stuffed Crust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Green Olives, Original Stuffed Crust",,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Grilled Chicken, Original Stuffed Crust",,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Ham, Original Stuffed Crust",,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Italian Sausage, Original Stuffed Crust",,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Mediterranean Black Olives, Original Stuffed Crust",,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Minced Garlic, Original Stuffed Crust",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Pepperoni, Original Stuffed Crust",,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Pork & Beef Blend, Original Stuffed Crust",,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Seasoned Pork, Original Stuffed Crust",,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Shredded Lettuce, Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Sliced Banana Peppers, Original Stuffed Crust",,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Sliced Jalapeno Peppers, Original Stuffed Crust",,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Sliced Onions, Original Stuffed Crust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Original Stuffed Crust,"Sweet Pineapple, Original Stuffed Crust",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Applewood Smoked Bacon, Large Thin 'N Crispy",,45,4,1.5,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"BBQ Beef, Large Thin 'N Crispy",,90,5,2,0,20,230,5,<1,4,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Beef, Large Thin 'N Crispy",,70,7,3,0,20,240,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Cheddar Cheese, Large Thin 'N Crispy",,10,1,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Chicken Sausage, Large Thin 'N Crispy",,50,3.5,1,0,20,230,<1,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Crispy Cup Pepperoni, Large Thin 'N Crispy",,45,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Diced Roma Tomatoes, Large Thin 'N Crispy",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Fresh Green Bell Peppers, Large Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Fresh Mushrooms, Large Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Green Chile Peppers, Large Thin 'N Crispy",,5,0,0,0,0,0,2,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Green Olives, Large Thin 'N Crispy",,25,2.5,0,0,0,270,<1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Grilled Chicken, Large Thin 'N Crispy",,30,1,0,0,15,110,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Ham, Large Thin 'N Crispy",,20,1,0,0,0,125,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Italian Sausage, Large Thin 'N Crispy",,90,8,3,0,15,200,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Mediterranean Black Olives, Large Thin 'N Crispy",,20,2,0,0,0,125,1,<1,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Minced Garlic, Large Thin 'N Crispy",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Pepperoni, Large Thin 'N Crispy",,50,5,2,0,15,135,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Pork & Beef Blend, Large Thin 'N Crispy",,80,7,2.5,0,20,180,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Seasoned Pork, Large Thin 'N Crispy",,80,7,2.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Shredded Lettuce, Large Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Sliced Banana Peppers, Large Thin 'N Crispy",,0,0,0,0,0,170,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Sliced Jalapeno Peppers, Large Thin 'N Crispy",,0,0,0,0,0,490,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Sliced Onions, Large Thin 'N Crispy",,10,0,0,0,0,0,2,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Thin 'N Crispy,"Sweet Pineapple, Large Thin 'N Crispy",,15,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Applewood Smoked Bacon, Large Chicago Tavern-Style",,20,2,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"BBQ Beef, Large Chicago Tavern-Style",,45,2.5,1,0,10,115,3,0,2,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Beef, Large Chicago Tavern-Style",,35,3.5,1.5,0,10,120,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Cheddar Cheese, Large Chicago Tavern-Style",,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Chicken Sausage, Large Chicago Tavern-Style",,25,1.5,0,0,10,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Crispy Cup Pepperoni, Large Chicago Tavern-Style",,20,2,1,0,<5,75,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Diced Roma Tomatoes, Large Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Fresh Green Bell Peppers, Large Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Fresh Mushrooms, Large Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Green Chile Peppers, Large Chicago Tavern-Style",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Green Olives, Large Chicago Tavern-Style",,10,1.5,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Grilled Chicken, Large Chicago Tavern-Style",,15,0,0,0,10,55,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Ham, Large Chicago Tavern-Style",,10,0.5,0,0,0,60,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Italian Sausage, Large Chicago Tavern-Style",,45,4,1.5,0,10,100,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Mediterranean Black Olives, Large Chicago Tavern-Style",,10,1,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Minced Garlic, Large Chicago Tavern-Style",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Pepperoni, Large Chicago Tavern-Style",,25,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Pork & Beef Blend, Large Chicago Tavern-Style",,40,3.5,1.5,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Seasoned Pork, Large Chicago Tavern-Style",,40,3.5,1,0,10,80,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Shredded Lettuce, Large Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Sliced Banana Peppers, Large Chicago Tavern-Style",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Sliced Jalapeno Peppers, Large Chicago Tavern-Style",,0,0,0,0,0,240,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Sliced Onions, Large Chicago Tavern-Style",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Chicago Tavern-Style,"Sweet Pineapple, Large Chicago Tavern-Style",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Applewood Smoked Bacon, Large Cheesy Bites (Limited Time)",,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"BBQ Beef, Large Cheesy Bites (Limited Time)",,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Beef, Large Cheesy Bites (Limited Time)",,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Cheddar Cheese, Large Cheesy Bites (Limited Time)",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Chicken Sausage, Large Cheesy Bites (Limited Time)",,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Crispy Cup Pepperoni, Large Cheesy Bites (Limited Time)",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Diced Roma Tomatoes, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Fresh Green Bell Peppers, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Fresh Mushrooms, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Green Chile Peppers, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Green Olives, Large Cheesy Bites (Limited Time)",,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Grilled Chicken, Large Cheesy Bites (Limited Time)",,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Ham, Large Cheesy Bites (Limited Time)",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Italian Sausage, Large Cheesy Bites (Limited Time)",,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Mediterranean Black Olives, Large Cheesy Bites (Limited Time)",,10,1,0,0,0,70,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Minced Garlic, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Pepperoni, Large Cheesy Bites (Limited Time)",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Pork & Beef Blend, Large Cheesy Bites (Limited Time)",,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Seasoned Pork, Large Cheesy Bites (Limited Time)",,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Shredded Lettuce, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Sliced Banana Peppers, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,95,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Sliced Jalapeno Peppers, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Sliced Onions, Large Cheesy Bites (Limited Time)",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Large - Cheesy Bites (Limited Time),"Sweet Pineapple, Large Cheesy Bites (Limited Time)",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Applewood Smoked Bacon, Medium Hand-Tossed",,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"BBQ Beef, Medium Hand-Tossed",,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Beef, Medium Hand-Tossed",,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Cheddar Cheese, Medium Hand-Tossed",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Chicken Sausage, Medium Hand-Tossed",,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Crispy Cup Pepperoni, Medium Hand-Tossed",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Diced Roma Tomatoes, Medium Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Fresh Green Bell Peppers, Medium Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Fresh Mushrooms, Medium Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Green Chile Peppers, Medium Hand-Tossed",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Green Olives, Medium Hand-Tossed",,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Grilled Chicken, Medium Hand-Tossed",,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Ham, Medium Hand-Tossed",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Italian Sausage, Medium Hand-Tossed",,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Mediterranean Black Olives, Medium Hand-Tossed",,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Minced Garlic, Medium Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Pepperoni, Medium Hand-Tossed",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Pork & Beef Blend, Medium Hand-Tossed",,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Seasoned Pork, Medium Hand-Tossed",,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Shredded Lettuce, Medium Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Sliced Banana Peppers, Medium Hand-Tossed",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Sliced Jalapeno Peppers, Medium Hand-Tossed",,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Sliced Onions, Medium Hand-Tossed",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Hand Tossed,"Sweet Pineapple, Medium Hand-Tossed",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Applewood Smoked Bacon, Medium Original Pan",,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"BBQ Beef, Medium Original Pan",,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Beef, Medium Original Pan",,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Cheddar Cheese, Medium Original Pan",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Chicken Sausage, Medium Original Pan",,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Crispy Cup Pepperoni, Medium Original Pan",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Diced Roma Tomatoes, Medium Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Fresh Green Bell Peppers, Medium Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Fresh Mushrooms, Medium Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Green Chile Peppers, Medium Original Pan",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Green Olives, Medium Original Pan",,15,1.5,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Grilled Chicken, Medium Original Pan",,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Ham, Medium Original Pan",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Italian Sausage, Medium Original Pan",,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Mediterranean Black Olives, Medium Original Pan",,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Minced Garlic, Medium Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Pepperoni, Medium Original Pan",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Pork & Beef Blend, Medium Original Pan",,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Seasoned Pork, Medium Original Pan",,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Shredded Lettuce, Medium Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Sliced Banana Peppers, Medium Original Pan",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Sliced Jalapeno Peppers, Medium Original Pan",,0,0,0,0,0,280,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Sliced Onions, Medium Original Pan",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Pan,"Sweet Pineapple, Medium Original Pan",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Applewood Smoked Bacon, Medium Original Stuffed Crust",,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"BBQ Beef, Medium Original Stuffed Crust",,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Beef, Medium Original Stuffed Crust",,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Cheddar Cheese, Medium Original Stuffed Crust",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Chicken Sausage, Medium Original Stuffed Crust",,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Crispy Cup Pepperoni, Medium Original Stuffed Crust",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Diced Roma Tomatoes, Medium Original Stuffed Crust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Fresh Green Bell Peppers, Medium Original Stuffed Crust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Fresh Mushrooms, Medium Original Stuffed Crust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Green Chile Peppers, Medium Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Green Olives, Medium Original Stuffed Crust",,15,1.5,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Grilled Chicken, Medium Original Stuffed Crust",,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Ham, Medium Original Stuffed Crust",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Italian Sausage, Medium Original Stuffed Crust",,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Mediterranean Black Olives, Medium Original Stuffed Crust",,10,1,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Minced Garlic, Medium Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Pepperoni, Medium Original Stuffed Crust",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Pork & Beef Blend, Medium Original Stuffed Crust",,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Seasoned Pork, Medium Original Stuffed Crust",,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Shredded Lettuce, Medium Original Stuffed Crust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Sliced Banana Peppers, Medium Original Stuffed Crust",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Sliced Jalapeno Peppers, Medium Original Stuffed Crust",,0,0,0,0,0,250,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Sliced Onions, Medium Original Stuffed Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Original Stuffed Crust,"Sweet Pineapple, Medium Original Stuffed Crust",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Applewood Smoked Bacon, Medium Thin 'N Crispy",,30,3,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"BBQ Beef, Medium Thin 'N Crispy",,60,3.5,1.5,0,10,160,3,0,3,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Beef, Medium Thin 'N Crispy",,50,5,2,0,15,170,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Cheddar Cheese, Medium Thin 'N Crispy",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Chicken Sausage, Medium Thin 'N Crispy",,35,2.5,0.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Crispy Cup Pepperoni, Medium Thin 'N Crispy",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Diced Roma Tomatoes, Medium Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Fresh Green Bell Peppers, Medium Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Fresh Mushrooms, Medium Thin 'N Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Green Chile Peppers, Medium Thin 'N Crispy",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Green Olives, Medium Thin 'N Crispy",,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Grilled Chicken, Medium Thin 'N Crispy",,20,0.5,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Ham, Medium Thin 'N Crispy",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Italian Sausage, Medium Thin 'N Crispy",,60,6,2,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Mediterranean Black Olives, Medium Thin 'N Crispy",,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Minced Garlic, Medium Thin 'N Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Pepperoni, Medium Thin 'N Crispy",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Pork & Beef Blend, Medium Thin 'N Crispy",,50,5,2,0,15,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Seasoned Pork, Medium Thin 'N Crispy",,60,5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Shredded Lettuce, Medium Thin 'N Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Sliced Banana Peppers, Medium Thin 'N Crispy",,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Sliced Jalapeno Peppers, Medium Thin 'N Crispy",,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Sliced Onions, Medium Thin 'N Crispy",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Thin 'N Crispy,"Sweet Pineapple, Medium Thin 'N Crispy",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Applewood Smoked Bacon, Medium Chicago Tavern-Style",,15,1.5,0,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"BBQ Beef, Medium Chicago Tavern-Style",,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Beef, Medium Chicago Tavern-Style",,25,2.5,1,0,5,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Cheddar Cheese, Medium Chicago Tavern-Style",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Chicken Sausage, Medium Chicago Tavern-Style",,20,1,0,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Crispy Cup Pepperoni, Medium Chicago Tavern-Style",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Diced Roma Tomatoes, Medium Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Fresh Green Bell Peppers, Medium Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Fresh Mushrooms, Medium Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Green Chile Peppers, Medium Chicago Tavern-Style",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Green Olives, Medium Chicago Tavern-Style",,10,1,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Grilled Chicken, Medium Chicago Tavern-Style",,10,0,0,0,5,40,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Ham, Medium Chicago Tavern-Style",,5,0,0,0,0,40,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Italian Sausage, Medium Chicago Tavern-Style",,30,3,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Mediterranean Black Olives, Medium Chicago Tavern-Style",,5,0.5,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Minced Garlic, Medium Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Pepperoni, Medium Chicago Tavern-Style",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Pork & Beef Blend, Medium Chicago Tavern-Style",,25,2.5,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Seasoned Pork, Medium Chicago Tavern-Style",,30,2.5,1,0,5,55,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Shredded Lettuce, Medium Chicago Tavern-Style",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Sliced Banana Peppers, Medium Chicago Tavern-Style",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Sliced Jalapeno Peppers, Medium Chicago Tavern-Style",,0,0,0,0,0,180,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Sliced Onions, Medium Chicago Tavern-Style",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Medium - Chicago Tavern-Style,"Sweet Pineapple, Medium Chicago Tavern-Style",,0,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Applewood Smoked Bacon, Caulicrust",,35,3,1,0,5,70,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Beef, Caulicrust",,60,6,2.5,0,20,200,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Cheddar Cheese, Caulicrust",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Chicken Sausage, Caulicrust",,35,2.5,0.5,0,15,160,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Crispy Cup Pepperoni, Caulicrust",,30,2.5,1,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Diced Roma Tomatoes, Caulicrust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Fresh Green Bell Peppers, Caulicrust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Fresh Mushrooms, Caulicrust",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Green Chile Peppers, Caulicrust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Green Olives, Caulicrust",,20,2,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Grilled Chicken, Caulicrust",,25,0.5,0,0,15,100,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Ham, Caulicrust",,20,1,0,0,0,115,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Italian Sausage, Caulicrust",,80,7,2.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Mediterranean Black Olives, Caulicrust",,15,1.5,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Minced Garlic, Caulicrust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Pepperoni, Caulicrust",,35,3.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Pork & Beef Blend, Caulicrust",,50,5,2,0,10,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Seasoned Pork, Caulicrust",,70,6,2,0,15,135,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Sliced Banana Peppers, Caulicrust",,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Sliced Jalapeno Peppers, Caulicrust",,0,0,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Sliced Onions, Caulicrust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Caulicrust,"Sweet Pineapple, Caulicrust",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Applewood Smoked Bacon, Personal Pan",,15,1.5,0,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"BBQ Beef, Personal Pan",,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Beef, Personal Pan",,25,2.5,1,0,5,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Cheddar Cheese, Personal Pan",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Chicken Sausage, Personal Pan",,15,1,0,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Crispy Cup Pepperoni, Personal Pan",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Diced Roma Tomatoes, Personal Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Fresh Green Bell Peppers, Personal Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Fresh Mushrooms, Personal Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Green Chile Peppers, Personal Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Green Olives, Personal Pan",,5,1,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Grilled Chicken, Personal Pan",,10,0,0,0,5,40,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Ham, Personal Pan",,10,0,0,0,0,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Italian Sausage, Personal Pan",,30,3,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Mediterranean Black Olives, Personal Pan",,5,0.5,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Minced Garlic, Personal Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Pepperoni, Personal Pan",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Pork & Beef Blend, Personal Pan",,25,2.5,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Seasoned Pork, Personal Pan",,25,2.5,1,0,5,55,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Shredded Lettuce, Personal Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Sliced Banana Peppers, Personal Pan",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Sliced Jalapeno Peppers, Personal Pan",,0,0,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Sliced Onions, Personal Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan,"Sweet Pineapple, Personal Pan",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Applewood Smoked Bacon, Small Hand-Tossed",,15,1.5,0.5,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"BBQ Beef, Small Hand-Tossed",,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Beef, Small Hand-Tossed",,30,2.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Cheddar Cheese, Small Hand-Tossed",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Chicken Sausage, Small Hand-Tossed",,15,1,0,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Crispy Cup Pepperoni, Small Hand-Tossed",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Diced Roma Tomatoes, Small Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Fresh Green Bell Peppers, Small Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Fresh Mushrooms, Small Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Green Chile Peppers, Small Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Green Olives, Small Hand-Tossed",,10,1,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Grilled Chicken, Small Hand-Tossed",,10,0,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Ham, Small Hand-Tossed",,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Italian Sausage, Small Hand-Tossed",,35,3,1,0,5,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Mediterranean Black Olives, Small Hand-Tossed",,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Minced Garlic, Small Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Pepperoni, Small Hand-Tossed",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Pork & Beef Blend, Small Hand-Tossed",,30,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Seasoned Pork, Small Hand-Tossed",,30,2.5,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Shredded Lettuce, Small Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Sliced Banana Peppers, Small Hand-Tossed",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Sliced Jalapeno Peppers, Small Hand-Tossed",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Sliced Onions, Small Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Hand Tossed,"Sweet Pineapple, Small Hand-Tossed",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Applewood Smoked Bacon, Small Original Pan",,15,1.5,0.5,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"BBQ Beef, Small Original Pan",,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Beef, Small Original Pan",,30,2.5,1,0,10,90,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Cheddar Cheese, Small Original Pan",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Chicken Sausage, Small Original Pan",,15,1,0,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Crispy Cup Pepperoni, Small Original Pan",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Diced Roma Tomatoes, Small Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Fresh Green Bell Peppers, Small Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Fresh Mushrooms, Small Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Green Chile Peppers, Small Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Green Olives, Small Original Pan",,10,1,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Grilled Chicken, Small Original Pan",,10,0,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Ham, Small Original Pan",,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Italian Sausage, Small Original Pan",,35,3,1,0,5,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Mediterranean Black Olives, Small Original Pan",,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Minced Garlic, Small Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Pepperoni, Small Original Pan",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Pork & Beef Blend, Small Original Pan",,30,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Seasoned Pork, Small Original Pan",,30,2.5,1,0,5,60,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Shredded Lettuce, Small Original Pan",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Sliced Banana Peppers, Small Original Pan",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Sliced Jalapeno Peppers, Small Original Pan",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Sliced Onions, Small Original Pan",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Original Pan,"Sweet Pineapple, Small Original Pan",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Applewood Smoked Bacon, Small Thin N' Crispy",,20,1.5,0.5,0,<5,35,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"BBQ Beef, Small Thin N' Crispy",,30,2,0.5,0,5,80,2,0,1,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Beef, Small Thin N' Crispy",,35,3,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Cheddar Cheese, Small Thin N' Crispy",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Chicken Sausage, Small Thin N' Crispy",,20,1.5,0,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Crispy Cup Pepperoni, Small Thin N' Crispy",,15,1.5,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Diced Roma Tomatoes, Small Thin N' Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Fresh Green Bell Peppers, Small Thin N' Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Fresh Mushrooms, Small Thin N' Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Green Chile Peppers, Small Thin N' Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Green Olives, Small Thin N' Crispy",,10,1,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Grilled Chicken, Small Thin N' Crispy",,15,0,0,0,10,55,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Ham, Small Thin N' Crispy",,10,0.5,0,0,0,65,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Italian Sausage, Small Thin N' Crispy",,45,4,1.5,0,5,95,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Mediterranean Black Olives, Small Thin N' Crispy",,10,0.5,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Minced Garlic, Small Thin N' Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Pepperoni, Small Thin N' Crispy",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Pork & Beef Blend, Small Thin N' Crispy",,20,1.5,0.5,0,<5,45,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Seasoned Pork, Small Thin N' Crispy",,35,3.5,1,0,10,75,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Shredded Lettuce, Small Thin N' Crispy",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Sliced Banana Peppers, Small Thin N' Crispy",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Sliced Jalapeno Peppers, Small Thin N' Crispy",,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Sliced Onions, Small Thin N' Crispy",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Thin N' Crispy,"Sweet Pineapple, Small Thin N' Crispy",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Applewood Smoked Bacon, Small Express Hand-Tossed",,35,3,1,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Beef, Small Express Hand-Tossed",,70,6,2.5,0,20,210,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Cheddar Cheese, Small Express Hand-Tossed",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Diced Roma Tomatoes, Small Express Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Fresh Green Bell Peppers, Small Express Hand-Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Fresh Mushrooms, Small Express Hand-Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Green Chile Peppers, Small Express Hand-Tossed",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Green Olives, Small Express Hand-Tossed",,15,1.5,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Grilled Chicken, Small Express Hand-Tossed",,25,0.5,0,0,15,105,0,0,0,,5,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Ham, Small Express Hand-Tossed",,15,1,0,0,0,85,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Italian Sausage, Small Express Hand-Tossed",,80,7,2.5,0,15,170,<1,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Mediterranean Black Olives, Small Express Hand-Tossed",,10,1,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Pepperoni, Small Express Hand-Tossed",,25,2.5,1,0,5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Seasoned Pork, Small Express Hand-Tossed",,70,7,2,0,15,140,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Sliced Banana Peppers, Small Express Hand-Tossed",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Sliced Jalapeno Peppers, Small Express Hand-Tossed",,0,0,0,0,0,290,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Sliced Onions, Small Express Hand-Tossed",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Small - Express - Hand Tossed,"Sweet Pineapple, Small Express Hand-Tossed",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Applewood Smoked Bacon, Personal Pan Express",,20,1.5,0.5,0,<5,35,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Beef, Personal Pan Express",,40,4,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Cheddar Cheese, Personal Pan Express",,5,0.5,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Diced Roma Tomatoes, Personal Pan Express",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Fresh Green Bell Peppers, Personal Pan Express",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Fresh Mushrooms, Personal Pan Express",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Green Chile Peppers, Personal Pan Express",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Green Olives, Personal Pan Express",,10,1,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Grilled Chicken, Personal Pan Express",,15,0,0,0,10,70,0,0,0,,3,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Ham, Personal Pan Express",,10,0.5,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Italian Sausage, Personal Pan Express",,50,4.5,1.5,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Mediterranean Black Olives, Personal Pan Express",,5,0.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Pepperoni, Personal Pan Express",,25,2,1,0,5,55,0,0,0,,<1,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Seasoned Pork, Personal Pan Express",,45,4,1.5,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Sliced Banana Peppers, Personal Pan Express",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Sliced Jalapeno Peppers, Personal Pan Express",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Sliced Onions, Personal Pan Express",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
+pizzahut,Toppings - Personal Pan - Express,"Sweet Pineapple, Personal Pan Express",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Express Sides,Express Bread Bites (8 Pieces),,490,22,4.5,0,<5,900,60,2,1,,10,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Express Sides,Express Cheese Bites (8 Pieces),,600,30,10,0.5,35,1170,62,2,1,,19,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
 pizzahut,Express Sides,Express Cinnamon Bites (8 Pieces),,600,21,3.5,0,0,630,94,3,35,,9,,,https://www.nutritionix.com/pizza-hut/menu/premium,2026-10-27
