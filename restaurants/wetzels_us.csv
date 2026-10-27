@@ -1,0 +1,82 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+wetzels,Pretzels,Almond Crunch Pretzel,185,500,9,5,0.0,20,510,88,4,8,7,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Cheese Meltdown,202,540,13,8,0.5,40,710,84,4,3,3,17,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Grateful Garlic,204,560,15,9,0.5,45,730,84,3,3,3,17,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Jalapeno Cheese Melt,238,560,14,8,0.5,40,1310,86,4,4,3,17,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Jalaroni,228,590,17,10,0.5,45,1130,85,4,4,3,18,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,"Original Pretzel (no butter, no salt)",171,400,0,0,0.0,0,510,83,4,3,3,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,"Original Pretzel (no butter, salted)",172,400,0,0,0.0,0,900,83,4,3,3,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,"Original Pretzel (with butter, no salt)",179,470,8,5,0.0,20,510,83,4,3,3,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,"Original Pretzel (with butter, salted)",180,470,8,5,0.0,20,900,83,4,3,3,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Pepperoni Twist,217,620,20,11,1.0,55,950,85,4,3,3,20,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Pretzels,Sinful Cinnamon Pretzel,188,510,8,5,0.0,20,510,92,4,12,12,13,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,Almond Crunch Bitz (1 bag),320,880,14,9,0.0,30,840,160,6,23,23,22,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,Cin-A-Bitz (1 bag),319,860,12,7,0.0,30,830,162,6,27,27,21,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,Pizza Bitz (1 bag),220,630,21,12,1.0,60,990,85,4,3,3,20,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,"Wetzel Bitz (no butter, no salt) (1 bag)",284,670,0,0,0.0,0,830,139,6,5,5,21,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,"Wetzel Bitz (no butter, salted) (1 bag)",286,670,0,0,0.0,0,1620,139,6,5,5,21,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,"Wetzel Bitz (with butter, no salt) (1 bag)",296,780,12,7,0.0,30,830,139,6,5,5,21,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Bitz,"Wetzel Bitz (with butter, salted) (1 bag)",298,780,12,7,0.0,30,1620,139,6,5,5,21,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Loaded Bitz,Bacon Ranch (1 serving),410,1180,47,16,0.0,50,2350,146,6,9,5,24,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Loaded Bitz,Choco Churro Bitz (1 serving),376,1030,15,9,0.0,40,890,196,8,60,57,24,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Loaded Bitz,S'mores (1 serving),387,1110,22,13,0.5,35,910,203,10,53,52,24,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dogs & Bites,Cheese Dog,208,630,42,19,1.5,105,1370,41,1,4,4,22,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dogs & Bites,Cheesy Dog Bites (1 bag),300,920,58,27,2.0,145,1780,69,3,7,6,31,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dogs & Bites,Dog Bites (1 bag),259,800,48,21,1.5,110,1410,67,3,7,6,24,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dogs & Bites,Wetzel Dog,174,540,35,15,1.0,80,1090,39,1,4,4,17,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Stickz,Mozzarella Stickz (1 serving),260,760,29,16,0.5,75,1080,83,3,3,3,27,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Twistz,Pizza Bomb,199,550,22,13,0.5,70,1090,60,3,3,2,24,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Twistz,Triple Grilled Cheese,186,540,23,15,0.0,75,910,58,2,3,2,22,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Caramel (oz 1 each),1.5,150,1.5,1,0.0,5,85,33,0,17,13,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Cheddar Cheese (oz 1 each),1.5,130,11,2.5,0.0,5,700,6,0,3,0,2,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Cream Cheese (oz 2 each),2,140,14,8,0.0,30,230,4,0,2,0,4,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Jalapeno Cheese (oz 1 each),1.5,130,11,2.5,0.0,5,720,6,0,3,0,2,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Pizza Sauce (oz 1 each),1.5,25,0,0,0.0,0,150,6,2,3,1,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Ranch (oz 1 each),1.5,150,16,2.5,0.0,15,370,1,0,1,0,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Dips,Sweet Glaze (oz 1 each),2,230,13,8,0.0,45,55,27,0,27,26,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Frozen Granita - Blue Raspberry (24 fl oz),567,190,0,0,0.0,0,15,47,0,47,47,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Frozen Granita - Kiwi Strawberry (24 fl oz),567,190,0,0,0.0,0,15,47,0,47,45,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Frozen Lemonade - Boba (24 fl oz),604,340,0,0,0.0,0,10,82,0,76,69,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Frozen Lemonade - Original (24 fl oz),567,250,0,0,0.0,0,15,62,0,59,57,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Frozen Lemonade - Strawberry (24 fl oz),567,250,0,0,0.0,0,15,61,0,58,62,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Guava Mangonada (24 fl oz),629,420,0,0,0.0,0,1160,106,1,102,94,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",ICEE - Blue Raspberry (Regular) (22 fl oz),,300,0,0,0.0,0,40,73,0,73,73,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",ICEE - Blue Raspberry (Large) (32 fl oz),,450,0,0,0.0,0,60,109,0,109,109,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Boba (Regular) (22 fl oz),704,340,0,0,0.0,0,15,84,0,78,73,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Boba (Large) (32 fl oz),930,440,0,0,0.0,0,20,109,0,101,96,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Boba (X-Large) (44 fl oz),1270,590,0,0,0.0,0,30,146,0,136,130,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Original (Regular) (22 fl oz),624,280,0,0,0.0,0,15,68,0,64,62,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Original (Large) (32 fl oz),907,400,0,0,0.0,0,25,99,0,94,91,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Original (X-Large) (44 fl oz),1247,550,0,0,0.0,0,30,136,0,139,125,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Strawberry (Regular) (22 fl oz),624,270,0,0,0.0,0,15,68,0,64,69,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Strawberry (Large) (32 fl oz),907,400,0,0,0.0,0,20,98,0,93,100,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Lemonade - Strawberry (X-Large) (44 fl oz),1247,550,0,0,0.0,0,30,135,0,128,137,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Mangonada (24 fl oz),626,520,0,0,0.0,0,1300,130,1,125,109,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Mocha Chiller (24 fl oz),483,430,13,12,0.0,5,310,77,2,62,61,5,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Peach Matcha Palmer (24 fl oz),482,310,0,0,0.0,0,10,77,1,74,70,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,"Beverages (Granita, Lemonade, ICEE)",Strawberry Coco Dream (24 fl oz),666,400,6,6,0.0,5,40,85,0,80,84,1,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Brisk Raspberry (Regular) (22 fl oz),624,130,0,0,0,0,90,32,0,32,32,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Brisk Raspberry (Large) (32 fl oz),907,190,0,0,0,0,130,49,0,48,48,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Brisk Raspberry (X-Large) (44 fl oz),1247,260,0,0,0,0,180,66,0,66,66,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Caramel Root Beer (24 fl oz),503,330,2,0,0.0,0,120,81,0,78,78,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Diet Pepsi (Regular) (22 fl oz),624,0,0,0,0.0,0,100,0,0,0,0,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Diet Pepsi (Large) (32 fl oz),907,0,0,0,0.0,0,150,0,0,0,0,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Diet Pepsi (X-Large) (44 fl oz),1247,0,0,0,0.0,0,210,0,0,0,0,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Dr.Coco Berry (24 fl oz),510,370,3,0,0.0,0,85,83,0,87,87,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Dr.Pepper (Regular) (22 fl oz),624,260,0,0,0,0,80,70,0,69,69,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Dr.Pepper (Large) (32 fl oz),907,390,0,0,0,0,120,106,0,104,104,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Dr.Pepper (X-Large) (44 fl oz),1247,530,0,0,0,0,160,143,0,143,143,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Malibu (24 fl oz),496,280,2,0,0.0,0,50,68,0,66,66,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Mt.Dew (Regular) (22 fl oz),624,300,0,0,0,0,95,79,0,79,79,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Mt.Dew (Large) (32 fl oz),907,460,0,0,0,0,140,119,0,119,119,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Mt.Dew (X-Large) (44 fl oz),1247,620,0,0,0,0,190,161,0,161,161,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Pepsi (Regular) (22 fl oz),624,270,0,0,0,0,55,75,0,74,74,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Pepsi (Large) (32 fl oz),907,410,0,0,0,0,85,112,0,112,112,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Pepsi (X-Large) (44 fl oz),1247,560,0,0,0,0,120,152,0,151,151,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Root Beer (Regular) (22 fl oz),924,260,0,0,0,0,85,72,0,72,72,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Root Beer (Large) (32 fl oz),907,470,0,0,0,0,180,119,0,118,118,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Root Beer (X-Large) (44 fl oz),1247,530,0,0,0,0,170,144,0,143,143,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Starry (Regular) (22 fl oz),624,260,0,0,0,0,60,70,0,70,70,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Starry (Large) (32 fl oz),907,400,0,0,0,0,90,105,0,105,105,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Starry (X-Large) (44 fl oz),1247,540,0,0,0,0,125,143,0,143,143,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
+wetzels,Beverages (Fountain Drinks & Dirty Sodaz),Strawberry Cream (24 fl oz),489,260,2,0,0.0,0,30,61,0,57,55,0,,,https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf,2026-10-27
