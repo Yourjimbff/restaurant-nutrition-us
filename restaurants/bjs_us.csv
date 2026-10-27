@@ -1,0 +1,560 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+bjs,Menu,Ahi Poke,,500,20,3,0,51,1773,44,4,3,,34,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Ahi Poke (Cerritos and Irvine),,470,17,3,0,51,1552,41,4,8,,36,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Avocado Egg Rolls,,990,54,12,0,67,1310,116,15,28,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Big Twist Pretzel with BJ's Beer Cheese,,1220,34,10,0,51,4341,179,6,20,,41,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Rub Choice Dill Pickle Ranch Dry Rub",,1820,103,33,0,376,4800,145,14,33,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,1800,103,33,0,376,5222,141,14,32,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice BJ's Peppered BBQ",,1920,103,33,0,376,5057,171,14,59,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Honey BBQ",,1900,103,33,0,376,4832,167,14,55,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Hot Honey Buffalo",,1920,103,33,0,376,4999,172,14,60,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Nashville Hot",,2070,124,40,0,376,5579,155,16,41,,80,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Sweet & Spicy Asian Glaze",,1890,105,33,0,376,5162,161,14,49,,81,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Tatonka® Stout Buffalo",,1810,103,33,0,376,5893,143,15,33,,79,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Rub Choice Dill Pickle Ranch Dry Rub",,1960,116,47,0,451,5213,145,10,33,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,1940,116,47,0,451,5635,141,10,33,,85,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice BJ's Peppered BBQ",,2060,116,47,0,451,5470,171,10,60,,85,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Honey BBQ",,2050,116,47,0,451,5245,166,10,55,,85,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Hot Honey Buffalo",,2060,116,47,0,451,5412,171,10,61,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Nashville Hot",,2210,137,54,0,451,5992,155,12,42,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Sweet & Spicy Asian Glaze",,2030,117,47,0,451,5575,160,10,49,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Tatonka® Stout Buffalo",,1950,116,47,0,451,6306,143,11,33,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Rub Choice Dill Pickle Ranch Dry Rub",,1920,110,43,1,430,5508,144,9,34,,88,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,1900,110,43,1,430,5930,140,9,33,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice BJ's Peppered BBQ",,2020,110,43,1,430,5765,170,9,60,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Honey BBQ",,2000,110,43,1,430,5540,165,9,56,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Hot",,2020,110,43,1,430,5707,170,9,61,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Nashville Hot",,2170,131,50,1,430,6287,154,11,42,,88,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Sweet & Spicy Asian Glaze",,1990,112,43,1,430,5870,159,9,50,,89,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Bone-In Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Tatonka® Stout Buffalo",,1910,110,43,1,430,6601,141,10,34,,88,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Rub Choice Dill Pickle Ranch Dry Rub",,1880,99,32,0,270,5376,161,14,28,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,1850,99,32,0,270,5938,155,13,27,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice BJ's Peppered BBQ",,2010,99,32,0,270,5718,195,13,63,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Honey BBQ",,1990,99,32,0,270,5418,189,13,57,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Hot Honey Buffalo",,2020,99,32,0,270,5641,196,14,64,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Nashville Hot",,2200,127,42,0,270,6314,169,16,34,,87,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Sweet & Spicy Asian Glaze",,1970,101,32,0,270,5858,181,13,49,,88,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Housemade Guacamole, Wing Sauce Choice Tatonka® Stout Buffalo",,1870,99,32,0,270,6833,158,14,28,,86,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Rub Choice Dill Pickle Ranch Dry Rub",,2020,112,46,0,345,5789,160,10,28,,93,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,2000,112,46,0,345,6351,155,9,27,,92,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice BJ's Peppered BBQ",,2160,112,46,0,345,6131,195,9,63,,92,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Honey BBQ",,2140,112,46,0,345,5831,189,9,57,,92,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Hot Honey Buffalo",,2160,112,46,0,345,6054,196,10,65,,92,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Nashville Hot",,2340,140,55,0,345,6727,169,12,35,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Sweet & Spicy Asian Glaze",,2120,114,46,0,345,6271,181,9,49,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Spinach and Artichoke Dip, Wing Sauce Choice Tatonka® Stout Buffalo",,2010,112,46,0,345,7246,157,10,28,,93,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Rub Choice Dill Pickle Ranch Dry Rub",,1980,106,42,1,323,6084,159,9,29,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Rub Choice Lemon Pepper Sesame Dry Rub",,1950,106,42,1,323,6646,154,9,28,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice BJ's Peppered BBQ",,2110,106,42,1,323,6426,194,9,64,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Honey BBQ",,2090,106,42,1,323,6126,188,9,58,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Hot Honey Buffalo",,2120,106,42,1,323,6349,194,9,65,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Nashville Hot",,2300,134,52,1,323,7022,167,11,35,,95,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Sweet & Spicy Asian Glaze",,2070,108,42,1,323,6566,180,9,50,,96,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Brewhouse Bites Sampler with Boneless Wings with Dip Choice Sriracha Queso Dip, Wing Sauce Choice Tatonka® Stout Buffalo",,1970,106,42,1,323,7541,156,9,29,,94,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,California Club Flatbread Pizza (Per Slice),,110,5,2,0,13,231,10,1,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Chicken Pot Stickers,,510,11,2,0,40,4094,81,3,27,,22,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Chicken Tenders,,880,38,5,0,132,3627,90,0,36,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Chips & Housemade Guacamole + Salsa,,810,30,3,0,0,1922,118,24,25,,24,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Crispy Calamari,,650,22,4,0,536,2063,66,4,7,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Deep Dish Nachos with Chicken,,1860,106,57,0,329,4533,125,23,30,,104,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Fried Couscous Mac & Cheese Balls,,790,45,20,0,88,2526,72,0,9,,27,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Garlic Shrimp with Parmesan Toast Appetizer,,740,39,16,1,307,1706,53,4,4,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Honey Sriracha Brussels Sprouts,,220,6,1,0,0,1346,31,9,15,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Mozzarella Sticks,,820,39,17,0,107,2041,78,1,13,,33,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Pepperoni Extreme Flatbread Pizza (Per Slice),,130,8,3,0,16,325,10,1,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Sliders,,800,32,12,0,121,1634,81,2,21,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Sliders with Fries,,1150,51,16,0,121,2555,121,6,21,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Spinach and Artichoke Dip,,1050,54,28,0,135,1771,111,16,22,,34,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,BJ's Original Wings,,880,60,11,0,416,4885,34,2,13,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,Bone-in Wings,,810,54,10,0,411,2754,31,1,12,,51,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Menu,"Boneless Wings, 1 lb",,870,41,7,0,192,3522,59,1,1,,65,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice BJ's Peppered BBQ,,240,0,0,0,0,1350,60,0,54,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice Honey BBQ,,210,0,0,0,0,900,51,0,45,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice Hot Honey Buffalo,,250,0,0,0,0,1233,60,0,57,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice Nashville Hot Sauce,,490,42,15,0,0,1794,15,3,6,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice Sweet & Spicy Asian Glaze,,180,3,0,0,0,1560,39,0,33,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Sauce Choice Tatonka® Stout Buffalo,,20,0,0,0,0,3018,3,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Seasoning Choice Dill Pickle Ranch Dry Rub,,40,0,0,0,0,837,9,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wing Seasoning Choice Lemon Pepper Sesame Dry Rub,,0,0,0,0,0,1680,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Balsamic Vinaigrette,,240,19,3,0,7,436,13,1,6,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Bleu Cheese Dressing,,260,23,6,0,30,535,9,1,2,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Honey Mustard Dressing,,320,28,5,0,22,445,15,1,8,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Italian Dressing,,250,22,4,0,7,475,9,1,2,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Oil and Vinegar,,290,25,4,0,7,205,12,1,5,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Ranch Dressing,,250,20,4,0,22,565,9,1,1,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,House Starter Salad with Thousand Island Dressing,,280,23,4,0,30,595,14,1,5,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"House Starter Salad, No Dressing",,80,4,1,0,7,205,8,1,1,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"House Starter Salad, No Dressing (Cerritos and Irvine)",,45,2,1,0,4,91,4,2,2,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Starter Salad,,340,25,5,0,22,892,21,3,3,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Starter Salad (Cerritos and Irvine),,390,31,6,0,25,1002,20,3,4,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Fresh Mozzarella and Tomato Salad,,260,18,7,0,32,322,11,2,8,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wedge Starter Salad,,320,31,8,0,40,630,6,1,5,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Wedge Starter Salad (Cerritos and Irvine),,310,28,6,0,14,610,7,2,5,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Baby Back Pork Ribs, Full Rack with Peppered BBQ Sauce",,1540,68,25,0,230,9190,179,2,154,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Baby Back Pork Ribs, Half Rack with Peppered BBQ Sauce",,830,34,12,0,115,4932,104,1,91,,25,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Rib-Eye,,1080,67,26,0,500,2272,5,1,1,,106,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Double Bone-In Pork Chop,,650,40,16,0,142,2434,17,2,14,,55,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Slow-Roasted Prime Rib Dinner,,1310,106,43,0,311,2246,7,1,4,,80,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Slow-Roasted Tri-Tip & Baby Back Ribs (Half Rack),,1240,56,19,0,237,6333,120,1,103,,61,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Slow-Roasted Tri-Tip & Chicken,,880,29,8,0,221,3601,76,0,66,,75,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Slow-Roasted Tri-Tip & Shrimp Scampi,,1080,54,20,1,354,3574,82,1,66,,61,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Slow-Roasted Tri-Tip Entree,,660,30,9,0,163,2582,47,1,40,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Bleu Cheese Crumbles, Add On",,150,12,8,0,30,570,2,0,0,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Garlic Butter, Add On",,50,6,3,0,12,110,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Mushrooms + Onions, Add On",,390,38,16,0,61,684,7,1,4,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Baked Potato,,590,28,11,0,19,207,70,5,4,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Fries,,350,19,4,0,0,921,40,4,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Garlic-Roasted Vegetables,,250,21,3,0,0,531,11,4,4,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Rice Pilaf,,230,6,1,0,0,621,39,1,5,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Roasted Asparagus,,25,0,0,0,0,2,3,2,2,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Steamed Broccoli,,40,0,0,0,0,30,6,2,2,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,White Cheddar Mashed Potatoes,,330,18,11,0,55,1097,33,4,4,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Honey Sriracha Brussels Sprouts, Side",,160,4,1,0,0,940,23,7,11,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Loaded Baked Potato,,990,60,28,0,109,1107,72,5,6,,33,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Loaded Mashed Potatoes,,930,70,36,0,165,2122,37,4,8,,32,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Sweet Potato Fries,,330,12,1,0,0,230,52,6,14,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Blackened Chicken, Add On",,230,6,1,0,99,1010,3,1,0,,40,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Blackened Salmon, Add On",,400,25,5,0,117,1211,4,1,0,,40,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Blackened Shrimp, Add On",,240,10,2,0,259,822,3,1,0,,35,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Grilled Shrimp, Add On",,170,3,1,0,258,812,1,0,0,,35,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Oven-Roasted Chicken, Add On",,220,6,1,0,99,851,0,0,0,,39,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Oven-Roasted Salmon, Add On",,390,25,5,0,117,232,0,0,0,,40,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Blonde® Fish 'N' Chips,,1120,36,7,0,161,4196,141,10,4,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Protein Bowl (Vegetarian),,480,21,3,0,4,2036,58,13,12,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Protein Bowl with Blackened Chicken,,710,27,4,0,102,3047,60,14,13,,54,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Protein Bowl with Blackened Salmon,,870,46,8,0,121,3248,61,14,12,,55,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Protein Bowl with Blackened Shrimp,,730,31,5,0,262,2858,61,13,12,,49,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Brewhouse Protein Bowl with Slow-Roasted Tri-Tip,,850,44,10,0,126,3212,63,13,15,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Cherry Chipotle Glazed Salmon,,580,26,5,0,117,576,40,4,8,,47,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Cherry Chipotle Glazed Salmon (Manchester),,460,26,5,0,117,865,14,3,8,,43,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Fresh Atlantic Salmon (Blackened) with Broccoli,,860,51,18,0,187,2355,54,5,7,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Fresh Atlantic Salmon (Oven-Roasted) with Broccoli,,860,52,18,0,187,1331,49,4,7,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,New Orleans Jambalaya,,1320,70,24,1,301,3623,99,7,17,,69,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Parmesan-Crusted Chicken,,1330,76,41,0,504,2216,70,7,8,,89,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Sal's Brewhouse Chicken,,1000,67,32,0,274,3014,45,7,8,,54,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Chicken Alfredo with Garlic Knot,,1220,52,29,0,202,2366,113,5,9,,69,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Deep Dish Ziti with Garlic Knot,,1220,71,27,0,142,2741,102,7,14,,43,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Garlic Knot Rolls (2 pieces),,240,7,2,0,0,420,36,2,4,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Italian Chicken Parmigiana Pasta with Garlic Knot,,1440,66,20,0,364,2623,118,9,16,,99,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Jumbo Spaghetti and Meatballs with Garlic Knot,,1280,59,18,0,143,1903,135,11,20,,53,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Shrimp Scampi Pasta with Garlic Knot,,1370,76,30,1,341,1923,112,6,6,,53,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Veggie Pasta with Garlic Knot,,920,38,4,0,0,1862,129,10,22,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,All-American Smash Burger with Fries,,1170,68,22,0,152,4426,86,7,11,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Bacon Cheeseburger with Fries,,1250,73,24,0,172,3792,90,8,13,,56,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Bacon-Guacamole Deluxe Burger 2.0 with Fries,,1400,89,25,0,171,3661,93,11,11,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Bacon-Guacamole Deluxe Burger with Fries,,1320,78,24,0,166,3560,94,11,12,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Smokehouse 2.0 Burger with Fries,,1320,71,23,0,164,4098,109,8,24,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Smokehouse Burger with Fries,,1270,67,23,0,163,3660,106,7,23,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Wagyu Burger with Fries,,1230,78,24,0,134,3049,90,8,11,,40,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Classic Cheeseburger with Fries,,1160,66,20,0,153,3776,89,8,12,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Crispy Jalapeno Burger with Fries,,1330,80,22,0,168,3420,97,8,11,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Hatch Green Chile Smash Burger with Fries,,1140,66,26,0,151,3534,91,8,13,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Hickory Brisket and Bacon Burger with Fries,,1520,84,30,0,220,4593,116,7,35,,73,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Steakhouse Burger with Fries,,1760,117,37,0,221,4515,94,8,15,,81,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Avocado, Add On",,100,8,1,0,0,4,5,4,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Cheese Choice American Cheese,,80,6,4,0,18,388,0,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Cheese Choice Cheddar Cheese,,80,7,5,0,23,135,0,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Cheese Choice Pepper Jack Cheese,,80,6,4,0,20,125,0,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Cheese Choice Provolone Cheese,,70,6,3,0,15,180,0,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Cheese Choice Swiss Cheese,,90,6,4,0,20,45,1,0,0,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Gluten-Free Bun (1 bun),,250,7,1,0,0,480,43,5,6,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Housemade Guacamole, Add On",,90,8,1,0,0,180,5,4,1,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Smoked Bacon,,90,7,3,0,15,270,1,0,1,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Veggie Patty,,150,5,2,0,10,550,22,3,1,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich,,1220,63,15,0,115,2756,116,9,17,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich with Wing Sauce Choice Honey BBQ,,1430,63,15,0,115,3656,167,9,62,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich with Wing Sauce Choice Hot Honey Buffalo,,1460,63,15,0,115,3990,177,10,74,,46,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich with Wing Sauce Choice Nashville Hot Sauce,,1710,105,29,0,115,4550,131,12,24,,47,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich with Wing Sauce Choice Peppered BBQ,,1460,63,15,0,115,4106,176,9,71,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Classic Crispy Chicken Sandwich with Wing Sauce Choice Tatonka® Stout Buffalo,,1240,63,15,0,115,5773,119,10,18,,46,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,BJ's Slow-Roasted Beef Dip with Fries,,1690,107,34,0,213,4650,114,9,23,,71,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,California Chicken Club Sandwich with Fries,,1310,69,21,0,162,2986,91,10,5,,73,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Classic Prime Rib Dip with Fries,,1580,104,34,0,177,4313,105,8,18,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Mediterranean Chicken Pita Tacos,,660,22,4,0,54,1427,77,5,17,,38,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Korean Sweet & Spicy Chicken Sandwich with Fries,,1200,45,11,0,112,4277,155,7,49,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Salad (No Protein),,810,64,13,0,54,2171,44,6,7,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Salad with Blackened Chicken,,1040,70,14,0,153,3182,47,7,8,,62,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Salad with Blackened Salmon,,1210,89,18,0,171,3383,48,7,7,,63,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Salad with Blackened Shrimp,,1050,74,15,0,313,2993,48,7,7,,57,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Salad with Oven-Roasted Salmon,,1200,89,18,0,171,2404,44,6,7,,62,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Chicken Caesar Salad,,1030,70,14,0,153,3022,44,6,8,,62,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Chicken Caesar Salad (Cerritos and Irvine),,880,64,13,0,99,2429,41,6,8,,41,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Asian Chopped Salad,,510,21,3,0,114,1382,31,5,16,,44,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Enlightened Asian Chopped Salad (Cerritos, Irvine, and Manchester)",,550,21,3,0,114,1298,40,5,15,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Seared Ahi Salad,,560,30,4,0,45,1316,42,8,25,,30,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Seared Ahi Salad (Cerritos and Irvine),,650,39,5,0,45,1196,41,11,19,,33,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Seared Ahi Salad (Manchester),,600,33,5,0,45,1336,44,10,24,,30,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Enlightened Strawberry Fields Salad,,480,26,5,0,109,1242,16,4,10,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad,,1030,61,13,0,159,2361,56,14,9,,55,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad (Cerritos and Irvine),,1110,63,8,0,139,2328,75,16,9,,53,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad (No Protein),,800,56,12,0,60,1351,54,13,9,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad with Blackened Salmon,,1200,81,17,0,177,2562,57,14,9,,56,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad with Blackened Shrimp,,1040,66,14,0,319,2172,57,14,9,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad with Oven-Roasted Chicken,,1020,62,13,0,159,2201,54,13,9,,55,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Salad with Oven-Roasted Salmon,,1190,81,17,0,177,1583,54,13,9,,55,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Steakhouse Wedge Salad,,1350,97,26,0,207,3550,67,7,53,,53,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Steakhouse Wedge Salad (Cerritos and Irvine),,1270,90,20,0,151,3389,62,4,49,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Balsamic Vinaigrette,,160,15,2,0,0,231,5,0,5,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Bleu Cheese Dressing,,180,20,5,0,23,330,2,0,2,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Caesar Dressing,,200,20,4,0,15,570,3,0,2,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Honey Mustard Dressing,,240,24,4,0,15,240,8,0,8,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Italian Dressing,,170,18,2,0,0,270,2,0,2,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Oil & Vinegar,,210,21,3,0,0,0,5,0,5,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Ranch Dressing,,170,17,2,0,15,360,2,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Rice Wine Vinaigrette,,160,14,2,0,0,601,9,0,8,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Santa Fe Dressing,,170,17,2,0,15,381,2,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Thousand Island Dressing,,200,20,3,0,23,390,6,0,5,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Broccoli Cheddar Soup in a Sourdough Loaf,,1340,36,15,0,58,4592,205,9,12,,44,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Broccoli Cheddar Soup, Bowl",,390,26,15,0,75,1845,23,0,9,,19,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Broccoli Cheddar Soup, Cup",,250,16,10,0,48,1215,15,0,6,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Chicken Tortilla Soup in a Sourdough Loaf,,1320,29,6,0,25,4937,216,13,8,,42,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Chicken Tortilla Soup, Bowl",,280,12,3,0,25,1853,30,4,4,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Chicken Tortilla Soup, Cup",,210,9,2,0,19,1470,22,3,3,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Clam Chowder in a Sourdough Loaf (with Oyster Crackers),,1370,33,13,0,81,4091,218,10,6,,42,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Clam Chowder, Bowl (with Oyster Crackers)",,380,20,12,0,98,1196,36,1,3,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Clam Chowder, Cup (with Oyster Crackers)",,280,14,8,0,65,818,28,1,2,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,Sourdough Bread Bowl,,1040,16,3,0,0,3084,186,9,4,,30,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice Caesar Salad",,720,51,20,0,97,2738,43,3,12,,29,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice Caesar Salad (Cerritos and Irvine)",,770,57,21,0,100,2847,43,3,13,,30,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice Fresh Mozzarella and Tomato Salad",,640,44,22,0,107,2167,33,2,17,,33,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice House Salad",,470,29,16,0,82,2050,30,1,10,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice House Salad (Cerritos and Irvine)",,430,28,16,0,79,1936,27,2,11,,22,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice Wedge Salad",,700,56,23,0,115,2475,29,1,14,,25,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Broccoli Cheddar Soup, Salad Choice Wedge Salad (Cerritos and Irvine)",,690,54,21,0,89,2455,30,2,14,,25,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice Caesar Salad",,620,38,9,0,47,2746,51,8,7,,22,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice Caesar Salad (Cerritos and Irvine)",,670,43,9,0,50,2855,50,7,8,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice Fresh Mozzarella and Tomato Salad",,540,31,10,0,57,2175,41,6,12,,27,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice House Salad",,360,16,5,0,32,2058,38,6,5,,17,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice House Salad (Cerritos and Irvine)",,320,14,4,0,29,1944,34,6,6,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice Wedge Salad",,600,43,11,0,65,2483,36,6,8,,18,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Chicken Tortilla Soup, Salad Choice Wedge Salad (Cerritos and Irvine)",,590,40,9,0,39,2463,37,6,9,,18,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice Caesar Salad",,720,45,17,0,120,2089,57,4,6,,24,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice Caesar Salad (Cerritos and Irvine)",,770,51,18,0,123,2198,56,4,7,,25,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice Fresh Mozzarella and Tomato Salad",,640,38,18,0,129,1518,47,3,10,,29,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice House Salad",,470,24,13,0,105,1401,44,3,4,,19,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice House Salad (Cerritos and Irvine)",,430,22,13,0,102,1287,40,3,5,,17,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice Wedge Salad",,700,50,19,0,138,1826,42,3,7,,20,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Soup and Salad Combo with Bowl of Clam Chowder, Salad Choice Wedge Salad (Cerritos and Irvine)",,690,48,18,0,112,1806,43,3,8,,20,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Barbeque Chicken Deep Dish Pizza, Personal",,350,9,4,0,42,825,44,1,11,,19,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Barbeque Chicken Deep Dish Pizza, Shareable",,290,6,3,0,28,645,42,1,9,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Barbeque Chicken Deep Dish Pizza, Large",,370,13,4,0,34,701,43,2,9,,16,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Classic Combo Deep Dish Pizza, Personal",,350,15,6,0,43,841,36,2,3,,16,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Classic Combo Deep Dish Pizza, Shareable",,290,10,4,0,29,619,35,2,2,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Classic Combo Deep Dish Pizza, Large",,380,18,6,0,34,732,37,2,3,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Favorite Deep Dish Pizza, Personal",,360,15,6,0,42,755,38,2,3,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Favorite Deep Dish Pizza, Shareable",,300,11,4,0,28,567,36,2,3,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"BJ's Favorite Deep Dish Pizza, Large",,390,18,6,0,34,669,39,2,3,,13,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Classic Cheese Deep Dish Pizza, Personal",,300,10,6,0,32,587,35,2,2,,13,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Classic Cheese Deep Dish Pizza, Shareable",,250,6,3,0,18,408,34,2,2,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Classic Cheese Deep Dish Pizza, Large",,320,13,5,0,22,479,37,2,3,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Chicken Bacon Ranch Deep Dish Pizza, Personal",,450,22,8,0,63,908,35,2,3,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Chicken Bacon Ranch Deep Dish Pizza, Shareable",,360,14,5,0,41,675,35,2,2,,17,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Chicken Bacon Ranch Deep Dish Pizza, Large",,440,22,7,0,48,766,36,2,3,,20,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Epic Five Meats Deep Dish Pizza, Personal",,410,18,8,0,55,970,37,2,3,,19,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Epic Five Meats Deep Dish Pizza, Shareable",,330,13,5,0,36,684,35,2,3,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Epic Five Meats Deep Dish Pizza, Large",,420,20,7,0,42,782,38,2,3,,16,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Pepperoni Extreme Deep Dish Pizza, Personal",,400,21,8,0,42,921,35,2,2,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Pepperoni Extreme Deep Dish Pizza, Shareable",,320,14,5,0,28,672,34,2,2,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Pepperoni Extreme Deep Dish Pizza, Large",,360,17,7,0,33,795,37,2,3,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Vegetarian Deep Dish Pizza, Personal",,280,9,4,0,22,524,36,2,3,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Vegetarian Deep Dish Pizza, Shareable",,250,6,3,0,14,409,35,2,2,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Signature,"Vegetarian Deep Dish Pizza, Large",,320,13,4,0,17,479,38,2,3,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Anchovies,,15,1,0,0,10,574,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Black Olives,,50,5,0,0,0,250,2,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Chicken,,60,2,0,0,26,231,0,0,0,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Cup & Char Pepperoni,,60,7,2,0,10,232,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Fresh Basil,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Fresh Tomatoes,,5,0,0,0,0,1,1,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Green Bell Peppers,,10,0,0,0,0,1,2,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Housemade Meatballs,,160,13,5,0,40,191,4,0,1,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Italian Sausage,,60,3,1,0,22,315,1,0,1,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Jalapenos,,5,0,0,0,0,0,1,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Mushrooms,,5,0,0,0,0,1,0,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Onions,,20,0,0,0,0,2,4,0,2,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Pineapple,,30,0,0,0,0,0,7,0,7,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Roasted Garlic,,5,0,0,0,0,1,0,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Smoked Bacon,,45,4,1,0,7,135,0,0,1,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Personal Topping with Smoked Ham,,15,1,0,0,6,140,0,0,1,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Anchovies,,10,1,0,0,7,382,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Black Olives,,35,4,0,0,0,167,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Chicken,,40,1,0,0,18,154,0,0,0,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Cup & Char Pepperoni,,40,5,1,0,7,154,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Fresh Basil,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Fresh Tomatoes,,5,0,0,0,0,1,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Green Bell Peppers,,5,0,0,0,0,1,1,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Housemade Meatballs,,100,9,3,0,28,127,2,0,1,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Italian Sausage,,35,2,0,0,15,210,1,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Jalapenos,,5,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Mushrooms,,5,0,0,0,0,1,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Onions,,10,0,0,0,0,1,3,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Pineapple,,20,0,0,0,0,0,5,0,4,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Roasted Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Smoked Bacon,,35,3,1,0,6,108,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Shareable Topping with Smoked Ham,,10,1,0,0,5,93,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Anchovies,,15,0,0,0,9,459,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Black Olives,,40,4,1,0,0,200,2,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Chicken,,50,1,0,0,22,184,0,0,0,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Cup & Char Pepperoni,,50,5,0,0,9,185,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Fresh Basil,,0,0,2,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Fresh Tomatoes,,5,0,0,0,0,1,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Green Bell Peppers,,5,0,0,0,0,1,2,1,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Housemade Meatballs,,130,10,1,0,33,152,3,0,0,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Italian Sausage,,45,2,0,0,18,252,2,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Jalapenos,,5,0,0,0,0,0,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Mushrooms,,5,0,4,0,0,1,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Onions,,15,0,0,0,0,1,4,0,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Pineapple,,25,0,0,0,0,0,6,0,5,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Roasted Garlic,,0,0,0,0,0,0,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Smoked Bacon,,45,3,0,0,7,130,1,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Large Topping with Smoked Ham,,15,0,0,0,5,112,1,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"Barbeque Chicken Pizza, Gluten Free Crust",,200,8,3,0,28,517,22,0,8,,10,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"BJ's Classic Combo Pizza, Gluten Free Crust",,190,11,4,0,25,450,15,0,1,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"Chicken Bacon Ranch Pizza, Gluten Free Crust",,250,15,5,0,39,520,15,0,1,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"Classic Cheese Pizza, Gluten Free Crust",,140,7,3,0,14,239,14,0,1,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"Pepperoni Extreme Pizza, Gluten Free Crust",,210,15,5,0,24,503,14,0,1,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,"Vegetarian Pizza, Gluten Free Crust",,140,7,2,0,11,240,15,1,1,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Gluten-Free Thin-Crust Cheese Pizza,,130,6,2,0,11,198,14,0,1,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Anchovies,,15,0,0,0,9,477,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Black Olives,,35,3,0,0,0,166,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Chicken,,40,1,1,0,18,153,0,0,0,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Cup & Char Pepperoni,,30,3,1,0,6,100,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Fresh Basil,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Green Bell Peppers,,5,0,0,0,0,0,1,1,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Italian Sausage,,100,9,3,0,17,230,1,1,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Jalapenos,,0,0,0,0,0,33,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Mushrooms,,5,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Onions,,10,0,0,0,0,0,3,1,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Pineapple,,20,0,0,0,0,0,5,1,4,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Roasted Garlic,,0,0,0,0,0,0,1,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Smoked Bacon,,35,3,1,0,6,108,0,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Smoked Ham,,10,0,1,0,4,93,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,BJ's Brewhouse Classic,,90,5,2,0,12,247,9,1,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,The Spicy Pig,,90,4,1,0,11,250,9,0,2,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Build Your Own Tavern-Cut Pizza,,60,2,1,0,5,117,8,0,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Anchovies,,10,1,0,0,5,239,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Chicken,,20,1,0,0,9,77,0,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Cup & Char Pepperoni,,10,1,0,0,2,39,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Fresh Basil,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Green Bell Peppers,,5,0,0,0,0,1,1,1,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Housemade Meatballs,,50,4,2,0,14,64,1,1,1,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Italian Sausage,,50,5,2,0,9,115,1,1,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Jalapenos,,0,0,0,0,0,17,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Mushrooms,,0,0,0,0,0,1,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Onions,,10,0,0,0,0,1,1,1,1,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Pineapple,,10,0,0,0,0,0,3,1,2,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Roasted Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Smoked Bacon,,20,2,1,0,3,54,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Add Smoked Ham,,10,1,0,0,2,47,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Chocolate Chunk Pizookie®,,1170,45,29,0,119,839,177,3,129,,17,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Cookies 'n' Cream Pizookie®,,1350,65,34,0,86,1039,176,3,120,,18,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Ghirardelli® Double Chocolate Chip Ice Cream (1 scoop),,220,12,6,0,31,58,29,0,23,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Ghirardelli® Double Chocolate Chip Ice Cream (2 scoops),,430,23,13,0,63,116,59,0,46,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Gluten Free Chocolate Chip Pizookie®,,1210,52,31,0,142,668,170,4,133,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Chocolate Chunk Pizookie®,,590,23,14,0,59,420,88,2,65,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Cookies 'n' Cream Pizookie®,,680,33,17,0,43,520,88,2,60,,9,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Gluten Free Chocolate Chip Pizookie®,,610,26,15,0,71,334,85,2,66,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Salted Caramel Pizookie®,,730,28,15,0,63,722,110,1,88,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Strawberry Shortcake Pizookie®,,620,27,17,0,90,434,87,2,60,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Sugar Cookie Pizookie®,,580,26,16,0,90,433,81,1,55,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Mini Triple Chocolate Pizookie® Made With Ghirardelli®,,610,31,15,0,59,253,81,3,52,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Pizookie® Trio (Lowest),,1740,78,48,0,270,1299,243,3,165,,18,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Pizookie® Trio (Highest),,2180,84,45,0,189,2166,330,3,264,,24,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Salted Caramel Pizookie®,,1380,56,29,0,123,1386,204,1,161,,16,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Strawberry Shortcake Pizookie®,,1240,55,35,0,180,867,174,3,120,,13,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Sugar Cookie Pizookie®,,1160,51,32,0,180,867,162,2,110,,13,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Triple Chocolate Pizookie® Made With Ghirardelli®,,1220,62,30,0,118,506,162,5,105,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Vanilla Bean Ice Cream (1 scoop),,210,10,6,0,35,43,28,0,27,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Build,Vanilla Bean Ice Cream (2 scoops),,420,19,12,0,70,87,56,0,54,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Handcrafted Ginger Beer,,130,0,0,0,0,22,31,0,30,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Black Cherry Soda,,190,0,0,0,0,32,47,0,47,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Black Cherry Soda Float,,530,19,12,0,70,105,82,0,80,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Orange Cream Soda,,210,0,0,0,0,34,51,0,50,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Orange Cream Soda Float,,540,19,12,0,70,106,85,0,82,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Root Beer Soda,,240,0,0,0,0,14,60,0,57,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Root Beer Soda Float,,550,19,12,0,70,95,90,0,86,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Vanilla Cream Soda,,190,0,0,0,0,32,47,0,47,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Vanilla Cream Soda Float,,530,19,12,0,70,105,83,0,81,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Brisk Raspberry Iced Tea (10 oz),,110,0,0,0,0,63,31,1,29,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Chocolate Milk,,450,9,5,0,44,293,73,0,61,,18,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Decaf Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Diet Dr Pepper (10 oz),,0,0,0,0,0,44,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Diet Pepsi (10 oz),,0,0,0,0,0,38,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Dr Pepper (10 oz),,140,0,0,0,0,44,34,0,34,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Hot Chocolate,,160,6,4,0,0,174,25,1,19,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Hot Tea,,0,0,0,0,0,5,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Iced Tea,,0,0,0,0,0,8,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Lemonade,,180,0,0,0,0,17,44,0,40,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Milk,,280,10,6,0,50,300,28,0,26,,20,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Mountain Dew (10 oz),,140,0,0,0,0,63,39,0,39,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Pepsi (10 oz),,130,0,0,0,0,31,34,0,34,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Roy Rogers,,210,0,0,0,0,38,54,0,54,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Shirley Temple,,210,0,0,0,0,36,53,0,53,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Starry (10 oz),,120,0,0,0,0,30,32,0,32,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Strawberry Lemonade,,190,0,0,0,0,15,47,1,42,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Sweet Tea,,190,0,0,0,0,7,48,0,48,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Blue Raspberry Candy Crush,,200,7,5,0,0,10,37,0,36,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Boba-licious Mango Sparkler,,120,0,0,0,0,14,30,0,28,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Razzle Dazzle Berry Fizz,,190,0,0,0,0,27,46,1,45,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Strawberry Dream,,190,1,1,0,0,23,46,1,44,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Blueberry Sour,,220,0,0,0,0,9,28,1,24,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Blushing Sangria Mocktail,,200,0,0,0,0,17,50,2,42,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Casamigos Watermelon Margarita,,300,0,0,0,0,204,43,1,38,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Espresso Martini,,230,6,4,0,25,34,17,0,13,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Grand Patron Margarita with Float,,310,0,0,0,0,303,29,1,14,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Grand Patron Margarita with Mini Bottle,,370,0,0,0,0,303,33,1,14,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Grand Patron Margarita with Sidecar,,310,0,0,0,0,303,29,1,14,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Handcrafted Rita,,140,0,0,0,0,140,12,0,10,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Hibiscus Blood Orange Mezcalita,,310,0,0,0,0,207,44,1,36,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Hot Honeybee,,310,0,0,0,0,1,45,0,41,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Lucky Ducky™ Gone Wild,,360,0,0,0,0,35,58,0,39,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Make it a Strawberry Rita,,250,0,0,0,0,23,31,1,22,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Margarita Flight,,340,0,0,0,0,20,42,1,34,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Sparkling Sangria,,340,0,0,0,0,3,34,1,24,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Strawberry Rose Lemon Drop,,250,0,0,0,0,1,28,2,25,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Tiki Twist Mocktail,,170,0,0,0,0,210,42,0,38,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Tito's Strawberry Lemonade,,170,0,0,0,0,6,19,0,17,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Watermelon Mojito,,270,0,0,0,0,19,41,1,32,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,White Peach Boba-Rita,,300,0,0,0,0,31,41,1,31,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Woodford Reserve Old Fashioned,,170,0,0,0,0,0,6,0,5,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Berry Burst Cider®,,210,0,0,0,0,7,36,0,31,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Brewhouse Blonde®,,200,0,0,0,0,35,16,0,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Committed® Double IPA (12 oz),,280,0,0,0,0,13,22,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Hard Root Beer,,360,0,0,0,0,30,55,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Harvest Hefeweizen®,,210,0,0,0,0,12,11,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Hopstorm® IPA,,300,0,0,0,0,30,20,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Jeremiah Red®,,290,0,0,0,0,47,21,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's LightSwitch® Lager,,140,0,0,0,0,23,9,0,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Nutty Brewnette®,,300,0,0,0,0,40,25,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Oasis® Amber,,160,0,0,0,0,35,5,0,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Piranha® Pale Ale,,250,0,0,0,0,17,17,0,0,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Prickly Pear Hard Lemonade,,280,0,0,0,0,0,44,0,43,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Sweet Sin Chocolate Porter™,,320,0,0,0,0,23,39,0,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S Signature,BJ's Tatonka® Stout (12 oz),,280,0,0,0,0,34,20,0,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Berry Burst Cider®,,290,0,0,0,0,9,50,0,42,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Brewhouse Blonde®,,280,0,0,0,0,48,22,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Hard Root Beer,,500,0,0,0,0,42,76,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Harvest Hefeweizen®,,290,0,0,0,0,17,15,0,0,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Hopstorm® IPA,,410,0,0,0,0,41,28,0,0,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Jeremiah Red®,,390,0,0,0,0,65,29,0,0,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's LightSwitch® Lager,,200,0,0,0,0,32,13,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Nutty Brewnette®,,410,0,0,0,0,55,34,0,0,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Oasis® Amber,,220,0,0,0,0,48,7,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Piranha® Pale Ale,,350,0,0,0,0,24,24,0,0,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Prickly Pear Hard Lemonade,,390,0,0,0,0,0,61,0,59,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Sweet Sin Chocolate Porter™,,440,0,0,0,0,31,53,0,0,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,BJ's Original Crispy Chicken Sandwich with Fries,,1120,50,13,0,135,2277,110,8,15,,54,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Chips & Fire Roasted Salsa,,590,10,1,0,0,1444,105,14,24,,21,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Enlightened Mediterranean Chicken Bowl,,590,24,4,0,106,1449,40,3,5,,50,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Italian Chicken Parmigiana Pasta (Lunch),,860,39,10,0,182,1538,80,6,11,,53,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,BJ'S,Southern Fried Chicken,,1140,66,39,0,315,1928,70,6,8,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Barbeque Chicken Deep Dish Pizza, Mini with Salad Choice House Salad",,770,21,9,0,91,1854,96,4,23,,42,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"BJ's Classic Combo Deep Dish Pizza, Mini with Salad Choice House Salad",,790,33,14,0,93,1888,80,5,7,,36,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"BJ's Favorite Deep Dish Pizza, Mini with Salad Choice House Salad",,800,34,14,0,90,1716,83,5,7,,35,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Chicken Bacon Ranch Deep Dish Pizza, Mini with Salad Choice House Salad",,990,48,17,0,134,2022,78,4,6,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Classic Cheese Deep Dish Pizza, Mini with Salad Choice House Salad",,690,25,13,0,72,1380,79,5,6,,31,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Epic Five Meat Deep Dish Pizza, Mini with Salad Choice House Salad",,890,40,17,0,118,2144,82,5,8,,44,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Pepperoni Extreme Deep Dish Pizza, Mini with Salad Choice House Salad",,870,45,17,0,90,2047,78,5,6,,32,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Vegetarian Deep Dish Pizza, Mini with Salad Choice House Salad",,640,21,9,0,50,1253,81,5,7,,27,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,BJ’s Classic Crispy Chicken Sandwich,,1220,63,15,0,115,2756,116,9,17,,45,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,Graham Cracker S'mores Pizookie®,,1680,63,29,0,125,771,257,9,166,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,Korean Sweet & Spicy Chicken Sandwich,,1200,45,11,0,112,4277,155,7,49,,48,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Mike's Hot Honey Pizza, Large (per slice)",,390,17,6,0,28,675,42,2,8,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Mike's Hot Honey Pizza, Personal (per slice)",,390,14,6,0,38,823,47,2,13,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Pizookie® Meal Deal,"Mike's Hot Honey Pizza, Shareable (per slice)",,310,10,4,0,25,607,40,2,8,,11,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Casamigos Watermelon Margarita,,300,0,0,0,0,204,43,1,38,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Firework Fizz NAB,,220,7,5,0,0,29,43,0,43,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Hugo Spritz,,190,0,0,0,0,1,19,0,18,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Apple Juice,,180,0,0,0,0,38,44,0,39,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids BJ's Handcrafted Root Beer,,210,0,0,0,0,12,51,0,49,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Boneless Chicken Wings with Honey BBQ Sauce,,650,31,5,0,106,2431,56,0,23,,33,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Cheese Pizza (4 pieces),,560,23,10,0,49,1423,66,3,4,,23,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Chicken Breast,,220,6,1,0,99,851,0,0,0,,39,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Chicken Tenders with Ranch Dressing,,470,26,4,0,82,1708,30,0,0,,27,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Chocolate Milk,,330,7,4,0,33,219,54,0,46,,13,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Cranberry Juice,,210,0,0,0,0,53,53,0,53,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Diet Dr Pepper,,0,0,0,0,0,26,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Diet Pepsi,,0,0,0,0,0,23,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Dr Pepper,,80,0,0,0,0,26,20,0,20,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Fresh Fruit,,80,0,0,0,0,1,17,2,13,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Fries,,230,13,3,0,0,614,27,3,0,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Happy Face Potatoes,,180,8,1,0,0,230,24,2,0,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Lemonade,,110,0,0,0,0,10,26,0,24,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Mac 'n' Cheese,,340,11,3,0,25,833,48,2,11,,12,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Milk,,210,8,5,0,38,225,21,0,20,,15,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Mini Burgers,,380,16,6,0,61,663,36,1,7,,24,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Mini Corn Dogs,,470,29,8,0,40,1059,36,0,8,,14,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Mountain Dew,,80,0,0,0,0,38,23,0,23,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Orange Juice,,170,0,0,0,0,23,39,3,32,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Add Chicken",,110,3,1,0,49,425,0,0,0,,20,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Add Meatball",,150,12,5,0,40,185,4,0,1,,7,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Alfredo Sauce",,230,20,13,0,51,638,7,0,1,,6,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Butter and Parmesan Sauce",,210,22,14,0,60,200,0,0,0,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Fettuccini",,240,1,0,0,0,9,48,2,3,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Marinara Sauce",,70,4,0,0,0,620,11,2,6,,2,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Penne",,170,2,0,0,0,6,31,2,2,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,"Kids Pasta, Spaghetti",,230,1,0,0,0,5,48,2,1,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Pepperoni Pizza (4 pieces),,680,34,13,0,65,1743,66,3,4,,26,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Pepsi,,80,0,0,0,0,19,20,0,20,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Starry,,70,0,0,0,0,15,19,0,19,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Steamed Broccoli,,40,0,0,0,0,235,6,2,2,,3,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids Sundae,,390,22,14,0,48,74,45,1,43,,4,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Kids White Cheddar Mashed Potatoes,,250,14,8,0,41,823,25,3,3,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Bone-in Chicken Wings Platter,,3350,248,41,0,1308,22175,117,11,42,,157,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Boneless Chicken Wings Platter,,3690,223,34,0,666,24792,201,8,9,,198,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Burger Sliders Platter,,3980,158,60,0,607,8173,405,9,106,,238,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Chicken Tenders Platter,,6260,418,61,0,914,18284,359,0,60,,270,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Chips & Housemade Guacamole + Salsa,,2130,84,10,0,0,5464,300,64,65,,61,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Housemade Potato Chips,,2660,140,28,0,0,5360,304,32,0,,32,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Mozzarella Sticks Platter,,2590,124,51,0,320,7286,254,6,50,,103,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Spinach and Artichoke Dip Platter,,3340,200,111,0,540,6300,294,43,59,,105,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,California Chicken Club Mini Sandwiches (6 servings),,3690,187,59,0,513,10558,258,26,49,,235,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Greek Veggie Mini Sandwiches (6 servings),,2060,101,23,0,53,7689,246,6,61,,56,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Roast Beef Mini Sandwiches (6 servings),,3250,166,66,0,480,5049,257,3,65,,179,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Limited,Smoked Ham & Swiss Mini Sandwiches (6 servings),,2650,109,43,0,353,9491,253,6,60,,162,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Caesar Salad, Catering",,2390,193,42,0,177,6391,114,19,23,,70,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Enlightened Asian Chopped Salad, Catering",,2530,119,20,0,495,6529,156,19,93,,177,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Enlightened Asian Chopped Salad, Catering (Manchester)",,2470,118,19,0,495,6190,146,19,87,,174,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"House Salad, Catering",,660,32,11,0,57,1640,63,10,7,,38,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Santa Fe Salad, Catering",,3910,228,41,0,575,9085,226,55,35,,207,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Add Avocado, Catering",,400,33,5,0,0,15,19,15,1,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Add Chicken, Catering",,900,24,4,0,395,3402,1,0,1,,157,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Add Salmon, Catering",,1560,102,20,0,468,1358,0,0,0,,158,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Add Shrimp, Catering",,810,33,6,0,861,2736,11,2,0,,116,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Add Tri-Tip, Catering",,2140,90,27,0,490,8646,182,2,156,,144,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Chicken Alfredo with Garlic Knots, Catering",,6370,249,127,0,806,12770,695,37,71,,320,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Deep Dish Ziti with Garlic Knots, Catering",,6030,321,117,0,567,14253,580,42,88,,203,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Jumbo Spaghetti and Meatballs with Garlic Knots, Catering",,7100,323,99,0,634,12635,815,69,132,,251,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Shrimp Scampi Pasta with Garlic Knots, Catering",,7800,433,175,9,1554,12750,699,44,61,,257,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Veggie Pasta with Garlic Knots, Catering",,5020,201,27,0,0,11405,703,56,124,,126,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Baby Back Pork Ribs, Catering",,6850,338,124,0,1148,41224,684,8,582,,249,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Brewhouse Protein Bowl, Catering (Vegetarian)",,1960,85,14,0,15,8289,238,51,56,,63,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Brewhouse Protein Bowl, Catering with Chicken",,2860,109,18,0,410,11691,240,51,57,,220,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Brewhouse Protein Bowl, Catering with Grilled Salmon",,3390,173,31,0,483,9577,239,52,56,,221,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Brewhouse Protein Bowl, Catering with Grilled Shrimp",,2650,98,16,0,1049,11536,245,51,56,,201,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Brewhouse Protein Bowl, Catering with Slow- Roasted Tri-tip",,3460,175,41,0,505,12992,260,53,68,,207,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Cherry Chipotle Glazed Salmon, Catering",,2940,128,25,0,585,3299,214,22,40,,237,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Cherry Chipotle Glazed Salmon, Catering (Manchester)",,2380,129,25,0,585,3661,84,19,45,,219,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Fresh Atlantic Salmon, Catering",,4060,249,89,1,933,5024,212,21,32,,237,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"New Orleans Jambalaya, Catering",,6150,355,104,1,1400,15233,395,27,65,,338,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Parmesan-Crusted Chicken, Catering",,5430,305,164,0,2015,8933,297,33,37,,362,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Sal's Brewhouse Chicken, Catering",,4130,277,130,0,1096,12571,186,31,33,,216,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Slow-Roasted Tri-Tip Entree, Catering",,4270,150,46,0,816,18311,477,3,416,,241,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Broccoli, Catering",,370,4,1,0,0,273,53,20,14,,30,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"White Cheddar Mashed Potatoes, Catering",,3290,183,110,0,549,10971,329,37,37,,73,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Chocolate Chunk Cookies, Catering (1 cookie)",,380,13,8,0,25,376,61,2,38,,5,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Chocolate Chunk Cookies, Catering (12 cookies)",,4520,158,98,0,294,4514,726,20,451,,59,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,Chocolate Chunk Pizookie® Party Platter,,4690,182,114,0,474,3357,707,13,517,,67,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,Cookies 'n' Cream Pizookie® Party Platter,,5190,251,131,0,309,4114,675,13,453,,67,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Mini Chocolate Chunk Pizookie®, Catering",,590,23,14,0,59,420,88,2,65,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,Salted Caramel Pizookie® Platter,,5510,222,116,0,494,5542,817,5,644,,65,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Seasonal Fresh Fruit Platter, Catering",,810,2,0,0,0,18,189,18,147,,8,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,Sugar Cookie Pizookie® Party Platter,,4640,205,129,0,718,3468,647,8,440,,52,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,Triple Chocolate Pizookie® Made With Ghirardelli Party Platter,,4910,248,122,0,472,2025,647,21,419,,58,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Handcrafted Black Cherry Soda, Catering",,860,0,0,0,0,147,214,0,213,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Handcrafted Orange Cream Soda, Catering",,950,0,0,0,0,155,234,0,227,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Handcrafted Root Beer, Catering",,1090,0,0,0,0,65,273,0,259,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"BJ's Handcrafted Vanilla Cream Soda, Catering",,870,0,0,0,0,145,215,0,215,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Lemonade, Catering",,1130,0,0,0,0,109,282,0,258,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Strawberry Lemonade, Catering",,1200,0,0,0,0,94,298,6,271,,1,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
+bjs,Catering,"Unsweetened Black Tea, Catering",,0,0,0,0,0,40,0,0,0,,0,,,https://services1.bjsrestaurants.com/BJSS/images/BJsNutritionInfo.pdf,2026-10-27
