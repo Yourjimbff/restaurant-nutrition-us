@@ -1,0 +1,743 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+dominos,Personal Domino™ Pizza,Detroit Style,124,400,16,8,0,5,370,53,2,2,1,11,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Shredded Provolone Cheese,28,100,8,5,0,25,240,1,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Cheese,28,80,6,3.5,0,20,240,2,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Extra Cheese,14,40,3,2,0,10,120,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Pizza Sauce,28,15,0,0,0,0,120,3,0,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Honey BBQ,14,25,0,0,0,0,110,7,0,6,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Ranch,14,70,7,1,0,5,140,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Bacon,21,100,8,2.5,0,20,380,1,0,1,1,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Beef,21,70,6,2.5,0,20,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Black Olives,21,40,3,0.5,0,0,170,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Cheddar Cheese Blend,21,70,6,3,0,20,160,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Extra Cheese,21,60,4,2.5,0,15,180,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Premium Chicken,21,30,1,0,0,15,115,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Feta Cheese,21,60,4.5,3,0,20,260,2,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Green Peppers,21,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Ham,14,20,1,0,0,10,250,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Banana Peppers,21,5,0,0,0,0,350,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Jalapeno Peppers,21,5,0,0,0,0,360,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Mushrooms,21,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Onions,21,10,0,0,0,0,0,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Pepperoni,11,50,4.5,1.5,0,10,200,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Philly Steak,21,35,1.5,0.5,0,10,240,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Pineapple,21,15,0,0,0,0,0,4,0,3,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Shredded Provolone Cheese,21,80,6,4,0,20,180,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Italian Sausage,21,80,8,2.5,0,10,135,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Shredded Parmesan Asiago,21,80,6,3.5,0,20,170,1,0,0,0,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Spinach,21,5,0,0,0,0,15,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Diced Tomatoes,21,5,0,0,0,0,55,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Anchovies*,8,15,0.5,0,0,0,450,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,BBQ Chicken Topping*,21,25,0,0,0,5,160,3,0,2,2,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Chorizo*,21,50,3.5,1,0,15,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Fresh Sliced Tomatoes*,21,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Garlic*,21,30,0,0,0,0,0,7,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Green Chile Peppers*,21,5,0,0,0,0,0,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Personal Domino™ Pizza,Green Olives*,21,35,3,0.5,0,0,350,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Hand Tossed (Serving Size is 1/2 of Pizza),84,230,3,0.5,0,0,230,42,1,2,0,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Garlic Oil Blend (Hand Tossed Only),4.5,35,3.5,0.5,0,0,65,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Pizza Sauce,21,10,0,0,0,0,90,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Honey BBQ,14,25,0,0,0,0,110,7,0,6,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Ranch,14,70,7,1,0,5,180,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Regular Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Light Cheese,27,70,5.0,3.5,0,20,230,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Extra Cheese,50,140,10,6,0,35,420,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Regular Cheese,24,70,5,3,0,20,200,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Light Cheese,14,40,3,2,0,10,120,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Extra Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",American Cheese,14,60,4.5,2.5,0,15,250,1,0,1,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Bacon,14,70,6,2.5,0,15,260,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Beef,21,70,6,2.5,0,20,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Cheddar Cheese Blend,7,25,2.0,1.0,0,5,55,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Premium Chicken,21,30,1,0,0,15,115,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Feta Cheese,7,20,1.5,1,0,5,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Ham,14,20,1,0,0,5,200,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Mushrooms,21,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Pepperoni,11,50,4.5,1.5,0,10,200,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Philly Steak,14,20,1,0,0,5,160,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Pineapple,21,15,0,0,0,0,0,4,0,3,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Italian Sausage,21,80,8,2.5,0,10,135,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Shredded Parmesan Asiago,7,25,2,1,0,5,60,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Spinach,14,5,0,0,0,0,10,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Diced Tomatoes,21,5,0,0,0,0,65,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Hot Buffalo Sauce,7,5,0,0,0,0,200,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Anchovies*,8,15,0,0,0,5,540,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",BBQ Chicken Topping*,21,25,0,0,0,5,160,3,0,2,2,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Chorizo*,21,50,3.5,1,0,15,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Fresh Diced Tomatoes*,21,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Garlic*,7,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"8"" Extra Small Hand Tossed Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Hand Tossed (Serving Size is 1/3 of Pizza),82,220,3,0.5,0,0,230,40,1,2,0,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Garlic Oil Blend (Hand Tossed Only),3.5,25,2.5,0.5,0,0,50,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Pizza Sauce,28,15,0,0,0,0,120,3,1,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Honey BBQ,14,25,0,0,0,0,110,7,0,6,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Ranch,14,70,7,1,0,5,180,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Regular Cheese,47,130,9,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Light Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Extra Cheese,66,180,13,8,0,50,560,4,0,0,0,11,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Regular Cheese,33,90,7,4,0,25,280,2,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Light Cheese,24,70,4.5,3,0,15,200,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Extra Cheese,47,130,9,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",American Cheese,19,70,6,3.5,0,20,340,1,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Bacon,19,100,7,3,0,20,340,1,0,1,1,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Beef,24,80,7,2.5,0,20,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Cheddar Cheese Blend,9,30,2.5,1.5,0,10,70,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Premium Chicken,24,35,1,0,0,15,130,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Feta Cheese,9,25,2,1.5,0,10,115,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Ham,16,20,1,0,0,5,230,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Mushrooms,24,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Pepperoni,12,50,4.5,2,0,10,220,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Philly Steak,19,30,1.5,0.5,0,10,220,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Pineapple,24,15,0,0,0,0,0,4,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Shredded Provolone Cheese,9,35,2.5,1.5,0,10,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Italian Sausage,24,90,9,3,0,10,150,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Shredded Parmesan Asiago,9,35,2.5,1.5,0,10,75,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Spinach,14,5,0,0,0,0,10,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Diced Tomatoes,24,5,0,0,0,0,75,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Hot Buffalo Sauce,9,5,0,0,0,0,270,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Anchovies*,5,10,0,0,0,5,360,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",BBQ Chicken Topping*,24,30,0,0,0,10,180,3,0,3,2,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Chorizo*,24,50,4,1.5,0,15,180,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Fresh Diced Tomatoes*,24,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Fresh Sliced Tomatoes*,40,5,0,0,0,0,0,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Garlic*,7,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Hand Tossed Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Crunchy Thin (Serving Size is 1/4 of Pizza),32,110,4.5,0.5,0,0,40,15,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Pizza Sauce,21,10,0,0,0,0,90,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Alfredo Sauce,11,25,2,1.5,0,5,65,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Honey BBQ,11,20,0,0,0,0,85,5,0,5,4,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Garlic Parm (White Sauce),11,50,5,1,0,5,90,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Ranch,11,50,6,1,0,5,135,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Regular Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Light Cheese,27,70,5,3.5,0,20,220,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Extra Cheese,50,140,10,6,0,35,420,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Regular Cheese,25,70,5,3,0,20,210,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Light Cheese,18,50,3.5,2,0,15,150,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Extra Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",American Cheese,14,60,4.5,2.5,0,15,250,1,0,1,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Bacon,14,70,6,2.5,0,15,260,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Beef,18,60,5,2,0,15,130,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Black Olives,11,20,1.5,0,0,0,85,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Cheddar Cheese Blend,7,25,2.0,1.0,0,5,55,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Premium Chicken,18,25,1,0,0,10,95,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Feta Cheese,7,20,1.5,1,0,5,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Green Peppers,11,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Ham,12,15,0.5,0,0,5,170,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Banana Peppers,11,0,0,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Jalapeno Peppers,11,5,0,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Mushrooms,18,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Onions,11,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Pepperoni,9,40,3.5,1.5,0,10,170,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Philly Steak,14,20,1,0,0,5,160,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Pineapple,18,15,0,0,0,0,0,3,0,3,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Italian Sausage,18,70,7,2,0,10,115,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Shredded Parmesan Asiago,7,25,2,1,0,5,60,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Spinach,11,0,0,0,0,0,10,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Diced Tomatoes,18,5,0,0,0,0,55,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Hot Buffalo Sauce,7,5,0,0,0,0,200,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",BBQ Chicken Topping*,18,20,0,0,0,5,135,3,0,2,2,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Chorizo*,18,40,3,1,0,10,140,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Fresh Diced Tomatoes*,18,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Fresh Sliced Tomatoes*,30,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Garlic*,5,5,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Green Chile Peppers*,11,0,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Crunchy Thin Crust Pizza",Green Olives*,11,20,1.5,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Gluten Free (Serving Size is 1/3 of Pizza),60,170,1.5,0,0,0,180,37,1,4,4,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Pizza Sauce,28,15,0,0,0,0,120,3,1,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Honey BBQ,14,25,0,0,0,0,110,7,0,6,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Ranch,14,70,7,1,0,5,180,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Regular Cheese,47,130,9,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Light Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Extra Cheese,66,180,13,8,0,50,560,4,0,0,0,11,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Regular Cheese,33,90,7,4,0,25,280,2,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Light Cheese,24,70,4.5,3,0,15,200,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Extra Cheese,47,130,9,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",American Cheese,19,70,6,3.5,0,20,340,1,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Bacon,19,100,7,3,0,20,340,1,0,1,1,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Beef,24,80,7,2.5,0,20,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Cheddar Cheese Blend,9,30,2.5,1.5,0,10,70,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Premium Chicken,24,35,1,0,0,15,130,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Feta Cheese,9,25,2,1.5,0,10,115,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Ham,16,20,1,0,0,5,230,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Mushrooms,24,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Pepperoni,12,50,4.5,2,0,10,220,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Philly Steak,19,30,1.5,0.5,0,10,220,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Pineapple,24,15,0,0,0,0,0,4,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Shredded Provolone Cheese,9,35,2.5,1.5,0,10,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Italian Sausage,24,90,9,3,0,10,150,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Shredded Parmesan Asiago,9,35,2.5,1.5,0,10,75,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Spinach,14,5,0,0,0,0,10,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Diced Tomatoes,24,5,0,0,0,0,75,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Hot Buffalo Sauce,9,5,0,0,0,0,270,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Anchovies*,5,10,0,0,0,5,360,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",BBQ Chicken Topping*,24,30,0,0,0,10,180,3,0,3,2,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Chorizo*,24,50,4,1.5,0,15,180,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Fresh Diced Tomatoes*,24,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Fresh Sliced Tomatoes*,40,5,0,0,0,0,0,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Garlic*,7,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"10"" Small Gluten Free Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Hand Tossed (Serving Size is 1/8 of Pizza),42,110,1.5,0,0,0,115,21,1,1,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Garlic Oil Blend (Hand Tossed Only),1.4,10,1.0,0,0,0,20,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Pizza Sauce,15,10,0,0,0,0,65,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Alfredo Sauce,11,25,2,1.5,0,5,65,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Honey BBQ,9,15,0,0,0,0,70,4,0,4,4,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Garlic Parm (White Sauce),11,50,5,1,0,5,90,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Ranch,11,50,6,1,0,5,135,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Regular Cheese,27,70,5,3.5,0,20,220,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Light Cheese,20,50,4,2.5,0,15,170,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Extra Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Regular Cheese,18,50,3.5,2,0,15,150,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Light Cheese,12,35,2.5,1.5,0,10,105,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Extra Cheese,27,70,5,3.5,0,20,220,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",American Cheese,11,40,3,2,0,10,190,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Bacon,9,45,3.5,1.5,0,10,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Beef,12,40,3.5,1.5,0,10,90,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Black Olives,7,15,1,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Cheddar Cheese Blend,7,25,2.0,1.0,0,5,55,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Premium Chicken,12,20,0.5,0,0,10,70,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Feta Cheese,5,15,1,1,0,5,65,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Green Peppers,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Ham,9,10,0.5,0,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Banana Peppers,7,0,0,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Jalapeno Peppers,7,0,0,0,0,0,120,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Mushrooms,12,5,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Onions,7,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Pepperoni,7,30,2.5,1,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Philly Steak,9,15,0.5,0,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Pineapple,12,10,0,0,0,0,0,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Italian Sausage,12,50,4.5,1.5,0,5,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Shredded Parmesan Asiago,5,20,1.5,1,0,5,45,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Spinach,5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Diced Tomatoes,12,5,0,0,0,0,40,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Hot Buffalo Sauce,3.5,0,0,0,0,0,100,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",BBQ Chicken Topping*,12,15,0,0,0,5,95,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Chorizo*,12,30,2,0.5,0,10,95,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Fresh Diced Tomatoes*,12,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Fresh Sliced Tomatoes*,22,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Garlic*,3.5,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Green Chile Peppers*,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Hand Tossed Pizza",Green Olives*,7,10,1,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",New York Style (Serving Size is 1/6 of Pizza),41,110,1.5,0,0,0,115,20,1,1,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Pizza Sauce,20,10,0,0,0,0,85,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Honey BBQ,12,20,0,0,0,0,90,6,0,5,5,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Ranch,14,70,7,1,0,5,140,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Regular Cheese,26,80,6,4,0,20,220,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Light Cheese,21,70,5,3.5,0,20,180,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Extra Cheese,34,110,8,5,0,30,290,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",American Cheese,14,60,4.5,2.5,0,15,250,1,0,1,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Bacon,12,60,4.5,1.5,0,10,210,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Beef,17,50,4.5,2,0,15,120,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Black Olives,9,20,1.5,0,0,0,75,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Cheddar Cheese Blend,9,30,2.5,1.5,0,10,70,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Premium Chicken,17,25,1,0,0,10,90,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Feta Cheese,7,20,1.5,1,0,5,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Green Peppers,9,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Ham,12,15,0.5,0,0,5,210,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Banana Peppers,9,0,0,0,0,0,160,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Jalapeno Peppers,9,0,0,0,0,0,160,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Mushrooms,17,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Onions,9,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Pepperoni,9,40,4,1.5,0,10,170,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Philly Steak,12,20,1,0,0,5,135,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Pineapple,17,10,0,0,0,0,0,3,0,3,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Shredded Provolone Cheese,9,35,2.5,1.5,0,10,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Italian Sausage,17,60,6,2,0,10,105,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Shredded Parmesan Asiago,7,25,2,1,0,5,60,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Spinach,7,0,0,0,0,0,5,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Diced Tomatoes,17,5,0,0,0,0,40,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Hot Buffalo Sauce,4.5,0,0,0,0,0,135,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Anchovies*,5,10,0,0,0,0,300,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",BBQ Chicken Topping*,17,20,0,0,0,5,125,2,0,2,1,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Chorizo*,17,40,2.5,1.0,0,10,130,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Fresh Diced Tomatoes*,17,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Fresh Sliced Tomatoes*,30,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Garlic*,4.5,5,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Green Chile Peppers*,9,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium New York Style Pizza",Green Olives*,9,15,1.5,0,0,0,160,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Crunchy Thin (Serving Size is 1/4 of Pizza),44,150,6,1,0,0,55,20,1,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Pizza Sauce,30,15,0,0,0,0,125,3,1,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Alfredo Sauce,21,50,4.5,3,0,10,130,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Honey BBQ,18,35,0,0,0,0,140,8,0,8,7,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Garlic Parm (White Sauce),21,100,11,2,0,5,180,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Ranch,21,110,11,2,0,10,270,1,0,1,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Regular Cheese,53,150,11,7,0,40,450,3,0,0,0,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Light Cheese,40,110,8,5,0,30,330,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Extra Cheese,71,200,14,9,0.5,50,600,4,0,0,0,12,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Regular Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Light Cheese,25,70,5,3,0,20,210,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Extra Cheese,53,150,11,7,0,40,450,3,0,0,0,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",American Cheese,21,80,6,4,0,20,380,2,0,1,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Bacon,18,90,7,3,0,20,320,1,0,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Beef,25,80,7,3,0,20,180,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Cheddar Cheese Blend,14,50,3.5,2.0,0,10,105,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Premium Chicken,25,40,1,0,0,15,135,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Feta Cheese,11,30,2,1.5,0,10,130,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Ham,18,25,1,0,0,10,250,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Mushrooms,25,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Pepperoni,13,60,5,2,0,10,250,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Philly Steak,18,25,1.5,0.5,0,10,200,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Pineapple,25,20,0,0,0,0,0,4,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Shredded Provolone Cheese,14,50,4,2.5,0,15,120,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Italian Sausage,25,100,9,3,0,10,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Shredded Parmesan Asiago,11,40,3,2,0,10,85,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Spinach,11,0,0,0,0,0,10,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Diced Tomatoes,25,5,0,0,0,0,80,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Hot Buffalo Sauce,7,5,0,0,0,0,200,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Anchovies*,8,15,0,0,0,5,540,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",BBQ Chicken Topping*,25,30,0,0,0,10,190,4,0,3,2,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Chorizo*,25,60,4,1.5,0,15,190,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Fresh Diced Tomatoes*,25,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Fresh Sliced Tomatoes*,45,10,0,0,0,0,0,2,1,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Garlic*,7,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Crunchy Thin Crust Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Pan Pizza (Serving Size is 1/8 of Pizza),61,190,7,3.5,0,0,160,26,1,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Pizza Sauce,11,5,0,0,0,0,45,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Alfredo Sauce,11,25,2,1.5,0,5,65,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Honey BBQ,9,15,0,0,0,0,70,4,0,4,4,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Garlic Parm (White Sauce),11,50,5,1,0,5,90,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Ranch,11,50,6,1,0,5,135,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Regular Cheese,30,100,7,4.5,0,25,260,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Light Cheese,22,70,6,3.5,0,20,190,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Extra Cheese,35,110,8,5,0,30,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Regular Cheese,25,80,6,4,0,20,210,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Extra Cheese,30,100,7,4.5,0,25,260,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",American Cheese,11,40,3,2,0,10,190,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Bacon,9,45,3.5,1.5,0,10,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Beef,12,40,3.5,1.5,0,10,90,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Black Olives,7,15,1,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Cheddar Cheese Blend,7,25,2.0,1.0,0,5,55,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Premium Chicken,12,20,0.5,0,0,10,70,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Feta Cheese,5,15,1,1,0,5,65,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Green Peppers,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Ham,9,10,0.5,0,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Banana Peppers,7,0,0,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Jalapeno Peppers,7,0,0,0,0,0,120,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Mushrooms,12,5,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Onions,7,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Pepperoni,7,30,2.5,1,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Philly Steak,9,15,0.5,0,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Pineapple,12,10,0,0,0,0,0,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Italian Sausage,12,50,4.5,1.5,0,5,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Shredded Parmesan Asiago,5,20,1.5,1,0,5,45,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Spinach,5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Diced Tomatoes,12,5,0,0,0,0,40,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Hot Buffalo Sauce,3.5,0,0,0,0,0,100,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",BBQ Chicken Topping*,12,15,0,0,0,5,95,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Chorizo*,12,30,2,0.5,0,10,95,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Fresh Diced Tomatoes*,12,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Fresh Sliced Tomatoes*,22,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Garlic*,3.5,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Green Chile Peppers*,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Pan Pizza",Green Olives*,7,10,1,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Parmesan Stuffed Crust (Serving Size is 1/8 of Pizza),76,230,10,6,0,15,320,28,1,1,1,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Garlic Oil Blend,1.4,10,1,0,0,0,20,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Parmesan,0.9,5,0,0,0,0,10,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Pizza Sauce,15,10,0,0,0,0,65,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Alfredo Sauce,11,25,2,1.5,0,5,65,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Honey BBQ,9,15,0,0,0,0,70,4,0,4,4,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Garlic Parm (White Sauce),11,50,5,1,0,5,90,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Ranch,11,50,6,1,0,5,135,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Regular Cheese,27,70,5,3.5,0,20,220,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Light Cheese,20,50,4,2.5,0,15,170,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Extra Cheese,35,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Regular Cheese,18,50,3.5,2,0,15,150,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Light Cheese,12,35,2.5,1.5,0,10,105,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Extra Cheese,27,70,5,3.5,0,20,220,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",American Cheese,11,40,3,2,0,10,190,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Bacon,9,45,3.5,1.5,0,10,160,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Beef,12,40,3.5,1.5,0,10,90,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Black Olives,7,15,1,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Cheddar Cheese Blend,7,25,2.0,1.0,0,5,55,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Premium Chicken,12,20,0.5,0,0,10,70,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Feta Cheese,5,15,1,1,0,5,65,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Green Peppers,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Ham,9,10,0.5,0,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Banana Peppers,7,0,0,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Jalapeno Peppers,7,0,0,0,0,0,120,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Mushrooms,12,5,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Onions,7,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Pepperoni,7,30,2.5,1,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Philly Steak,9,15,0.5,0,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Pineapple,12,10,0,0,0,0,0,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Italian Sausage,12,50,4.5,1.5,0,5,80,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Shredded Parmesan Asiago,5,20,1.5,1,0,5,45,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Spinach,5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Diced Tomatoes,12,5,0,0,0,0,40,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Hot Buffalo Sauce,3.5,0,0,0,0,0,100,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",BBQ Chicken Topping*,12,15,0,0,0,5,95,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Chorizo*,12,30,2,0.5,0,10,95,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Fresh Diced Tomatoes*,12,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Fresh Sliced Tomatoes*,22,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Garlic*,3.5,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Green Chile Peppers*,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"12"" Medium Parmesan Stuffed Crust Pizza",Green Olives*,7,10,1,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Hand Tossed (Serving Size is 1/8 of Pizza),61,160,2,0,0,0,170,30,1,1,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Garlic Oil Blend (Hand Tossed Only),1.8,15,1.5,0.0,0,0,25,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Crunchy Thin (Serving Size is 1/8 of Pizza),28,100,4,0.5,0,0,35,13,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Pizza Sauce,21,10,0,0,0,0,90,2,0,2,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Alfredo Sauce,14,30,3,2,0,10,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Honey BBQ,12,25,0,0,0,0,95,6,0,5,5,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Garlic Parm (White Sauce),14,70,7,1.5,0,5,120,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Ranch,14,70,7,1,0,5,180,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Regular Cheese,37,100,7,4.5,0,25,310,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Light Cheese,28,80,6,3.5,0,20,230,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Extra Cheese,50,140,10,6,0,35,420,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Regular Cheese,25,70,5,3,0,20,210,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Light Cheese,18,50,3.5,2,0,15,150,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Extra Cheese,37,100,7,4.5,0,25,310,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,American Cheese,12,50,4,2.5,0,10,220,1,0,1,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Bacon,12,70,5,2,0,15,220,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Beef,18,60,5,2,0,15,130,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Black Olives,11,20,1.5,0,0,0,85,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Cheddar Cheese Blend,9,30,2.5,1.5,0,5,65,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Premium Chicken,18,25,1,0,0,10,95,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Feta Cheese,7,20,1.5,1,0,5,85,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Green Peppers,11,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Ham,12,15,0.5,0,0,5,170,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Banana Peppers,11,0,0,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Jalapeno Peppers,11,5,0,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Mushrooms,18,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Onions,11,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Pepperoni,9,40,3.5,1.5,0,10,170,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Philly Steak,12,20,1,0,0,5,140,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Pineapple,18,15,0,0,0,0,0,3,0,3,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Shredded Provolone Cheese,9,30,2.5,1.5,0,10,75,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Italian Sausage,18,70,7,2,0,10,115,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Shredded Parmesan Asiago,7,25,2,1,0,5,60,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Spinach,7,0,0,0,0,0,5,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Diced Tomatoes,18,5,0,0,0,0,55,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Hot Buffalo Sauce,5,0,0,0,0,0,150,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,BBQ Chicken Topping*,18,20,0,0,0,5,135,3,0,2,2,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Chorizo*,18,40,3,1,0,10,140,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Fresh Diced Tomatoes*,18,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Fresh Sliced Tomatoes*,27,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Garlic*,4.5,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Green Chile Peppers*,11,0,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Crunchy Thin Pizza,Green Olives*,11,20,1.5,0,0,0,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",New York Style (Serving Size is 1/6 of Pizza),56,150,2,0,0,0,160,28,1,1,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Pizza Sauce,28,15,0,0,0,0,120,3,1,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Alfredo Sauce,19,45,4,2.5,0,10,115,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Honey BBQ,17,30,0,0,0,0,130,8,0,7,7,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Garlic Parm (White Sauce),19,90,10,2,0,5,160,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Ranch,19,90,10,1.5,0,10,240,1,0,1,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Regular Cheese,35,110,9,5,0,30,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Light Cheese,31,100,8,5,0,25,260,1,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Extra Cheese,44,140,10,6,0,35,370,2,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",American Cheese,17,60,5,3,0,15,300,1,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Bacon,17,90,6,3,0,15,300,1,0,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Beef,24,80,7,2.5,0,20,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Cheddar Cheese Blend,12,40,3,2,0,10,90,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Premium Chicken,24,35,1,0,0,15,130,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Feta Cheese,9,25,2,1.5,0,10,115,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Ham,16,20,1,0,0,5,230,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Mushrooms,24,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Pepperoni,12,50,4.5,2,0,10,220,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Philly Steak,17,25,1.5,0.5,0,10,190,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Pineapple,24,15,0,0,0,0,0,4,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Shredded Provolone Cheese,12,45,3.5,2,0,10,100,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Italian Sausage,24,90,9,3,0,10,150,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Shredded Parmesan Asiago,9,35,2.5,1.5,0,10,75,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Spinach,9,0,0,0,0,0,5,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Diced Tomatoes,24,5,0,0,0,0,75,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Hot Buffalo Sauce,7,5,0,0,0,0,200,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Anchovies*,5,10,0,0,0,5,360,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",BBQ Chicken Topping*,24,30,0,0,0,10,180,3,0,3,2,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Chorizo*,24,50,4,1.5,0,15,180,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Fresh Diced Tomatoes*,24,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Fresh Sliced Tomatoes*,36,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Garlic*,6,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"14"" Large New York Style Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Hand Tossed (Serving Size is 1/8 of Pizza),80,220,3,0.5,0,0,220,39,1,2,0,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Garlic Oil Blend (Hand Tossed Only),1.9,15,1.5,0.0,0,0,30,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Pizza Sauce,28,15,0,0,0,0,120,3,1,2,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Alfredo Sauce,18,40,3.5,2.5,0,10,105,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Honey BBQ,16,30,0,0,0,0,125,8,0,7,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Garlic Parm (White Sauce),18,90,9,2,0,5,150,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Ranch,18,90,9,1.5,0,5,220,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Regular Cheese,48,130,10,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Light Cheese,36,100,7,4.5,0,25,300,2,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Extra Cheese,64,180,13,8,0,45,540,3,0,0,0,10,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Regular Cheese,32,90,6,4,0,25,270,2,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Light Cheese,23,60,4.5,3,0,15,190,1,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Extra Cheese,48,130,10,6,0,35,400,3,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",American Cheese,16,60,5,3,0,15,290,1,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Bacon,18,90,7,3,0,20,320,1,0,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Beef,23,70,6,2.5,0,20,170,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Black Olives,14,25,2,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Cheddar Cheese Blend,12,40,3,2,0,10,90,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Premium Chicken,23,35,1,0,0,15,125,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Feta Cheese,9,25,2,1.5,0,5,110,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Green Peppers,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Ham,16,20,1,0,0,5,230,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Banana Peppers,14,5,0,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Jalapeno Peppers,14,5,0,0,0,0,240,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Mushrooms,23,5,0,0,0,0,0,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Onions,14,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Pepperoni,12,50,5,2,0,10,230,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Philly Steak,18,25,1.5,0.5,0,10,200,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Pineapple,23,15,0,0,0,0,0,4,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Shredded Provolone Cheese,12,45,3.5,2,0,10,105,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Italian Sausage,23,90,9,3,0,10,150,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Shredded Parmesan Asiago,9,35,2.5,1.5,0,10,70,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Spinach,9,0,0,0,0,0,5,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Diced Tomatoes,23,5,0,0,0,0,70,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Hot Buffalo Sauce,7,5,0,0,0,0,200,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Anchovies*,4,5,0,0,0,0,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",BBQ Chicken Topping*,23,30,0,0,0,10,180,3,0,3,2,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Chorizo*,23,50,4,1.5,0,15,180,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Fresh Diced Tomatoes*,23,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Fresh Sliced Tomatoes*,37,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Garlic*,5,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Green Chile Peppers*,14,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large Hand Tossed Pizza",Green Olives*,14,25,2,0,0,0,230,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",New York Style (Serving Size is 1/6 of Pizza),81,220,3,0.5,0,0,220,40,1,2,0,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Pizza Sauce,38,20,0,0,0,0,160,4,1,3,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Alfredo Sauce,24,50,5,3,0,15,140,2,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Honey BBQ,21,40,0,0,0,0,170,10,0,9,9,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Garlic Parm (White Sauce),24,120,12,2.5,0,10,200,1,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Ranch,24,120,12,2,0,10,300,1,0,1,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Regular Cheese,47,150,12,7,0,40,400,2,0,0,0,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Light Cheese,43,140,11,7,0,35,360,2,0,0,0,8,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Extra Cheese,58,180,14,9,0,50,490,3,0,0,0,10,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",American Cheese,21,80,6,4,0,20,380,2,0,1,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Bacon,24,120,9,4,0,25,430,1,0,1,1,7,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Beef,31,100,8,3.5,0,25,220,0,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Black Olives,19,35,3,0,0,0,150,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Cheddar Cheese Blend,17,60,4.5,2.5,0,15,125,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Premium Chicken,31,45,1.5,0,0,20,170,1,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Feta Cheese,12,30,2.5,1.5,0,10,140,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Green Peppers,19,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Ham,21,25,1.5,0,0,10,310,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Banana Peppers,19,5,0,0,0,0,310,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Jalapeno Peppers,19,5,0,0,0,0,320,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Mushrooms,31,5,0,0,0,0,0,1,0,1,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Onions,19,10,0,0,0,0,0,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Pepperoni,16,70,6,2.5,0,15,300,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Philly Steak,24,35,2,1,0,10,270,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Pineapple,31,20,0,0,0,0,0,5,0,5,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Shredded Provolone Cheese,17,60,4.5,3,0,15,140,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Italian Sausage,31,120,11,4,0,15,200,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Shredded Parmesan Asiago,12,45,3.5,2,0,10,95,0,0,0,0,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Spinach,12,5,0,0,0,0,10,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Diced Tomatoes,31,5,0,0,0,0,95,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Hot Buffalo Sauce,9,5,0,0,0,0,270,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Anchovies*,5,10,0,0,0,5,360,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",BBQ Chicken Topping*,31,35,0.5,0,0,10,240,4,0,3,3,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Chorizo*,31,70,5,2,0,20,240,1,0,0,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Fresh Diced Tomatoes*,31,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Fresh Sliced Tomatoes*,50,10,0,0,0,0,0,2,1,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Garlic*,7,10,0,0,0,0,0,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Green Chile Peppers*,19,5,0,0,0,0,0,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"16"" Extra Large New York Style Pizza",Green Olives*,19,30,3,0,0,0,310,1,1,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),142,360,16,7,0,35,700,38,1,3,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),153,390,19,8,0,40,780,39,2,4,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),135,340,16,7,0,35,680,35,1,3,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),177,450,21,9,0,45,900,46,2,4,2,18,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),154,400,19,8,0,45,900,38,2,3,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),174,440,22,9,0.5,50,1040,40,2,4,1,18,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),153,380,19,8,0,45,900,36,2,3,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),202,500,25,10,0.5,60,1220,47,2,4,2,21,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),137,350,15,6,0,35,780,39,1,4,2,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),150,380,17,7,0,45,910,40,1,5,2,17,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),132,330,14,6,0,35,760,36,1,4,2,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),173,430,18,8,0,45,1010,47,2,6,2,19,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),139,390,19,8,0,45,870,38,1,3,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),151,420,21,9,0.5,50,1000,38,1,3,1,18,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),133,370,18,8,0,45,850,34,1,3,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),176,480,24,10,0.5,60,1160,45,2,4,2,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),131,360,14,7,0,40,680,41,1,7,5,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),147,410,17,8,0,50,800,44,1,8,7,18,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),128,350,14,7,0,40,680,39,1,7,6,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),166,460,18,9,0.0,55,880,51,2,9,7,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),131,330,13,6,0,30,620,38,1,3,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),149,360,15,7,0,35,730,39,2,4,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),131,310,13,6,0,30,630,35,1,3,1,12,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),168,400,16,8,0,40,790,46,2,4,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),124,340,15,7,0,40,790,36,1,3,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),136,370,16,8,0,45,890,37,1,3,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),118,310,13,7,0,35,720,33,1,3,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),152,400,17,8,0,45,920,43,2,3,1,17,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),131,390,21,7,0,45,1110,34,1,2,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),155,480,27,9,0,55,1280,38,1,3,1,19,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),135,410,22,8,0,45,1090,34,1,3,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),174,530,29,10,0.5,60,1410,44,1,3,1,21,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),119,340,15,8,0,35,620,36,1,2,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),130,370,17,9,0,45,710,37,1,2,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),115,320,15,8,0,40,610,33,1,2,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),149,420,19,10,0.5,50,770,43,2,3,1,17,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),131,380,18,8,0,40,850,38,1,3,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),142,420,21,9,0.5,50,960,38,1,3,1,17,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),125,360,18,8,0,40,830,34,1,3,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),165,480,23,10,0.5,55,1110,45,2,4,2,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,S (1/4 pizza),124,340,14,7,0,35,660,38,1,3,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,M (1/5 pizza),141,390,18,9,0.0,45,790,39,1,3,1,17,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,L (1/8 pizza),122,330,15,7,0,35,670,35,1,3,1,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Specialty Pizzas,XL (1/8 pizza),161,440,19,10,0.5,50,880,46,2,4,2,19,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,HAM & BACON BREAKFAST PIZZA,88,250,12,5,0,30,610,22,1,2,1,12,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Breakfast Pizza Base,76,220,10,4.5,0,20,420,22,1,1,0,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Bacon,5,20,1.5,0.5,0,5,85,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Ham,7,10,0,0,0,5,125,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Ham & Bacon Breakfast Pizza,118,330,14,7,0,35,740,32,1,2,1,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Breakfast Pizza Base,106,300,12,6,0,25,550,32,1,2,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Ham,7,10,0,0,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,BREAKFAST PIZZA,92,230,10,4.5,0,25,520,23,1,1,1,12,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Breakfast Pizza Base,74,190,7,3.5,0,20,330,22,1,1,0,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Ham,5,5,0,0,0,0,75,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Green Peppers,3.5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Onions,3.5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Garlic Oil Blend (on crust),1.4,10,1,0,0,0,20,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Breakfast Pizza,128,320,14,6,0,35,710,33,1,2,1,16,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Breakfast Pizza Base,104,270,10,5,0,25,460,32,1,1,1,13,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Bacon,7,30,2,1,0,5,115,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Green Peppers,5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Onions,5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,Hand Tossed Breakfast Pizzas,Garlic Oil Blend (on crust),1.8,15,1.5,0,0,0,25,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Garlic Bread Bites 4 pieces,62,210,9,4,0,0,200,27,1,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Parmesan Bread Bites 4 pieces,63,210,9,4.5,0,0,220,27,1,1,1,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Stuffed Cheesy Bread 1 piece,46,160,8,4.5,0,15,220,15,0,1,0,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Bacon & Jalapeno Stuffed Cheesy Bread 1 piece,52,170,10,4.5,0,15,330,15,0,1,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pepperoni Stuffed Cheesy Bread 1 piece,49,170,10,5,0,15,290,15,0,1,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Spinach & Feta Stuffed Cheesy Bread 1 piece,49,160,9,4.5,0,15,250,15,0,1,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Boneless Chicken 3 pieces,75,170,7,1.5,0,35,660,18,0,1,1,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Plain Wings (No sauce) 4 pieces,91,250,20,5,0,110,720,8,0,0,0,14,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Honey BBQ Wings 4 pieces,119,310,20,5,0,110,940,22,0,13,12,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hot Buffalo Wings 4 pieces,119,260,20,5,0,110,1520,9,0,0,0,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mild Buffalo Wings 4 pieces,119,260,20,5,0,110,1420,10,0,0,0,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Garlic Parmesan Wings 4 pieces,119,390,34,8,0,120,960,10,0,1,0,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Sweet Mango Habanero Wings 4 pieces,119,310,20,5,0,110,790,21,0,10,10,15,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Classic Hot Buffalo Loaded Chicken 8 pieces,91,200,11,3.5,0,40,1080,16,0,1,1,10,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Crispy Bacon & Tomato Loaded Chicken 8 pieces,95,270,18,5,0,45,860,16,0,1,1,12,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Spicy Jalapeno & Pineapple Loaded Chicken 8 pieces,95,200,8,3,0,35,720,23,0,7,6,9,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Sweet BBQ Bacon Loaded Chicken 8 pieces,91,220,11,3.5,0,45,840,22,0,7,7,11,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Chocolate Lava Cake 1 cake,86,360,17,10,0,65,180,47,1,30,29,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",S'mores Lava Cake 1 cake,79,360,18,10,0,70,150,44,0,25,24,4,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Marbled Cookie Brownie 1 brownie,43,200,10,5,0,20,125,26,1,18,18,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Cinnamon Bread Bites 4 pieces,65,230,9,4,0,0,160,30,1,4,4,5,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Honey BBQ 1 cup,35,70,0,0,0,0,310,17,1,15,14,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Blue Cheese 1 cup,35,200,21,4,0,20,270,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Garlic 1 cup,28,250,28,5,0,0,170,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hot Buffalo 1 cup,35,15,1.0,0,0,0,860,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Marinara 1 cup,57,30,0,0,0,0,290,6,0,4,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ranch 1 cup,35,160,17,3,0,5,300,1,0,1,1,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Slice Sauce 1 cup,35,170,18,3.5,0,15,370,2,0,1,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Sweet Icing 1 cup,64,220,4,1,0,0,110,52,0,52,52,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Sweet Mango Habanero 1 cup,35,70,0,0,0,0,65,17,0,13,13,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Nacho Cheese Dipping Cup 1 cup,57,120,8,5,0,25,830,5,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Buffalo Chicken 1/2 Sandwich,171,420,22,7,0,55,1250,36,0,2,0,19,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Chicken Bacon Ranch 1/2 Sandwich,164,470,26,9,0,70,1170,35,0,2,1,22,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Chicken Parm 1/2 Sandwich,168,410,19,9,0,65,1030,36,0,2,0,24,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Italian 1/2 Sandwich,167,420,22,9,0.5,60,1520,35,0,2,0,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Philly Cheese Steak 1/2 Sandwich,164,370,17,8,0.5,50,1200,37,0,3,1,18,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Chicken Alfredo 1 Dish,326,590,28,17,0.5,100,1020,60,2,5,0,24,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",5-Cheese Mac & Cheese 1 Dish,360,830,50,31,1.5,145,1680,64,2,6,0,30,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Spicy Buffalo 5-Cheese Mac & Cheese 1 Dish,374,840,50,31,1.5,145,2090,64,2,6,0,31,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Classic Garden Salad 1.5 cup,100,70,3.5,1.5,0,10,125,8,1,2,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Chicken Caesar Salad 1 container,198,190,7,2.5,0,50,510,14,2,3,0,19,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Marzetti Garden Ranch Dressing 1.5 oz packet,43,220,24,4,0,10,400,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Marzetti Cardini Caesar Dressing 1.5 oz packet,43,230,25,4,0,40,270,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Marzetti Balsamic Vinaigrette Dressing 1.5 oz packet,43,130,12,2,0,0,470,4,0,4,4,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ken's Ranch Dressing 1.5 oz packet,43,190,20,3,0,15,270,2,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ken's Caesar Dressing 1.5 oz packet,43,210,23,4,0,5,400,1,0,1,1,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ken's Lite Balsamic with Olive Oil 1.5 oz packet,43,100,8,1,0,0,370,4,0,3,3,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",SALADS SALAD DRESSINGS Nutrition Information for Drinks are available on package label Domino's Nutrition Guide August 2026 PENNE PASTA BREADS DIPPING CUPS OVEN-BAKED SANDWICHES CHICKEN DESSERTS location and supplier. The nutrition information is generated by the industry standard Genesis R&D Nutritional software. The ingredient listings are provided by ingredient manufacturers. Domino's Nutrition Guide *VARIANCE Domino's Hoagies Classic,177,400,20,7,1,50,1110,37,1,3,1,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Bacon Cheddar,184,480,24,8,0.5,60,1290,46,1,11,9,22,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Buffalo Ranch,191,500,30,9,1,60,1690,37,1,2,1,22,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mushroom Delight,184,400,20,7,1,50,1190,37,1,2,0,20,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Zesty,190,430,22,7,1,55,1320,38,1,3,1,21,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hoagie Bun,71,190,5,1,0,0,400,32,0,0,0,6,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hoagie Beef Patty,57,140,10,3,0.5,35,450,2,1,1,0,10,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pizza Sauce (Robust Inspired Tomato Sauce),21,10,0,0,0,0,90,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ranch,21,100,11,2,0,10,270,1,0,1,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Honey BBQ,21,40,0,0,0,0,170,10,0,9,9,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hot Buffalo,21,10,0,0,0,0,600,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mushroom Sauce,21,10,0,0,0,0,170,2,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pizza Sauce (Robust Inspired Tomato Sauce),14,5,0,0,0,0,60,2,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ranch,14,70,7,1,0,5,180,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Honey BBQ,14,25,0,0,0,0,110,7,0,6,6,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Hot Buffalo,14,5,0,0,0,0,400,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mushroom Sauce,14,5,0,0,0,0,115,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pizza Cheese,21,60,4,2.5,0,15,180,1,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Garlic Oil Blend,3.5,25,3,0.5,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",American Cheese,14,60,4,2.5,0,15,200,1,0,1,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Anchovies,8,15,0,0,0,5,540,0,0,0,0,3,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Bacon,7,35,2.5,1,0,5,130,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Black Olives,7,15,1,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Cheddar Cheese Blend,11,35,3.0,1.5,0,10,80,1,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Green Peppers,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Green Olives,7,10,1,0,0,0,115,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ham,7,10,0,0,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Banana Peppers,7,0,0,0,0,0,105,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Jalapeno Peppers,7,0,0,0,0,0,110,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mushrooms,7,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Onions,7,5,0,0,0,0,0,1,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pepperoni,5,25,2,1,0,5,100,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pickles,7,0,0,0,0,0,95,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pineapple,7,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Shredded Provolone Cheese,7,25,2,1.5,0,5,60,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Shredded Parmesan Asiago,7,25,2,1,0,5,60,0,0,0,0,2,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Diced Tomatoes,7,0,0,0,0,0,20,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Bacon,3.5,15,1.5,0,0,5,65,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Black Olives,3.5,5,0.5,0,0,0,30,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Green Peppers,3.5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Green Olives,3.5,5,0.5,0,0,0,60,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Ham,4.5,5,0,0,0,0,70,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Banana Peppers,3.5,0,0,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Jalapeno Peppers,3.5,0,0,0,0,0,55,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Mushrooms,3.5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Onions,3.5,0,0,0,0,0,0,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pepperoni,3.5,15,1.5,0.5,0,5,65,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pickles,3.5,0,0,0,0,0,50,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Pineapple,3.5,5,0,0,0,0,0,1,0,1,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Shredded Provolone Cheese,4,15,1,0.5,0,5,30,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Shredded Parmesan Asiago,3.5,15,1,0.5,0,5,30,0,0,0,0,1,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27
+dominos,"Sandwiches, Pasta, Chicken & Sides",Diced Tomatoes,3.5,0,0,0,0,0,10,0,0,0,0,0,,,https://www.dominos.com/cms/assets/0e4a30f5-a8fb-4c2d-ab54-b1aae92b72df,2026-10-27

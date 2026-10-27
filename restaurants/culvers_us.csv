@@ -1,0 +1,232 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+culvers,BUTTERBURGERS®,"ButterBurger®, Single",,390,17,7,0.5,55,480,38,1,6,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"ButterBurger®, Double",,560,30,12,1,105,580,38,1,6,,34,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"ButterBurger®, Triple",,730,43,17,1.5,155,680,38,1,6,,48,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"ButterBurger® Cheese, Single",,460,23,11,0.5,75,700,39,1,7,,24,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"ButterBurger® Cheese, Double",,700,42,19,1.5,145,1020,40,1,8,,41,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"ButterBurger® Cheese, Triple",,940,61,28,2,215,1340,41,1,9,,59,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Mushroom & Swiss ButterBurger®, Single",,530,28,12,0.5,75,650,41,2,6,,27,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Mushroom & Swiss ButterBurger®, Double",,780,47,20,1.5,145,790,42,2,6,,47,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Mushroom & Swiss ButterBurger®, Triple",,1030,66,29,2,215,930,43,2,6,,67,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Sourdough Melt, Single",,490,25,12,1,80,600,42,3,3,,26,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Sourdough Melt, Double",,740,44,21,1.5,145,840,42,3,3,,45,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Sourdough Melt, Triple",,990,64,30,2.5,215,1080,42,3,3,,64,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Deluxe, Single",,580,34,13,0.5,85,920,41,1,7,,24,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Deluxe, Double",,820,53,21,1.5,155,1240,42,1,8,,41,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Deluxe, Triple",,1060,72,30,2,225,1560,43,1,9,,59,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Bacon Deluxe, Single",,670,40,15,0.5,110,1300,42,1,8,,33,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Bacon Deluxe, Double",,910,59,23,1.5,180,1620,43,1,9,,50,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"The Culver's® Bacon Deluxe, Triple",,1150,78,32,2,250,1940,44,1,10,,68,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Wisconsin Swiss Melt, Single",,480,24,10,1,75,560,41,4,3,,27,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Wisconsin Swiss Melt, Double",,730,43,19,1.5,145,700,42,4,3,,47,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,BUTTERBURGERS®,"Wisconsin Swiss Melt, Triple",,980,62,27,2,215,840,43,4,3,,67,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Buffalo - 1 Piece",,130,6,0.5,0,20,500,10,<1,0,,10,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Buffalo - 2 Piece",,270,12,1.5,0,40,1010,20,2,0,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Buffalo - 4 Piece",,540,24,2.5,0,85,2010,40,3,<1,,39,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Buffalo - 8 Piece",,1070,48,5,0.5,165,4030,81,6,1,,78,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Original - 1 Piece",,130,6,0.5,0,25,390,10,<1,0,,10,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Original - 2 Piece",,260,11,1,0,45,780,21,1,0,,19,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Original - 4 Piece",,520,23,2.5,0,90,1560,41,2,<1,,39,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,"Chicken Tenders, Original - 8 Piece",,1040,45,4.5,0,180,3120,83,5,1,,78,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,Crispy Chicken Sandwich,,690,35,8,0,75,1590,65,2,9,,28,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,Grilled Chicken Sandwich,,480,19,6,0,115,1340,40,2,9,,36,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,CHICKEN,Spicy Crispy Chicken Sandwich,,680,33,7,0,80,1680,65,3,9,,32,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,Butterfly Jumbo Shrimp** - 3 Piece,,160,8,0.5,0,60,480,17,<1,1,,5,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,Butterfly Jumbo Shrimp** - 6 Piece,,320,16,1.5,0,115,960,35,1,2,,9,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,Butterfly Jumbo Shrimp** - 10 Piece,,540,27,2.5,0,195,1600,58,2,4,,15,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,Butterfly Jumbo Shrimp Dinner* - 6 Piece,,470,22,4,0,125,1180,55,2,5,,13,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,Butterfly Jumbo Shrimp Dinner* - 10 Piece,,690,32,5,0,205,1820,78,3,6,,19,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,North Atlantic Cod Sandwich,,600,34,8,0,60,830,51,2,6,,23,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,North Atlantic Cod Dinner* - 1 Piece,,350,18,4,0,40,490,31,1,3,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,North Atlantic Cod Dinner* - 2 Piece,,550,30,5,0,70,750,41,2,3,,29,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SEAFOOD,North Atlantic Cod Dinner* - 3 Piece,,760,42,6,0,100,1020,51,3,3,,42,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Beef Pot Roast Dinner*,,500,20,10,1,155,1100,45,1,6,,32,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Beef Pot Roast Sandwich,,410,13,6,1,140,740,40,1,8,,31,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Chopped Steak Dinner*,,560,36,14,1,110,550,24,2,3,,33,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Grilled Cheese,,360,16,9,0,45,800,39,2,3,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Grilled Reuben Melt,,660,38,15,0,105,1840,43,4,6,,37,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Harvest Veggie Burger,,610,26,10,0,60,1030,74,5,9,,19,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SANDWICHES,Pork Loin Sandwich,,580,20,3.5,0,55,990,68,2,7,,31,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),"ButterBurger®, Single",,390,17,7,0.5,55,480,38,1,6,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),"ButterBurger® Cheese, Single",,460,23,11,0.5,75,610,39,1,7,,23,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),"Chicken Tenders, Buffalo - 2 Piece",,270,12,1.5,0,40,1010,20,2,0,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),"Chicken Tenders, Original - 2 Piece",,260,11,1,0,45,780,21,1,0,,19,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),Corn Dog,,240,14,4,0,20,500,23,0,7,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),Grilled Cheese,,360,16,9,0,45,800,39,2,3,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),"Crinkle Cut Fries, Small",,220,9,1,0,0,410,32,2,0,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),Mott's® Applesauce,,50,0,0,0,0,10,12,2,8,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),Chocolate Milk,,160,2.5,1.5,0,15,220,27,0,26,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),White Milk,,110,2.5,1.5,0,10,130,13,0,12,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,KIDS’ MEALS (À LA CARTE),Mott's® 100% Apple Juice,,100,0,0,0,0,10,24,0,23,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Chili Cheddar Fries,,610,31,9,1,40,1430,70,6,3,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Crinkle Cut Fries, Small",,220,9,1,0,0,410,32,2,0,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Crinkle Cut Fries, Medium",,350,14,1.5,0,0,650,50,4,0,,4,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Crinkle Cut Fries, Large",,430,18,2,0,0,810,62,4,0,,5,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Coleslaw, Medium",,200,16,2.5,0,10,240,15,2,9,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Coleslaw, Large",,600,48,8,0,30,720,45,6,27,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Garden Side Salad,,50,2.5,1.5,0,5,100,5,2,1,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Mashed Potatoes & Gravy, Medium",,130,1.5,0.5,0,0,410,25,2,0,,4,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Mashed Potatoes & Gravy, Large",,410,8,3,0,0,1730,73,5,0,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Pretzel Bites with Cheese Sauce,,440,19,8,0.5,30,810,53,2,7,,15,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Onion Rings, Medium",,420,23,2,0,0,930,49,4,5,,5,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Onion Rings, Large",,840,46,3.5,0,<5,1870,98,8,9,,10,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Side of Thick Cut Bacon (2 Slices),,100,6,2.5,0,25,380,<1,0,<1,,9,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Side of Dill Pickles,,5,0,0,0,0,570,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Steamed Broccoli,,40,0,0,0,0,40,7,3,2,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,Wisconsin Cheddar Cheese Sauce,,130,11,7,0.5,30,350,3,0,2,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Wisconsin Cheese Curds, Medium",,490,27,12,0.5,35,1520,46,3,4,,17,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SIDES,"Wisconsin Cheese Curds, Large",,980,54,25,1,70,3030,91,5,8,,34,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SALADS,Chicken Cashew Salad with Grilled Chicken,,430,23,8,0,115,1080,17,6,5,,41,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SALADS,Cranberry Bacon Bleu Salad with Grilled Chicken,,390,16,8,0,135,1540,18,5,12,,46,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SALADS,Garden Fresco Salad with Grilled Chicken,,330,12,6,0,115,1150,19,5,4,,39,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SALADS,Strawberry Fields Salad with Grilled Chicken,,370,20,4.5,0,100,1060,12,7,5,,35,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Boston Clam Chowder, Medium",,290,12,4,0,30,1620,32,1,8,,13,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Broccoli Cheese, Medium",,250,13,6,0,30,1250,22,1,9,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Chicken Noodle, Medium",,130,2.5,0,0,30,1190,20,1,1,,7,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"George's® Chili, Medium",,310,13,4.5,0,45,1490,31,6,6,,18,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"George's® Chili Supreme, Medium",,430,23,11,0,75,1590,33,7,7,,22,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Potato with Bacon, Medium",,270,11,4,0,25,1230,33,2,9,,10,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Stuffed Green Pepper with Beef, Medium",,170,2.5,1,0,10,1260,29,1,6,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Tomato Florentine, Medium",,140,1.5,0.5,0,0,1370,27,2,7,,5,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Vegetable Beef, Medium",,190,4.5,2,0,20,1370,27,2,4,,9,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,SOUPS (INCLUDES SALTINE PACKET),"Wild and Brown Rice with Chicken, Medium",,300,15,5,0,40,1310,31,1,9,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Buttermilk Ranch Dressing,,180,19,3,0,20,380,2,0,1,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Cocktail Sauce,,50,0,0,0,0,400,13,1,8,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Marinara Cup,,40,0,0,0,0,370,9,1,4,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Dip & Squeeze Ketchup,,30,0,0,0,0,250,8,0,6,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Frank's RedHot® Buffalo Sauce,,5,0,0,0,0,390,1,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Honey Mustard Dressing,,130,6,1,0,0,400,20,0,18,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Horseradish Sauce,,60,6,1,0,<5,90,2,0,1,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Hot Sauce,,0,0,0,0,0,110,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Ken's® Blue Cheese Dressing,,200,21,4,0,15,320,2,0,1,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Ken's® Boom Boom Sauce,,310,32,5,0,25,490,5,0,4,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Ken's® Country French,,190,15,0,0,0,300,13,0,12,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Ken's® Raspberry Vinaigrette,,50,0,0,0,0,115,12,0,10,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Malt Vinegar,,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Mayonnaise Packet,,80,8,1.5,0,<5,75,1,0,1,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Spicy Brown Mustard Packet,,0,0,0,0,0,120,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Sweet Baby Ray's® BBQ Sauce,,110,0,0,0,0,450,28,1,26,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Tartar Sauce Cup,,360,39,6,0.5,30,340,3,0,2,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Wisconsin Cheddar Cheese Sauce,,130,11,7,0.5,30,350,3,0,2,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS",Yellow Mustard Packet,,0,0,0,0,0,65,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Banana Split, 2 Scoop",,1260,66,31,1.5,250,480,150,11,114,,17,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Banana Split, 3 Scoop",,1420,76,37,1.5,305,520,166,12,127,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate Cake Cone, 1 Scoop",,310,14,9,0,80,105,41,1,30,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate Cake Cone, 2 Scoop",,570,27,17,1,155,190,73,2,58,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate Cake Cone, 3 Scoop",,710,35,21,1,195,240,91,3,73,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Dish, 1 Scoop",,290,14,9,0,100,120,36,1,30,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Dish, 2 Scoop",,550,27,17,1,155,180,68,2,58,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Dish, 3 Scoop",,690,35,21,1,195,230,86,3,73,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Waffle Cone, 1 Scoop",,400,15,9,0,80,150,61,2,38,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Waffle Cone, 2 Scoop",,660,28,17,1,155,240,93,3,66,,13,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Chocolate, Waffle Cone, 3 Scoop",,800,35,21,1,195,280,111,4,81,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla Cake Cone, 1 Scoop",,330,19,11,0.5,115,95,36,0,27,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla Cake Cone, 2 Scoop",,620,35,22,1.5,215,170,65,0,52,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla Cake Cone, 3 Scoop",,770,45,27,1.5,275,220,80,5,65,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Dish, 1 Scoop",,310,19,11,0.5,115,85,31,2,27,,6,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Dish, 2 Scoop",,600,35,22,1.5,215,160,60,4,52,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Dish, 3 Scoop",,750,45,27,1.5,275,210,75,5,65,,14,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Waffle Cone, 1 Scoop",,420,19,11,0.5,115,140,56,1,35,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Waffle Cone, 2 Scoop",,710,36,22,1.5,215,220,85,1,60,,13,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Vanilla, Waffle Cone, 3 Scoop",,860,45,27,1.5,275,260,100,6,73,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Caramel Cashew Sundae, 1 Scoop",,730,35,16,0.5,125,410,92,3,61,,12,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Caramel Cashew Sundae, 2 Scoop",,1010,52,26,1.5,230,480,121,5,86,,17,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Caramel Cashew Sundae, 3 Scoop",,1170,61,32,1.5,285,530,136,6,99,,20,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Turtle Sundae, 1 Scoop",,770,44,18,0.5,120,400,82,5,64,,10,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Turtle Sundae, 2 Scoop",,1050,61,29,1.5,225,470,111,7,88,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONDIMENTS, DIPPING & DRESSINGS","Turtle Sundae, 3 Scoop",,1210,70,34,1.5,280,520,126,8,102,,18,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Chocolate Custard Concrete Mixer®, Mini",,340,17,10,0.5,120,150,43,2,36,,7,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Chocolate Custard Concrete Mixer®, Small",,570,29,17,1,200,240,71,3,60,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Chocolate Custard Concrete Mixer®, Medium",,740,37,22,1.5,260,320,93,4,78,,15,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Chocolate Custard Concrete Mixer®, Large",,860,43,26,1.5,245,290,107,4,91,,18,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Vanilla Custard Concrete Mixer®, Mini",,380,22,14,1,135,105,38,2,33,,7,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Vanilla Custard Concrete Mixer®, Small",,630,37,23,1.5,230,170,63,4,54,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Vanilla Custard Concrete Mixer®, Medium",,820,48,30,2,295,220,82,5,71,,15,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Create Your Own Vanilla Custard Concrete Mixer®, Large",,940,56,34,2,345,260,94,6,81,,17,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Malt, Small",,780,35,20,1,215,290,106,4,82,,13,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Malt, Medium",,980,46,26,1.5,280,360,129,5,103,,17,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Malt, Large",,1290,63,36,2,385,460,163,7,134,,23,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Shake, Small",,750,35,20,1,215,270,100,4,77,,12,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Shake, Medium",,920,45,26,1.5,280,320,117,5,93,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Chocolate Shake, Large",,1200,62,36,2,385,400,145,7,119,,21,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Malt, Small",,600,35,20,1,215,190,63,3,56,,12,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Malt, Medium",,800,45,26,1.5,280,260,86,4,77,,16,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Malt, Large",,1120,63,36,2,385,370,121,5,108,,22,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Shake, Small",,570,34,20,1,215,170,57,3,51,,11,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Shake, Medium",,740,45,26,1.5,280,220,74,4,67,,15,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,"CONCRETE MIXERS®, SHAKES & MALTS","Vanilla Shake, Large",,1030,62,36,2,385,310,103,5,93,,21,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Andes® Creme De Menthe Thins,,120,7,6.5,0,0,10,12,1,11,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Bananas,,50,0,0,0,0,0,12,3,7,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Blueberries,,40,0,0,0,0,0,10,1,9,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Brownie Pieces,,100,4,1,0,10,60,18,2,11,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Butterfinger® Pieces,,140,6,3,0,0,75,20,1,12,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Candy Sprinkles,,110,2,2,0,0,0,23,0,16,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Cashews,,160,13,2.5,0,0,110,8,1,1,,4,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Chocolate Chip Cookie Dough,,120,4.5,2.5,0,5,45,18,0,9,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Chocolate Syrup,,90,0,0,0,0,45,21,0,13,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Dove® Chocolate Pieces,,120,7,4,0,0,0,13,2,10,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Eli's® Cheesecake Pieces,,100,5,3.5,0,30,85,11,0,6,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Eli's® Chocolate Cake Pieces,,100,6,2.5,0,10,55,11,0,8,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Heath® Bar Pieces,,150,9,5,0,5,95,17,1,17,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Hot Caramel,,120,1.5,1,0,5,105,25,0,16,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Hot Fudge,,120,4,4,0,0,95,21,0,18,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Maraschino Cherry,,10,0,0,0,0,0,2,0,2,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Marshmallow Creme,,100,0,0,0,0,20,26,0,22,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Mint Syrup,,100,0,0,0,0,105,25,0,19,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),M&M® Minis,,130,5,3,0,<5,20,20,0,18,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Novelty Chocolate Topping,,200,15,8,0,<5,35,16,2,13,,<1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Oreo® Cookies,,90,3.5,1,0,0,80,14,0,8,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Peaches,,35,0,0,0,0,10,9,1,8,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Pecan Halves,,200,20,2,0,0,110,3,2,1,,2,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Raspberries,,40,0,0,0,0,0,9,1,8,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Reese's® Peanut Butter Sauce,,210,18,2.5,0,0,170,7,2,4,,7,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Reese's® Peanut Butter Cups,,140,8,3,0,0,85,16,1,15,,3,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Root Beer Syrup,,60,0,0,0,0,20,17,0,16,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Salted Caramel,,120,1.5,1,0,0,260,25,0,15,,1,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Snickers® Candy Bar Pieces,,130,6,2.5,0,0,65,17,0,15,,2,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Whipped Cream,,15,1,0.5,0,5,0,1,0,1,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,MIX-INS & TOPPINGS ( 1 PORTION ),Wild Cherries,,60,0,0,0,0,45,16,0,15,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,Bottled Water,,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,Chocolate Milk,,160,2.5,1.5,0,15,220,27,0,26,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola®, Small",,200,0,0,0,0,55,54,0,54,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola®, Medium",,270,0,0,0,0,75,74,0,74,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola®, Large",,390,0,0,0,0,105,107,0,107,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola® Zero Sugar, Small",,0,0,0,0,0,55,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola® Zero Sugar, Medium",,0,0,0,0,0,75,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coca-Cola® Zero Sugar, Large",,0,0,0,0,0,105,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Coffee, 8 fl. oz.",,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Coke®, Small",,0,0,0,0,0,65,<1,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Coke®, Medium",,0,0,0,0,0,90,<1,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Coke®, Large",,0,0,0,0,0,130,<1,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Dr Pepper®, Small",,0,0,0,0,0,95,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Dr Pepper®, Medium",,0,0,0,0,0,130,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Diet Dr Pepper®, Large",,0,0,0,0,0,190,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Dr Pepper®, Small",,190,0,0,0,0,60,52,0,51,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Dr Pepper®, Medium",,260,0,0,0,0,85,72,0,72,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Dr Pepper®, Large",,380,0,0,0,0,120,104,0,102,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fanta® Orange, Small",,210,0,0,0,0,55,53,0,53,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fanta® Orange, Medium",,280,0,0,0,0,75,73,0,73,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fanta® Orange, Large",,410,0,0,0,0,105,106,0,106,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Sweet Tea, Small",,130,0,0,0,0,0,33,0,33,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Sweet Tea, Medium",,180,0,0,0,0,0,45,0,45,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Sweet Tea, Large",,260,0,0,0,0,0,66,0,66,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Unsweetened Iced Tea, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Unsweetened Iced Tea, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Fresh Brewed Unsweetened Iced Tea, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Hi-C® Flashin Fruit Punch, Small",,210,0,0,0,0,100,57,0,55,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Hi-C® Flashin Fruit Punch, Medium",,300,0,0,0,0,135,78,0,76,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Hi-C® Flashin Fruit Punch, Large",,430,0,0,0,0,200,113,0,110,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Mello Yello®, Small",,220,0,0,0,0,65,58,0,58,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Mello Yello®, Medium",,300,0,0,0,0,95,80,0,80,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Mello Yello®, Large",,440,0,0,0,0,135,116,0,116,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,Milk,,110,2.5,1.5,0,10,130,13,0,12,,8,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Minute Maid® Lemonade, Small",,180,0,0,0,0,130,48,0,46,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Minute Maid® Lemonade, Medium",,250,0,0,0,0,180,66,0,63,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Minute Maid® Lemonade, Large",,370,0,0,0,0,260,96,0,92,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,Mott's® Apple Juice,,100,0,0,0,0,10,24,0,23,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Powerade® Mountain Berry Blast, Small",,120,0,0,0,0,150,29,0,29,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Powerade® Mountain Berry Blast, Medium",,160,0,0,0,0,210,40,0,40,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Powerade® Mountain Berry Blast, Large",,230,0,0,0,0,300,59,0,58,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Sprite®, Small",,190,0,0,0,0,95,50,0,50,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Sprite®, Medium",,250,0,0,0,0,130,68,0,68,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27
+culvers,DRINKS,"Sprite®, Large",,370,0,0,0,0,190,99,0,99,,0,,,https://cdn.culvers.com/menu/docs/guide-nutrition-allergen.pdf,2026-10-27

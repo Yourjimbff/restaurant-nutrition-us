@@ -1,0 +1,98 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+innout,Burgers,Hamburger with Onion,209,360,16,5,0,35,670,38,2,8,,16,"Bun, 100% beef patty, lettuce, tomato, spread, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,"Hamburger with Onion, mustard and ketchup instead of spread",202,300,10,4,0,35,610,38,2,9,,16,"Bun, 100% beef patty, lettuce, tomato, spread, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,Hamburger Protein Style (bun replaced with lettuce),211,210,14,4.5,0,35,390,9,2,6,,12,"Bun, 100% beef patty, lettuce, tomato, spread, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,Cheeseburger with Onion,229,430,21,8,0,55,1080,40,2,9,,20,"Bun, 100% beef patty, lettuce, tomato, spread, 1 slice of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,"Cheeseburger with Onion, mustard and ketchup instead of spread",222,380,15,7,0,55,1020,39,2,9,,20,"Bun, 100% beef patty, lettuce, tomato, spread, 1 slice of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,Cheeseburger Protein Style (bun replaced with lettuce),231,280,19,8,0,55,800,11,2,7,,16,"Bun, 100% beef patty, lettuce, tomato, spread, 1 slice of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,Double-Double with Onion,287,610,34,15,0,110,1670,42,2,9,,34,"Bun, 2 100% beef patties, lettuce, tomato, spread, 2 slices of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,"Double-Double with Onion, mustard and ketchup instead of spread",280,550,27,14,0,105,1600,41,2,10,,34,"Bun, 2 100% beef patties, lettuce, tomato, spread, 2 slices of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Burgers,Double-Double Protein Style (bun replaced with lettuce),289,460,32,15,0,110,1390,12,2,7,,30,"Bun, 2 100% beef patties, lettuce, tomato, spread, 2 slices of American cheese, with or without onions.",,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fries,French Fries,125,360,15,1.5,0,0,150,49,6,0,,6,Potatoes prepared fresh in 100% sunflower oil.,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Shakes,Chocolate Shake — 15 oz,,610,30,19,1,110,370,74,0,61,,16,Made from real ice cream.,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Shakes,Vanilla Shake — 15 oz,,590,31,20,1,115,360,66,0,55,,16,Made from real ice cream.,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Shakes,Strawberry Shake — 15 oz,,610,30,19,1,110,350,74,0,63,,15,Made from real ice cream.,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Drinks,Coffee — 15 oz,,0,0,0,0,0,0,0,0,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Drinks,Hot Cocoa — 8 oz,,160,3,2.5,0,0,240,33,2,29,,2,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Drinks,Hot Cocoa with Marshmallows — 8 oz,,180,3,2.5,0,0,240,33,2,34,,2,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Drinks,Milk — 10 oz,,160,7,4,0,25,160,16,0,16,,10,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Sm with ice — 11 fl oz,,130,0,,,,35,37,,37,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Sm without ice — 14 fl oz,,170,0,,,,45,47,,47,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Med with ice — 15 fl oz,,180,0,,,,50,50,,50,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Med without ice — 20 fl oz,,240,0,,,,65,67,,67,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Lg with ice — 22 fl oz,,270,0,,,,75,74,,74,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola Lg without ice — 30 fl oz,,370,0,,,,100,101,,101,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola X-Lg with ice — 29 fl oz,,360,0,,,,95,97,,97,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Coca-Cola X-Lg without ice — 42 fl oz,,520,0,,,,140,141,,141,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Sm with ice — 11 fl oz,,0,0,,,,45,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Sm without ice — 14 fl oz,,0,0,,,,55,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Med with ice — 15 fl oz,,0,0,,,,60,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Med without ice — 20 fl oz,,0,0,,,,80,<1,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Lg with ice — 22 fl oz,,0,0,,,,90,<1,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke Lg without ice — 30 fl oz,,0,0,,,,120,<1,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke X-Lg with ice — 29 fl oz,,0,0,,,,115,<1,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Diet Coke X-Lg without ice — 42 fl oz,,0,0,,,,170,1,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Sm with ice — 11 fl oz,,140,0,,,,40,38,,38,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Sm without ice — 14 fl oz,,180,0,,,,50,49,,49,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Med with ice — 15 fl oz,,190,0,,,,50,52,,52,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Med without ice — 20 fl oz,,260,0,,,,70,70,,70,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Lg with ice — 22 fl oz,,280,0,,,,75,77,,77,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke Lg without ice — 30 fl oz,,380,0,,,,105,105,,105,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke X-Lg with ice — 29 fl oz,,370,0,,,,100,101,,101,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Cherry Coke X-Lg without ice — 42 fl oz,,540,0,,,,140,146,,146,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Sm with ice — 11 fl oz,,130,0,,,,45,35,,35,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Sm without ice — 14 fl oz,,170,0,,,,60,45,,44,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Med with ice — 15 fl oz,,180,0,,,,65,48,,48,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Med without ice — 20 fl oz,,240,0,,,,85,64,,63,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Lg with ice — 22 fl oz,,260,0,,,,95,71,,70,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP Lg without ice — 30 fl oz,,360,0,,,,125,96,,95,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP X-Lg with ice — 29 fl oz,,350,0,,,,120,93,,92,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,7UP X-Lg without ice — 42 fl oz,,510,0,,,,180,135,,133,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Sm with ice — 11 fl oz,,130,0,,,,40,36,,35,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Sm without ice — 14 fl oz,,170,0,,,,50,46,,45,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Med with ice — 15 fl oz,,180,0,,,,55,49,,48,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Med without ice — 20 fl oz,,240,0,,,,75,65,,64,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Lg with ice — 22 fl oz,,260,0,,,,80,72,,70,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper Lg without ice — 30 fl oz,,360,0,,,,110,98,,96,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper X-Lg with ice — 29 fl oz,,350,0,,,,105,94,,93,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Dr Pepper X-Lg without ice — 42 fl oz,,500,0,,,,150,137,,134,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Sm with ice — 11 fl oz,,140,0,,,,65,37,,37,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Sm without ice — 14 fl oz,,170,0,,,,80,47,,47,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Med with ice — 15 fl oz,,190,0,,,,85,50,,50,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Med without ice — 20 fl oz,,250,0,,,,115,67,,67,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Lg with ice — 22 fl oz,,270,0,,,,125,74,,74,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer Lg without ice — 30 fl oz,,370,0,,,,170,101,,101,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer X-Lg with ice — 29 fl oz,,360,0,,,,170,97,,97,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Barq's Root Beer X-Lg without ice — 42 fl oz,,520,0,,,,240,141,,141,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Sm with ice — 11 fl oz,,150,0,,,,25,35,,33,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Sm without ice — 14 fl oz,,190,0,,,,30,45,,42,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Med with ice — 15 fl oz,,200,0,,,,30,48,,45,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Med without ice — 20 fl oz,,270,0,,,,45,64,,60,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Lg with ice — 22 fl oz,,300,0,,,,50,70,,66,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade Lg without ice — 30 fl oz,,410,0,,,,65,96,,90,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade X-Lg with ice — 29 fl oz,,400,0,,,,65,93,,87,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Signature Pink Lemonade X-Lg without ice — 42 fl oz,,570,0,,,,90,134,,126,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Sm with ice — 11 fl oz,,5,0,,,,25,3,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Sm without ice — 14 fl oz,,10,0,,,,30,3,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Med with ice — 15 fl oz,,10,0,,,,35,4,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Med without ice — 20 fl oz,,10,0,,,,45,5,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Lg with ice — 22 fl oz,,15,0,,,,50,5,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade Lg without ice — 30 fl oz,,15,0,,,,65,7,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade X-Lg with ice — 29 fl oz,,15,0,,,,65,7,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Lite Pink Lemonade X-Lg without ice — 42 fl oz,,25,0,,,,90,10,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Sm with ice — 6 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Sm without ice — 14 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Med with ice — 9 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Med without ice — 20 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Lg with ice — 14 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea Lg without ice — 30 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea X-Lg with ice — 19 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Unsweetened Iced Tea X-Lg without ice — 42 fl oz,,0,0,,,,0,0,,0,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Sm with ice — 6 fl oz,,80,0,,,,0,20,,20,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Sm without ice — 14 fl oz,,180,0,,,,0,46,,46,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Med with ice — 9 fl oz,,110,0,,,,0,30,,30,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Med without ice — 20 fl oz,,260,0,,,,0,66,,66,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Lg with ice — 14 fl oz,,180,0,,,,0,46,,46,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea Lg without ice — 30 fl oz,,380,0,,,,0,99,,99,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea X-Lg with ice — 19 fl oz,,240,0,,,,0,63,,63,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
+innout,Fountain Drinks,Sweet Iced Tea X-Lg without ice — 42 fl oz,,540,0,,,,0,138,,138,,0,,,https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf,2026-10-27
