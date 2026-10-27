@@ -1,0 +1,158 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+wafflehouse,Menu,American Cheese (2 Slices),,100,10,5,0,26,500,2,0,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,2 Eggs - Scrambled,,180,14,4,1,338,176,2,0,2,,12,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Diced Ham - 1.5-oz,,140,6,2,0,50,1260,4,0,2,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Hashbrowns,,380,14,6,0,0,480,58,6,0,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Ham Egg & Cheese Hashbrown Bowl,,800,44,17,1,414,2416,66,6,6,,42,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon - 3 slices,,135,12,5,0,30,375,0,0,0,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon Egg & Cheese Hashbrown Bowl,,795,50,20,1,394,1531,62,6,4,,33,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage - 2 patties,,180,13,4,0,75,700,0,0,0,,14,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage Egg & Cheese Hashbrown Bowl,,840,51,19,1,439,1856,62,6,4,,38,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage - 2 patties,,260,24,8,0,50,510,1,0,0,,10,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Egg & Cheese Hashbrown Bowl,,920,62,23,1,414,1666,63,6,4,,34,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Country Ham - 1 Slice,,190,9,3,0,95,2110,1,0,1,,25,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,City Ham - 1 Slice,,100,3,1,0,40,850,7,0,6,,14,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon - 3 Slices,,135,12,5,0,30,375,0,0,0,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sliced Tomatoes,,10,0,0,0,0,0,2,0,2,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Hashbrowns,,190,7,3,0,0,240,29,3,0,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grits,,90,3,1,0,0,300,16,1,0,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Toast - 1 Slice,,100,1,0,0,0,190,19,1,2,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Biscuit,,300,15,9,0,0,800,34,1,2,,5,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Raisin Toast - 2 Slices,,220,3,0,0,0,280,42,2,16,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Wheat Toast - 2 Slices,,120,2,0,0,0,250,26,4,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,White Toast - 2 Slices,,130,2,0,0,0,260,25,1,3,,4,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Classic Waffle,,410,18,10,0,50,870,55,2,15,,8,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Hashbrowns,,190,7,3,0,0,240,29,3,0,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken & Eggs: Grilled Chicken and 2 Eggs - Scrambled,,310,15,4,1,418,1106,4,0,2,,41,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Country Ham & Eggs: Country Ham and 2 Eggs - Scrambled,,370,23,7,1,433,2286,3,0,3,,37,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Steak & Eggs: Delmonico Steak and 2 Eggs - Scrambled,,480,28,9,2,473,636,2,0,2,,53,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,T-Bone & Eggs: T-Bone Steak and 2 Eggs - Scrambled,,600,43,15,1,453,436,2,0,2,,49,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Cheese 'N Eggs: 2 Scrambled Eggs with Cheese,,280,24,9,1,364,676,4,0,4,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,2 Egg Breakfast: 2 Eggs - Scrambled,,180,14,4,1,338,176,2,0,2,,12,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,: Blueberry Nougat - 1-oz,,98,2,3,1,0,8,13,0,9,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Toppings,,95,5,3,0,0,0,14,1,11,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Pecans - 0.75-oz,,150,15,2,0,0,0,3,2,1,,2,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Classic Waffle House Waffle,,410,18,10,0,50,870,55,2,15,,8,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,2 Eggs - Fried,,180,14,4,1,338,176,2,0,2,,12,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Add-ons: American Cheese - 2 slices,,100,10,5,0,26,500,2,0,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Country Ham Biscuits (2),,790,39,21,0,95,3710,69,2,5,,35,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,1 Egg - Fried,,90,7,2,0,169,88,1,0,1,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Add-ons: American Cheese - 1 slice,,50,5,3,0,13,250,1,0,1,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,City Ham Biscuit (1),,400,33,19,0,40,2450,75,2,10,,24,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage Biscuit - 1 patty,,390,22,11,0,38,1150,34,1,2,,12,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Biscuit - 1 patty,,430,27,13,0,25,1055,35,1,2,,10,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon Biscuit - 2 slices,,390,23,12,0,20,1050,34,1,2,,11,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Biscuit,,430,16,9,0,80,1730,36,1,2,,34,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon Egg & Cheese Biscuit - 2 slices,,530,35,17,0,202,1388,36,1,4,,20,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage Egg & Cheese Biscuit - 1 patty,,530,34,15,0,220,1488,36,1,4,,21,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Egg & Cheese Biscuit - 1 patty,,570,39,18,0,207,1393,37,1,4,,19,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Ham Egg & Cheese Grits Bowl,,600,35,12,1,414,2536,40,2,6,,42,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon Egg & Cheese Grits Bowl,,595,41,15,1,394,1651,36,2,4,,33,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage Egg & Cheese Grits Bowl,,640,42,14,1,439,1976,36,2,4,,38,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Egg & Cheese Grits Bowl,,720,53,18,1,414,1786,37,2,4,,34,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Tomatoes,,10,0,0,0,0,0,2,1,2,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Cheese Grits,,140,8,3,0,13,550,17,1,1,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Biscuit & Sausage Gravy - 3-oz,,375,33,11,0,4,1185,42,1,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Country Ham - 1 slice (5-oz),,190,9,3,0,95,2110,1,0,1,,25,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,City Ham - 1 slice (3-oz),,100,3,1,0,40,850,7,0,6,,14,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Sausage - 3 patties,,390,36,12,0,75,765,2,0,0,,15,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Bacon - 5 slices,,225,20,8,0,50,625,0,0,0,,15,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Gravy - 3 oz,,75,18,2,0,4,385,8,0,0,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bert's Chili™ - 3 oz,,110,4,1,0,10,530,11,4,1,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Mushrooms - 1.5-oz,,15,0,0,0,0,210,3,2,2,,2,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Jalapeno Peppers - 1.5-oz,,15,0,0,0,0,585,3,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,: Grilled Tomatoes - 1.5-oz,,5,0,0,0,0,0,2,0,1,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Hickory Smoked Ham - 1.5-oz,,70,3,1,0,25,630,2,0,1,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Melted American Cheese - 1 slice,,50,5,3,0,13,250,1,0,1,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sautéed Onions - 1.5-oz,,15,0,0,0,0,0,3,1,1,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Hashbrowns: Large - 2 orders,,380,14,6,0,0,480,58,6,0,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Waffle House Regular,,190,7,3,0,0,240,29,3,0,,3,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Kid's Chicken Sausage,,90,7,2,0,38,350,0,0,0,,7,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Kid's Sausage,,130,12,4,0,25,255,1,0,0,,5,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Kid's Bacon,,90,8,3,0,20,250,0,0,0,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sliced Tomatoes,,10,0,0,0,0,0,2,1,2,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Kid's 1 Egg Breakfast with Bacon or Sausage: 1 Egg Scrambled,,90,7,2,0,169,88,1,0,1,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Kids Waffle with Bacon or Sausage: Waffle,,410,18,10,0,50,870,55,2,15,,8,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Texas Ham, Egg & Cheese Melt",,490,22,8,0,235,1818,48,2,13,,32,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Ham, Egg & Cheese Sandwich",,370,16,5,0,222,1448,34,1,11,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Ham & Egg Sandwich,,320,11,3,0,209,1198,33,1,10,,24,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Ham Sandwich,,230,4,1,0,40,1110,32,1,9,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Texas Bacon, Egg & Cheese Melt - 3 slices",,525,31,12,0,225,1343,41,2,7,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Bacon, Egg & Cheese Sandwich - 3 slices",,405,26,9,0,212,973,27,1,5,,22,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon & Egg Sandwich - 3 slices,,355,21,7,0,199,723,26,1,4,,19,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bacon Sandwich - 3 slices,,265,14,5,0,30,635,25,1,3,,13,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Texas Chicken Sausage, Egg & Cheese Melt - 2 patties",,570,32,11,0,270,1668,41,2,7,,32,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Chicken Sausage, Egg & Cheese Sandwich - 2 patties",,450,27,8,0,257,1298,27,1,5,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage & Egg Sandwich - 2 patties,,400,22,6,0,244,1048,26,1,4,,24,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage Sandwich - 2 patties,,310,15,4,0,75,960,25,1,3,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Texas Sausage, Egg & Cheese Melt - 2 patties",,650,43,15,0,245,1478,42,2,7,,28,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,"Sausage, Egg & Cheese Sandwich - 2 patties",,530,38,13,0,232,1108,28,1,5,,23,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage & Egg Sandwich - 2 patties,,480,33,10,0,219,858,27,1,4,,20,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage Sandwich - 2 patties,,390,26,8,0,50,770,26,1,3,,14,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Egg & Cheese Melt,,390,19,7,0,195,968,41,2,7,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Egg & Cheese Sandwich,,270,14,5,0,182,598,27,1,5,,13,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Egg Sandwich,,220,9,2,0,169,348,26,1,4,,10,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Fiesta Omelet Breakfast: 2 Egg Fiesta Omelet,,385,27,10,1,389,1891,14,1,7,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Cheesesteak Omelet Breakfast: 2 Egg Cheesesteak Omelet,,410,31,12,1,414,976,4,0,4,,34,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Cheese Omelet Breakfast: 2 Egg Cheese Omelet,,280,24,9,1,364,676,4,0,4,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,American Cheese - 2 Slices,,100,10,5,0,26,500,2,0,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Onions - 1.5-oz,,15,0,0,0,0,0,3,1,1,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Chicken - 1 breast,,130,1,0,0,80,930,2,0,0,,29,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Cheesesteak - 1 serving,,130,7,3,0,50,300,0,0,0,,16,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Tomatoes - 1.5-oz,,5,0,0,0,0,0,2,0,1,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Melted American Cheese - 2 slices,,100,10,5,0,26,500,2,0,2,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Sausage - 1 patty,,90,7,2,0,38,350,0,0,0,,7,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sausage - 1 patty,,130,12,4,0,25,255,1,0,0,,5,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Meats: Bacon - 2 slices,,90,8,3,0,20,250,0,0,0,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,2 Egg Omelet,,180,14,4,1,338,176,2,0,2,,12,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grits,,90,3,1,0,0,300,16,1,0,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Pork Chops (3),,510,21,8,0,210,1560,0,0,0,,78,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Pork Chops (2),,340,14,5,0,140,1040,0,0,0,,52,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Country Ham (1),,190,9,3,0,95,2110,1,0,1,,25,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Filet (2),,260,2,0,0,160,1860,4,0,0,,58,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Chicken Filet ( 1),,130,1,0,0,80,930,2,0,0,,29,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Add Bacon - 2 slices,,90,8,3,0,20,250,0,0,0,,6,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bun,,130,2,0,0,0,240,25,1,3,,4,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Angus Patty,,220,17,7,1,60,55,0,0,0,,15,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Double Angus 1/4 LB Cheeseburger Deluxe,,690,46,19,2,146,850,32,2,7,,40,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Angus 1/4 LB Cheeseburger Deluxe,,420,24,10,1,73,545,31,2,6,,22,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Angus 1/4 LB Hamburger Deluxe,,370,19,7,1,60,295,30,2,5,,19,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Bert's Chili™ (9 oz),,330,12,3,0,30,1590,33,12,3,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Bert's Chili™ (6 oz),,220,8,2,0,20,1060,22,8,2,,18,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Bert's Chili™ as a Topping (3 oz),,110,4,1,0,10,530,11,4,1,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Angus Patty Melt,,535,29,12,1,86,935,43,3,7,,27,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Cheesesteak™ Melt,,445,19,8,0,76,1180,43,3,7,,28,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Grilled Chicken Melt,,445,13,5,0,106,1810,45,3,7,,41,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Delmonico Steak (1),,300,14,5,1,135,460,0,0,0,,41,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,T-Bone Steak (1),,420,29,11,0,115,260,0,0,0,,37,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Hot Tea,,5,0,0,0,0,0,0,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Chocolate Milk,,230,9,5,0,35,190,31,0,29,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Chocolate Milk,,440,16,10,0,70,360,58,0,54,,16,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Large Milk,,250,10,6,0,40,230,24,0,24,,16,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Milk,,130,5,4,0,20,125,13,0,13,,9,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Honest Kids Apple Juice,,35,0,0,0,0,15,9,0,8,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Simply Apple Juice,,160,0,0,0,0,5,43,0,40,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Simply Orange Juice,,160,0,0,0,0,0,37,0,33,,2,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Alice's Iced Tea-Monade,,140,0,0,0,0,0,36,0,35,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Alice's Iced Tea™ - Sweet,,70,0,0,0,0,0,17,0,17,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Simply Lemonade,,160,0,0,0,0,30,41,0,39,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Hi-C® Fruit Punch,,170,0,0,0,0,55,46,0,45,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Barq's Root Beer®,,180,0,0,0,0,75,50,0,50,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Pibb-Xtra®,,150,0,0,0,0,60,42,0,42,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Sprite®,,160,0,0,0,0,70,42,0,42,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Diet Coke®,,0,0,0,0,0,50,0,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Coca-Cola®,,160,0,0,0,0,35,44,0,44,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Coffee - Decaf,,5,0,0,0,0,0,1,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Dark Roast Coffee,,5,0,0,0,0,0,1,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Coffee,,5,0,0,0,0,0,1,0,0,,0,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Small Slice Triple Chocolate Pie,,245,13,8,0,32,135,30,1,20,,1,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Slice Triple Chocolate Pie,,490,26,16,0,64,270,60,2,40,,2,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Small Slice Southern Pecan Pie,,255,13,4,0,33,305,33,1,14,,2,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Regular Slice Southern Pecan Pie,,510,26,8,0,66,610,66,1,28,,4,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Texas Bacon Lover's BLT Sandwich - 5 bacon slices,,435,22,8,0,50,1005,40,2,5,,21,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,BLT Sandwich - 3 bacon slices,,275,14,5,0,30,635,27,1,4,,13,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Ham & Cheese Sandwich (Lettuce & Tomato),,285,9,3,0,53,1360,35,1,11,,21,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Waffle Sandwich (Ham and Cheese on Wheat),,270,10,3,0,53,1350,34,4,9,,23,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Cheese Sandwich,,230,12,5,0,26,760,27,1,5,,10,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Chicken Bacon Cheese Sandwich Deluxe,,420,16,6,0,113,1670,33,2,6,,42,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27
+wafflehouse,Menu,Grilled Chicken Sandwich Deluxe,,280,3,0,0,80,1170,32,2,5,,33,,,https://www.wafflehouse.com/wp-content/uploads/2026/08/Nutritionals-Allergens-2026-08-27.pdf,2026-10-27

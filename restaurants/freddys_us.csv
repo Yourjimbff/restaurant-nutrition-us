@@ -1,0 +1,309 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+freddys,Chicken & Hot Dogs,Grilled Chicken Club,,530,29.00,8.00,0,100,1410,31.00,1.00,7.00,,35.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Crispy Chicken Club,,720,41.00,10.00,0,100,1750,44.00,2.00,7.00,,42.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Spicy Chicken Sandwich,,570,29.00,4.50,0,65,1630,44.00,1.00,6.00,,32.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Chicken Tenders - Regular (3-Piece),,420,17.00,3.00,0,60,1330,29.00,2.00,0,,35.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Chicken Tenders - Large (5-Piece),,690,29.00,5.00,0,95,2210,49.00,4.00,1.00,,58.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Hot Dog,,420,24.00,9.00,0,40,1000,35.00,0,6.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Chili Cheese Dog,,540,31.00,13.00,0,60,1320,41.00,1.00,8.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Chicken & Hot Dogs,Make any Sandwich a Lettuce Wrap,,-180,-6.00,-1.00,0,0,-270,-25.00,1.00,-3.00,,-3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Banana,,20,0,0,0,0,0,5.00,1.00,3.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Brownie,,170,6.00,0.50,0,15,125,26.00,0,17.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Butterfinger®,,120,4.50,2.50,0,0,60,19.00,0,12.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Cheesecake,,60,3.50,2.00,0,10,55,6.00,0,4.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Cherry Syrup,,60,0,0,0,0,40,15.00,0,14.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Chocolate Chips,,130,8.00,4.50,0,0,0,19.00,2.00,15.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Chocolate Syrup,,80,0,0,0,0,10,21.00,1.00,17.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Cookie Dough,,100,4.50,2.50,0,0,50,16.00,0,9.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Gummy Worm,,100,0,0,0,0,10,23.00,0,16.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Heath® Toffee Bar,,120,8.00,4.00,0,10,75,14.00,0,14.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Hot Caramel,,150,1.50,1.00,0,5,115,33.00,0,23.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Hot Fudge,,160,5.00,5.00,0,0,70,25.00,1.00,19.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Maraschino Cherry,,5,0,0,0,0,0,2.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Marshmallow,,70,0,0,0,0,15,18.00,0,15.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,M&M® Candies,,160,7.00,4.50,0,5,20,21.00,1.00,19.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,OREO® Cookie Pieces,,80,3.00,1.00,0,0,60,12.00,1.00,6.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Pecans,,120,12.00,1.00,0,0,0,2.00,2.00,1.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Reese's Peanut Butter Cup,,160,9.00,3.50,0,0,110,18.00,1.00,15.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Reese's Peanut Butter Sauce,,120,11.00,1.50,0,0,100,4.00,1.00,2.00,,4.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Sprinkles,,120,4.00,3.50,0,0,15,21.00,0,18.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Strawberry,,60,0,0,0,0,0,15.00,1.00,13.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard Toppings,Whipped Cream,,30,2.50,1.50,0,5,10,2.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Applesauce,,50,0,0,0,0,0,13.00,1.00,11.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Cheese Fries - Large,,710,36.00,8.00,0,30,1210,78.00,7.00,4.00,,20.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Cheese Fries - Regular,,470,26.00,5.00,0,5,710,53.00,4.00,2.00,,6.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Cheese Curds - Large,,1110,81.00,41.00,2.00,130,2530,43.00,3.00,1.00,,52.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Cheese Curds - Regular,,520,38.00,19.00,1.00,60,1180,20.00,1.00,1.00,,24.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Chili - Bowl (w/ Cheese),,390,19.00,8.00,0,70,1440,28.00,6.00,6.00,,31.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Chili - Cup (w/ Cheese),,270,14.00,6.00,0,50,960,18.00,4.00,4.00,,21.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Chili Cheese Fries - Large,,710,36.00,8.00,0,30,1210,78.00,7.00,4.00,,20.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Chili Cheese Fries - Regular,,520,27.00,6.00,0,15,830,58.00,5.00,3.00,,12.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Fries - Kid's,,230,12.00,2.00,0,0,150,27.00,2.00,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Fries - Large,,520,27.00,4.00,0,0,340,62.00,5.00,0,,7.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Fries - Regular,,400,21.00,3.00,0,,260,48.00,4.00,0,,7.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Kettle Cooked Potato Chips,,200,12.00,1.50,0,0,260,23.00,2.00,2.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Tots - Kid's,,300,23.00,5.00,0,0,700,23.00,2.00,0,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Tots - Large,,680,52.00,12.00,0,0,1570,51.00,4.00,1.00,,4.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Freddy's Tots - Regular,,530,40.00,9.00,0,0,1220,39.00,3.00,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Onion Rings - Regular,,380,19.00,3.00,0,0,610,49.00,3.00,8.00,,4.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Sides,Onion Rings - Large,,770,38.00,6.00,0,2,1230,98.00,5.00,15.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Single Steakburger (No Cheese),,380,12.00,10.00,1.00,70,870,30.00,0,4.00,,24.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Double Steakburger (No Cheese),,570,29.00,10.00,1.50,135,1060,30.00,0,5.00,,43.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Triple Steakburger (No Cheese),,760,41.00,14.00,2.50,205,1250,30.00,0,5.00,,63.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Bacon & Cheese - Single Patty,,520,28.00,10.00,1.00,100,1460,32.00,0,6.00,,33.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Bacon & Cheese - Double Patty,,760,44.00,17.00,1.50,180,1890,33.00,0,7.00,,55.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Bacon & Cheese - Triple Patty,,990,60.00,24.00,2.50,260,2330,34.00,0,7.00,,77.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,California Style - Single Patty,,510,29.00,9.00,1.00,90,890,35.00,2.00,10.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,California Style - Double Patty,,750,45.00,16.00,1.50,170,1320,36.00,2.00,10.00,,49.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,California Style - Triple Patty,,980,61.00,23.00,2.50,250,1760,37.00,2.00,11.00,,71.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Cheeseburger - Single Patty,,430,22.00,8.00,1.00,80,1120,31.00,0,6.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Cheeseburger - Double Patty,,670,38.00,15.00,1.50,160,1560,32.00,0,6.00,,48.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Cheeseburger - Triple Patty,,910,54.00,22.00,2.50,240,2000,33.00,0,7.00,,70.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Patty Melt - Single Patty,,540,28.00,9.00,1.00,80,1040,39.00,2.00,4.00,,30.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Patty Melt - Double Patty,,780,44.00,16.00,1.50,160,1470,40.00,2.00,4.00,,52.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Patty Melt - Triple Patty,,1020,60.00,23.00,2.50,240,1900,41.00,2.00,5.00,,74.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Jalapeño Pepper Jack - Single Patty,,530,33.00,10.00,1.00,95,960,31.00,1.00,6.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Jalapeño Pepper Jack - Double Patty,,790,50.00,18.00,1.50,180,1470,32.00,1.00,6.00,,49.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Jalapeño Pepper Jack - Triple Patty,,1050,68.00,26.00,2.50,270,1980,33.00,1.00,6.00,,72.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Prime Steakburger - Single Patty,,770,54.00,16.00,1.00,130,1350,33.00,1.00,6.00,,34.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Prime Steakburger - Double Patty,,1000,70.00,23.00,1.50,210,1780,34.00,1.00,6.00,,56.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Prime Steakburger - Triple Patty,,1240,86.00,30.00,2.50,290,2210,35.00,1.00,7.00,,78.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Grilled Cheese Steakburger - Double Patty,,1050,67.00,25.00,1.50,215,2340,52.00,0,7.00,,64.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Veggie Burger,,510,24.00,6.00,0,20,1180,52.00,10.00,11.00,,22.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Steakburgers,Make any Sandwich a Lettuce Wrap,,-180,-6.00,-1.00,0,0,-270,-25.00,1.00,-3.00,,-3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Bowls,Crispy Chicken Bowl (Excludes Dressing),,610,38.00,11.00,0,105,1520,24.00,4.00,5.00,,43.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Bowls,Grilled Chicken Bowl (Excludes Dressing),,420,27.00,9.00,0,105,1180,10.00,4.00,4.00,,37.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Bowls,Steakburger Bowl (Excludes Dressing),,660,45.00,17.00,1.50,180,1070,9.00,4.00,4.00,,55.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Bowls,Veggie Burger Bowl (Excludes Dressing),,370,20.00,6.00,0,20,730,26.00,12.00,5.00,,22.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi® Small,,160,0,0,0,0,30,41.00,0,41.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi® Medium,,260,0,0,0,0,55,69.00,0,69.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi® Large,,410,0,0,0,0,85,110.00,0,110.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Pepsi® Small,,0,0,0,0,0,55,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Pepsi® Medium,,0,0,0,0,0,95,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Pepsi® Large,,0,0,0,0,0,150,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Dr. Pepper®️ Small,,160,0,0,0,0,60,40.00,0,40.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Dr. Pepper®️ Medium,,260,0,0,0,0,100,66.00,0,66.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Dr. Pepper®️ Large,,410,0,0,0,0,160,105.00,0,105.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Dr. Pepper®️ Small,,0,0,0,0,0,60,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Dr. Pepper®️ Medium,,0,0,0,0,0,100,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Dr. Pepper®️ Large,,0,0,0,0,0,160,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,MUG®️ Root Beer Small,,160,0,0,0,0,45,39.00,0,39.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,MUG®️ Root Beer Medium,,260,0,0,0,0,75,65.00,0,65.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,MUG®️ Root Beer Large,,410,0,0,0,0,120,104.00,0,104.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mountain Dew®️ Small,,170,0,0,0,0,50,44.00,0,44.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mountain Dew®️ Medium,,290,0,0,0,0,75,65.00,0,65.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mountain Dew®️ Large,,460,0,0,0,0,135,117.00,0,117.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Mountain Dew®️ Small,,0,0,0,0,0,55,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Mountain Dew®️ Medium,,10,0,0,0,0,90,1.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Diet Mountain Dew®️ Large,,15,0,0,0,0,150,1.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mist Twist®️ Small,,160,0,0,0,0,155,40.00,0,40.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mist Twist®️ Medium,,260,0,0,0,0,55,68.00,0,68.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Mist Twist®️ Large,,410,0,0,0,0,90,108.00,0,108.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Pink Lemonade Small,,160,0,0,0,0,155,40.00,0,40.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Pink Lemonade Medium,,260,0,0,0,0,260,67.00,0,67.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Pink Lemonade Large,,410,0,0,0,0,410,107.00,0,107.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Lemonade Small,,160,0,0,0,0,155,40.00,0,40.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Lemonade Medium,,260,0,0,0,0,260,67.00,0,67.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Lemonade Large,,410,0,0,0,0,410,107.00,0,107.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Light Lemonade Small,,0,0,0,0,0,140,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Light Lemonade Medium,,10,0,0,0,0,235,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Light Lemonade Large,,15,0,0,0,0,375,1.00,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Fruit Punch Small,,170,0,0,0,0,35,45.00,0,45.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Fruit Punch Medium,,290,0,0,0,0,60,75.00,0,75.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Tropicana®️ Fruit Punch Large,,460,0,0,0,0,95,120.00,0,120.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi®️ Wild Cherry Small,,160,0,0,0,0,30,42.00,0,42.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi®️ Wild Cherry Medium,,260,0,0,0,0,50,70.00,0,70.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Pepsi®️ Wild Cherry Large,,410,0,0,0,0,85,112.00,0,112.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Unsweet Small,,0,0,0,0,0,0,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Unsweet Medium,,0,0,0,0,0,0,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Unsweet Large,,0,0,0,0,0,0,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Small,,110,0,0,0,0,5,27.00,0,27.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Medium,,180,0,0,0,0,10,46.00,0,46.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Luzianne®️ Iced Tea Large,,280,0,0,0,0,15,73.00,0,73.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Raspberry Small,,80,0,0,0,0,45,20.00,0,20.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Raspberry Medium,,130,0,0,0,0,70,33.00,0,33.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Raspberry Large,,200,0,0,0,0,115,52.00,0,52.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Peach Small,,0,0,0,0,0,105,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Peach Medium,,5,0,0,0,0,175,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Lipton Brisk®️ Peach Large,,10,0,0,0,0,285,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Moutain Dew CODE RED®️ Small,,170,0,0,0,50,0,46.00,0,46.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Moutain Dew CODE RED®️ Medium,,290,0,0,0,0,85,77.00,0,77.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Moutain Dew CODE RED®️ Large,,460,0,0,0,0,130,123.00,0,123.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Sobe®️ Lifewater Yumberry Pomegranate Small,,0,0,0,0,0,45,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Sobe®️ Lifewater Yumberry Pomegranate Medium,,0,0,0,0,0,80,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Sobe®️ Lifewater Yumberry Pomegranate Large,,0,0,0,0,0,125,1.00,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Blue Rizzberry Custard Cream Soda - Regular,,250,3.50,2.50,0,20,55,53.00,0,53.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Blue Rizzberry Custard Cream Soda - Large,,430,7.00,4.50,0,40,100,87.00,0,86.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Coco Loco Custard Cream Soda - Regular,,270,3.50,2.50,0,20,75,58.00,0,57.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Coco Loco Custard Cream Soda - Large,,460,7.00,4.50,0,40,130,95.00,0,92.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Golden Hour Orange Custard Cream Soda - Regular,,260,3.50,2.50,0,20,55,58.00,0,58.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Golden Hour Orange Custard Cream Soda - Large,,450,7.00,4.50,0,40,100,96.00,0,95.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Magic Custard Cream Soda - Regular,,270,3.50,2.50,0,20,55,59.00,0,58.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Magic Custard Cream Soda - Large,,460,7.00,4.50,0,40,100,98.00,0,95.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Sunrise Lemonade - Regular,,200,0,0,0,0,125,51.00,0,51.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Sunrise Lemonade - Large,,330,0,0,0,0,190,86.00,0,85.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Sunrise Tea - Regular,,100,0,,0,0,10,26.00,0,24.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Mango Sunrise Tea - Large,,180,0,,0,0,15,45.00,0,42.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies -Peachy Keen Lemonade - Regular,,200,0,,0,0,125,51.00,0,51.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Peachy Keen Lemonade - Large,,330,0,,0,0,190,85.00,0,85.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Peachy Keen Tea - Regular,,100,0,,0,0,10,25.00,0,24.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Peachy Keen Tea - Large,,180,0,,0,0,15,43.00,0,42.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Peach Peach Baby Custard Cream Soda - Regular,,270,3.50,2.50,0,20,55,58.00,0,58.00,,2.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Peach Peach Baby Custard Cream Soda - Large,,460,7.00,4.50,0,40,100,96.00,0,95.00,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Strawberry Sunset Lemonade - Regular,,190,0,,0,0,125,50.00,0,49.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Strawberry Sunset Lemonade - Large,,320,0,,0,0,190,83.00,0,82.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Strawberry Sunset Tea - Regular,,90,0,,0,0,10,24.00,0,22.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Drinks,Freddy's Bevies - Strawberry Sunset Tea - Large,,160,0,,0,0,15,42.00,0,38.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Concrete - Mini,,700,31.00,17.00,0,135,360,96.00,3.00,73.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Concrete - Regular,,1040,47.00,27.00,0,240,510,132.00,4.00,103.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Concrete - Large,,1710,77.00,44.00,0,365,860,224.00,7.00,173.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Shake - Mini,,930,42.00,24.00,0,195,470,118.00,4.00,93.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Shake - Regular,,1280,60.00,35.00,0,305,630,156.00,5.00,125.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Shake - Large,,1990,91.00,52.00,0,435,1020,251.00,8.00,198.00,,39.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Sundae - Mini,,700,31.00,17.00,0,135,360,96.00,3.00,73.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Sundae - Regular,,1040,47.00,27.00,0,240,510,132.00,4.00,103.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Brownie Delight - Sundae - Large,,1710,77.00,44.00,0,365,860,224.00,7.00,173.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Chocolate Chip Frozen Custard Sandwich (Each),,300,14.00,8.00,0,40,220,43.00,1.00,27.00,,4.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Concrete - Mini,,790,36.00,22.00,0,160,420,95.00,0,81.00,,13.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Concrete - Regular,,1120,53.00,32.00,0,260,580,129.00,0,111.00,,20.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Concrete - Large,,1720,79.00,48.00,0,365,920,206.00,0,176.00,,29.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Shake - Mini,,830,38.00,23.00,0,170,450,99.00,0,85.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Shake - Regular,,1180,56.00,34.00,0,270,620,133.00,0,117.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cold Brew Caramel Crunch - Shake - Large,,1810,84.00,51.00,0,380,980,213.00,0,184.00,,34.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Chocolate - Single Scoop,,360,17.00,11.00,0,105,160,42.00,2.00,30.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Chocolate - Double Scoop,,690,33.00,21.00,0,210,310,79.00,3.00,61.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Chocolate - Triple Scoop,,1020,50.00,32.00,0,320,460,115.00,5.00,91.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Vanilla - Single Scoop,,360,17.00,11.00,0,100,170,39.00,0,30.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Vanilla - Double Scoop,,690,33.00,21.00,0,195,330,73.00,0,61.00,,16.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Cone - Vanilla - Triple Scoop,,1020,50.00,32.00,0,295,490,106.00,0,91.00,,24.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Chocolate - Mini,,500,25.00,16.00,0,160,230,55.00,2.00,45.00,,14.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Chocolate - Regular,,830,42.00,26.00,0,265,380,91.00,4.00,76.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Chocolate - Large,,1170,58.00,37.00,0,370,530,127.00,5.00,106.00,,32.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Vanilla - Mini,,500,25.00,16.00,0,150,240,50.00,0,45.00,,11.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Vanilla - Regular,,830,42.00,26.00,0,245,400,83.00,0,76.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Concrete - Vanilla - Large,,1170,58.00,37.00,0,345,560,117.00,0,106.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Chocolate - Mini,,630,28.00,18.00,0,170,280,76.00,2.00,61.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Chocolate - Regular,,1020,46.00,29.00,0,275,450,123.00,4.00,98.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Chocolate - Large,,1420,64.00,41.00,0,390,640,171.00,5.00,137.00,,38.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Vanilla - Mini,,630,28.00,18.00,0,155,290,72.00,0,61.00,,14.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Vanilla - Regular,,1020,46.00,29.00,0,260,470,115.00,0,98.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Malt - Vanilla - Large,,1420,64.00,41.00,0,365,660,160.00,0,137.00,,32.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Chocolate - Mini,,560,28.00,18.00,0,170,270,59.00,2.00,50.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Chocolate - Regular,,910,46.00,29.00,0,275,430,97.00,4.00,82.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Chocolate - Large,,1280,64.00,41.00,0,390,610,136.00,5.00,116.00,,38.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Vanilla - Mini,,560,28.00,18.00,0,155,280,54.00,0,50.00,,14.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Vanilla - Regular,,910,46.00,29.00,0,260,450,89.00,0,82.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Shake - Vanilla - Large,,1280,64.00,41.00,0,365,640,125.00,0,116.00,,32.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Chocolate - Mini,,330,17.00,11.00,0,105,150,36.00,2.00,30.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Chocolate - Regular,,670,33.00,21.00,0,210,300,73.00,3.00,61.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Chocolate - Large,,1000,50.00,32.00,0,320,450,109.00,5.00,91.00,,27.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Vanilla - Mini,,330,17.00,11.00,0,100,160,33.00,0,30.00,,8.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Vanilla - Regular,,670,33.00,21.00,0,195,320,67.00,0,61.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,CYO Sundae - Vanilla - Large,,1000,50.00,32.00,0,295,480,100.00,0,91.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Concrete - Mini,,530,21.00,12.00,0,105,250,69.00,0,54.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Concrete - Regular,,860,37.00,23.00,0,205,410,102.00,0,84.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Concrete - Large,,1360,57.00,34.00,0,300,670,168.00,1.00,135.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Sundae - Mini,,530,21.00,12.00,0,105,250,69.00,0,54.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Sundae - Regular,,860,37.00,23.00,0,205,410,102.00,0,84.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Dirt n' Worms - Sundae - Large,,1360,57.00,34.00,0,300,670,168.00,1.00,135.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Lemon Cream - Mini,,450,18.00,11.00,0,105,160,58.00,0,54.00,,8.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Lemon Cream - Regular,,810,35.00,22.00,0,205,320,99.00,0,92.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Lemon Cream - Large,,1210,51.00,32.00,0,300,480,148.00,0,137.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Orange Cream - Mini,,540,18.00,11.00,0,105,160,83.00,0,78.00,,8.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Orange Cream - Regular,,1010,35.00,22.00,0,205,320,149.00,0,140.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Freddy's Frost - Orange Cream - Large,,1500,51.00,32.00,0,300,480,222.00,0,209.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Custard Cookie - Chocolate,,310,14.00,7.00,0,55,190,41.00,2.00,28.00,,6.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Custard Cookie - Vanilla,,310,14.00,7.00,0,50,200,39.00,1.00,28.00,,5.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Concrete - Mini,,700,33.00,19.00,0,155,390,80.00,1.00,62.00,,13.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Concrete - Regular,,1040,50.00,29.00,0,250,550,113.00,1.00,93.00,,20.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Concrete - Large,,1520,72.00,42.00,0,350,820,169.00,3.00,135.00,,29.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Shake - Mini,,760,36.00,20.00,0,165,430,84.00,1.00,67.00,,16.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Shake - Regular,,1110,54.00,32.00,0,265,600,119.00,1.00,99.00,,24.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Shake - Large,,1630,78.00,45.00,0,370,900,178.00,3.00,145.00,,35.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Sundae - Mini,,540,25.00,13.00,0,105,310,63.00,1.00,47.00,,9.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Sundae - Regular,,870,42.00,24.00,0,205,470,96.00,1.00,77.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,OREO® Double Trouble - Sundae - Large,,1350,64.00,36.00,0,300,740,152.00,3.00,120.00,,25.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Concrete - Mini,,560,27.00,14.00,0,105,260,65.00,2.00,57.00,,12.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Concrete - Regular,,890,43.00,25.00,0,205,420,98.00,2.00,88.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Concrete - Large,,1420,69.00,39.00,0,300,690,160.00,4.00,142.00,,31.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Sundae - Mini,,530,27.00,14.00,0,105,260,58.00,2.00,51.00,,12.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Sundae - Regular,,860,43.00,25.00,0,205,420,91.00,2.00,81.00,,19.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Peanut Butter Bananza - Sundae - Large,,1360,69.00,39.00,0,300,670,146.00,4.00,129.00,,31.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Pint - Chocolate,,1150,57.00,37.00,0,365,520,125.00,5.00,104.00,,31.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Pint - Vanilla,,1150,57.00,37.00,0,340,550,115.00,0,104.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Quart - Chocolate,,2300,115.00,73.00,0,730,1040,250.00,10.00,209.00,,63.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Quart - Vanilla,,2300,115.00,73.00,0,680,1100,230.00,0,209.00,,52.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Concrete - Mini,,860,51.00,22.00,0,155,490,76.00,3.00,67.00,,21.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Concrete - Regular,,1200,68.00,32.00,0,250,650,109.00,3.00,97.00,,29.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Concrete - Large,,1870,109.00,48.00,0,350,1060,164.00,6.00,146.00,,46.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Shake - Mini,,920,54.00,24.00,0,165,530,80.00,3.00,72.00,,24.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Shake - Regular,,1270,72.00,35.00,0,265,700,115.00,3.00,104.00,,33.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Shake - Large,,1980,115.00,52.00,0,370,1140,173.00,6.00,156.00,,52.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Sundae - Mini,,700,43.00,17.00,0,105,410,59.00,3.00,52.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Sundae - Regular,,1030,59.00,27.00,0,205,570,92.00,3.00,82.00,,25.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Reese's Royale - Sundae - Large,,1700,101.00,43.00,0,300,980,148.00,6.00,131.00,,43.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Concrete - Mini,,730,34.00,18.00,0,110,320,91.00,2.00,72.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Concrete - Regular,,1070,51.00,28.00,0,205,480,124.00,2.00,102.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Concrete - Large,,1770,84.00,45.00,0,310,790,211.00,4.00,170.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Shake - Mini,,960,46.00,25.00,0,165,440,112.00,2.00,92.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Shake - Regular,,1310,63.00,36.00,0,270,610,146.00,2.00,124.00,,25.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Shake - Large,,2050,98.00,54.00,0,375,950,237.00,4.00,195.00,,37.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Sundae - Mini,,750,36.00,18.00,0,110,320,91.00,2.00,72.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Sundae - Regular,,1080,53.00,28.00,0,205,480,124.00,2.00,102.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Signature Turtle - Sundae - Large,,1800,87.00,45.00,0,310,790,212.00,4.00,171.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Concrete - Mini,,860,40.00,23.00,0,170,430,102.00,1.00,86.00,,14.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Concrete - Regular,,1190,57.00,34.00,0,265,590,135.00,1.00,117.00,,22.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Concrete - Large,,1850,87.00,51.00,0.50,380,930,218.00,2.00,185.00,,32.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Shake - Mini,,920,43.00,25.00,0,175,470,106.00,1.00,91.00,,17.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Shake - Regular,,1270,61.00,36.00,0,280,640,141.00,1.00,123.00,,25.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Shake - Large,,1960,93.00,54.00,0.50,395,1010,226.00,2.00,195.00,,37.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Sundae - Mini,,690,32.00,18.00,0,120,350,85.00,1.00,71.00,,10.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Sundae - Regular,,1030,49.00,28.00,0,215,510,119.00,1.00,102.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Frozen Custard,Strawberry Dreamcake - Sundae - Large,,1690,79.00,45.00,0.50,330,850,201.00,2.00,170.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Bacon,,80,6.00,2.50,0,20,330,1.00,0,1.00,,7.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Cheese - American,,50,4.50,2.50,0,10,250,1.00,0,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Cheese - Pepperjack,,70,6.00,3.50,0,20,320,1.00,0,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Cheese - Shredded Monterey Jack & Cheddar,,50,4.50,3.00,0,10,80,0,0,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Cheese - Swiss,,50,4.00,2.50,0,10,240,1.00,0,0,,3.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Smoky Fry Sauce (1 oz cup),,130,13.00,2.00,0,10,300,4.00,0,3.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Buttermilk Ranch (1 oz cup),,140,15.00,2.00,0,12,300,2.00,0,1.00,,0.50,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Famous Fry Sauce (1 oz cup),,120,12.00,2.00,0,12,288,4.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Famous Steakburger & Fry Seasoning (1g packet),,0,0,0,0,0,320,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Famous Steakburger & Fry Seasoning (Portion per Steakburger patty),,0,0,0,0,0,135,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Famous Steakburger & Fry Seasoning (Portion per regular fries),,0,0,0,0,0,310,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Hickory BBQ Sauce (1 oz cup),,35,0,0,0,0,220,9.00,0,7.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Honey Mustard (1 oz cup),,100,8.00,1.00,0,0,250,7.00,0,7.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Freddy's Jalapeño Fry Sauce (1 oz cup),,120,12.00,2.00,0,4,330,4.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Jalapeños - Raw,,0,0,0,0,0,470,1.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Jalapeños - Sautéed,,35,3.00,0.50,0,0,10,2.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Ketchup,,5,0,0,0,0,45,2.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Ketchup (0.95 oz Cup),,30,0,0,0,0,250,8.00,0,6.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Marinara (2 oz cup),,30,0.50,0,0,0,260,6.00,0,3.00,,1.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Mayonnaise,,70,8.00,1.50,0,5,60,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Mayonnaise (Packet),,80,8.00,1.50,0,5,80,1.00,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Mustard,,0,0,0,0,0,45,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Mustard (Packet),,0,0,0,0,0,65,0,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Onion - Diced,,5,0,0,0,0,0,1.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Onion - Grilled,,30,2.00,0,0,0,10,2.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Onion - Sliced,,5,0,0,0,0,0,1.00,0,1.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Pickles (2 Slices),,5,0,0,0,0,360,1.00,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Relish,,10,0,0,0,0,70,2.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Relish (Packet),,5,0,0,0,0,35,2.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Sauerkraut,,5,0,0,0,0,240,1.00,1.00,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Thousand Island,,70,7.00,1.00,0,10,160,3.00,0,2.00,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Condiments & Sandwich Add-Ons,Tomato,,5,0,0,0,0,0,1.00,0,0,,0,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Kids' Meals,Kids Meal - Chicken Tenders,,280,12.00,2.00,0,40,890,20.00,1.00,0,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Kids' Meals,Kid's Meal - Hot Dog,,420,24.00,9.00,0,40,1000,35.00,0,6.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Kids' Meals,Kids Meal - Cheeseburger,,430,22.00,8.00,1.00,80,1120,30.00,0,6.00,,26.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Kids' Meals,Kids Meal - Steakburger (No Cheese),,380,18.00,5.00,1.00,70,870,29.00,0,6.00,,23.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Steakburger Taco,,360,21.00,8.00,1.00,85,560,17.00,0,1.00,,25.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Smoky Bacon Cheddar Stack,,1090,67.00,21.00,1.50,260,1700,48.00,2.00,18.00,,70.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Bacon Loaded Tots - Regular,,750,56.00,16.00,0,40,2190,46.00,3.00,3.00,,15.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Bacon Loaded Tots - Large,,970,72.00,22.00,0,50,2830,60.00,4.00,4.00,,18.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete - Mini,,680,38.00,18.00,0,150,240,66.00,2.00,59.00,,13.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete - Regular,,1040,55.00,25.00,0,250,400,105.00,2.00,96.00,,21.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete - Large,,1440,73.00,40.00,0,355,570,152.00,2.00,139.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete w/ Bacon - Mini,,770,45.00,20.00,0,175,610,66.00,2.00,60.00,,20.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete w/ Bacon - Regular,,1130,62.00,31.00,0,275,770,106.00,2.00,96.00,,28.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Maple Pecan Concrete w/ Bacon - Large,,1700,95.00,44.00,0,390,1200,154.00,3.00,139.00,,42.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
+freddys,Limited Time Offerings,Smoky Bacon Steakburger Taco,,440,27.00,11.00,1.00,100,600,17.00,0,1.00,,31.00,,,https://www.freddys.com/nutrition-and-allergens,2026-10-27
