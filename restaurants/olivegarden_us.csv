@@ -15,12 +15,12 @@ olivegarden,APPETIZERS,add alfredo,,220,22,14,0.5,70,300,3,0,<1,,4,,,https://med
 olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,APPETIZERS,Toasted Ravioli,,650,31,10,0,45,1330,69,4,5,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Alfredo,,440,43,27,1,140,600,5,0,1,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Alfredo (Large),,870,87,54,2,285,1200,11,0,2,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Five Cheese Marinara,,200,17,9,0.5,40,650,9,1,5,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Five Cheese Marinara (Large),,400,33,17,1,80,1300,17,3,10,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Marinara,,70,4.5,0,0,0,640,8,2,5,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,APPETIZERS,Marinara (Large),,150,9,0.5,0,0,1280,17,4,10,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Alfredo Dipping Sauce,,440,43,27,1,140,600,5,0,1,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Alfredo Dipping Sauce (Large),,870,87,54,2,285,1200,11,0,2,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Five Cheese Marinara Dipping Sauce,,200,17,9,0.5,40,650,9,1,5,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Five Cheese Marinara Dipping Sauce (Large),,400,33,17,1,80,1300,17,3,10,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Marinara Dipping Sauce,,70,4.5,0,0,0,640,8,2,5,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Marinara Dipping Sauce (Large),,150,9,0.5,0,0,1280,17,4,10,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,"SOUPS, SALAD & BREADSTICKS",Breadstick with garlic topping (1 ea.),,140,2.5,0.5,0,0,460,25,<1,1,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,"SOUPS, SALAD & BREADSTICKS","Breadstick, plain (no garlic topping, 1 ea.)",,130,1,0,0,0,280,25,1,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,"SOUPS, SALAD & BREADSTICKS",Chicken & Gnocchi Soup,,230,12,4.5,0,55,1290,22,1,4,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
@@ -46,47 +46,47 @@ olivegarden,CREATE YOUR OWN PASTA,Italian Sausage (2 Links),,470,39,14,0,115,114
 olivegarden,CREATE YOUR OWN PASTA,Meatballs (3),,480,40,19,2,65,1060,7,3,0,,23,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,CREATE YOUR OWN PASTA,Sauteed Shrimp,,170,3.5,0,0,245,410,1,<1,0,,33,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,CREATE YOUR OWN PASTA,Broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce,,440,22,11,0,75,1330,38,3,4,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce,,500,26,14,0,100,1240,39,2,6,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Parmigiana,,630,29,7,0,75,1970,61,5,10,,36,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Eggplant Parmigiana,,660,32,7,0,30,1540,75,7,13,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Fettuccine Alfredo,,650,45,27,1,140,610,47,2,3,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,add broccoli,,130,12,1,0,0,200,4,2,1,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Five Cheese Ziti al Forno,,630,35,18,0.5,85,1220,57,4,9,,24,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Lasagna Classico,,500,30,16,0.5,105,1290,33,3,7,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Shrimp Scampi,,460,18,7,0,100,1020,52,4,5,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Marinara Sauce,,290,6,0,0,0,650,50,4,7,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Meat Sauce,,360,12,3.5,0,30,530,51,3,9,,14,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs,,680,38,17,1.5,75,1230,56,4,9,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce,,750,38,19,0,125,2370,63,5,8,,41,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce,,860,46,24,0,170,2190,65,4,11,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken & Shrimp Carbonara,,1370,91,47,2.5,390,2050,75,3,10,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Alfredo (with crispy chicken fritta),,1790,114,57,2,385,2670,123,6,7,,70,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Alfredo (with grilled chicken),,1570,95,56,2,430,2290,96,5,6,,81,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,add broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Marsala Fettuccine,,1400,77,36,2,225,2580,112,4,12,,55,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Parmigiana,,1020,51,14,0,155,3300,80,7,13,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Scampi,,1050,45,16,1,130,2470,106,5,8,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Chicken Tortelloni Alfredo,,1980,131,76,2.5,650,3720,95,5,9,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Eggplant Parmigiana,,1070,58,14,0,60,2440,108,11,20,,35,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Fettuccine Alfredo,,1310,90,55,2,285,1210,95,4,5,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,add broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Five Cheese Ziti al Forno,,1170,69,36,1.5,170,2440,98,6,16,,46,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Grilled Chicken Margherita,,650,39,11,0,185,2120,15,5,5,,65,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Herb-Grilled Salmon,,610,45,11,0,130,1360,9,4,3,,45,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Herb-Grilled Salmon Coho (Regional),,510,31,9,0,130,1020,9,4,2,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Lasagna Classico,,940,55,30,1,200,2260,61,6,11,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Ravioli Carbonara,,1390,104,63,2.5,325,2660,63,3,6,,53,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Seafood Alfredo,,1450,93,55,2,435,1690,97,4,5,,56,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Shrimp Alfredo,,1470,93,55,2,525,1620,96,4,6,,63,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Shrimp Carbonara,,1180,81,46,2.5,415,1650,63,4,10,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Shrimp Scampi,,490,18,7,0.5,165,1120,52,4,5,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Marinara,,490,12,1,0,0,1290,83,6,13,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Meat Sauce,,640,22,7,0,60,1050,85,4,17,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs (3),,1120,62,27,2.5,130,2110,92,7,17,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Sausage (2),,1110,62,21,0,180,2190,87,5,19,,52,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,Tour of Italy,,1550,97,50,1.5,325,3220,99,7,12,,72,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,ENTRÉES,6 oz. Sirloin,,980,62,36,2,275,1840,49,2,3,,57,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce (Lunch),,440,22,11,0,75,1330,38,3,4,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce (Lunch),,500,26,14,0,100,1240,39,2,6,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Parmigiana (Lunch),,630,29,7,0,75,1970,61,5,10,,36,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Eggplant Parmigiana (Lunch),,660,32,7,0,30,1540,75,7,13,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Fettuccine Alfredo (Lunch),,650,45,27,1,140,610,47,2,3,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli (Lunch),,130,12,1,0,0,200,4,2,1,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Five Cheese Ziti al Forno (Lunch),,630,35,18,0.5,85,1220,57,4,9,,24,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Lasagna Classico (Lunch),,500,30,16,0.5,105,1290,33,3,7,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Scampi (Lunch),,460,18,7,0,100,1020,52,4,5,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Marinara Sauce (Lunch),,290,6,0,0,0,650,50,4,7,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce (Lunch),,360,12,3.5,0,30,530,51,3,9,,14,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs (Lunch),,680,38,17,1.5,75,1230,56,4,9,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce (Dinner),,750,38,19,0,125,2370,63,5,8,,41,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce (Dinner),,860,46,24,0,170,2190,65,4,11,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken & Shrimp Carbonara (Dinner),,1370,91,47,2.5,390,2050,75,3,10,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Alfredo (with crispy chicken fritta) (Dinner),,1790,114,57,2,385,2670,123,6,7,,70,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Alfredo (with grilled chicken) (Dinner),,1570,95,56,2,430,2290,96,5,6,,81,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli (Dinner),,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Marsala Fettuccine (Dinner),,1400,77,36,2,225,2580,112,4,12,,55,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Parmigiana (Dinner),,1020,51,14,0,155,3300,80,7,13,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Scampi (Dinner),,1050,45,16,1,130,2470,106,5,8,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Tortelloni Alfredo (Dinner),,1980,131,76,2.5,650,3720,95,5,9,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Eggplant Parmigiana (Dinner),,1070,58,14,0,60,2440,108,11,20,,35,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Fettuccine Alfredo (Dinner),,1310,90,55,2,285,1210,95,4,5,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli (Dinner),,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Five Cheese Ziti al Forno (Dinner),,1170,69,36,1.5,170,2440,98,6,16,,46,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Grilled Chicken Margherita (Dinner),,650,39,11,0,185,2120,15,5,5,,65,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Herb-Grilled Salmon (Dinner),,610,45,11,0,130,1360,9,4,3,,45,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Herb-Grilled Salmon Coho (Regional) (Dinner),,510,31,9,0,130,1020,9,4,2,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Lasagna Classico (Dinner),,940,55,30,1,200,2260,61,6,11,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Ravioli Carbonara (Dinner),,1390,104,63,2.5,325,2660,63,3,6,,53,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Seafood Alfredo (Dinner),,1450,93,55,2,435,1690,97,4,5,,56,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Alfredo (Dinner),,1470,93,55,2,525,1620,96,4,6,,63,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Carbonara (Dinner),,1180,81,46,2.5,415,1650,63,4,10,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Scampi (Dinner),,490,18,7,0.5,165,1120,52,4,5,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Marinara (Dinner),,490,12,1,0,0,1290,83,6,13,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce (Dinner),,640,22,7,0,60,1050,85,4,17,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs (3) (Dinner),,1120,62,27,2.5,130,2110,92,7,17,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Sausage (2) (Dinner),,1110,62,21,0,180,2190,87,5,19,,52,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Tour of Italy (Dinner),,1550,97,50,1.5,325,3220,99,7,12,,72,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,6 oz. Sirloin (Dinner),,980,62,36,2,275,1840,49,2,3,,57,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,SIDES,Meatballs (3),,480,40,19,2,65,1060,7,3,0,,23,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,SIDES,Grilled Chicken,,130,2.5,0.5,0,75,540,<1,0,0,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,SIDES,Parmesan Garlic Broccoli,,150,13,1,0,0,450,8,3,2,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
@@ -240,10 +240,10 @@ olivegarden,TO GO & CATERING MENU,Fried Mozzarella,,3450,212,72,2,290,8540,243,1
 olivegarden,TO GO & CATERING MENU,Toasted Ravioli,,2590,123,40,2,175,5310,274,17,18,,98,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,TO GO & CATERING MENU,add marinara,,110,7,0.5,0,0,960,13,3,7,,3,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,TO GO & CATERING MENU,Spinach-Artichoke Dip with flatbread crisps,,2310,161,43,2,145,4880,151,14,17,,66,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,TO GO & CATERING MENU,Alfredo,,1750,173,109,4,570,2400,21,0,4,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,TO GO & CATERING MENU,Five Cheese Marinara,,800,67,34,2,160,2610,35,5,20,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,TO GO & CATERING MENU,Marinara,,290,17,1.5,0,0,2550,33,7,19,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
-olivegarden,TO GO & CATERING MENU,Meat sauce,,600,38,14,0.5,125,2070,37,3,26,,28,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Alfredo Dipping Sauce,,1750,173,109,4,570,2400,21,0,4,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Five Cheese Marinara Dipping Sauce,,800,67,34,2,160,2610,35,5,20,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Marinara Dipping Sauce,,290,17,1.5,0,0,2550,33,7,19,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Meat sauce Dipping Sauce,,600,38,14,0.5,125,2070,37,3,26,,28,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,TO GO & CATERING MENU,Parmesan Garlic Broccoli,,610,51,4,0,0,1790,33,14,9,,18,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,TO GO & CATERING MENU,Chicken Fingers,,1350,69,7,0,305,2620,70,0,0,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
 olivegarden,TO GO & CATERING MENU,add ketchup,,170,0,0,0,0,1280,39,2,33,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
