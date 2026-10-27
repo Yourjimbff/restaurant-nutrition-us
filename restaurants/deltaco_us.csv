@@ -1,0 +1,232 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+deltaco,Menu,All-American Burgertaco,264,690,49,18,2,125,970,32,2,4,,31,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Beer Battered Fish Taco,157,230,9,2,0,33,930,28,2,1,,11,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carne Asada Steak Big Fat Taco,155,380,21,6,0,50,510,30,2,2,,18,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carne Asada Steak Street Guac'd Up Taco,104,140,4.5,1.5,0,25,460,15,2,1,,10,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carne Asada Steak Street Taco,92,120,3.5,1.5,0,25,420,14,1,1,,10,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carnitas Big Fat Taco,155,410,25,8,0,55,340,28,0,2,,19,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carnitas Street Taco,91,150,7,3,0,30,240,12,1,0,,11,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chipotle Crispy Chicken Guac'd Up Taco,111,260,13,4,0,25,730,23,1,1,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chipotle Crispy Chicken Taco,97,240,12,3.5,0,25,690,22,1,1,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Crispy Chicken Big Fat Taco,198,440,23,6,0,65,810,39,3,2,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Crunchtada® Tostada,181,350,14,4.5,0,15,440,44,9,1,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Grilled Chicken Big Fat Taco,155,340,18,5,0,50,410,30,2,2,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Grilled Chicken Street Guac'd Up Taco,107,130,4.5,0,0,30,340,14,2,1,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Grilled Chicken Street Taco,90,110,3.5,0,0,30,300,13,0,0,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Grilled Chicken Taco,104,210,12,3,0,45,510,15,1,1,,11,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Ranch Crispy Chicken Guac'd Up Taco,111,250,13,4,0,30,740,24,2,1,,10,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Ranch Crispy Chicken Taco,97,240,12,4,0,30,700,22,1,1,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Seasoned Beef Big Fat Taco,165,320,15,6,0,45,400,31,3,3,,17,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Snack Taco (Crunchy),53,120,7,3,0,20,135,8,0,1,,6,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Snack Taco (Soft),67,150,6,3,0,20,330,14,1,1,,7,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,The Del Taco (Crunchy),121,300,20,11,0,60,520,14,2,2,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,The Del Taco (Soft),128,290,17,10,0,60,610,16,1,2,,17,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,8 Layer Veggie Burrito,342,540,17,7,0,30,1360,73,9,3,,18,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Bean & Cheese Burrito (Green),280,500,10,5,0,15,1360,80,15,1,,24,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Bean & Cheese Burrito (Red),280,520,10,5,0,15,1330,79,15,1,,24,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carnitas Combo Burrito,243,500,19,9,0,55,1240,56,8,0,,29,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chicken Cheddar Roller (Chipotle),111,280,12,3,0,40,730,30,0,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chicken Cheddar Roller (Original),118,250,9,2.5,0,40,750,30,0,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chicken Cheddar Roller (Ranch),111,270,12,3,0,40,730,30,0,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Beef™ Burrito (Beef & Cheddar Burrito),240,520,26,12,0.5,80,1290,40,3,3,,28,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Classic Chicken Burrito (Grilled Chicken Burrito),251,560,34,7,0,95,1200,40,0,2,,24,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Combo™ Burrito (Combo Beef & Bean Burrito),251,510,18,8,0,50,1280,57,8,2,,25,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Beef Roller,100,261,14,5,0,25,782,26,2,1,,9,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Crispy Chicken Burrito,237,563,30,11,0,74,1392,49,1,2,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,"JACK'D UP Beans, Rice, & Cheese Burrito",243,450,12,4,0,15,1290,70,7,0,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Spicy Grilled Chicken Burrito,315,560,18,5,0,80,1700,69,6,0,,30,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Value Bean & Cheese Burrito (Red),150,300,8,4,0.0,15,760,43,8,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Value Bean & Cheese Burrito (Green),150,300,8,4,0.0,15,780,44,8,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Carne Asada Steak Cali Bacon Burrito,414,1050,60,22,1,155,2600,73,4,4,,51,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Carne Asada Steak Fresh Guacamole Burrito,442,770,26,8,0.5,75,2490,94,9,4,,42,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Carne Asada Steak Loaded Queso Burrito,465,890,44,19,1,130,3130,75,2,4,,47,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Combo Beef & Bean Burrito,493,880,41,20,0.5,120,2010,79,12,7,,42,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic FLAMIN' HOT® Queso Grilled Chicken Burrito,428,870,46,17,1,119,2546,78,4,6,,38,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Grilled Chicken Cali Bacon Burrito,414,1020,60,18,0,170,2240,72,4,3,,46,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Grilled Chicken Fresh Guacamole Burrito,442,740,26,5,0.0,90,2130,92,11,3,,39,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Epic Grilled Chicken Loaded Queso Burrito,465,860,45,15,0,150,2770,73,2,3,,43,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,3 Layer Queso Nachos,186,350,15,3.5,0.0,10,770,47,8,1,,11,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Cheddar Quesadilla,152,480,27,16,0,85,1030,35,1,0,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carnitas Cheddar Quesadilla,195,610,36,21,0,125,1180,34,1,0,,36,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chicken Cheddar Quesadilla,195,540,30,16,0,115,1250,36,1,0,,29,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chicken Snacker,83,190,9,4,0.0,45,510,15,1,0,,13,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Cheddar Quesadilla,40,130,6,3.5,0,15,290,13,1,0,,5,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Spicy Jack Quesadilla,152,460,25,12,0.0,65,990,37,0,0,,20,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Spicy Jack Chicken Quesadilla,195,520,28,12,0.0,95,1210,39,0,0,,28,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Loaded Nachos (Carne Asada Steak),581,1152,61,18,1.0,96,3067,109,18,8,,45,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Loaded Nachos (Grilled Chicken),581,1109,58,16,1.0,89,2855,110,18,8,,40,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Loaded Nachos (Seasoned Beef),601,1211,68,21,1.0,98,2840,109,20,9,,44,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Queso Loaded Nachos (Carne Asada Steak),595,1030,47,16,0.5,100,2960,111,19,6,,46,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Queso Loaded Nachos (Carnitas),581,1070,55,20,0.0,105,2550,102,14,5,,48,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Queso Loaded Nachos (Grilled Chicken),595,1010,47,14,0.0,110,2720,109,19,6,,44,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Queso Loaded Nachos (Seasoned Beef),615,1090,55,20,1.0,100,2730,110,21,8,,45,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Bean & Cheese Cup,198,300,6,3,0,15,770,42,14,1,,17,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chips & Fresh House-made Guac (Regular-sized),176,340,22,3.5,0,0,430,36,5,2,,5,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chips & Queso Dip (Regular-sized),283,640,40,13,0,45,1790,59,3,3,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,CHEETOS® FLAMIN' HOT® Crunchy Cheese Flavored Snacks (2 oz Bag),28,320,22,3,0,0,420,30,1,0,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso & Chips (4 oz),61,555,39,11,0,26,1536,42,3,4,,10,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Taco Salad with Fresh Guac (Carne Asada Steak),421,440,26,13,0,105,1510,23,1,7,,29,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Taco Salad with Fresh Guac (Grilled Chicken),421,420,26,10,0,115,1270,22,1,7,,26,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Taco Salad with Fresh Guac (Seasoned Beef),446,540,34,17,0.5,110,1320,23,1,9,,28,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,3 Pc. Crispy Chicken & Fries Box (Chipotle Dipping Sauce),270,720,51,9,0,60,1770,45,0,2,,18,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,3 Pc. Crispy Chicken & Fries Box (Ranch Dipping Sauce),270,710,50,9,0,70,1820,47,0,2,,20,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carne Asada Steak Fries,340,760,56,14,0,75,1190,45,6,1,,21,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Carnitas Loaded Fries,320,800,60,16,0,90,990,40,4,1,,25,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Chili Cheddar Fries,298,570,35,11,0,50,920,42,5,1,,15,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Crinkle Cut Fries (Large),218,410,25,4,0,0,480,43,5,0,,5,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Crinkle Cut Fries (Regular),170,320,19,3,0,0,370,34,4,0,,4,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Crinkle Cut Fries (Small),85,160,10,1.5,0,0,190,17,2,0,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Cheeseburger,191,470,28,10,1,70,1000,34,1,7,,17,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Deluxe Chili Cheddar Fries™,340,610,37,13,0,60,930,44,6,2,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Double Del® Cheeseburger,266,690,47,18,2,125,1230,35,1,7,,30,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Double Del® Cheeseburger with Bacon,280,760,51,20,2,145,1840,35,1,7,,37,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Loaded Fries (Carne Asada Steak),383,640,38,13,0,72,1648,51,5,4,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,FLAMIN' HOT® Queso Loaded Fries (Seasoned Beef),393,670,42,14,0,73,1535,51,6,5,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Queso Loaded Fries,393,660,44,16,0,75,1760,46,6,4,,21,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Breakfast Big Fat Taco (Bacon Egg & Cheese),141,340,18,7,0,170,500,29,1,1,,18,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Breakfast Big Fat Taco (Egg & Cheese),127,280,13,5,0,155,260,28,0,1,,12,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Breakfast Big Fat Taco (Carnitas),169,380,20,8,0,225,380,29,0,2,,24,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,"Breakfast Burrito (Bacon, Egg & Cheese)",223,520,26,9,0,275,1540,36,2,0,,30,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,"Breakfast Burrito (Carne Asada Steak, Egg & Cheese)",237,450,19,8,0,260,1290,38,0,1,,25,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,"Breakfast Burrito (Carnitas, Egg & Cheese)",251,510,27,11,0,410,1080,38,1,2,,32,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Breakfast Burrito (Egg & Cheese),195,380,16,7,0,235,950,35,2,0,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,"Breakfast Roller (Bacon, Egg & Cheese)",123,290,14,5,0,140,860,24,1,0,,16,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Breakfast Roller (Egg & Cheese),116,250,11,5,0,125,610,24,1,0,,11,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Donut Bites (4 Pc.),51,240,16,6,0,0,150,22,1,8,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Hashbrown Sticks (5 Pc.),71,230,17,3.5,0,0,180,18,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Caramel Cheesecake Bites (2 Pc.),122,410,23,8,0,25,500,48,0,16,,7,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Caramel Cheesecake Bites (4 Pc.),244,820,47,16,0,45,1010,96,0,32,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Funnel Cake Fries,70,250,11,2,0,20,240,34,0,14,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Independence Poppers Shake,415,530,9,5,0,35,290,97,0,82,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Large Shake (Chocolate),624,880,13,8,0,50,540,165,0,134,,22,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Large Shake (Strawberry),646,820,13,8,0,50,440,153,0,130,,21,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Large Shake (Vanilla),567,730,13,8,0,50,420,131,0,110,,21,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Cinnamon Churros (2 Pc.),51,200,10,1.5,0,15,125,25,1,8,,1,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Shake (Chocolate),200,280,5,3,0.0,15,180,54,0,43,,7,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Shake (Strawberry),203,260,4,3,0.0,15,140,48,0,41,,7,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Shake (Vanilla),184,240,5,3,0.0,15,135,43,0,36,,7,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mini Sweet Cream Churros,122,460,20,6,0,0,280,70,0,38,,6,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Orange Cream Shake,397,530,9,5,0,35,270,101,0,87,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Regular Shake (Chocolate),397,550,9,5,0,35,330,102,0,83,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Regular Shake (Strawberry),408,520,9,5,0,35,280,96,0,82,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Regular Shake (Vanilla),397,480,9,5,0,35,270,85,0,72,,14,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Inferno Hot Sauce Packet,6,5,0,0,0,0,80,1,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Del Scorcho Hot Sauce Packet,6,0,0,0,0,0,60,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Ketchup Packet,8,10,0,0,0,0,80,2,0,2,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Menu,Mild Hot Sauce Packet,6,0,0,0,0,0,30,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Barq's® Root Beer (Large) — 40 fl oz,,370,0,0,0,0,170,101,0,101,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Barq's® Root Beer (Regular) — 24 fl oz,,300,0,0,0,0,140,81,0,80,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Bottled Water — 16.9 fl oz,,0,0,0,0,0,10,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® (Large) — 40 fl oz,,370,0,0,0,0,100,100,0,100,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® (Regular) — 24 fl oz,,290,0,0,0,0,80,80,0,80,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® Cherry (Large) — 40 fl oz,,380,0,0,0,0,105,105,0,105,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® Cherry (Regular) — 24 fl oz,,310,0,0,0,0,80,84,0,84,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® Zero Sugar (Large) — 40 fl oz,,0,0,0,0,0,100,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Coca-Cola® Zero Sugar (Regular) — 24 fl oz,,0,0,0,0,0,80,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Diet Coke® (Large) — 40 fl oz,,0,0,0,0,0,120,1,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Diet Coke® (Regular) — 24 fl oz,,0,0,0,0,0,95,1,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Barq's® (Large) — 24 fl oz,,320,2,1,0,10,140,75,0,72,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Barq's® (Regular) — 16 fl oz,,250,2,1,0,5,105,58,0,55,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Coca-Cola® (Large) — 24 fl oz,,290,2,1,0,10,125,70,0,67,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Coca-Cola® (Regular) — 16 fl oz,,240,2,1,0,5,100,57,0,54,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Coca-Cola® Cherry (Large) — 24 fl oz,,310,2,1,0,10,115,72,0,69,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Coca-Cola® Cherry (Regular) — 16 fl oz,,250,1.5,1,0,5,95,59,0,55,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Dr Pepper® (Large) — 24 fl oz,,300,2,1,0,10,130,70,0,65,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Dr Pepper® (Regular) — 16 fl oz,,240,2,1,0,5,110,57,0,53,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Fanta® Orange (Large) — 24 fl oz,,310,2,1,0,10,130,75,0,71,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Fanta® Orange (Regular) — 16 fl oz,,250,2,1,0,5,100,61,0,59,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Sprite® (Large) — 24 fl oz,,290,2,1,0,10,140,68,0,64,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dirty Del made with Sprite® (Regular) — 16 fl oz,,230,2,1,0,5,120,55,0,52,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dr Pepper® (Large) — 40 fl oz,,360,0,0,0,0,110,98,0,96,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Dr Pepper® (Regular) — 24 fl oz,,290,0,0,0,0,90,78,0,77,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Fanta® Orange (Large) — 40 fl oz,,370,0,0,0,0,100,99,0,99,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Fanta® Orange (Regular) — 24 fl oz,,300,0,0,0,0,75,79,0,79,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Fuze® Raspberry Iced Tea (Large) — 40 fl oz,,210,0,0,0,0,125,56,0,55,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Fuze® Raspberry Iced Tea (Regular) — 24 fl oz,,180,0,0,0,0,110,48,0,48,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Gold Peak® Real Brewed Tea - Sweet Tea (Large) — 40 fl oz,,400,0,0,0,0,0,121,0,121,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Gold Peak® Real Brewed Tea - Sweet Tea (Regular) — 24 fl oz,,250,0,0,0,0,0,73,0,73,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Gold Peak® Real Brewed Tea - Unsweetened (Large) — 40 fl oz,,0,0,0,0,0,0,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Gold Peak® Real Brewed Tea - Unsweetened (Regular) — 24 fl oz,,0,0,0,0,0,0,0,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Hi-C® Flashin' Fruit Punch (Large) — 40 fl oz,,390,0,0,0,0,180,106,0,103,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Hi-C® Flashin' Fruit Punch (Regular) — 24 fl oz,,310,0,0,0,0,150,85,0,83,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Hot Coffee — 16 fl oz,,10,0,0,0,0,0,2,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Iced Coffee (Large) — 24 fl oz,,250,4,2,0,15,105,50,0,43,,5,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Iced Coffee (Regular) — 16 fl oz,,150,2,1,0,10,65,29,0,26,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Minute Maid® Zero Sugar Lemonade (Large) — 40 fl oz,,15,0,0,0,0,105,5,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Minute Maid® Zero Sugar Lemonade (Regular) — 24 fl oz,,15,0,0,0,0,85,4,0,0,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Minute Maid® Zero Sugar Lemonade Dirty Del (Large) — 24 fl oz,,120,2,1,0,10,130,23,0,17,,3,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Minute Maid® Zero Sugar Lemonade Dirty Del (Regular) — 16 fl oz,,80,2,1,0,5,95,16,0,11,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,POWERADE® Mountain Berry Blast (Large) — 40 fl oz,,210,0,0,0,0,280,55,0,55,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,POWERADE® Mountain Berry Blast (Regular) — 24 fl oz,,170,0,0,0,0,220,44,0,44,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Real Strawberry Lemonade (Large) — 24 fl oz,,90,0,0,0,0,30,22,0,20,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Real Strawberry Lemonade (Regular) — 16 fl oz,,45,0,0,0,0,20,11,0,10,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Real Strawberry Sprite® (Large) — 24 fl oz,,110,0,0,0,0,35,28,0,26,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Real Strawberry Sprite® (Regular) — 16 fl oz,,60,0,0,0,0,20,16,0,15,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Sprite® (Large) — 40 fl oz,,350,0,0,0,0,180,93,0,93,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Sprite® (Regular) — 24 fl oz,,280,0,0,0,0,140,75,0,75,,0,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#1) 2 The Del Tacos Meal — regular,,920-1230,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#1) 2 The Del Tacos Meal — large,,1010-1400,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#2) 2 Grilled Chicken Tacos Meal — regular,,740-1050,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#2) 2 Grilled Chicken Tacos Meal — large,,830-1220,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#3) 2 Beer Battered Fish Tacos Meal — regular,,780-1090,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#3) 2 Beer Battered Fish Tacos Meal — large,,870-1260,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#4) 2 Carne Asada Street Tacos Meal — regular,,560-870,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#4) 2 Carne Asada Street Tacos Meal — large,,650-1040,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,1 All-American Burgertaco Meal — regular,,1010-1320,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,1 All-American Burgertaco Meal — large,,1100-1500,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carne Asada Steak Big Fat Tacos Meal — regular,,1080-1390,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carne Asada Steak Big Fat Tacos Meal — large,,1170-1560,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carnitas Big Fat Tacos Meal — regular,,1140-1450,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carnitas Big Fat Tacos Meal — large,,1230-1630,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carnitas Street Tacos Meal — regular,,620-930,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Carnitas Street Tacos Meal — large,,710-1110,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Crispy Chicken Big Fat Tacos Meal — regular,,1200-1510,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Crispy Chicken Big Fat Tacos Meal — large,,1290-1680,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Grilled Chicken Big Fat Tacos Meal — regular,,1000-1310,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Grilled Chicken Big Fat Tacos Meal — large,,1090-1480,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Seasoned Beef Big Fat Tacos Meal — regular,,960-1270,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,2 Seasoned Beef Big Fat Tacos Meal — large,,1050-1440,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#5) Epic Carne Asada Steak Fresh Guacamole Burrito Meal — regular,,1090-1400,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#5) Epic Carne Asada Steak Fresh Guacamole Burrito Meal — large,,1180-1570,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#5) Epic Grilled Chicken Fresh Guacamole Burrito Meal — regular,,1060-1370,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#5) Epic Grilled Chicken Fresh Guacamole Burrito Meal — large,,1150-1540,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#6) Epic Carne Asada Steak Cali Bacon Burrito Meal — regular,,1370-1680,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#6) Epic Carne Asada Steak Cali Bacon Burrito Meal — large,,1460-1850,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#6) Epic Grilled Chicken Cali Bacon Burrito Meal — regular,,1340-1650,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#6) Epic Grilled Chicken Cali Bacon Burrito Meal — large,,1430-1820,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#7) Epic Carne Asada Steak Loaded Queso Burrito Meal — regular,,1210-1520,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#7) Epic Carne Asada Steak Loaded Queso Burrito Meal — large,,1300-1690,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#7) Epic Grilled Chicken Loaded Queso Burrito Meal — regular,,1180-1490,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#7) Epic Grilled Chicken Loaded Queso Burrito Meal — large,,1270-1660,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#8) Epic Combo Beef & Bean Burrito Meal — regular,,1200-1510,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#8) Epic Combo Beef & Bean Burrito Meal — large,,1290-1680,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Epic FLAMIN' HOT® Queso Grilled Chicken Burrito Meal — regular,,1190-1500,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Epic FLAMIN' HOT® Queso Grilled Chicken Burrito Meal — large,,1280-1680,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#10) Del Classic Chicken Burrito Meal — regular,,880-1190,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#10) Del Classic Chicken Burrito Meal — large,,970-1360,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#11) Del Beef™ Burrito Meal — regular,,840-1150,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#11) Del Beef™ Burrito Meal — large,,930-1320,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#12) 8 Layer Veggie Burrito Meal — regular,,860-1170,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#12) 8 Layer Veggie Burrito Meal — large,,950-1340,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#9) Del Combo™ Burrito Meal — regular,,830-1140,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#9) Del Combo™ Burrito Meal — large,,920-1310,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Carnitas Combo Burrito Meal — regular,,820-1130,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Carnitas Combo Burrito Meal — large,,910-1310,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,FLAMIN' HOT® Queso Crispy Chicken Burrito Meal — regular,,883-1193,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,FLAMIN' HOT® Queso Crispy Chicken Burrito Meal — large,,973-1373,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,BURGER MEALS (#13) Double Del® Cheeseburger Meal — regular,,1010-1320,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,BURGER MEALS (#13) Double Del® Cheeseburger Meal — large,,1100-1490,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#14) Chicken Cheddar Quesadilla Meal — regular,,860-1170,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#14) Chicken Cheddar Quesadilla Meal — large,,950-1340,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Carnitas Cheddar Quesadilla Meal — regular,,930-1240,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Carnitas Cheddar Quesadilla Meal — large,,1020-1420,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Spicy Jack Chicken Quesadilla Meal — regular,,840-1150,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Spicy Jack Chicken Quesadilla Meal — large,,930-1320,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#15) Egg & Cheese Breakfast Burrito Meal,,610-920,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#16) Bacon Breakfast Burrito Meal,,750-1060,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,(#17) Carne Asada Steak Breakfast Burrito Meal,,680-960,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,"Bacon, Egg & Cheese Breakfast Big Fat Tacos Meal",,1000-1310,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,"Carnitas, Egg & Cheese Breakfast Burrito Meal",,750-1050,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Carnitas Breakfast Big Fat Tacos Meal,,620-920,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Meals,Egg & Cheese Breakfast Big Fat Tacos Meal,,880-1190,,,,,,,,,,,,"Calorie range only, as published",https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27
+deltaco,Drinks,Simply Orange® — 11.5 fl oz,,160,0,0,0,0,0,37,0,33,,2,,,https://deltaco.com/files/pdf/2026/nutritional-09-2026.pdf,2026-10-27

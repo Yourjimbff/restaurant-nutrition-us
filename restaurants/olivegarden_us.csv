@@ -1,0 +1,264 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+olivegarden,APPETIZERS,Calamari,,670,42,3.5,0,300,1600,48,2,3,,24,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add spicy ranch,,240,26,4.5,0,15,740,2,0,<1,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Shrimp Fritto Misto,,1280,79,5,0,240,5010,101,9,9,,41,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add spicy ranch,,240,26,4.5,0,15,740,2,0,<1,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Fried Mozzarella,,800,49,17,0,65,1990,57,4,3,,33,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Lasagna Fritta,,1130,76,31,1.5,185,1800,75,5,6,,39,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Meatballs Parmigiana,,1040,83,40,3.5,145,2800,27,6,5,,51,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Spinach-Artichoke Dip with flatbread crisps,,1160,81,21,1,70,2440,75,7,8,,33,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Stuffed Ziti Fritta,,500,26,11,0,60,1040,40,3,<1,,27,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add alfredo,,220,22,14,0.5,70,300,3,0,<1,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Toasted Ravioli,,650,31,10,0,45,1330,69,4,5,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,add marinara,,35,2,0,0,0,320,4,<1,2,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Alfredo,,440,43,27,1,140,600,5,0,1,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Alfredo (Large),,870,87,54,2,285,1200,11,0,2,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Five Cheese Marinara,,200,17,9,0.5,40,650,9,1,5,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Five Cheese Marinara (Large),,400,33,17,1,80,1300,17,3,10,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Marinara,,70,4.5,0,0,0,640,8,2,5,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,APPETIZERS,Marinara (Large),,150,9,0.5,0,0,1280,17,4,10,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Breadstick with garlic topping (1 ea.),,140,2.5,0.5,0,0,460,25,<1,1,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS","Breadstick, plain (no garlic topping, 1 ea.)",,130,1,0,0,0,280,25,1,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Chicken & Gnocchi Soup,,230,12,4.5,0,55,1290,22,1,4,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Minestrone Soup,,110,1,0,0,0,810,17,4,4,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Pasta Fagioli Soup,,150,5,2,0,15,710,16,3,4,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Zuppa Toscana Soup,,220,15,7,0,40,790,15,2,2,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Stellini Soup (Regional),,200,7,2.5,0,20,1240,22,1,2,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Salad with Signature Italian Dressing,,150,10,1.5,0,<5,770,13,2,4,,3,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Salad without Dressing,,70,2,0,0,0,250,11,2,2,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Italian Dressing (1 fl oz),,80,8,1.5,0,<5,520,2,0,2,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,"SOUPS, SALAD & BREADSTICKS",Low-Fat Italian Dressing (1 fl oz),,30,2,0,0,5,410,2,0,2,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Angel Hair,,350,2.5,0,0,0,10,67,3,2,,12,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Gluten-Free Rotini,,380,3.5,0,0,100,260,77,5,0,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Rigatoni,,440,6,0.5,0,0,10,83,3,5,,14,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Spaghetti,,340,3.5,0,0,0,10,67,3,4,,12,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Creamy Mushroom Sauce,,860,87,54,2,250,1090,13,0,7,,10,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Five Cheese Marinara,,400,33,17,1,80,1300,17,3,10,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Marinara,,150,9,0.5,0,0,1280,17,4,10,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Meat Sauce,,300,19,7,0,60,1040,19,2,13,,14,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Crispy Chicken Fritta,,240,12,1.5,0,50,730,14,1,<1,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Grilled Chicken,,130,2.5,0.5,0,75,540,<1,0,0,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Italian Sausage (2 Links),,470,39,14,0,115,1140,2,<1,2,,27,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Meatballs (3),,480,40,19,2,65,1060,7,3,0,,23,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Sauteed Shrimp,,170,3.5,0,0,245,410,1,<1,0,,33,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,CREATE YOUR OWN PASTA,Broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce,,440,22,11,0,75,1330,38,3,4,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce,,500,26,14,0,100,1240,39,2,6,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Parmigiana,,630,29,7,0,75,1970,61,5,10,,36,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Eggplant Parmigiana,,660,32,7,0,30,1540,75,7,13,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Fettuccine Alfredo,,650,45,27,1,140,610,47,2,3,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli,,130,12,1,0,0,200,4,2,1,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Five Cheese Ziti al Forno,,630,35,18,0.5,85,1220,57,4,9,,24,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Lasagna Classico,,500,30,16,0.5,105,1290,33,3,7,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Scampi,,460,18,7,0,100,1020,52,4,5,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Marinara Sauce,,290,6,0,0,0,650,50,4,7,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce,,360,12,3.5,0,30,530,51,3,9,,14,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs,,680,38,17,1.5,75,1230,56,4,9,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Marinara Sauce,,750,38,19,0,125,2370,63,5,8,,41,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Cheese Ravioli with Meat Sauce,,860,46,24,0,170,2190,65,4,11,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken & Shrimp Carbonara,,1370,91,47,2.5,390,2050,75,3,10,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Alfredo (with crispy chicken fritta),,1790,114,57,2,385,2670,123,6,7,,70,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Alfredo (with grilled chicken),,1570,95,56,2,430,2290,96,5,6,,81,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Marsala Fettuccine,,1400,77,36,2,225,2580,112,4,12,,55,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Parmigiana,,1020,51,14,0,155,3300,80,7,13,,64,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Scampi,,1050,45,16,1,130,2470,106,5,8,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Chicken Tortelloni Alfredo,,1980,131,76,2.5,650,3720,95,5,9,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Eggplant Parmigiana,,1070,58,14,0,60,2440,108,11,20,,35,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Fettuccine Alfredo,,1310,90,55,2,285,1210,95,4,5,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,add broccoli,,150,13,1,0,0,220,8,3,2,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Five Cheese Ziti al Forno,,1170,69,36,1.5,170,2440,98,6,16,,46,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Grilled Chicken Margherita,,650,39,11,0,185,2120,15,5,5,,65,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Herb-Grilled Salmon,,610,45,11,0,130,1360,9,4,3,,45,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Herb-Grilled Salmon Coho (Regional),,510,31,9,0,130,1020,9,4,2,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Lasagna Classico,,940,55,30,1,200,2260,61,6,11,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Ravioli Carbonara,,1390,104,63,2.5,325,2660,63,3,6,,53,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Seafood Alfredo,,1450,93,55,2,435,1690,97,4,5,,56,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Alfredo,,1470,93,55,2,525,1620,96,4,6,,63,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Carbonara,,1180,81,46,2.5,415,1650,63,4,10,,54,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Shrimp Scampi,,490,18,7,0.5,165,1120,52,4,5,,29,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Marinara,,490,12,1,0,0,1290,83,6,13,,15,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce,,640,22,7,0,60,1050,85,4,17,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Meatballs (3),,1120,62,27,2.5,130,2110,92,7,17,,49,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Spaghetti with Meat Sauce & Sausage (2),,1110,62,21,0,180,2190,87,5,19,,52,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,Tour of Italy,,1550,97,50,1.5,325,3220,99,7,12,,72,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,ENTRÉES,6 oz. Sirloin,,980,62,36,2,275,1840,49,2,3,,57,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,SIDES,Meatballs (3),,480,40,19,2,65,1060,7,3,0,,23,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,SIDES,Grilled Chicken,,130,2.5,0.5,0,75,540,<1,0,0,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,SIDES,Parmesan Garlic Broccoli,,150,13,1,0,0,450,8,3,2,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Black Tie Mousse Cake,,750,50,30,1,155,290,76,4,59,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,New Chocolate Lasagna,,980,58,27,0,140,630,116,6,86,,13,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Sicilian Cheesecake with Strawberry Topping,,730,42,26,1.5,155,450,78,2,63,,12,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Strawberry Cream Cake,,540,26,17,0.5,170,370,69,2,47,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Tiramisu,,470,27,17,0,215,125,54,0,35,,6,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Warm Italian Doughnuts,,810,28,3.5,0,0,510,119,6,25,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,add chocolate sauce,,220,3,2,0,10,110,48,<1,42,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,add raspberry sauce,,210,0,0,0,0,10,51,0,35,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DESSERTS,Mint candy (1 ea.),,25,1.5,1.5,0,0,0,3,0,2,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Fettuccine,,220,1.5,0,0,0,5,42,2,2,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Small Shells,,210,2,0,0,0,5,42,2,2,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Spaghetti,,170,1.5,0,0,0,5,33,1,2,,6,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Alfredo Sauce,,440,43,27,1,140,600,5,0,1,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Meat Sauce,,110,7,2.5,0,25,390,7,<1,5,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Tomato Sauce,,80,5,0.5,0,0,420,8,1,5,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Grilled Chicken,,130,2.5,0.5,0,75,540,<1,0,0,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Crispy Chicken Fritta,,240,12,1.5,0,50,730,14,1,<1,,20,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Meatball,,160,13,6,0.5,20,350,2,<1,0,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Shrimp,,45,0,0,0,75,130,0,0,0,,10,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Cheese Ravioli,,340,16,8,0,50,980,33,3,6,,17,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Cheese Pizza,,400,13,7,0,25,720,54,3,4,,17,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,add Pepperoni,,60,5,2,0,15,210,0,0,0,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Chicken Fingers,,300,15,1.5,0,65,580,15,0,0,,25,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Macaroni & Cheese,,360,14,8,0,40,870,45,2,6,,16,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Grapes,,40,0,0,0,0,0,11,<1,9,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Parmesan Garlic Broccoli,,150,13,1,0,0,450,8,3,2,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,French Fries,,290,14,1,0,0,310,37,5,0,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,add ketchup,,80,0,0,0,0,640,20,<1,16,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Spaghetti with Tomato Sauce,,180,4.5,0.5,0,0,290,30,2,5,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Milk, 1%",,100,2.5,1.5,0,10,105,12,0,12,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Chocolate Milk, 1%",,180,2.5,1.5,0,10,135,31,0,29,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Whole Chocolate Milk,,210,8,5,0,30,150,26,2,24,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,Raspberry Lemonade,,110,0,0,0,0,10,30,0,28,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Juice, Apple",,170,0,0,0,0,50,42,0,42,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Juice, Cranberry",,180,0,0,0,0,50,45,0,45,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Juice, Orange",,180,0,0,0,0,10,40,0,36,,3,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Juice, Pineapple",,200,0,0,0,0,5,48,<1,45,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Smoothie, Strawberry",,220,0,0,0,0,0,60,0,55,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,KIDS MENU,"Smoothie, Peach",,190,0,0,0,0,10,49,0,47,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Zuppa Toscana Soup (U.S. only),,220,15,7,0,40,790,15,2,2,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Salad without Croutons,,110,8,1.5,0,<5,670,7,2,3,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,6 oz. Tuscan Sirloin,,480,30,10,1,135,1680,9,4,2,,46,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Grilled Chicken Parmigiana with Rotini & Marinara,,810,33,13,0,250,3040,59,7,10,,75,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Herb-Grilled Salmon,,610,45,11,0,130,1360,9,4,3,,45,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Herb-Grilled Salmon Coho (Regional),,510,31,9,0,130,1020,9,4,2,,50,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Rotini Pasta with Marinara,,530,12,0.5,0,100,1530,94,8,10,,13,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Rotini Pasta with Meat Sauce,,680,22,7,0,160,1300,96,6,13,,23,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Kids Grilled Chicken with Rotini Pasta & Marinara,,430,9,1,0,120,1310,58,5,14,,33,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Kids Rotini Pasta with Marinara,,260,6,0,0,50,770,47,4,5,,6,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,GLUTEN SENSITIVE MENU,Kids Rotini Pasta with Meat Sauce,,340,11,3.5,0,80,650,48,3,7,,12,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Amaretto Sour,,260,0,0,0,0,20,44,2,38,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Italian Margarita,,380,0,0,0,0,30,58,4,49,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Italian Rum Punch,,320,0,0,0,0,30,48,3,41,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Limoncello Berry Margarita,,300,0,0,0,0,15,49,2,44,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Sicilian Sunset,,230,0,0,0,0,5,35,0,33,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Spiked Strawberry Lemonade,,160,0,0,0,0,10,21,0,20,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Peach Bellini,,210,0,0,0,0,10,23,0,21,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Green Apple Moscato Sangria (Glass),,200,0,0,0,0,15,39,0,37,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Green Apple Moscato Sangria (Pitcher),,830,0,0,0,0,50,161,3,150,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Berry Sangria (Glass),,210,0,0,0,0,5,30,0,27,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Berry Sangria (Pitcher),,870,0,0,0,0,25,126,3,112,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Watermelon Moscato Sangria (Glass),,180,0,0,0,0,15,34,0,31,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Watermelon Moscato Sangria (Pitcher),,720,0,0,0,0,60,138,3,128,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Whites And Rosé - Glass,,150,0,0,0,0,10,4,0,2,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Whites And Rosé - Grande Pour,,220,0,0,0,0,15,6,0,3,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Whites And Rosé - Bottle,,630,0,0,0,0,35,16,0,7,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Reds - Glass,,160,0,0,0,0,0,5,0,1,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Reds - Grande Pour,,230,0,0,0,0,0,8,0,2,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Reds - Bottle,,660,0,0,0,0,0,21,0,5,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Sparkling Prosecco - Glass,,160,0,0,0,0,10,10,0,10,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Sparkling Prosecco - Bottle,,660,0,0,0,0,0,21,0,5,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Light Draft (16 oz),,140,0,0,0,0,15,6,0,6,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Light Draft (22 oz),,190,0,0,0,0,20,8,0,8,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Regular Draft (16 oz),,230,0,0,0,0,5,16,0,14,,3,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,Regular Draft (22 oz),,310,0,0,0,0,5,22,0,20,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,"Bottle, Light",,100,0,0,0,0,10,5,0,5,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,"Bottle, Regular",,150,0,0,0,0,10,11,0,11,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,"Bottle, Angry Orchard Hard Cider",,220,0,0,0,0,10,31,0,23,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,DRINKS,"Bottle, Non-Alcoholic",,70,0,0,0,0,10,13,0,13,,<1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Coffee,,0,0,0,0,0,0,0,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Tea,,0,0,0,0,0,5,<1,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Cappuccino,,150,6,3,0,30,70,13,<1,10,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Iced Coffee - Caramel,,250,7,4,0,20,90,40,0,31,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Iced Coffee - Traditional,,210,7,4,0,20,90,29,0,21,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Iced Coffee - Vanilla,,240,7,4,0,20,90,38,0,30,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Lavazza Espresso,,60,1.5,0,0,15,15,6,<1,3,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Iced Tea, Bellini Peach-Raspberry",,80,0,0,0,0,10,18,0,17,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Iced Tea, Mango-Strawberry",,100,0,0,0,0,10,24,0,22,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Italian Bottled Water,,0,0,0,0,0,0,0,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Lemonade, Classic",,170,0,0,0,0,20,43,0,42,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Lemonade, Raspberry",,160,0,0,0,0,15,45,0,42,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Limonata, Strawberry-Passion Fruit",,180,0,0,0,0,30,48,0,44,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Coke,,140,0,0,0,0,45,39,0,39,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Coke Zero,,0,0,0,0,0,40,0,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Diet Coke,,0,0,0,0,0,40,0,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Dr. Pepper,,150,0,0,0,0,55,41,0,41,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Minute Maid Lemonade,,170,0,0,0,0,20,43,0,42,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,Sprite,,140,0,0,0,0,65,38,0,38,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Apple",,210,0,0,0,0,65,53,0,53,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Cranberry",,230,0,0,0,0,65,56,0,56,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Grapefruit",,190,0,0,0,0,45,42,0,32,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Orange",,230,0,0,0,0,10,51,0,45,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Pineapple",,250,0.5,0,0,0,10,60,<1,56,,2,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,NON-ALCOHOLIC DRINKS,"Juice, Tomato",,90,0,0,0,0,1280,19,4,13,,4,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Fettuccine Alfredo,,1010,56,34,1.5,155,850,97,7,5,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Five Cheese Ziti al Forno,,940,52,27,1,125,1820,89,6,14,,36,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Meat Sauce,,640,22,7,0,60,1050,85,4,17,,26,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Famous House Salad To Go,,290,17,2.5,0,10,1380,30,6,10,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Chicken & Gnocchi (Per One Serving, Serves Two)",,230,12,4.5,0,55,1290,22,1,4,,11,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Minestrone (Per One Serving, Serves Two)",,110,1,0,0,0,810,17,4,4,,5,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Pasta Fagioli (Per One Serving, Serves Two)",,150,5,2,0,15,710,16,3,4,,8,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Zuppa Toscana (Per One Serving, Serves Two)",,220,15,7,0,40,790,15,2,2,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Stellini Soup (Per One Serving, Serves Two)",,200,7,2.5,0,20,1240,22,1,2,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Jumbo Famous House Salad (Serves 6),,1650,114,17,1.5,55,8260,134,17,36,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken & Gnocchi,,1870,93,38,2,460,10280,177,10,31,,88,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Minestrone,,850,9,1.5,0,0,6460,140,31,31,,40,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Pasta Fagioli,,1170,44,17,2,140,5690,131,24,29,,62,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Zuppa Toscana,,1760,117,52,1.5,300,6350,123,15,17,,59,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Stellini Soup Catering (Regional),,1570,59,21,1.5,160,9910,180,11,15,,73,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken & Gnocchi,,3750,186,76,4,915,20570,353,20,63,,175,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Minestrone,,1700,18,2.5,0,0,12920,279,63,63,,81,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Pasta Fagioli,,2350,87,33,4,280,11380,261,47,59,,124,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Zuppa Toscana,,3520,234,105,2.5,600,12700,246,29,33,,118,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Stellini Soup Catering (Regional),,3130,118,43,3,320,19820,359,22,31,,145,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Cheese Ravioli with Marinara,,2990,153,78,0.5,500,9490,254,21,33,,166,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Cheese Ravioli with Meat sauce,,3510,198,98,2,660,9790,246,16,22,,195,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken and Shrimp Carbonara,,5460,365,190,10,1560,8190,300,14,39,,255,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken Parmigiana,,4790,188,37,0.5,510,13070,529,40,71,,266,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken Scampi,,4190,178,65,3.5,530,9900,424,21,32,,196,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken Tortelloni Alfredo,,7930,523,305,11,2600,14870,380,20,35,,446,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Fettuccine Alfredo,,5010,339,205,8,1065,4550,376,15,20,,116,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Fettuccine Alfredo with Broccoli,,5620,389,209,8,1065,6340,409,29,29,,134,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Five Cheese Ziti al Forno,,4680,276,144,6,685,9750,391,26,65,,183,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Grilled Chicken Alfredo,,6050,360,209,8,1645,8870,381,19,22,,322,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Grilled Chicken Alfredo with Broccoli,,6660,410,213,8,1650,10660,414,32,32,,340,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Lasagna Classico (Serves up to 12),,6470,364,208,7,1380,13900,448,36,71,,370,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Lasagna Classico (Serves up to 6),,3420,196,110,3.5,730,7640,230,19,38,,196,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Shrimp Alfredo,,5680,352,207,8,2040,6200,382,18,22,,248,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Shrimp Scampi,,1980,72,29,2,650,4470,208,16,20,,114,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Marinara Sauce,,2270,49,3,0,0,4840,396,27,55,,72,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Marinara & Italian Sausage,,4260,214,58,0,465,10360,417,33,69,,181,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Marinara Sauce & Meatballs,,3980,190,69,7,225,9340,433,39,62,,153,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Meat Sauce,,2840,88,27,1,230,3950,403,20,68,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Meat Sauce & Italian Sausage,,4830,252,82,1,695,9470,424,25,82,,221,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spaghetti with Meat Sauce & Meatballs,,4550,228,93,8,455,8440,440,31,76,,193,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Catering - Create Your Own Pasta Station (Serves 10),,17280,944,387,21,2480,45250,1531,103,206,,702,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Fried Mozzarella,,3450,212,72,2,290,8540,243,18,13,,141,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Toasted Ravioli,,2590,123,40,2,175,5310,274,17,18,,98,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,add marinara,,110,7,0.5,0,0,960,13,3,7,,3,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Spinach-Artichoke Dip with flatbread crisps,,2310,161,43,2,145,4880,151,14,17,,66,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Alfredo,,1750,173,109,4,570,2400,21,0,4,,30,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Five Cheese Marinara,,800,67,34,2,160,2610,35,5,20,,21,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Marinara,,290,17,1.5,0,0,2550,33,7,19,,7,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Meat sauce,,600,38,14,0.5,125,2070,37,3,26,,28,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Parmesan Garlic Broccoli,,610,51,4,0,0,1790,33,14,9,,18,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Chicken Fingers,,1350,69,7,0,305,2620,70,0,0,,112,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,add ketchup,,170,0,0,0,0,1280,39,2,33,,1,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Grilled Chicken,,810,17,3.5,0,440,4530,7,3,3,,156,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Italian Meatballs,,1710,140,65,7,225,4500,37,11,8,,81,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,Italian Sausage,,1990,164,55,0,465,5520,21,6,14,,109,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Black Tie Mousse Cake, per slice",,750,50,30,1,155,290,76,4,59,,9,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Sicilian Cheesecake, per slice",,730,42,26,1.5,155,450,78,2,63,,12,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Tiramisu, per slice",,470,27,17,0,215,125,54,0,35,,6,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Iced Tea, Bellini Peach-Raspberry, 1 Gallon",,800,0,0,0,0,105,191,0,180,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Iced Tea, Mango-Strawberry, 1 Gallon",,1070,0,0,0,0,115,266,0,244,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Iced Tea, Raspberry, 1 Gallon",,830,0,0,0,0,115,210,0,193,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Iced Tea, Fresh Brewed, Unsweetened, 1 Gallon",,40,0,0,0,0,115,12,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Lemonade, Classic, 1 Gallon",,1770,0,0,0,0,230,463,0,448,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Lemonade, Raspberry, 1 Gallon",,1760,0,0,0,0,170,475,0,443,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Coke, 2 Liter",,790,0,0,0,0,250,220,0,220,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Diet Coke, 2 Liter",,0,0,0,0,0,230,0,0,0,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
+olivegarden,TO GO & CATERING MENU,"Sprite, 2 Liter",,790,0,0,0,0,370,214,0,214,,0,,,https://media.olivegarden.com/images/site/pdf/olive_garden_nutrition.pdf,2026-10-27
