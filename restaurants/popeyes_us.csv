@@ -1,0 +1,70 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+popeyes,Signature Chicken,WING (EACH),,220,15,6,0.5,60,630,11,1,0,,14,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Signature Chicken,LEG (EACH),,200,12,6,0.5,70,540,9,1,0,,15,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Signature Chicken,THIGH (EACH),,490,34,15,1,110,1120,18,1,0,,25,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Signature Chicken,BREAST (EACH),,620,30,16,1.5,180,1780,17,2,1,,52,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Tenders,TENDERS - CLASSIC OR SPICY (3 Pieces),,390,19,9,1,100,1700,25,1,0,,35,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Tenders,TENDERS - CLASSIC OR SPICY (5 Pieces),,650,32,15,2,170,2840,41,2,1,,58,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Tenders,TENDERS - BLACKENED (3 Pieces),,170,6,2,0,80,860,2,1,0,,28,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Tenders,TENDERS - BLACKENED (5 Pieces),,280,9,4,0,140,1430,4,1,0,,47,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wings,CLASSIC BONE-IN WINGS (6 Pieces),,640,38,15,2,195,2430,40,3,1,,35,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wings,GHOST PEPPER BONE-IN WINGS (6 Pieces),,650,38,15,2,195,2930,42,3,1,,35,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wings,HONEY BBQ BONE-IN WINGS (6 Pieces),,850,38,15,2,195,3510,90,3,48,,36,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wings,SWEET & SPICY BONE-IN WINGS (6 Pieces),,870,38,15,2,195,3810,96,3,50,,36,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Seafood,BUTTERFLY SHRIMP (8 Pieces),,360,21,9,1,80,1140,30,2,1,,14,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sandwiches,CHICKEN SANDWICH-CLASSIC,,700,42,14,1.5,90,1440,50,2,8,,28,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sandwiches,CHICKEN SANDWICH-SPICY,,700,42,14,1.5,90,1470,50,2,8,,28,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sandwiches,HONEY CHICKEN BISCUIT,,730,41,18,1,65,1750,67,3,15,,23,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wraps,CLASSIC TENDER WRAP,,480,32,10,1,45,1260,31,2,2,,19,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wraps,SPICY TENDER WRAP,,480,31,10,1,45,1320,32,2,2,,19,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Wraps,CLASSIC TENDER BLACKENED RANCH WRAP,,430,25,9,1,40,1340,32,2,3,,19,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,BISCUIT,,230,14,6,0,0,520,24,1,2,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,CAJUN FRIES (Reg),,270,15,7,1,10,620,31,3,0,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,CAJUN FRIES (Lg),,740,41,18,2,35,1720,86,8,1,,9,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,HOMESTYLE MAC & CHEESE (Reg),,280,20,10,0.5,60,510,16,0,3,,11,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,HOMESTYLE MAC & CHEESE (Lg),,850,63,36,1.5,180,1540,48,1,9,,33,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,MASHED POTATOES WITH CAJUN GRAVY (Reg),,110,6,0,0,5,750,13,0,0,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,MASHED POTATOES WITH CAJUN GRAVY (Lg),,310,14,4,0,10,2190,39,4,2,,7,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,RED BEANS & RICE (Reg),,260,16,4,0,10,580,29,6,1,,7,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,RED BEANS & RICE (Lg),,640,40,9,0,25,1420,73,13,2,,18,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,COLESLAW (Reg),,160,12,2,0,10,210,12,2,10,,1,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,COLESLAW (Lg),,480,37,6,0,25,620,37,6,30,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,CAJUN RICE (Reg),,230,10,4,0,35,560,27,1,0,,9,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,CAJUN RICE (Lg),,780,26,11,1,105,1650,107,4,1,,31,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,CAJUN GRAVY (Reg),,160,12,5,0,50,820,2,1,1,,10,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Sides,JALAPEÑO,,5,0,0,0,0,370,1,1,1,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,BAYOU BUFFALO™,,50,5,1,0,0,400,2,0,0,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,BOLDBQ™,,60,0,0,0,0,400,14,0,11,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,BLACKENED RANCH,,110,11,2,0,5,230,2,0,1,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,BUTTERMILK RANCH,,130,14,2,0,10,200,2,0,1,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,MARDI GRAS MUSTARD™,,90,8,1,0,5,210,4,1,3,,1,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,SWEET HEAT®,,70,0,0,0,0,290,19,0,16,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,WILD HONEY MUSTARD,,110,11,1.5,0,5,140,5,0,4,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Dipping Sauces,COCKTAIL SAUCE,,35,0,0,0,0,370,9,1,6,,1,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,CHICKEN BISCUIT,,490,26,14,0.5,30,1280,47,1,2,,17,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,SAUSAGE BISCUIT,,540,36,18,0,30,1100,41,1,2,,13,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,EGG BISCUIT,,510,29,15,0,130,1160,41,1,2,,13,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,EGG & SAUSAGE BISCUIT,,690,45,22,0,160,1520,43,1,2,,20,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,BACON BISCUIT,,400,25,12,0,5,780,37,3,2,,8,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,SAUSAGE & GRAVY BISCUIT,,510,33,14,0.5,15,1090,42,3,3,,10,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,HASH ROUNDS,,360,20,9,1,10,450,41,4,0,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Breakfast,COFFEE,,0,0,0,0,0,0,0,0,0,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,ORANGE JUICE,,140,0,0,0,0,20,33,0,30,,2,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,COKE (Reg),,240,0,0,0,0,60,65,0,65,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,DIET COKE (Reg),,0,0,0,0,0,80,0,0,0,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,SPRITE (Reg),,230,0,0,0,0,115,61,0,61,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,FANTA STRAWBERRY (Reg),,260,0,0,0,0,140,72,0,71,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,FANTA ORANGE (Reg),,250,0,0,0,0,65,66,0,66,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,MOUNTAIN DEW (Reg),,280,0,0,0,0,85,73,0,73,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,PEPSI (Reg),,250,0,0,0,0,55,69,0,69,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,DIET PEPSI (Reg),,0,0,0,0,0,95,0,0,0,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,DR PEPPER (Reg),,240,0,0,0,0,75,65,0,64,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,MINUTE MAID LEMONADE (Reg),,270,0,0,0,0,190,71,0,68,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,UNSWEETENED TEA (Reg),,0,0,0,0,0,10,0,0,0,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,SWEET TEA (Reg),,180,0,0,0,0,10,45,0,45,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,CHILLED PREMIUM LEMONADE (Reg),,300,0,0,0,0,5,79,0,75,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Beverages,FROZEN PREMIUM LEMONADE (Reg),,430,0,0,0,0,5,111,0,105,,0,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Desserts,CINNAMON APPLE PIE,,280,14,7,0,0,260,35,2,14,,3,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Desserts,STRAWBERRY & CREAM CHEESE PIE,,300,17,9,0.5,10,290,34,1,11,,4,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Kids,TENDER - CLASSIC,,130,6,3,0,35,570,8,0,0,,12,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
+popeyes,Signature Chicken,LEG - CLASSIC,,190,11,4,0.5,55,350,9,0,0,,12,,,https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf,2026-10-27
