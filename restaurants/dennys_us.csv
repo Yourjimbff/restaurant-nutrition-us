@@ -1,0 +1,66 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+dennys,BREAKFAST,"Bacon, Egg & Cheese Brioche Melt — 6 oz",,540,31,11,0.5,290,1480,36,1,7,,29,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Chipotle Breakfast Burrito — 16 oz,,1110,74,26,0,585,2440,59,4,5,,51,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,French Toast Slam — 14 oz,,1030,63,18,0,625,2010,73,3,23,,43,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,French Toast Slices — 3,,520,22,5,0,85,750,70,3,22,,12,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,"Ham, Egg, & Cheese Brioche Melt — 7 oz",,470,25,9,0.5,280,1080,35,1,6,,25,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Hearty 9-Grain Pancakes — 2,,400,11,3.5,0,40,870,68,5,21,,10,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Original Grand Slam — 16 oz,,960,52,17,0,605,2620,79,2,21,,42,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Pancakes — 2,,450,11,3.5,0,60,1390,77,2,20,,10,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Pancakes — 3 stack,,650,14,5,0,90,2070,115,3,30,,15,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,Slam Melt — 9 oz,,640,41,14,0.5,310,1820,37,1,7,,31,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BREAKFAST,"Sausage, Egg & Cheese Melt — 7 oz",,650,44,16,0.5,300,940,35,1,6,,26,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Bacon Avocado Club Burger — 14 oz,,960,58,20,2,155,1480,54,8,11,,58,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Bacon Cheeseburger (add cheese choice) — 11 oz,,650,35,14,1.5,135,1420,38,2,8,,45,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Black Bean Quinoa Veggie Burger — 12 oz,,700,42,9,0,30,1220,66,19,8,,20,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Breakfast Scramble Burger — 13 oz,,1140,80,26,2,405,2270,47,2,7,,56,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Chipotle Bacon Cheeseburger — 14 oz,,1270,85,26,2,170,1810,76,5,23,,53,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Den Burger (add cheese choice) — 10 oz,,520,26,11,1.5,110,900,37,2,7,,33,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Double Den Burger (add cheese choice) — 11 oz,,630,34,15,2,145,1050,37,2,7,,42,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Flamin' 5-Pepper Burger — 15 oz,,950,64,22,1.5,165,2190,42,3,10,,51,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Little Den Burger (add cheese choice) — 8 oz,,410,18,8,1,70,750,37,2,7,,24,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Aged White Cheddar Cheese GF — 1 sl,,80,7,4,0,20,135,0,0,0,,5,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,American Cheese GF — 1 sl,,80,7,4,0,20,390,1,0,1,,4,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BURGERS,Swiss Cheese GF — 1 sl,,80,6,4,0,20,45,0,0,0,,6,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Black Bean Quinoa Wrap — 13 oz,,720,37,8,0,5,1480,82,20,4,,17,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Cajun Chicken Wrap — 13 oz,,1000,60,14,0,85,1540,76,5,4,,39,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Cali Chicken Sandwich — 14 oz,,770,45,8,0,80,1250,53,8,10,,43,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Chick-N-Bacon Brioche Melt — 8 oz,,800,48,12,0.5,90,1920,58,2,11,,37,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Fried Cheese Melt — 9 oz,,710,40,16,1,65,2030,65,2,11,,27,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Guacamole Chicken Burrito — 15 oz,,910,55,20,0,135,1820,59,6,4,,48,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,"ROLLED, PRESSED, & MORE",Turkey BLT Sandwich — 11 oz,,790,45,11,0,95,2240,51,5,11,,48,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SALADS,Crispy Chicken Salad with Honey Mustard Dressing — 13 oz,,750,48,8,0,100,2240,43,4,12,,41,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SALADS,Garden Salad with choice of dressing (add dressing choice) — 10 oz,,160,11,1.5,0,0,35,16,8,6,,3,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SALADS,Southwestern Chicken Salad with Ranch Dressing — 14 oz,,770,62,12,0,90,1110,24,5,4,,33,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Chicken Tenders with Honey Mustard — 3 pc,,590,39,5,0,75,1700,35,2,7,,28,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Chicken Tenders with Honey Mustard — 5 pc,,860,55,7,0,115,2700,50,3,7,,46,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,French Fries GF — 4 oz,,340,18,3.5,0,0,200,40,4,0,,4,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Mozzarella Sticks with tomato sauce — 5 pc,,460,21,8,0,45,1240,47,0,6,,20,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Mozzarella Sticks with tomato sauce — 8 pc,,720,33,13,0,70,1870,74,0,9,,32,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Onion Rings with Creamy BBQ Sauce — 6 oz,,620,47,8,0,15,1030,44,3,14,,5,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Potato Rounds GF — 6 pc,,250,17,2.5,0,0,540,24,2,1,,2,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,MUNCHIES,Sweet Potato Fries — 4 oz,,360,16,2.5,0,0,380,51,7,19,,3,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,"Balsamic Vinaigrette, Low-Fat GF — 1.5 oz",,60,2,0,0,0,250,11,0,11,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,BBQ Sauce GF — 1.5 oz,,110,0,0,0,0,470,30,1,28,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Buffalo Sauce GF — 1.5 oz,,110,12,2,0,0,1010,1,0,0,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Chipotle Sauce GF — 1.5 oz,,240,27,4.5,0,15,190,3,0,0,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Creamy BBQ Sauce GF — 1.5 oz,,220,21,3.5,0,15,310,9,0,8,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Go Green (add diced avocado) GF — 1 oz,,60,5,1,0,0,0,3,3,0,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Honey Mustard Sauce GF — 1.5 oz,,190,15,2.5,0,15,200,12,0,7,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Ranch Dressing GF — 1.5 oz,,200,21,4,0,10,290,1,0,0,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Pancake Syrup GF — 1.5 oz,,110,0,0,0,0,40,29,0,21,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Pig Out (2 slices of bacon) GF — 2 sl,,130,9,3,0,30,520,1,0,1,,12,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Salsa GF — 1.5 oz,,10,0,0,0,0,160,2,1,1,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Sour Cream GF — 1 oz,,45,4,2,0,15,5,1,0,0,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,Wrapped Up (lettuce wrap) GF — 2 oz,,5,0,0,0,0,15,1,1,0,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SAUCES & SIDES,5-Pepper GF — 1.5 oz,,20,0,0,0,0,260,4,1,2,,0,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,Chocolate Chip Cookie Sundae — 9 oz,,860,40,22,0,85,380,124,4,82,,10,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,Chocolate Milk Shake GF 16 fl oz,,960,48,32,0,180,240,121,0,94,,18,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,Maple Bacon Milk Shake GF 16 fl oz,,960,51,31,0,190,840,104,0,86,,24,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,Oreo Milk Shake 16 fl oz,,1020,57,34,0,180,530,118,1,89,,15,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,S'Mores Cookie Sundae — 9 oz,,830,36,20,0,85,420,125,4,87,,9,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,SHAKES & SUNDAES,Vanilla Milk Shake GF 16 fl oz,,810,48,32,0,180,320,85,0,70,,13,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BAKERY,Chocolate Chip Cookie — 1 ea,,570,28,14,0,45,290,78,3,48,,7,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,BAKERY,S'Mores Cookie — 1 ea,,540,23,12,0,45,330,79,3,53,,6,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,FRUIT,Fruit Cup GF — 7 oz,,70,0,0,0,0,25,18,3,15,,1,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
+dennys,FRUIT,Yogurt Parfait — 9 oz,,310,3.5,1,0,10,200,61,4,36,,10,,,https://dennys.com/sites/default/files/2024-11/262604_Jul24_DEN_NutritionalGuide_V6_R2R.pdf,2026-10-27
