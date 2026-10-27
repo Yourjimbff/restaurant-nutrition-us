@@ -1,0 +1,162 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+tacobueno,Nachos & Chips,Beef Mucho Nachos,,1120,69,26,1,75,2650,94,13,6,,33,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Chicken Mucho Nachos,,1090,63,24,0.5,75,2670,95,13,7,,38,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,MexiDips & Chips,,1020,62,20,0,20,1190,100,13,3,,19,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Regular Chips with Guac,,630,40,10,0,0,290,66,10,<1,,9,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Regular Chips with Queso,,560,31,11,0,15,940,60,3,3,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Small Chips with Guac,,480,30,8,0,0,210,53,7,<1,,7,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Small Chips with Queso,,440,23,9,0,10,640,48,2,2,,8,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Nachos & Chips,Steak Mucho Nachos,,1120,64,24,1,85,2500,93,13,6,,43,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Quesadillas,Beef Quesadilla,,910,59,32,0.5,170,1820,48,2,1,,48,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Quesadillas,Cheese Quesadilla,,800,50,28,0,140,1440,47,2,<1,,40,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Quesadillas,Chicken Quesadilla,,870,52,29,0,175,1850,49,2,2,,53,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Quesadillas,Party Quesadilla,,400,25,14,0,70,720,23,<1,0,,20,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Quesadillas,Steak Quesadilla,,950,56,31,0,205,1800,47,2,1,,66,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Beef Potato Burrito,,300,16,6,0,25,810,30,2,2,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Beef Taco Rollup,,180,9,3.5,0,20,450,16,<1,<1,,8,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Chicken Potato Burrito,,290,13,5,0,30,820,31,2,3,,12,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Chicken Taco Rollup,,160,6,2.5,0,25,460,17,<1,<1,,11,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Mucho Tostada,,410,26,11,0.5,60,910,25,5,3,,18,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Party Burrito,,320,16,6,0,10,710,34,4,<1,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Party Nachos,,440,23,9,0,10,640,48,2,2,,8,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Party Taco,,160,10,4,0,20,240,12,1,<1,,7,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Bueno Values,Party Tostada,,350,22,10,0,30,650,27,6,1,,13,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Black Beans,,170,0,0,0,0,1000,34,12,7,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Cilantro Lime Rice,,100,0,0,0,0,1040,23,<1,0,,2,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Guacamole,,160,16,2.5,0,0,160,8,6,0,,3,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Mexican Rice,,210,4,0.5,0,0,760,39,1,1,,5,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Party Beans,,470,32,13,0,20,910,31,10,<1,,14,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sides,Queso,,140,11,4.5,0,15,850,4,0,3,,4,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Beef Bueno Chilada Platter,,1370,74,26,1.5,75,3050,139,15,5,,41,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Beef Chilada & Taco Platter,,1360,76,27,1.5,85,2850,132,15,5,,41,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,"Beef Muchaco Platter, Crispy Taco",,1510,86,31,1.5,75,2270,146,18,6,,42,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,"Beef Muchaco Platter, Soft Taco",,1520,85,30,1,75,2460,150,17,6,,44,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Beef Taco Platter,,1200,67,24,1,75,1980,119,14,4,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Beef Wholotta Platter,,2100,120,43,2,125,4270,197,21,10,,62,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Chicken Bueno Chilada Platter,,1320,65,22,0.5,80,3080,140,14,6,,48,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Chicken Chilada & Taco Platter,,1310,66,23,0.5,80,2970,137,14,6,,47,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Chicken Fajita Platter,,1330,60,21,0,90,2480,150,13,8,,49,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,"Chicken Muchaco Platter, Crispy Taco",,1520,85,30,1,85,2360,147,22,8,,54,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,"Chicken Muchaco Platter, Soft Taco",,1510,82,28,1,80,2510,150,21,8,,53,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Chicken Taco Platter,,1170,57,20,0,80,2200,124,13,5,,44,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Chicken Wholotta Platter,,2070,105,37,1,125,4220,198,20,11,,71,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Combo Fajita Platter,,1360,63,22,0.5,100,2310,147,14,6,,56,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Double Chicken Fajita Platter,,2650,129,45,1,145,5190,316,49,16,,95,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Double Combo Fajita Platter,,2590,129,45,1.5,165,5160,295,49,14,,104,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Double Steak Fajita Platter,,2680,127,44,1,185,4050,287,27,9,,106,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tex-Mex Platters,Steak Fajita Platter,,1400,66,23,0.5,115,2140,145,14,5,,62,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Beef Big Freak’n Taco,,410,28,12,1,80,810,21,3,2,,20,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Beef Crispy Taco,,200,12,5,0,30,360,14,2,<1,,9,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Beef Muchaco,,520,30,11,0.5,30,840,44,5,3,,17,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Beef Soft Taco,,210,11,4.5,0,30,550,17,1,1,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Chicken Big Freak’n Taco,,360,19,9,0,85,850,22,2,3,,28,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Chicken Crispy Taco,,170,7,3,0,30,370,14,2,1,,13,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Chicken Muchaco,,490,26,9,0,35,850,45,5,4,,21,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Chicken Soft Taco,,180,7,2.5,0,30,560,18,1,2,,14,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Steak Big Freak’n Taco,,400,21,10,0,100,590,19,2,2,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Steak Crispy Taco,,190,9,3.5,0,40,250,13,2,<1,,16,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Steak Muchaco,,510,27,10,0,40,730,43,5,3,,24,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Tacos,Steak Soft Taco,,200,8,3,0,40,440,16,1,<1,,17,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Bean Burrito,,520,27,10,0,20,1180,53,7,1,,17,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Beef Big Ol’ Burrito,,620,33,14,1,85,1720,53,4,3,,29,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Beef Bueno Burrito,,630,32,12,0.5,50,1700,63,7,2,,24,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Beef Burrito,,470,25,10,1,60,1360,41,3,1,,22,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Black Bean Burrito,,410,12,5,0,20,1450,61,9,5,,16,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Chicken Big Ol’ Burrito,,570,23,9,0,90,1750,55,4,4,,38,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Chicken Bueno Burrito,,600,26,10,0,55,1720,63,6,2,,29,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Combo Burrito,,500,27,10,0.5,45,1300,47,5,1,,20,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Steak Big Ol’ Burrito,,610,26,11,0.5,110,1460,51,4,3,,46,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Burritos,Steak Bueno Burrito,,630,28,10,0,65,1560,62,6,2,,34,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Beef Nacho Salad,,720,41,16,0.5,55,1300,67,6,4,,21,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Beef Taco Salad,,1000,70,22,1.5,105,2390,65,8,9,,33,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Beef Tex-Mex Bowl,,970,52,18,1,45,1700,106,12,3,,25,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Chicken Burrito Bowl,,350,8,3.5,0,60,2190,44,8,7,,29,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Chicken Nacho Salad,,690,36,14,0,55,1320,68,5,4,,25,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Chicken Salad Bowl,,490,31,7,0,75,1940,29,9,10,,29,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Chicken Taco Salad,,950,61,18,0.5,110,2430,66,8,9,,40,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Chicken Tex-Mex Bowl,,940,46,15,0,45,1730,106,11,4,,30,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Steak Burrito Bowl,,390,10,4.5,0,75,1960,41,8,6,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Steak Nacho Salad,,710,38,15,0.5,65,1190,66,5,4,,29,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Steak Salad Bowl,,530,33,8,0.5,90,1710,27,9,9,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Steak Taco Salad,,990,63,19,1,125,2170,63,8,8,,47,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Steak Tex-Mex Bowl,,970,48,16,0.5,55,1560,104,11,3,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Salads & Bowls,Veggie Salad Bowl,,390,28,6,0,30,1380,27,9,9,,12,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #1: Muchaco, Crispy Taco, Bean Burrito",,1230,69,26,1,80,2370,111,14,5,,42,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,Combo #2: 2 Big Freak’n Tacos and Bueno Burrito,,1450,88,37,2.5,210,3330,104,12,6,,64,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,Combo #3: Crispy Tacos,,590,36,15,1,90,1070,41,5,3,,26,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #4: Bueno Burrito, Crispy Taco",,830,44,17,1,80,2060,76,8,3,,32,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #5: MexiDips & Chips, Muchaco",,1530,93,31,1,50,2030,144,18,6,,37,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #6: Chicken Quesadilla, Crispy Taco",,1070,64,34,0,205,2200,63,4,3,,62,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #7: Mucho Nachos, Crispy Taco",,1320,81,31,1.5,100,3000,108,15,7,,41,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Combos,"Combo #8: Nacho Salad, Crispy Taco",,910,53,21,1,85,1660,81,7,5,,30,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Bacon & Egg Breakfast Burrito,,390,23,8,0,210,970,26,<1,2,,19,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Bacon Breakfast Quesadilla,,1160,78,37,0,370,2490,52,2,2,,63,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Bean Breakfast Burrito,,520,27,10,0,20,1180,53,7,1,,17,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Breakfast Platter,,800,51,17,0,400,1800,50,6,3,,35,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Chorizo & Egg Breakfast Burrito,,340,20,6,0,200,730,25,2,2,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Chorizo Breakfast Quesadilla,,1060,72,35,0,355,2010,51,3,3,,55,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Hashbrowns,,190,14,5,0,0,360,16,2,0,,2,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Meat Lovers Breakfast Burrito,,550,32,10,0,225,1400,39,2,2,,26,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Potato & Egg Breakfast Burrito,,320,17,5,0,180,660,29,2,2,,11,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Sausage & Egg Breakfast Burrito,,330,19,6,0,200,790,24,<1,2,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Breakfast,Sausage Breakfast Quesadilla,,960,64,32,0,335,1880,48,2,2,,50,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sweets,"Cheesecake Chimichangas, 1 Piece",,190,9,3.5,0,5,120,24,<1,10,,4,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sweets,"Cheesecake Chimichangas, 2 Piece",,380,18,7,0,10,240,47,2,19,,8,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sweets,"Churros, 3 Piece",,140,8,3.5,0,0,130,16,0,<1,,2,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sweets,"Churros, 5 Piece",,230,13,6,0,0,210,26,<1,1,,3,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Sweets,Cinnamon Chips,,360,16,6,0,0,75,49,2,4,,5,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Beef Soft Taco & Applesauce,,280,11,4.5,0,30,550,36,5,14,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Beef Soft Taco & Chips,,550,27,10,0.5,30,620,62,4,1,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Beef Soft Taco & Cinnamon Chips,,570,27,10,0.5,30,620,66,4,5,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Chicken Soft Taco & Applesauce,,250,7,2.5,0,30,560,37,5,14,,14,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Chicken Soft Taco & Chips,,530,23,8,0,30,640,63,3,2,,18,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Chicken Soft Taco & Cinnamon Chips,,540,23,8,0,30,640,67,3,6,,18,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Bean Burrito & Applesauce,,390,17,6,0,10,720,53,8,13,,10,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Bean Burrito & Chips,,660,32,12,0,10,790,79,7,1,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Bean Burrito & Cinnamon Chips,,680,32,12,0,10,790,83,7,5,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Crispy Taco & Applesauce,,230,10,4,0,20,250,31,5,14,,7,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Crispy Taco & Chips,,500,26,10,0,25,320,57,3,1,,11,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Crispy Taco & Cinnamon Chips,,520,26,10,0,25,320,61,3,5,,11,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Rollup & Applesauce,,250,9,3.5,0,20,450,35,5,13,,8,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Rollup & Chips,,520,25,9,0,25,520,61,3,<1,,13,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Beef Rollup & Cinnamon Chips,,540,25,9,0,25,520,65,3,5,,13,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Cheese Quesadilla & Applesauce,,470,25,14,0,70,720,43,5,13,,21,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Cheese Quesadilla & Chips,,740,41,20,0,70,800,69,3,<1,,25,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Cheese Quesadilla & Cinnamon Chips,,760,41,20,0,70,800,73,3,5,,25,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Chicken Rollup & Applesauce,,230,6,2.5,0,25,460,36,5,14,,11,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Chicken Rollup & Chips,,510,22,8,0,25,530,62,3,1,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Kid's Meals,Kids Party Chicken Rollup & Cinnamon Chips,,520,22,8,0,25,530,66,3,5,,15,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Dr Pepper, 12oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Dr Pepper, 22oz",,0,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Dr Pepper, 30oz",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Dr Pepper, 40oz",,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Pepsi, 12oz",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Pepsi, 22oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Pepsi, 30oz",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Diet Pepsi, 40oz",,0,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Dr Pepper, 12oz",,150,0,0,0,0,60,40,0,40,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Dr Pepper, 22oz",,280,0,0,0,0,110,73,0,73,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Dr Pepper, 30oz",,380,0,0,0,0,150,99,0,99,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Dr Pepper, 40oz",,500,0,0,0,0,200,132,0,132,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Fresh Brewed Coffee, 12oz",,5,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Fresh Brewed Coffee, 16oz",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Mountain Dew, 12oz",,170,0,0,0,0,65,46,0,46,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Mountain Dew, 22oz",,310,0,0,0,0,120,84,0,84,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Mountain Dew, 30oz",,430,0,0,0,0,160,115,0,115,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Mountain Dew, 40oz",,570,0,0,0,0,220,153,0,153,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Pepsi, 12oz",,150,0,0,0,0,30,41,0,41,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Pepsi, 22oz",,260,0,0,0,0,55,72,0,72,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Pepsi, 30oz",,360,0,0,0,0,70,98,0,98,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Pepsi, 40oz",,480,0,0,0,0,95,131,0,131,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sierra Mist, 12oz",,150,0,0,0,0,40,39,0,39,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sierra Mist, 22oz",,280,0,0,0,0,70,72,0,72,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sierra Mist, 30oz",,380,0,0,0,0,95,98,0,98,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sierra Mist, 40oz",,500,0,0,0,0,130,130,0,130,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sweet Tea, 12oz",,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sweet Tea, 22oz",,20,0,0,0,0,0,6,0,6,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sweet Tea, 30oz",,30,0,0,0,0,0,8,0,8,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Sweet Tea, 40oz",,40,0,0,0,0,0,10,0,10,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Unsweet Tea, 12oz",,5,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Unsweet Tea, 22oz",,10,0,0,0,0,20,2,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Unsweet Tea, 30oz",,10,0,0,0,0,25,3,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27
+tacobueno,Beverages,"Unsweet Tea, 40oz",,10,0,0,0,0,35,4,0,0,,0,,,https://www.nutritionix.com/taco-bueno/menu/premium,2026-10-27

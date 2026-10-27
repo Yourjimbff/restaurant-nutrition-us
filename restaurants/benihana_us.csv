@@ -1,0 +1,431 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+benihana,Hot Appetizers,Chicken Tempura,,450,25,4.5,0,70,1180,28,1,0,,28,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Edamame,,210,9,1,0,0,440,17,9,4,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Pork Gyoza Dumplings,,250,12,3.5,0,20,990,25,0,7,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Shrimp Saute,,140,3.5,0.5,0,115,340,0,0,0,,27,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Shrimp Tempura,,560,37,5,0,80,910,38,1,1,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Spicy Chicken Gyoza Dumplings,,370,9,2.5,0,45,1330,44,3,5,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Spicy Edamame,,340,16,3,0,0,1150,35,9,17,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,"Tokio Wings, Black Pepper Teriyaki Sauce",,680,60,18,0,500,2450,22,0,20,,83,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,"Tokio Wings, Sesame Garlic Sauce",,770,90,26,0,500,1860,8,0,0,,81,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,"Tokio Wings, Spicy Sauce",,690,70,19,0,500,2280,5,1,3,,82,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hot Appetizers,Vegetable Tempura,,590,43,7,0,0,490,44,4,3,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,Chili Ponzu Yellowtail,,260,15,4,0,70,430,4,5,12,,26,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Crispy Rice, Spicy Salmon",,240,6,0,0,10,1940,38,3,22,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Crispy Rice, Spicy Tuna",,220,4,0,0,<5,1940,38,3,22,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Crispy Rice, Spicy Yellowtail",,200,4,0,0,<5,1940,38,3,22,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sashimi Sampler, Izumidai Sashimi",,20,0,0,0,10,10,0,0,0,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sashimi Sampler, Salmon Sashimi",,70,4,1,0,20,5,0,0,0,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sashimi Sampler, Tuna Sashimi",,50,0.5,0,0,25,20,0,0,0,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,Seared Tuna,,100,1,1,0,45,430,8,1,3,,23,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sushi Sampler, Izumidai Nigiri",,30,0,0,0,<5,70,5,0,1,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sushi Sampler, Salmon Nigiri",,60,2,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sushi Sampler, Shrimp Nigiri",,30,0,0,0,15,90,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sushi Sampler, Tuna Nigiri",,40,0,0,0,<5,70,5,0,1,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Sushi Sampler, Yellowtail Nigiri",,60,3,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,Tuna Poke,,140,1,0,0,40,1200,17,2,17,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Cold Appetizers,"Tuna Poke, Spicy",,260,11,0,0,40,1290,0,0,16,,21,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Benihana Onion Soup,,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Benihana Salad,,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Classic Seaweed Salad,,110,3,0,0,0,1380,18,7,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Hibachi Chicken Rice,,560,11,2.5,0,150,570,70,6,<1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Hibachi Shrimp Rice,,600,10,1.5,0,160,620,71,6,1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Hibachi Steak Rice,,600,14,3,0,150,560,71,6,1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Miso Soup,,30,1,0,0,0,950,4,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Spicy Fried Shrimp Rice,,600,14,3,0,160,670,71,6,1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Spicy Fried Steak Rice,,640,17,3,0,150,770,71,6,1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Side Orders,Spicy Hibachi Chicken Rice,,600,15,3,0,150,770,71,6,1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,Chirashi,,850,12,3,0,325,600,137,1,5,,54,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Crab Stick",,30,0.5,0.5,0,5,150,4,<1,2,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Octopus Trimmed",,20,0,0,0,35,65,0,0,0,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Salmon Sashimi (2 pieces)",,40,2,0,0,15,30,0,0,0,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Shrimp Sushi",,20,0,0,0,5,10,0,0,0,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Sushi Rice",,510,0,0,0,0,10,122,1,0,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Sweet Egg Nigiri",,90,6,2,0,120,110,7,0,3,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Tobiko Orange",,40,2,0,0,105,25,0,0,0,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Tuna Sashimi (2 pieces)",,40,1,0,0,10,15,0,0,0,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Whitefish Trimmed",,30,0,0,0,10,140,1,0,0,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Chirashi, Yellowtaill Sashimi (2 pieces)",,40,1,0,0,15,15,0,0,0,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,Nigiri Assortment,,410,10,2,0,180,800,52,0,14,,27,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Octopus (1 piece)",,30,0,0,0,<5,90,6,0,1,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Salmon (2 pieces)",,80,2,0,0,10,160,11,0,2,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Shrimp (1 piece)",,30,0,0,0,25,80,4,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Tamago (1 piece)",,90,6,2,0,120,110,7,0,3,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Tuna (2 pieces)",,80,2,0,0,10,150,11,0,2,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Whitefish (1 piece)",,40,0,0,0,<5,90,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Nigiri Assortment, Yellowtail (2 pieces)",,70,1,0,0,10,120,9,0,2,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,Sashimi Assortment,,520,10,2,0,100,310,62,0,0,,47,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sashimi Assortment, Rice",,250,0,0,0,0,0,61,0,0,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sashimi Assortment, Salmon Sashimi (4 pieces)",,70,3,1,0,30,50,0,0,0,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sashimi Assortment, Tuna Sashimi (4 pieces)",,70,3,1,0,20,25,0,0,0,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sashimi Assortment, Whitefish Sashimi (4 pieces)",,60,2,1,0,25,220,2,0,0,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sashimi Assortment, Yellowtail Sashimi (4 pieces)",,70,3,1,0,30,25,0,0,0,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,Sushi & Sashimi Combination,,720,16,3,0,85,760,105,2,11,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, California roll (4 pieces)",,210,10,2,0,10,410,25,2,6,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Rice",,250,0,0,0,0,0,61,0,0,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Salmon Nigiri (1 piece)",,40,1,0,0,<5,80,6,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Salmon Sashimi (2 pieces)",,30,2,0,0,15,25,0,0,0,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Shrimp Nigiri (1 piece)",,30,0,0,0,25,80,4,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Tuna Nigiri (1 piece)",,40,1,0,0,<5,75,6,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Tuna Sashimi (2 pieces)",,40,1,0,0,10,10,0,0,0,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Yellowtail Nigiri (1 piece)",,40,1,0,0,<5,60,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Entrees,"Sushi & Sashimi Combination, Yellowtail Sashimi (2 pieces)",,40,1,0,0,15,10,0,0,0,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Albacore Tuna Sashimi,,30,2,0.5,0,10,0,0,0,0,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Egg Tamago Sashimi,,30,1,0,0,45,55,2,0,2,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Octopus Sashimi,,10,0,0,0,<5,30,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Salmon Sashimi,,40,2,0.5,0,10,0,0,0,0,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Shrimp Sashimi,,10,0,0,0,20,25,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Smoked Salmon Sashimi,,50,1,0,0,<5,300,0,0,0,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Snapper Sashimi,,10,0,0,0,<5,0,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sashimi,Yellowtail Sashimi,,40,3,0.5,0,10,5,0,0,0,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Albacore Tuna Nigiri,,60,2,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Eel Nigiri,,80,4,1,0,30,150,6,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Egg Tamago Nigiri,,50,1,0,0,45,120,8,0,3,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Kani Kanikama Nigiri,,40,0,0,0,0,140,7,0,2,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Octopus Nigiri,,30,0,0,0,<5,95,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Salmon Nigiri,,60,2,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Salmon Roe Nigiri,,50,1,0,0,15,190,6,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Shrimp Nigiri,,30,0,0,0,20,90,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Smoked Salmon Nigiri,,70,1,0,0,<5,300,11,0,2,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Snapper Nigiri,,30,0,0,0,<5,70,5,0,1,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Tuna Nigiri,,40,0,0,0,<5,70,5,0,1,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Nigiri,Yellowtail Nigiri,,70,3,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,California Roll,,280,5,0,0,<5,680,55,5,10,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Cucumber Roll,,240,1,0,0,0,330,49,<1,4,,8,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Dragon Roll,,510,21,4,0,145,1550,67,7,13,,26,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Eel Roll,,420,12,3,0,110,1070,60,<1,11,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Philadelphia Roll,,380,13,5,0,35,680,54,3,13,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Rainbow Roll,,510,21,4,0,55,920,58,6,12,,21,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Salmon Avocado Roll,,460,21,4,0,40,1100,48,6,15,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Salmon Roll,,250,5,1,0,20,270,37,0,10,,14,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Shrimp Tempura Roll,,330,10,2,0,25,890,52,5,12,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Spicy Salmon Roll,,300,9,1.5,0,25,690,41,14,14,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Spicy Tuna Roll,,340,6,1,0,20,920,56,1,12,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Tuna Roll,,210,0,0,0,15,280,37,0,10,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Vegetable Roll,,300,6,1.5,0,0,690,55,6,10,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sushi Rolls,Yellowtail Roll,,230,3.5,1,0,20,280,37,0,10,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Alaskan Roll,,400,18,3,0,45,780,47,2,13,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Chili Shrimp Roll,,810,32,6,0,150,2110,101,3,27,,20,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Gojira Roll,,510,23,7,0,65,1140,59,4,17,,16,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Las Vegas Roll,,280,21,7,0,30,880,58,5,12,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Lobster Roll,,390,17,3,0,80,1020,53,2,15,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Shrimp Crunchy Roll,,500,20,3,0,20,1260,68,1,12,,11,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Shrimp Lover's Roll,,240,9,2,0,60,1280,61,7,16,,17,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Spicy Lotus Tempura Roll,,530,29,6,0,35,1240,55,5,24,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Sushi,Sumo Roll,,610,55,10,0,135,1470,96,5,15,,29,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Entree Complements,Add NY Strip Steak to Entree,,240,11,5,1,160,190,1,1,<1,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Entree Complements,Add Shrimp to Entree,,140,3.5,0.5,0,115,340,0,0,0,,27,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Benihana Onion Soup",,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Benihana Salad",,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Benihana’s OriginalYum Yum Sauce",,170,19,3,0,80,150,2,0,<1,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Ginger Sauce",,10,0,0,0,0,750,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Mustard Sauce",,110,10,1.5,0,0,530,4,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Shrimp Appetizer",,40,1,0,0,35,100,0,0,0,,8,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,5 Course Entree,"5 Course Entree, Steamed Rice",,300,0,0,0,0,5,72,<1,<1,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Seafood Diablo,,630,26,4,0,110,1620,69,3,14,,31,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Spicy Tofu Steak,,490,16,3.5,0,80,1250,55,7,33,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Yakisoba Chicken,,640,14,2,0,75,1540,94,9,11,,34,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Yakisoba Shrimp,,600,11,1,0,85,1700,94,9,11,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Yakisoba Steak,,620,13,2,0,75,1700,100,9,11,,26,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Noodles & Tofu,Yakisoba Trio,,620,13,2,0,80,1650,96,9,11,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Filet Mignon,,250,11,5,0.5,85,190,1,0,0,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Hibachi Chateaubriand,,360,18,7,0.5,130,400,3,0,20,,48,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Hibachi Chicken,,280,11,3,0,115,120,1,0,0,,44,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Hibachi Steak,,230,11,5,1,160,190,1,0,0,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Spicy Hibachi Chicken,,360,14,3.5,0,115,790,16,1,0,,44,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Teriyaki Chicken,,370,11,3,0,115,430,17,0,0,,52,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Steak & Chicken,Teriyaki Steak,,290,11,4,0.5,135,530,15,2,17,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Hibachi Scallops,,140,4,1,0,50,810,4,<1,<1,,23,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Hibachi Shrimp,,200,5,1,0,165,470,0,<1,<1,,38,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Hibachi Tuna Steak,,500,31,4.5,0,155,530,7,1,<1,,45,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Salmon with Avocado,,670,42,8,0,170,830,27,3,6,,46,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Spicy Hibachi Shrimp,,290,10,1.5,0,190,940,2,1,2,,44,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,"Surf Side, Colossal Shrimp (7)",,190,6,1.5,0,280,800,0,<1,<1,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Seafood,Twin Lobster Tails,,130,3,1,0.5,175,880,0,<1,<1,,25,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Benihana Onion Soup",,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Benihana Salad",,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Benihana’s OriginalYum Yum Sauce",,170,19,3,0,80,150,2,0,<1,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Ginger Sauce",,10,0,0,0,0,750,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Hibachi Vegetables Onions",,30,1,0,0,0,30,5,1,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Hibachi Vegetables Zucchini",,20,1,0,0,0,30,2,1,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Ice cream",,100,5,3,0,20,25,13,1,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Mushrooms",,20,0.5,0,0,0,10,1,0,<1,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Mustard Sauce",,110,10,1.5,0,0,530,4,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Rainbow Sherbet",,130,1.5,0.5,0,<5,35,29,0,17,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Shrimp Appetizer",,40,1,0,0,35,100,0,0,0,,8,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,6 Course Entree,"6 Course Entree, Steamed Rice",,300,0,0,0,0,5,72,<1,<1,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Delight, Chicken",,280,11,3,0,115,120,1,1,<1,,44,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Delight, Colossal Shrimp",,110,3.5,1,0,160,160,0,0,0,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Excellence, Colossal Shrimp",,110,3.5,1,0,160,460,0,0,0,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Excellence, Julienne Steak",,200,8,3,0,110,370,11,<1,20,,23,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Special, Hibachi Steak",,240,11,5,1,160,190,1,1,<1,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Special, Lobster Tail",,70,1.5,0.5,0,90,440,0,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Trio, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Trio, Colossal Shrimp",,80,2.5,1,0,120,340,0,0,0,,14,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Benihana Trio, Filet Mignon",,200,9,4.5,0,70,160,1,1,<1,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Deluxe Treat, Filet Mignon",,250,11,5,0.5,85,190,1,1,<1,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Deluxe Treat, Lobster Tail",,70,1.5,0.5,0,90,440,0,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Emperor's Feast, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Emperor's Feast, Filet Mignon",,250,11,5,0.5,85,190,1,1,<1,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Hibachi Supreme, Chateaubriand",,370,18,7,0.5,130,400,3,1,<1,,48,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Hibachi Supreme, Lobster Tail",,70,1.5,0.5,0,90,440,0,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Land 'N Sea, Filet Mignon",,250,11,5,0.5,85,190,1,1,<1,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Land 'N Sea, Scallops",,70,2,0.5,0,25,400,2,0,0,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Rocky's Choice, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Rocky's Choice, Hibachi Steak",,240,11,5,1,160,190,1,1,<1,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Samurai Treat, Colassal Shrimp",,110,3.5,1,0,160,460,0,0,0,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Samurai Treat, Filet Mignon",,250,11,5,0.5,85,190,1,1,<1,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Splash 'N Meadow, Colossal Shrimp",,110,3.5,1,0,160,460,0,0,0,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialties,"Splash 'N Meadow, Hibachi Steak",,240,11,5,1,160,190,1,1,<1,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Benihana Onion Soup,,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Benihana Onion Soup",,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Benihana Salad",,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, California Roll (half)",,140,3,0,0,<5,340,27,3,5,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Colossal Shrimp",,110,3.5,1,0,160,460,0,0,0,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Edamame",,50,2,0,0,0,110,4,2,<1,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Filet Mignon",,200,9,4,0,70,160,1,0,0,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Fruit",,30,0,0,0,0,0,17,2,8,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Salmon",,110,6,1,0,25,60,0,0,0,,14,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Sashimi",,70,0.5,0,0,35,30,0,0,0,,17,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Shrimp and Vegetable Tempura",,160,13,1,0,0,370,6,1,0,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Steak Julienne",,110,4,1.5,0,70,210,6,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Boat, Steamed Rice",,300,0,0,0,0,5,72,<1,<1,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Chicken for Yakisoba,,90,3.5,1,0,40,40,0,0,0,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Calamari",,120,6,1.5,0,170,15,0,0,0,,16,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Scallops",,70,2,0.5,0,25,400,2,0,0,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Shrimp",,70,2,0,0,60,170,0,0,0,,14,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Steak Julienne",,110,4,1.5,0,70,210,6,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Duet, Yakisoba",,260,4.5,0,0,<5,740,47,6,7,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Hibachi Scallops,,90,2.5,0.5,0,30,520,3,0,0,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Hibachi Shrimp,,150,3.5,0.5,0,120,340,0,0,0,,27,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Hibachi Shrimp for Yakisoba,,60,1.5,0,0,45,135,0,0,0,,11,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Hibachi Vegetable Rice,,410,8,2,0,65,770,75,6,<1,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Hibachi Vegetables,,40,1,0,0,0,65,6,2,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Julienne Steak,,160,6,2,0,90,300,9,1,13,,19,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Poke Bowl, Ahi Tuna Poke",,310,11,1,0,40,1250,22,7,12,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Poke Bowl, Mixed Greens",,20,0,0,0,0,30,4,2,2,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Poke Bowl, Rice",,510,0,0,0,0,10,122,1,0,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Poke Bowl, Salmon Poke",,380,21,4,0,45,1260,22,7,12,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Spicy Hibachi Chicken,,260,10,2.5,0,80,560,11,1,11,,31,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Steak for Yakisoba,,80,3,1,0,45,140,4,0,0,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Benihana Salad",,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, California Roll",,270,5,0,0,<5,680,55,5,10,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Ginger",,10,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Salmon Nigiri",,60,2,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Shrimp Nigiri",,30,0,0,0,15,90,5,0,1,,3,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Soup",,30,1,0,0,0,950,4,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Tuna Nigiri",,40,0,0,0,<5,70,5,0,1,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Wasabi",,10,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,"Lunch Sushi Combination, Yellowtail Nigiri",,60,3,0.5,0,10,70,5,0,1,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Lunch Entrees,Lunch Yakisoba,,510,9,0.5,0,10,1490,94,9,11,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Desserts,Banana Tempura,,410,13,4.5,0,20,70,69,3,27,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Desserts,Chocolate Ice Cream,,100,6,3,0,20,25,13,1,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Desserts,Green Tea Ice cream,,90,4,2.5,0,10,40,13,0,14,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Desserts,Vanilla Ice Cream,,100,6,3,0,20,25,12,0,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Benihana OriginalGarlic Sauce TM (1 pt)",,1440,160,40,0,0,2000,40,0,0,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Benihana OriginalYum Yum Sauce (1 pt)",,2770,300,48,0,1310,2450,32,0,9,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Brown Rice (12 oz)",,500,3,0,0,0,15,108,8,0,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Ginger Sauce (1 pt)",,160,0,0,0,0,12000,2,<1,5,,28,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Hibachi Chicken Rice (6 oz)",,440,11,2.5,0,150,570,70,6,<1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Hibachi Chicken Rice (12 oz)",,880,22,5,0,300,1140,114,13,2,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Hibachi Chicken Rice (24 oz)",,1760,44,10,0,600,2280,280,24,0,,60,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Hot Sauce (4 oz)",,270,1.5,0,0,0,1270,62,0,24,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Mustard Sauce (1 pt)",,1760,160,24,0,0,8480,64,0,5,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Salad Dressing (1 pt)",,960,96,16,0,0,5440,32,4,6,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Spicy Fried Rice w/ Chicken ( 6 oz)",,470,15,3,0,150,770,71,6,<1,,16,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Spicy Fried Rice w/ Chicken (12 oz)",,940,25,6,0,300,1540,140,12,<1,,31,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Spicy Fried Rice w/ Chicken (24 oz)",,1870,55,12,0,600,3080,285,25,1,,60,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Steamed Rice (12 oz)",,600,0,0,0,0,0,144,1,1,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Take Home,"Take Home, Teriyaki Sauce (1 pt)",,1240,0,0,0,0,9810,256,1,208,,53,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Avocado Tartar S.",,100,10,2,0,10,60,2,1,1,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, BGearnliihc aSnaa uOcer iTgMinal",,90,10,2.5,0,0,125,3,0,0,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Diablo sauce",,140,15,3,0,10,115,1,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Ginger Dressing",,60,6,1,0,0,340,2,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Ginger Sauce",,10,0,0,0,0,750,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Hot Sauce",,70,0,0,0,0,320,16,0,6,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Mustard Sauce",,110,10,1.5,0,0,530,4,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Spicy Teriyaki S.",,70,0,0,0,0,680,13,0,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, Teriyaki Sauce",,80,0,0,0,0,620,16,0,13,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,To Go Sauces,"To Go Sauces, YBuenmi hYaunma SOraiugicne aTlM",,170,19,3,0,80,150,2,0,<1,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Apple Juice,,120,0,0,0,0,15,29,0,28,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Banana Berry Blast,,250,4,0,0,0,0,62,2,48,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Benihana Onion Soup,,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Benihana Salad,,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's California Roll,,280,5,0,0,<5,680,55,5,10,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Chicken & Shrimp,,200,7,2,0,115,220,0,0,0,,35,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Chicken & Steak,,210,9,3,0,115,120,0,0,0,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Chicken Tenders,,560,31,6,0,85,1480,36,2,0,,35,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Cranberry Juice,,100,0,0,0,0,0,35,0,24,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Dragon Juice,,90,0,0,0,0,0,23,0,24,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Edamame,,210,9,1,0,0,440,17,9,4,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Filet Mignon & Chicken,,260,11,4,0,100,160,1,1,0,,41,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Filet Mignon & Shrimp,,200,7,3,0,105,280,0,0,0,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Hibachi Chicken,,180,7,2,0,80,80,0,0,0,,31,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Hibachi Chicken Rice,,560,11,2.5,0,150,570,71,6,<1,,15,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Hibachi Filet Mignon,,200,9,4,0,70,160,1,0,0,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Hibachi Shrimp,,90,2,0,0,70,200,0,0,0,,16,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Hibachi Steak,,120,6,2.5,0,90,100,0,0,0,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Ice Cream,,100,6,3,0,20,25,13,1,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Milk 2%,,140,5,0,0,0,20,14,0,12,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Orange Juice,,110,0,0,0,0,0,26,0,22,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Pineapple Juice,,130,0,0,0,0,0,32,0,30,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Shrimp Apetizer,,40,1,0,0,35,100,0,0,0,,8,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Steak & Shrimp,,150,5,2,0,115,230,0,0,0,,25,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Steamed Rice,,300,0,0,0,0,0,72,<1,<1,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's Vegetables,,40,1.5,0,0,0,65,6,2,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Childrens Menu,Children's White Noodle,,280,4,1,0,0,700,56,0,12,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Benihana Onion Soup",,30,1,0,0,0,710,3,0,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Benihana Salad",,90,8,1,0,0,360,3,1,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Benihana’s OriginalYum Yum Sauce",,170,19,3,0,80,150,2,0,<1,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Ginger Sauce",,10,0,0,0,0,750,0,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Hibachi Chicken Rice",,300,0,0,0,0,5,72,<1,<1,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Hibachi Vegetables Onions",,30,1,0,0,0,30,5,1,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Hibachi Vegetables Zucchini",,20,1,0,0,0,30,2,1,0,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Ice Cream",,100,5,3,0,20,25,13,1,11,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Mustard Sauce",,110,10,1.5,0,0,530,4,0,0,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Rainbow Sherbet",,130,1.5,0.5,0,<5,35,29,0,17,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Group Menu,"Group Menu, Shrimp Appetizer",,40,1,0,0,35,100,0,0,0,,8,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Koi Entree,Koi Yakisoba Chicken,,640,14,2,0,75,1540,94,9,11,,34,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Koi Entree,Koi Yakisoba Shrimp,,610,12,1,0,80,1640,94,9,11,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Koi Entree,Koi Yakisoba Steak,,630,13,2,0,80,1640,98,9,11,,28,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hotei Entree,Hotei Hibachi Chicken,,280,11,3,0,115,120,1,0,0,,44,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hotei Entree,Hotei Yakisoba Chicken,,640,14,2,0,75,1540,94,9,11,,34,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hotei Entree,Hotei Yakisoba Shrimp,,610,12,1,0,80,1640,94,9,11,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Hotei Entree,Hotei Yakisoba Steak,,630,13,2,0,80,1640,98,9,11,,28,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Geisha Entree,Geisha Hibachi Steak,,230,11,5,1,160,190,1,0,0,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Geisha Entree,Geisha Hibachi Tuna Steak,,460,24,4,0,155,1000,7,8,7,,45,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Geisha Entree,Geisha Teriyaki Steak,,290,11,4,1,135,530,15,0,0,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Buddha Entree,Buddha Colossal Shrimp,,190,6,1.5,0,280,800,0,<1,<1,,33,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Buddha Entree,"Buddha Emperor's Feast, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Buddha Entree,"Buddha Emperor's Feast, Filet Mignon",,250,11,5,0.5,85,190,1,1,<1,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Buddha Entree,Buddha Filet Mignon,,250,11,5,0.5,85,190,1,0,0,,36,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,"Samurai Entree Benihana Special, Hibachi Steak",,240,11,5,1,160,190,1,1,<1,,32,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,"Samurai Entree Benihana Special, Lobster Tail",,70,1.5,0.5,0,90,440,0,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,"Samurai Entree Benihana Trio, Chicken",,130,5,1.5,0,55,55,0,0,0,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,"Samurai Entree Benihana Trio, Colossal Shrimp",,80,2.5,1,0,120,340,0,0,0,,14,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,"Samurai Entree Benihana Trio, Filet Mignon",,200,9,4.5,0,70,160,1,0,0,,30,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Samurai Entree,Samurai Entree Hibachi Chateaubriand,,360,18,7,0.5,130,400,3,0,0,,48,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Dragon Entree,"Dragon Hibachi Supreme, Chateaubriand",,370,18,7,0.5,130,400,3,0,0,,48,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Dragon Entree,"Dragon Hibachi Supreme, Lobster Tail",,70,1.5,0.5,0,90,440,0,0,0,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Dragon Entree,Dragon Twin Lobster Tails,,130,3,1,0.5,175,880,0,0,0,,25,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Avocado Cucumber Roll,,370,20,3,0,0,390,37,8,11,,5,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour California Roll,,280,5,0,0,<5,680,55,5,10,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Chili Shrimp Roll,,810,32,6,0,150,2110,101,3,27,,20,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Crispy Rice, Spicy Salmon",,240,6,0,0,10,1940,38,3,22,,9,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Crispy Rice, Spicy Tuna",,220,4,0,0,<5,1940,38,3,22,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Crispy Rice, Spicy Yellowtail",,200,4,0,0,<5,1940,38,3,22,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Crunchy Calamari Roll,,200,20,7,0,65,1280,71,5,20,,11,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Edamame,,210,9,1,0,0,440,17,9,4,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Onion Rings,,400,22,4,0,0,780,46,3,6,,6,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Pork Gyoza Dumplings,,250,12,3.5,0,20,990,25,0,7,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Salmon Avocado Roll,,460,21,4,0,40,1100,48,6,15,,10,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Salmon Avocado Sashimi,,180,10,2,0,55,690,2,2,0,,21,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Shrimp Crunchy Roll,,500,20,3,0,20,1260,68,1,12,,11,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Shrimp Tempura,,560,37,5,0,80,910,38,1,1,,18,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Spicy Chicken Gyoza Dumplings,,370,9,2.5,0,45,1330,44,3,5,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Spicy Edamame,,340,16,3,0,0,1150,35,9,17,,22,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Spicy Lotus Roll,,530,29,6,0,35,1240,55,5,24,,12,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Spicy Salmon Roll,,300,9,2,0,25,690,41,14,14,,7,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Spicy Tuna Roll,,340,6,1,0,20,920,56,1,12,,13,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Tokio Wings, Black Pepper Teriyaki Sauce (6 wings)",,680,60,18,0,500,2450,22,0,20,,83,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Tokio Wings, Sesame Garlic Sauce (6 wings)",,770,90,26,0,500,1860,8,0,0,,81,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,"Happy Hour Tokio Wings, Spicy Sauce (6 wings)",,690,70,19,0,500,2280,5,1,3,,82,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour,Happy Hour Vegetable Spring Roll,,120,7,2,0,0,430,12,1,1,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Benihana Hot Sake,,250,0,0,0,0,10,8,0,3,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Hana Fuji Apple Sake,,110,0,0,0,0,0,13,0,12,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Hana Lychee Sake,,110,0,0,0,0,0,13,0,12,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,MIO Sparkling Sake (300ml),,250,0,0,0,0,10,42,0,37,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sake Bottle (720ml),,760,0,0,0,0,0,46,0,8,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sake Carafe (8oz),,250,0,0,0,0,0,15,0,3,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sake Glass (4oz),,130,0,0,0,0,0,8,0,1,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sho Chiku Bai Ginjo (300ml),,290,0,0,0,0,0,12,0,6,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sho Chiku Bai Nigori (375ml),,440,0,0,0,0,30,24,0,18,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sake,Sho Chiku Bai Nigori (750ml),,850,0,0,0,0,60,48,0,36,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Benihana Mojito,,260,0,0,0,0,10,30,1,38,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Cosmopolitan,,180,0,0,0,0,0,22,<1,22,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Espresso Martini,,210,0,0,0,0,0,24,0,29,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Japanese Spritz,,200,0,0,0,0,0,22,0,21,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Old Fashioned,,180,0,0,0,0,0,20,<1,5,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Paloma,,160,0,0,0,0,0,13,0,12,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Classic Cocktails,Tokyo Mule,,190,0,0,0,0,0,19,3,37,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Wine,Plum Wine Carafe,,350,0,0,0,0,0,44,0,28,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Wine,Plum Wine Glass,,240,0,0,0,0,0,29,0,21,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Wine,Wine Bottle,,640,0,0,0,0,20,19,0,7,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Wine,Wine Carafe,,230,0,0,0,0,10,7,0,3,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Wine,Wine Glass,,150,0,0,0,0,5,4,0,2,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Asahi 21.4 oz,,270,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Bud Light,,110,0,0,0,0,0,7,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Corona Extra,,150,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Dogfish ‘60 Minute’ IPA,,210,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,High Noon Seltzer,,100,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Kirin Ichiban 22 oz,,270,0,0,0,0,0,20,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Kirin Light,,100,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Kirin Light 22 oz,,170,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Michelob Ultra,,90,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Samuel Adams,,150,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Sapporo 21.3 oz,,250,0,0,0,0,0,18,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Bottled Beer,Stella Artois,,150,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Cocktails,Benihana Punch,,270,0,0,0,0,10,37,<1,37,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Cocktails,Beni Long Island Iced Tea,,230,0,0,0,0,0,18,0,41,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Cocktails,Cucumber Collins,,190,0,0,0,0,0,19,4,11,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Cocktails,Haiku Colada,,370,0.5,0,0,0,0,16,2,54,,4,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Specialty Cocktails,Mai Tai,,270,0,0,0,0,0,30,<1,28,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Mojitos,Benihana Frozen Mojito,,280,0,0,0,0,0,26,0,33,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Mojitos,Coconut Mojito,,210,2,1.5,0,0,0,60,1,38,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Mojitos,Exotic Mojito,,200,0,0,0,0,0,25,2,33,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Margaritas,Prickly Pear Margarita,,240,0,0,0,0,0,27,<1,22,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Margaritas,Yuzu Margarita,,230,0,0,0,0,0,29,2,31,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sangrias,Red Plum Sake Sangria,,190,2,1.5,0,0,120,29,0,24,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sangrias,Sparkling Rose Sangria,,210,0,0,0,0,0,15,<1,15,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Sangrias,White Peach Sake Sangria,,200,0,0,0,0,0,19,<1,18,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Martinis,Beni-Tini,,180,0,0,0,0,0,19,<1,19,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Martinis,Lychee Blossom Martini,,270,0,0,0,0,5,34,0,23,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Martinis,Rising Sun Lemon Drop,,260,0,0,0,0,0,25,<1,38,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Baby Blue Ocean Punch Bowl,,270,0,0.5,0,0,30,40,<1,43,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Baby Hurricane Punch Bowl,,220,0.5,0,0,0,0,33,<1,31,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Baby Tropical Energy Punch Bowl,,250,0,0,0,0,35,21,<1,42,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Benihana Hurricane Punch Bowl,,990,0.5,0,0,0,10,147,4,138,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Blue Ocean Punch Bowl,,1220,0,2,0,0,130,200,4,193,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Punch Bowls,Tropical Energy Punch Bowl,,1120,0,0,0,0,150,92,2,186,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Banana Berry Smoothie,,360,2,1.5,0,0,10,171,4,52,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,"Benihana Lemonade, Mango",,130,0,0,0,0,90,56,0,32,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,"Benihana Lemonade, Passion Fruit",,140,0,0,0,0,90,37,<1,33,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,"Benihana Lemonade, Raspberry",,130,0,0,0,0,90,24,0,32,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,"Benihana Lemonade, Strawberry",,130,0,0,0,0,90,93,0,32,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Betty Buzz Lemon Lime,,30,0,0,0,0,20,9,0,4,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Coca Cola Classic,,100,0,0,0,0,0,25,0,26,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Cookies & Cream Milkshake,,380,8,3,0,0,5,1046,72,6,,52,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Diet Pepsi,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Dr Pepper,,70,0,0,0,0,0,18,0,26,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Grape Ramune,,100,0,0,0,0,20,26,0,24,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Iced Green Iced Tea,,30,0,0,0,0,0,20,0,7,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Alcohol Free Beverages,Lemon-Lime Ramune,,80,0,0,0,0,0,20,0,20,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Beni-Tini,,180,0,0,0,0,0,19,<1,19,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Benihana Hot Sake,,240,0,0,0,0,10,8,0,3,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Benihana Punch,,270,0,0,0,0,10,37,<1,37,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Blue Ocean Punch Bowl,,1220,0,2,0,0,130,200,4,193,,2,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Classic Mojito,,260,0,0,0,0,10,30,1,38,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Coconut Mojito,,210,2,2,0,0,0,21,1,31,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Cosmopolitan,,270,0,0,0,0,0,22,<1,22,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Cucumber Collins,,200,0,0,0,0,0,19,4,11,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Distilled Spirits,,100,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Exotic Mojito,,200,0,0,0,0,0,25,2,33,,1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Grey Goose & Red Bull,,160,0,0,0,0,70,14,0,14,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Kirin Ichiban Sake Bomber,,390,0,0,0,0,0,24,0,2,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Kirin Light,,100,0,0,0,0,0,8,0,0,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Mai Tai,,270,0,0,0,0,0,30,<1,28,,<1,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Milagro Margarita (12 oz),,190,0,0,0,0,0,29,2,31,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Milagro Margarita (16 oz),,210,0,0,0,0,0,22,0,21,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Milagro Paloma (9 oz),,190,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Milagro Paloma (12 oz),,160,0,0,0,0,0,13,0,12,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour MIO Sparkling Sake (300ml),,250,0,0,0,0,10,42,0,37,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Plum Wine Glass,,240,0,0,0,0,0,29,0,21,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Red Plum Sake Sangria,,190,0,0,0,0,0,29,0,24,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Sho Chiku Bai Ginjo (300ml),,290,0,0,0,0,0,12,0,6,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Sho Chiku Bai Nigori (375ml),,440,0,0,0,0,30,24,0,18,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Sparkling Rose Sangria,,180,0,0,0,0,0,15,<1,15,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Toki Old Fashioned,,180,0,0,0,0,0,20,<1,5,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour Tokyo Mule,,190,0,0,0,0,0,19,3,37,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27
+benihana,Happy Hour Beverages,Happy Hour White Peach Sangria,,200,0,0,0,0,0,19,<1,18,,0,,,https://www.nutritionix.com/benihana/menu/premium,2026-10-27

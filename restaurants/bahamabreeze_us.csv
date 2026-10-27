@@ -1,0 +1,178 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+bahamabreeze,Appetizers,"Appetizer, Coconut Shrimp",,610,36,8,0,105,1250,53,4,19,,19,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Beef Empanadas,,1140,62,25,1,110,1540,119,5,34,,27,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Chicken Tostones,,960,52,16,1,120,1870,85,8,6,,39,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,"Classic Chicken Wings, Buffalo",,850,65,14,1,345,4640,7,3,2,,59,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,"Classic Chicken Wings, Spicy Habanero BBQ",,790,38,12,0.5,355,1830,55,0,47,,58,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Crab and Three Cheese Dip,,1190,80,24,1.5,190,1500,78,9,7,,41,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Creamy Spinach and Artichoke Dip,,1350,94,34,0,15,2170,103,13,8,,25,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Crispy Conch Fritters,,850,33,4.5,0,90,2410,114,7,50,,27,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Firecracker Shrimp,,1350,99,12,0,320,2690,76,3,8,,39,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Skillet-Simmered Jerk Shrimp,,970,48,25,1.5,350,1800,82,4,3,,51,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Tuna Tostada Stack,,920,53,7,0,70,1910,75,8,39,,37,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Whole Jamaican Jerk Wings,,1020,66,19,0,495,3450,25,0,22,,82,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Appetizers,Yuca Cheese Sticks,,1240,91,20,1.5,80,2030,93,8,5,,13,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,Bahamian Seafood Chowder (Bowl),,470,42,26,0,150,1260,15,1,6,,9,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,Bahamian Seafood Chowder (Bowl)>Oyster Crackers,,60,2,0,0,0,50,11,<1,0,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,Bahamian Seafood Chowder (Cup),,230,21,13,0,75,630,7,<1,3,,5,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,Cuban Black Bean Soup (Bowl),,440,22,3.5,0,15,2070,48,17,4,,14,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,Cuban Black Bean Soup (Cup),,220,11,1.5,0,<5,1030,24,8,2,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Soup & Salad,House Salad with Island Vinaigrette,,240,14,4,0,10,1150,26,4,15,,6,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Ahi Tuna Tango Salad,,480,14,1.5,0,45,1610,55,9,34,,37,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Cabana Crunch Chicken Salad,,570,22,7,0,115,1470,57,7,41,,41,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Chicken Tostada Salad,,680,34,7,0.5,130,1970,53,11,19,,45,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Island Grille Steak Salad,,900,71,19,1,270,1440,26,11,5,,45,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Salmon Tostada Salad,,760,45,9,0,95,1890,52,11,18,,39,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,Tropical Chicken Salad,,630,26,8,0.5,140,1720,63,8,41,,42,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Light & Breezy Salads,"Tropical Salad, Vegetarian",,430,22,7,0,25,1300,55,7,34,,9,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Applewood Bacon & Cheddar Burger,,1010,61,28,2,245,1390,53,4,13,,63,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Black Bean & Guac Tacos (2), Vegetarian",,770,49,7,0,0,1520,71,23,5,,16,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Black Bean BBQ Burger, Vegetarian",,660,30,12,0,75,1240,77,19,15,,23,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Blackened Mahi Tacos (2),,560,29,5,0,85,1630,47,8,4,,29,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Blackened Mahi Tacos (3),,820,42,7,0,130,2420,69,10,7,,43,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Choice of Cheese for Grilled Burger, American",,150,12,7,0,25,480,2,0,<1,,8,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Choice of Cheese for Grilled Burger, Cheddar",,180,15,9,0.5,45,270,<1,0,0,,11,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Choice of Cheese for Grilled Burger, Goat Cheese",,30,2.5,1.5,0,10,40,<1,0,0,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Choice of Cheese for Grilled Burger, Pepper-Jack",,160,13,8,0.5,40,260,0,0,0,,11,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,"Choice of Cheese for Grilled Burger, Swiss",,170,12,8,0,40,85,2,0,<1,,12,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Coconut Shrimp Tacos (2),,950,67,12,0,80,1760,72,7,18,,17,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Coconut Shrimp Tacos (3),,1330,88,17,0,115,2580,110,10,26,,27,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Cuban Sandwich,,1010,47,23,0,150,2320,85,3,6,,60,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Grilled Burger (choice of cheese not included),,680,36,16,1.5,180,730,44,3,9,,45,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handhelds,Honey Butter Crispy Chicken Sandwich,,970,50,12,0,185,1750,81,3,19,,51,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Black Beans and Yellow Rice,,230,2.5,0,0,0,1070,43,4,2,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Cup of Bahamian Seafood Chowder,,230,21,13,0,75,630,7,<1,3,,5,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Cup of Bahamian Seafood Chowder>Oyster Crackers,,60,2,0,0,0,50,11,<1,0,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Cup of Black Bean Soup,,220,11,1.5,0,<5,1030,24,8,2,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,French Fries,,520,24,2,0,0,1330,70,6,<1,,6,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Fresh Fruit with Mango Sorbet,,120,0,0,0,0,0,32,2,27,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Handheld Sides,Yuca Frites,,450,28,3,0,<5,400,48,3,10,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Beef Empanadas (4)",,1140,62,25,1,110,1540,119,5,34,,27,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Blackened Mahi Tacos (2)",,560,29,5,0,85,1630,47,8,4,,29,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Choice of Cheese for Grilled Burger, American",,150,12,7,0,25,480,2,0,<1,,8,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Choice of Cheese for Grilled Burger, Cheddar",,180,15,9,0.5,45,270,<1,0,0,,11,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Choice of Cheese for Grilled Burger, Goat Cheese",,30,2.5,1.5,0,10,40,<1,0,0,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Choice of Cheese for Grilled Burger, Pepper-Jack",,160,13,8,0.5,40,260,0,0,0,,11,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Choice of Cheese for Grilled Burger, Swiss",,170,12,8,0,40,85,2,0,<1,,12,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Coconut Shrimp (4)",,450,25,6,0,75,920,41,3,18,,13,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Coconut Shrimp Tacos (2)",,950,67,12,0,80,1760,72,7,18,,17,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Cup of Bahamian Seafood Chowder",,230,21,13,0,75,630,7,<1,3,,5,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Cup of Black Bean Soup",,220,11,1.5,0,<5,1030,24,8,2,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Grilled Burger (choice of cheese not included)",,680,36,16,1.5,180,730,44,3,9,,45,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Half Cuban Sandwich",,500,23,12,0,75,1160,43,2,3,,30,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Honey Butter Crispy Chicken Sandwich",,970,50,12,0,185,1750,81,3,19,,51,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, House Salad with Island Vinaigrette",,240,14,4,0,10,1150,26,4,15,,6,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Create a Combo,"Create A Combo, Oyster Crackers",,60,2,0,0,0,50,11,<1,0,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Island Pastas,Jerk Chicken Pasta (Full),,1300,68,35,0,285,2340,112,7,7,,58,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Island Pastas,Jerk Chicken Pasta (Light),,700,35,17,0,145,1200,65,4,4,,31,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Island Pastas,Jerk Shrimp Pasta (Full),,1270,65,34,0.5,575,3130,109,8,6,,62,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Island Pastas,Jerk Shrimp Pasta (Light),,680,33,17,0,290,1600,64,4,3,,33,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Island Pastas,Lobster and Shrimp Linguine,,1210,60,25,0.5,485,3010,102,5,7,,61,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Coconut Shrimp,,1160,67,20,0.5,195,2550,106,9,23,,35,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Grilled Salmon,,870,55,24,1,195,1390,43,5,4,,51,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Island Snapper,,620,29,13,0,140,1920,39,6,6,,50,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Jerk Mahi Mahi,,780,46,10,0,190,2150,45,2,8,,46,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Seafood Paella,,920,36,6,1,315,3080,71,3,7,,77,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Shrimp Pineapple Bowl,,730,17,1.5,0,505,3800,91,6,44,,56,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Seaside,Tequila Sunburn Glazed Salmon,,840,34,8,0,130,1650,87,9,53,,47,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Baby Back Ribs (Full Rack),,1970,114,34,1,350,2950,128,8,49,,102,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Baby Back Ribs (Half Rack),,1310,69,18,0,175,2490,115,7,38,,54,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,"Black Bean Stuffed Plantain Bowl, Vegetarian",,1010,44,9,0,25,1380,135,23,51,,23,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Chicken Pineapple Bowl,,790,24,3,0,160,1540,90,5,43,,53,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Crispy Chicken & Johnny Cakes,,1710,58,15,0,185,3540,235,3,100,,64,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Filet and Yuca Frites,,820,49,10,1,110,2550,56,6,13,,43,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Filet Mignon and Coconut Shrimp,,1270,74,16,1,185,3470,98,10,31,,56,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Grilled Chicken with Cilantro-Crema (Full),,1220,61,20,1,315,2200,88,9,17,,81,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Grilled Chicken with Cilantro-Crema (Light),,1020,57,19,1,205,1790,81,8,11,,49,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Jamaican Curry Pork Chop,,810,29,10,0,135,3100,76,10,45,,67,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Jamaican Jerk Chicken,,1490,66,19,0,305,2670,118,10,57,,100,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Skirt Steak Churrasco,,1060,53,17,1.5,180,2050,91,9,34,,54,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,From the Mainland,Stuffed Plantain Bowl,,1140,56,14,0.5,115,2470,118,11,48,,39,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,The Sweet Life,Chocolate Island,,1040,56,28,0,220,800,128,7,86,,15,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,The Sweet Life,Flaming Pineapple Butter Cake,,1380,72,44,2.5,270,800,160,1,133,,11,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,The Sweet Life,Rebecca's Key Lime Pie,,1050,38,20,1,265,670,164,3,134,,16,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,The Sweet Life,Strawberry Guava Shortcake,,580,27,11,0,120,460,78,4,55,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Bowtie Mac 'n Cheese (includes fresh fruit),,680,36,20,0.5,100,1190,67,3,7,,20,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Broccoli,,140,13,8,0.5,35,200,5,2,1,,3,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Burger Sliders (includes fresh fruit),,460,21,8,1,60,800,43,2,11,,25,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Crispy Chicken Fingers (includes fresh fruit),,540,35,10,0.5,85,1200,34,4,7,,25,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's French Fries,,520,24,2,0,0,1330,70,6,<1,,6,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Grilled Chicken Breast (includes fresh fruit),,340,18,9,0.5,145,600,14,4,8,,36,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Honest Appley Ever After,,40,0,0,0,0,15,10,0,9,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Honest Super Fruit Punch,,40,0,0,0,0,15,10,0,9,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Kid's Menu,Kid's Milk 1%,,130,3,2,0,15,135,15,0,15,,10,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Ahi Tuna Tango Salad,,440,12,1.5,0,45,1600,50,9,33,,36,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Baby Back Ribs (Full Rack),,1700,103,41,1,395,2050,87,5,38,,102,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Baby Back Ribs (Half Rack),,1050,58,25,1,220,1590,74,5,27,,54,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Cabana Crunch Chicken Salad,,480,18,6,0,115,1370,45,6,33,,40,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Chicken Tostada Salad,,530,25,4,0,115,1850,41,10,17,,40,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Fresh Fruit with Mango Sorbet,,260,0,0,0,0,0,67,2,59,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Grilled Salmon with Lemon Butter,,870,55,24,1,195,1390,43,5,4,,51,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS House Salad with Island Vinaigrette,,190,11,2,0,0,1070,21,4,14,,4,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Island Grille Steak Salad,,900,71,19,1,270,1440,26,11,5,,45,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Island Snapper,,620,29,13,0,140,1920,39,6,6,,50,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Jerk Mahi Mahi,,780,46,10,0,190,2150,45,2,8,,46,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Salmon Tostada Salad,,620,36,6,0,75,1780,40,9,17,,34,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Seafood Paella,,920,36,6,1,315,3080,71,3,7,,77,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Tequila Sunburn Glazed Salmon,,840,34,8,0,130,1650,87,9,53,,47,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,GS Tropical Chicken Salad,,500,20,4,0,125,1560,47,7,35,,40,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Gluten-Sensitive,"GS Tropical Salad, Vegetarian",,330,15,3,0,10,1150,46,6,34,,7,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Coke,,140,0,0,0,0,45,39,0,39,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Diet Coke/Coke Zero,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Dr. Pepper,,150,0,0,0,0,50,41,0,41,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Fanta Orange,,160,0,0,0,0,60,45,0,44,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Fresh Brewed Iced Tea,,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Ginger Ale,,120,0,0,0,0,40,33,0,33,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Lemon Breeze,,220,0,0,0,0,25,57,1,56,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Limeade Minutemaid,,180,0,0,0,0,20,50,0,47,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Raspberry Lemon Breeze,,260,0,0,0,0,25,67,1,66,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Sprite,,140,0,0,0,0,65,38,0,38,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Strawberry Lemon Breeze,,270,0,0,0,0,25,70,2,67,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,"Tropical Ice, Kiwi Melon",,340,2,2,0,0,40,83,<1,79,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,"Tropical Ice, Mango",,190,0,0,0,0,15,48,1,45,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,"Tropical Ice, Strawberry",,210,0,0,0,0,10,52,3,47,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Virgin Bahamarita,,120,0,0,0,0,15,31,<1,30,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Virgin Pina Colada,,520,18,15,0,0,65,81,4,75,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Non-Alcoholic Beverages,Virgin Ultimate Pina Colada,,380,14,11,0,0,45,61,3,56,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Frozen Tracks,Bahamarita,,430,0,0,0,0,85,71,<1,65,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Frozen Tracks,Ultimate Pina Colada,,610,12,10,0,0,55,87,4,80,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Frozen Tracks,Ultimate Pineapple,,550,10,8,0,0,45,86,4,79,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Frozen Tracks,Ultra Chill Mai Tai,,450,0,0,0,0,20,70,0,65,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,Classic Margarita,,270,0,0,0,0,10,30,0,30,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,Cocorita,,530,15,13,0,0,50,63,2,56,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,Dragon Fruit Margarita,,250,0,0,0,0,10,35,0,34,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,Hot Honey Mango Margarita,,230,0,0,0,0,750,34,0,31,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,Rita Flight,,470,6,5,0,0,30,58,1,56,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,It's Margarita Time,The Ultimate Margarita,,200,0,0,0,0,5,23,0,22,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Boozy Beats,Bruno's Smash Hit,,270,0,0,0,0,0,36,0,34,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Boozy Beats,Guava Goose Cosmo,,160,0,0,0,0,5,13,0,12,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Boozy Beats,King Carnival,,300,0,0,0,0,10,42,0,40,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Boozy Beats,Rum Runner,,220,0,0,0,0,15,29,0,28,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Cloud Nine,,240,0,0,0,0,10,26,0,22,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Coconut Mojito,,260,5,4.5,0,0,25,35,<1,31,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Mojito Cubano,,250,0,0,0,0,15,32,0,30,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Strawberry Mojito,,240,0,0,0,0,10,34,2,29,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Sunrise Moscato Sangria,,210,0,0,0,0,15,24,0,22,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Fresh Hits,Sunset Berry Sangria,,250,0,0,0,0,20,39,0,37,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Juicy Jams,Bahama Mama,,240,0,0,0,0,15,32,0,29,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Juicy Jams,Mama's Hooch & Holler Flight,,310,2,2,0,0,20,40,<1,37,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Juicy Jams,Painkiller,,290,4.5,4,0,0,20,32,<1,29,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Juicy Jams,Pineapple-Coconut Martini,,160,0,0,0,0,10,23,0,20,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Juicy Jams,Tito's Beachside Strawberry Breeze,,200,0,0,0,0,5,27,1,25,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"Red Wine, 6 oz.",,160,0,0,0,0,0,5,0,1,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"Red Wine, 9 oz.",,230,0,0,0,0,0,8,0,2,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"Red Wine, Bottle",,660,0,0,0,0,0,21,0,5,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"White Wine, 6 oz.",,150,0,0,0,0,10,4,0,2,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"White Wine, 9 oz.",,220,0,0,0,0,15,6,0,3,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Wines,"White Wine, Bottle",,630,0,0,0,0,35,16,0,7,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Hard Ciders (example: Angry Orchard), 12 oz.",,200,0,0,0,0,15,21,0,21,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Hard Ciders (example: Angry Orchard), 20 oz.",,330,0,0,0,0,25,35,0,35,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Hard Seltzer (White Claw), 12 oz.",,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"High Alcohol Beer (6% ABV and up /example: Lagunitas IPA), 12 oz.",,210,0,0,0,0,15,15,0,0,,3,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"High Alcohol Beer (6% ABV and up /example: Lagunitas IPA), 20 oz.",,340,0,0,0,0,25,25,0,0,,5,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Light Beer (example: Miller Light), 12 oz.",,100,0,0,0,0,15,6,0,0,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Light Beer (example: Miller Light), 20 oz.",,170,0,0,0,0,25,10,0,<1,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Non-Alcoholic Beer (example: O'Douls), 12 oz.",,130,0,0,0,0,45,29,0,29,,<1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Non-Alcoholic Beer (example: O'Douls), 20 oz.",,220,0.5,0,0,0,75,48,0,48,,1,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Regular Beer (under 6% ABV /example: Budweiser), 12 oz.",,150,0,0,0,0,15,13,0,0,,2,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27
+bahamabreeze,Beers & Ciders,"Regular Beer (under 6% ABV /example: Budweiser), 20 oz.",,260,0,0,0,0,25,21,0,0,,3,,,https://www.nutritionix.com/bahama-breeze/menu/premium,2026-10-27

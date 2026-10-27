@@ -1,0 +1,126 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+parisbaguette,Cakes,Blueberry Chiffon,,350,23,13,0,135,100,27,0,20,13,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Blueberry Yogurt Cake,,290,20,11,0,115,65,22,1,16,12,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Cappuccino Cake,,300,21,9,0,60,110,28,0,20,6,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Chocoholic Chiffon,,430,29,16,0,140,160,37,1,27,15,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Chocolate Cake,,270,19,8,0,45,95,24,0,18,9,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Green Tea Strawberry Cake,,340,23,13,0,130,90,25,0,17,16,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Lemon Citrus Layer Cake,,420,25,14,0,145,105,40,0,29,16,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Mango Coconut Cake,,380,26,16,0,130,75,28,1,21,15,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Mixed Berry Soft Cream Cake,,310,21,12,0,120,65,23,1,16,14,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Mocha Cake,,290,17,6,0,60,130,33,0,23,5,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,NY Style Cherry Cheesecake,,710,51,31,0,170,410,54,0,38,32,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Rainbow Cake,,350,25,12,0,130,90,25,0,17,14,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Red Velvet Soft Cream Cake,,510,32,15,0,115,250,48,1,34,32,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Snow Bunny Cake,,340,25,16,0,120,65,23,2,15,13,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Souffle Cheesecake,,220,15,6,0,90,130,19,0,13,10,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Strawberry Soft Cream Cake,,300,21,12,0,120,65,22,1,15,14,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Summer Berry Trifle Cake,,320,22,12,0,130,70,24,1,17,14,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cakes,Tiramisu Cake,,310,55,9,0,55,70,7,1,13,3,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cake Slices,Berry Tart,,480,26,16,0,80,180,56,4,28,28,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cake Slices,Lemon Citrus Layer Cake Slice,,580,36,20,0,200,130,52,0,38,20,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cake Slices,NY Style Cheesecake Slice,,520,40,25,0,140,290,34,0,24,20,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cake Slices,Rainbow Cake Slice,,310,21,10,0,115,90,25,0,16,14,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cake Slices,Souffle Cheesecake Piece,,280,18,8,0,110,160,25,0,18,12,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Apple Pie,,250,14,8,0,<5,280,35,0,7,0,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Blueberry Cream Cheese Pastry,,230,13,8,0,35,230,27,1,9,4,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Butter Cream Bread,,310,10,6,0,10,280,29,1,8,6,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Castella,,250,10,2.5,0,180,80,35,0,21,21,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Cheese Tart,,150,10,6,0,30,120,13,0,3,6,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Chicken Bacon Ranch Pizzetta,,450,31,13,0,80,750,25,1,4,4,18,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Chocolate Croissant,,270,15,10,0,35,260,29,1,8,4,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Chocolate Supreme Croissant,,350,22,14,0,25,250,35,1,14,11,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Choux Cream Bread,,220,7,3.5,0,100,170,34,1,14,12,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Coffee Bun,,230,14,8,0,55,180,23,1,8,7,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Coffee Danish,,370,21,12,0,45,280,40,2,12,11,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Crab Meat Croquette,,310,16,2.5,0,15,480,33,1,6,4,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Cream Cheese Donut,,230,10,3.5,0,10,160,27,1,7,2,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Cream Cheese Pastry,,360,20,12,0,50,350,39,1,15,13,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Croissant,,250,15,10,0,0,240,24,1,5,4,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Croissant Donut,,340,20,11,0,40,250,35,1,14,9,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Curry Croquette,,250,11,2.5,0,10,390,32,1,7,5,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Egg Tart,,180,10,5,0,70,115,19,0,9,8,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,"Fruit Bite, Raspberry",,130,7,4.5,0,15,135,16,0,5,3,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Fruit Pastry,,310,15,10,0,35,290,39,0,14,7,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Ham & Cheese Pastry,,370,23,14,0,65,520,30,0,5,4,13,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Hash Brown Bread,,360,19,8,0,50,810,37,3,8,5,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Hawaiian Jalapeno Quiche,,320,20,12,0,105,370,26,1,6,3,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Jalapeno Cheddar Croissant,,340,25,16,0.5,30,330,24,1,5,4,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Jumbo Twisted Donut,,310,9,2,0,60,410,54,2,14,14,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,King Cream Donut,,320,17,10,0,75,310,34,1,13,11,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Lemon Custard King Cream Donut,,400,19,10,0,40,260,50,0,24,0,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Lemon Iced Mochi Donut,,180,8,3,0,0,55,26,0,9,0,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Lemon Supreme Croissant,,350,19,12,0,30,240,40,1,20,5,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Matcha Mochi Donut,,170,6,2,0,0,50,28,0,12,0,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Mini Croissant (6pcs),,330,20,12,0,50,360,32,0,9,8,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Mini Garlic Croissant,,440,28,17,0,20,400,38,0,10,9,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Mini Grain Cream Cheese Pastry,,460,30,15,0,55,430,41,0,12,9,10,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Mr. Bear,,110,7,4,0,30,90,12,0,7,7,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Ms. Bear,,120,7,4,0,30,70,12,0,7,4,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Pain au Chocolat,,230,13,8,0,25,200,24,1,7,3,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Pain aux Raisins,,310,13,9,0,50,290,41,2,18,8,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Palmier,,250,15,10,0,0,450,25,0,10,2,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Pastel De Nata,,140,6,3,0,50,55,19,0,11,10,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Pastry Frank,,410,29,14,0,65,800,27,1,5,3,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Peanut Crumb Bread,,330,13,6,0,30,220,47,2,16,15,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Pineapple Brulee Pastry,,210,11,7,0,25,230,34,1,14,4,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Smoked Sausage Bread,,330,20,8,0,60,770,25,1,7,5,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Soft Cheese Cake,,290,13,4.5,0,85,80,38,0,22,22,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Soft Strawberry Cheese Cake,,290,14,4.5,0,85,65,37,0,22,22,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Strawberry Croissant,,330,21,15,0,20,320,37,2,12,9,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Strawberry Mochi Donut,,180,7,2.5,0,0,50,29,0,12,3,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Sugar Mochi Donut,,150,6,2,0,0,50,22,0,6,5,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Sweet Rice Donut,,250,9,2.5,0,0,400,39,1,5,3,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Tiramisu Tart,,180,12,8,0,30,35,15,0,8,6,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Twisted Donut,,180,6,1.5,0,0,220,28,1,7,6,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Vanilla Cream Bread,,200,6,3.5,0,<5,230,30,1,8,5,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Very Berry Pastry,,170,9,6,0,25,125,20,1,7,3,2,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Bakery,Walnut Cream Bread,,440,28,13,0,55,260,40,2,16,14,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Specials,Celebration Chocolate Chip Cookie,,530,26,14,0,45,260,66,0,46,46,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Specials,Chicken Caesar Wrap,,700,40,9,0,100,2160,49,1,5,0,36,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Specials,Salted Butter Twist Roll,,250,14,7,0,<5,760,27,1,5,4,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Specials,Tuxedo Graduation Cake,,270,17,9,0,110,80,22,0,14,10,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Baguette,,340,0,0,0,0,820,69,3,0,0,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Brioche Rolls,,140,3,1.5,0,20,250,24,1,5,5,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Croissant Loaf,,90,6,4,0,0,90,9,0,2,2,1,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Milk Bread,,120,3.5,2,0,0,190,19,1,3,3,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Multi Grain Bread,,120,2.5,1,0,0,170,20,1,3,2,4,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Raisin Bread,,140,3.5,2,0,0,190,24,1,7,3,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Breads,Soft Cream Bread,,120,3,1.5,0,<5,180,21,1,1,2,3,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Caprese Baguette,,580,22,10,0,55,1170,55,3,3,0,30,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Chicken Bacon Ranch Baguette,,590,26,4.5,0,55,810,55,1,5,1,28,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Ham Egg Swiss Croissant,,440,30,16,0,190,810,23,1,5,1,19,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Harvest Chicken Salad Sandwich,,550,33,6,0,60,960,46,3,10,0,20,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Turkey Avocado Sandwich,,410,17,4,0,45,1380,43,4,8,1,21,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Turkey Club Baguette,,550,22,7,0,60,1320,57,5,2,1,27,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Gourmet Sandwiches,Turkey Mozzarella Panino,,600,27,9,0,55,1560,61,1,8,5,27,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Salads,Chicken Bacon Ranch Salad,,460,36,9,0,210,900,8,1,3,1,24,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Americano,,10,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Cafe Latte,,150,8,4.5,0,35,115,13,0,10,0,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Cafe Mocha,,270,8,4,0,30,120,45,1,38,29,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Cappuccino,,100,4.5,3,0,20,70,9,0,6,0,5,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Caramel Latte,,270,8,4,0,40,180,41,0,34,0,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Hazelnut Latte,,260,7,4.5,0,30,120,39,0,38,28,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Signature Brewed Coffee,,5,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Hot Coffee,Vanilla Latte,,260,7,4,0,30,100,43,0,40,31,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Cold Brew,,5,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Americano,,10,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Cafe Latte,,120,6,3.5,0,25,85,10,0,8,0,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Cafe Mocha,,270,8,4,0,30,120,45,1,38,29,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Caramel Latte,,270,8,4,0,40,180,41,0,34,0,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Coffee,,5,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Hazelnut Latte,,260,7,4.5,0,30,120,39,0,38,28,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Milk Coffee,,240,15,10,0,60,170,16,0,14,0,10,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Iced Vanilla Latte,,260,7,4,0,30,100,43,0,40,31,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Cold Coffee,Salted Caramel Sweet Cream Cold Brew,,120,8,5,0,30,20,12,0,11,11,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Beverages,Caramel Coconut Frozen Latte,,320,14,8,0,65,150,63,0,59,16,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Beverages,Caramel Coconut Latte,,220,8,4.5,0,30,130,53,0,50,14,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Beverages,Iced Caramel Coconut Latte,,220,8,4.5,0,30,130,53,0,50,14,8,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Beverages,Mango Lemonade Refresher,,100,0,0,0,0,5,24,1,22,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Seasonal Beverages,Watermelon Lemonade Refresher,,170,0,0,0,0,5,42,1,41,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Chai Latte,,390,14,10,0,35,250,62,0,54,14,12,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Hot Chocolate,,320,10,6,0,40,190,49,3,43,30,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Iced Chai Latte,,390,13,9,0,35,230,60,0,52,33,11,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Iced Matcha Latte,,270,6,4,0,25,120,50,0,47,39,6,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Matcha Latte,,290,7,4.5,0,30,135,51,0,49,39,7,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27
+parisbaguette,Tea & More,Organic Peach Iced Tea,,180,0,0,0,0,0,44,0,44,0,0,,,https://www.nutritionix.com/paris-baguette/menu/premium,2026-10-27

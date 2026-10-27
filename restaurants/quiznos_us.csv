@@ -1,0 +1,341 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+quiznos,Limited Time Offer,"Black Angus Queso Philly, Large Sub",,1140,44,19,0,165,4760,120,5,6,,72,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Black Angus Queso Philly, Medium Sub",,770,30,13,0,110,3180,80,4,4,,48,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Black Angus Queso Philly, Small Sub",,390,16,7,0,55,1600,40,2,2,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Mushroom Philly, Large Sub",,1150,63,19,0,65,3890,120,4,9,,37,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Mushroom Philly, Medium Sub",,770,42,13,0,45,2600,80,3,6,,25,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Mushroom Philly, Small Sub",,400,22,7,0,20,1310,41,2,3,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Limited Time Offer,"Queso Bravo, Side",,110,9,6,0,20,510,3,0,1,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Chipotle Turkey, Large Sub",,1040,42,13,0,145,2850,109,5,7,,60,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Chipotle Turkey, Medium Sub",,710,30,9,0,100,1930,73,4,5,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Chipotle Turkey, Sammie",,350,16,5,0,50,910,31,4,4,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Chipotle Turkey, Small Sub",,350,14,4.5,0,50,950,37,2,3,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Classic Italian, Large Sub",,1430,82,25,0,145,5140,117,6,11,,61,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Classic Italian, Medium Sub",,970,56,17,0,95,3480,79,4,8,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Classic Italian, Sammie",,480,29,9,0,50,1670,34,4,5,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Classic Italian, Small Sub",,480,27,8,0,50,1710,39,2,4,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Honey Bacon Club, Large Sub",,1140,42,14,0.5,150,3190,123,5,18,,73,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Honey Bacon Club, Medium Sub",,770,29,10,0,100,2140,83,4,13,,49,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Honey Bacon Club, Sammie",,380,16,5,0,50,1020,35,4,7,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Honey Bacon Club, Small Sub",,380,14,4.5,0,50,1060,41,2,6,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Spicy Monterey, Large Sub",,970,29,9,0,140,3360,122,8,13,,60,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Spicy Monterey, Medium Sub",,660,20,6,0,95,2260,82,5,9,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Spicy Monterey, Sammie",,330,11,3.5,0,45,1130,36,4,6,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Spicy Monterey, Small Sub",,320,10,3,0,45,1120,41,3,5,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Traditional, Large Sub",,1030,41,13,0,130,2760,110,6,7,,60,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Traditional, Medium Sub",,700,29,9,0,90,1850,74,4,5,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Traditional, Sammie",,350,16,5,0,45,880,31,4,4,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Traditional, Small Sub",,340,14,4.5,0,45,920,37,2,3,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Tuna Melt, Large Sub",,910,32,9,0,120,2700,110,7,2,,58,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Tuna Melt, Medium Sub",,610,21,6,0,80,1800,74,5,1,,39,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Tuna Melt, Sammie",,310,12,3.5,0,40,860,31,4,2,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Tuna Melt, Small Sub",,310,11,3,0,40,900,37,2,1,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Bacon Guacamole, Large Sub",,1260,55,15,0,155,3610,117,7,8,,75,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Bacon Guacamole, Medium Sub",,850,38,10,0,105,2430,78,5,5,,50,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Bacon Guacamole, Sammie",,420,20,6,0,50,1160,33,4,4,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Bacon Guacamole, Small Sub",,420,18,5,0,50,1210,39,3,3,,25,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Ranch Swiss, Large Sub",,1120,49,13,1,140,2700,112,5,8,,61,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Ranch Swiss, Medium Sub",,770,35,9,0.5,95,1830,75,4,6,,41,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Ranch Swiss, Sammie",,380,18,4.5,0,45,860,32,4,4,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Turkey Ranch Swiss, Small Sub",,380,16,4,0,45,900,38,2,3,,21,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Ultimate Turkey Club, Large Sub",,1090,41,14,0,180,3330,110,5,6,,72,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Ultimate Turkey Club, Medium Sub",,730,28,9,0,120,2230,73,3,4,,48,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Ultimate Turkey Club, Sammie",,370,16,5,0,60,1070,31,4,3,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Ultimate Turkey Club, Small Sub",,360,14,4.5,0,60,1110,37,2,2,,24,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Veggie Guacamole, Large Sub",,1240,69,21,0,75,2640,119,9,8,,43,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Veggie Guacamole, Medium Sub",,850,48,15,0,50,1810,80,6,6,,29,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Veggie Guacamole, Sammie",,410,25,8,0,25,840,34,5,4,,14,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Classics,"Veggie Guacamole, Small Sub",,410,23,7,0,25,880,40,3,3,,14,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Baja, Large Sub",,1240,53,17,0,205,3020,117,4,10,,78,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Baja, Medium Sub",,840,37,11,0,140,2060,78,3,7,,52,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Baja, Sammie",,410,19,6,0,70,960,33,3,4,,25,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Baja, Small Sub",,410,18,6,0,70,1010,39,1,3,,26,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Carbonara, Large Sub",,1430,73,17,0,210,3150,116,3,8,,81,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Carbonara, Medium Sub",,980,52,12,0,140,2150,78,2,6,,54,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Carbonara, Sammie",,480,26,6,0,70,1010,33,3,4,,25,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Carbonara, Small Sub",,480,24,6,0,70,1050,39,1,3,,27,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Honey Mustard, Large Sub",,1340,61,17,1,210,2660,123,5,14,,81,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Honey Mustard, Medium Sub",,920,43,12,0.5,145,1800,83,4,10,,54,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Honey Mustard, Sammie",,450,22,6,0,70,850,36,4,6,,26,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Honey Mustard, Small Sub",,450,20,6,0,70,890,42,2,5,,27,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Mesquite, Large Sub",,1310,62,18,0,205,2830,115,5,7,,80,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Mesquite, Medium Sub",,900,44,12,0,140,1920,77,4,5,,53,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Mesquite, Sammie",,440,22,6,0,70,900,33,4,3,,26,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Mesquite, Small Sub",,440,21,6,0,70,940,39,2,2,,27,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Southwest, Large Sub",,1350,72,18,0.5,190,2740,113,6,2,,68,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Southwest, Medium Sub",,930,51,12,0,130,1880,75,4,1,,45,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Southwest, Sammie",,450,26,6,0,65,870,32,4,2,,22,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Chicken,"Southwest, Small Sub",,440,23,6,0,65,880,38,2,1,,22,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Black Angus Steakhouse, Large Sub",,1160,47,20,0,160,2940,112,6,30,,71,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Black Angus Steakhouse, Medium Sub",,780,31,13,0,110,1940,76,4,22,,47,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Black Angus Steakhouse, Sammie",,400,17,6,0,50,980,38,4,9,,23,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Black Angus Steakhouse, Small Sub",,380,16,7,0,55,950,37,2,10,,23,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Chipotle Steak & Cheddar, Large Sub",,1290,72,17,0.5,150,3050,110,5,4,,59,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Chipotle Steak & Cheddar, Medium Sub",,880,50,12,0,105,2040,73,4,2,,39,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Chipotle Steak & Cheddar, Sammie",,430,25,6,0,50,950,31,4,2,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Chipotle Steak & Cheddar, Small Sub",,430,24,6,0,50,990,36,2,1,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"French Dip, Large Sub",,1020,39,10,0,145,2700,118,5,3,,60,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"French Dip, Medium Sub",,690,27,7,0,100,1850,80,3,2,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"French Dip, Sammie",,360,16,4.5,0,50,980,35,3,2,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"French Dip, Small Sub",,360,14,4,0,50,1020,41,2,1,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Peppercorn Steak, Large Sub",,1320,71,15,0.5,150,2850,113,6,5,,60,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Peppercorn Steak, Medium Sub",,900,51,10,0,105,1890,75,4,3,,40,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Peppercorn Steak, Sammie",,440,25,5,0,50,880,32,4,2,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Steak,"Peppercorn Steak, Small Sub",,430,23,5,0,50,920,37,2,1,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Apple Harvest Chicken, Large Sub",,1240,56,8,0.5,100,1830,146,9,35,,48,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Apple Harvest Chicken, Medium Sub",,850,40,6,0,70,1250,98,6,24,,32,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Apple Harvest Chicken, Sammie",,410,20,3,0,35,570,43,5,13,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Apple Harvest Chicken, Small Sub",,410,18,2.5,0,35,610,49,3,12,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Italian Meatball, Large Sub",,1310,65,24,0,150,3200,118,7,5,,66,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Italian Meatball, Medium Sub",,880,44,16,0,100,2130,79,4,4,,44,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Italian Meatball, Sammie",,440,24,9,0,50,1030,33,4,3,,21,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Italian Meatball, Small Sub",,440,22,8,0,50,1070,39,2,2,,22,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Lobster & Seafood Salad, Large Sub",,790,27,8,0,90,2110,115,6,3,,32,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Lobster & Seafood Salad, Medium Sub",,560,22,7,0,70,1440,77,4,2,,21,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Lobster & Seafood Salad, Sammie",,330,18,8,0,50,720,33,4,2,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Specialties,"Lobster & Seafood Salad, Small Sub",,330,17,7,0,50,760,38,2,1,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Bacon, Egg, & Cheddar, Biscuit",,490,29,15,0,140,1240,37,1,5,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Bacon, Egg, & Cheddar, Sammie",,350,18,7,0,140,780,29,3,3,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Bacon, Egg, & Cheddar, Sub",,350,16,6,0,140,820,35,1,2,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Egg & Cheddar, Biscuit",,500,30,15,0,240,1100,37,1,5,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Egg & Cheddar, Sammie",,360,18,6,0,240,650,29,3,3,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Egg & Cheddar, Sub",,350,16,6,0,240,690,35,1,2,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Ham, Egg, & Cheddar, Biscuit",,460,26,14,0,145,1240,37,1,5,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Ham, Egg, & Cheddar, Sammie",,320,14,5,0,145,780,29,3,3,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Ham, Egg, & Cheddar, Sub",,320,12,5,0,145,820,35,1,2,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Sausage, Egg, & Cheddar, Biscuit",,610,42,20,0,160,1380,36,1,4,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Sausage, Egg, & Cheddar, Sammie",,470,31,12,0,160,920,28,3,2,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Sausage, Egg, & Cheddar, Sub",,470,29,11,0,160,960,34,1,1,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Steak, Egg, & Cheddar, Biscuit",,470,26,14,0,150,1210,37,1,4,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Steak, Egg, & Cheddar, Sammie",,330,14,5,0,150,750,29,3,2,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breakfast,"Steak, Egg, & Cheddar, Sub",,330,12,5,0,150,790,35,1,1,,21,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Black Olives",,10,1,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Buttermilk Ranch",,90,9,1.5,0,<5,120,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Cheddar",,60,4.5,3,0,15,90,0,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Cucumber",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Green Bell Peppers, Fresh",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Green Bell Peppers, Sauteed",,15,1.5,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Guacamole",,45,3.5,0.5,0,0,85,2,1,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Ham",,60,1.5,0.5,0,25,420,1,0,1,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Lettuce Shredded Iceberg",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Mayo",,50,5,0,0,10,120,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Mushrooms, Fresh",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Mushrooms, Sauteed",,15,1.5,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Onions Red, Fresh",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Onions Yellow, Sauteed",,20,1.5,0,0,0,20,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Pickles Dill",,0,0,0,0,0,220,0,1,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Provolone",,50,3.5,2,0,10,95,0,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Red Wine Vinaigrette",,80,8,1,0,0,230,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Swiss",,50,4,2.5,0,15,25,1,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Tomatoes",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Turkey",,60,1,0,0,30,410,1,0,1,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids, Yellow Mustard",,15,1,0,0,0,190,1,1,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids Triple Cheese Melt, Sammie",,320,16,8,0,40,510,28,3,1,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids Triple Cheese Melt, Small Sub",,320,14,8,0,40,550,34,1,0,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids Turkey & Cheese Or Ham & Cheese, Sammie",,160,3.5,0.5,0,0,300,27,3,1,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Kids,"Kids Turkey & Cheese Or Ham & Cheese, Small Sub",,160,1.5,0,0,0,340,33,1,0,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Salads,"Apple Harvest Chicken Salad, Full Salad",,530,30,5,0,50,320,50,8,38,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Salads,"Chef Salad, Full Salad",,640,47,13,0,120,1660,20,4,15,,35,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Salads,"Chef Salad, Half Salad",,470,38,9,0,70,1020,15,2,12,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Salads,"Classic Italian Salad, Full Salad",,740,60,18,0,95,2960,19,5,10,,31,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Salads,"Classic Italian Salad, Half Salad",,490,42,11,0,50,1820,12,2,7,,16,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Soups,"Broccoli Cheese Soup, Regular",,150,13,6,3,25,1160,13,1,5,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Soups,"Broccoli Cheese Soup, Small",,90,8,3.5,1.5,15,720,8,1,3,,3,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Soups,"Chili, Regular",,260,16,6,1,45,830,16,2,6,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Soups,"Chili, Small",,160,10,3.5,0.5,30,520,10,1,3,,9,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Sides,"Tater Tots, Bacon Jalapeno Cheddar Loaded Tots",,610,43,16,0,65,1580,36,0,3,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Sides,"Tater Tots, Classic Tots",,290,15,4,0,0,560,34,0,2,,3,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Desserts,"Chocolate Chunk Cookie, 1.35 oz",,170,7,3,0,10,115,24,1,14,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Desserts,"Chocolate Chunk Cookie, 3 oz",,370,18,7,0,20,250,53,2,32,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Desserts,"Oatmeal Raisin Cookie, 3 oz",,340,13,5,0,20,250,52,3,26,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Desserts,"White Choc Macadamia Cookie, 3 oz",,380,19,7,0,20,270,49,1,31,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Barq's Root Beer, 20 oz",,220,0,0,0,0,95,56,0,56,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Barq's Root Beer, 32 oz",,360,0,0,0,0,150,89,0,89,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Coca-Cola, 20 oz",,220,0,0,0,0,55,55,0,55,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Coca-Cola, 32 oz",,350,0,0,0,0,85,89,0,89,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Coca-Cola Zero Sugar, 20 oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Coca-Cola Zero Sugar, 32 oz",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Diet Coke, 20 oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Diet Coke, 32 oz",,0,0,0,0,0,105,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Dr Pepper, 20 oz",,240,0,0,0,0,75,65,0,64,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Dr Pepper, 32 oz",,380,0,0,0,0,115,104,0,102,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Fanta Orange, 20 oz",,220,0,0,0,0,50,55,0,55,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Fanta Orange, 32 oz",,360,0,0,0,0,85,88,0,88,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Minute Maid Light Lemonade, 20 oz",,10,0,0,0,0,60,3,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Minute Maid Light Lemonade, 32 oz",,15,0,0,0,0,95,4,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Powerade Mountain Blast, 20 oz",,130,0,0,0,0,150,30,0,30,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Powerade Mountain Blast, 32 oz",,200,0,0,0,0,250,49,0,48,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Raspberry Lemonade, 20 oz",,230,0,0,0,0,55,62,0,58,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Raspberry Lemonade, 32 oz",,370,0,0,0,0,90,99,0,93,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Sprite, 20 oz",,210,0,0,0,0,95,50,0,50,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Fountain Drinks,"Sprite, 32 oz",,330,0,0,0,0,150,81,0,81,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan Wheat Multigrain Baguette, Large",,430,4.5,1,0,0,800,87,11,10,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan Wheat Multigrain Baguette, Medium",,290,3,0.5,0,0,530,58,7,7,,13,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan Wheat Multigrain Baguette, Small",,140,1.5,0,0,0,270,29,4,3,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan White French Baguette, Large",,480,5,0,0,0,1020,99,3,0,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan White French Baguette, Medium",,320,3.5,0,0,0,680,66,2,0,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Artisan White French Baguette, Small",,160,1.5,0,0,0,340,33,1,0,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Jalapeno Cheddar Baguette, Large",,430,7,2,0,10,790,78,3,6,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Jalapeno Cheddar Baguette, Medium",,290,4.5,1.5,0,<5,530,52,2,4,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Jalapeno Cheddar Baguette, Small",,140,2,0.5,0,<5,260,26,1,2,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Rosemary Parmesan Baguette, Large",,430,7,2.5,0,10,830,77,4,5,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Rosemary Parmesan Baguette, Medium",,290,5,1.5,0,<5,550,51,2,3,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Rosemary Parmesan Baguette, Small",,140,2.5,1,0,<5,280,26,1,2,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Breads,"Sammie (Flatbread Pita) Bread, 6-inch",,160,3.5,0.5,0,0,300,27,3,1,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Bacon Diced, Large Sub",,150,11,4,0,30,630,2,0,1,,13,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Bacon Diced, Medium Sub",,100,7,2.5,0,20,420,1,0,1,,8,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Bacon Diced, Small Sub/Sammie",,50,3.5,1.5,0,10,210,1,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Black Angus Steak, Large Sub",,180,4.5,1.5,0,80,910,4,1,0,,30,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Black Angus Steak, Medium Sub",,120,3,1,0,55,610,2,1,0,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Black Angus Steak, Small Sub/Sammie",,60,1.5,0,0,25,300,1,0,0,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Capicola, Large Sub",,90,6,2.5,0,25,730,2,0,2,,8,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Capicola, Medium Sub",,60,4,1.5,0,20,490,1,0,1,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Capicola, Small Sub/Sammie",,30,2,1,0,10,240,1,0,1,,3,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Chicken Breast, Large Sub",,220,4.5,1,0,120,530,5,0,0,,37,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Chicken Breast, Medium Sub",,150,3,0.5,0,80,350,3,0,0,,25,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Chicken Breast, Small Sub/Sammie",,70,1.5,0,0,40,180,2,0,0,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Ham, Large Sub",,90,2.5,1,0,40,630,2,0,2,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Ham, Medium Sub",,60,1.5,0.5,0,25,420,1,0,1,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Ham, Small Sub/Sammie",,30,1,0,0,15,210,1,0,1,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Meatballs, Large Sub",,500,38,12,0,90,1340,14,2,2,,26,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Meatballs, Medium Sub",,330,25,8,0,60,890,9,1,1,,17,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Meatballs, Small Sub/Sammie",,170,13,4,0,30,450,5,1,1,,9,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Pepperoni, Large Sub",,200,17,7,0,40,730,2,0,2,,8,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Pepperoni, Medium Sub",,130,11,4.5,0,25,490,1,0,1,,5,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Pepperoni, Small Sub/Sammie",,70,6,2.5,0,15,240,1,0,1,,3,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Salami, Large Sub",,160,14,5,0,30,690,1,0,0,,8,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Salami, Medium Sub",,110,9,3.5,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Salami, Small Sub/Sammie",,50,4.5,2,0,10,230,0,0,0,,3,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Tuna (with Mayo), Large Sub",,250,12,0,0,75,740,9,0,0,,30,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Tuna (with Mayo), Medium Sub",,170,8,0,0,50,490,6,0,0,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Tuna (with Mayo), Small Sub/Sammie",,80,4,0,0,25,250,3,0,0,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Turkey Breast, Large Sub",,190,3.5,1,0,90,1220,2,0,2,,31,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Turkey Breast, Medium Sub",,130,2.5,0.5,0,60,810,2,0,2,,21,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Proteins,"Turkey Breast, Small Sub/Sammie",,60,1,0,0,30,410,1,0,1,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Cheddar, Large Sub",,170,14,9,0,45,260,1,0,0,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Cheddar, Medium Sub",,110,9,6,0,30,180,0,0,0,,7,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Cheddar, Small Sub/Sammie",,60,4.5,3,0,15,90,0,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Provolone, Large Sub",,150,11,6,0,30,290,0,0,0,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Provolone, Medium Sub",,100,7,4,0,20,190,0,0,0,,7,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Provolone, Small Sub/Sammie",,50,3.5,2,0,10,95,0,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Swiss, Medium Sub",,110,8,5,0,25,55,2,0,0,,8,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,"Swiss, Small Sub/Sammie",,50,4,2.5,0,15,25,1,0,0,,4,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Cheese,Swiss Large Sub,,160,12,8,0,40,80,2,0,1,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Alfredo Sauce, Large Sub",,330,33,6,0,30,570,8,0,6,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Alfredo Sauce, Medium Sub",,250,25,4.5,0,20,430,6,0,4,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Alfredo Sauce, Small Sub/Sammie Alfredo Sauce, Large Sub",,110,11,2,0,10,190,3,0,2,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,Apple Cider Vinaigrette,,170,15,2.5,0,10,95,9,0,9,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,Au Jus,,30,1.5,0.5,0,0,210,3,0,1,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Blue Ribbon BBQ Sauce, Large Sub",,35,0,0,0,0,230,8,0,7,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Blue Ribbon BBQ Sauce, Medium Sub",,25,0,0,0,0,180,6,0,5,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Blue Ribbon BBQ Sauce, Small Sub/Sammie",,10,0,0,0,0,75,2,0,2,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Buttermilk Ranch, Large Sub",,260,28,4.5,0,10,370,2,0,2,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Buttermilk Ranch, Medium Sub",,200,21,3,0,10,280,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Buttermilk Ranch, Small Sub/Sammie",,90,9,1.5,0,<5,120,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Four Pepper Chili Sauce (Batch 83), Large Sub",,40,0,0,0,0,150,9,0,6,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Four Pepper Chili Sauce (Batch 83), Medium Sub",,30,0,0,0,0,110,7,0,4,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Four Pepper Chili Sauce (Batch 83), Small Sub/Sammie",,15,0,0,0,0,50,3,0,2,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey French Dressing, Large Sub",,130,10,1.5,0,0,200,10,0,10,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey French Dressing, Medium Sub",,100,8,1,0,0,150,8,0,7,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey French Dressing, Small Sub/Sammie",,45,3.5,0,0,0,65,3,0,3,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey Mustard Dressing, Large Sub",,300,29,4.5,0,25,380,9,0,9,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey Mustard Dressing, Medium Sub",,230,22,3.5,0,20,280,7,0,7,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Honey Mustard Dressing, Small Sub/Sammie",,100,10,1.5,0,10,125,3,0,3,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Horseradish, Large Sub",,110,11,0,0,25,340,6,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Horseradish, Medium Sub",,80,8,0,0,20,250,5,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Horseradish, Small Sub/Sammie",,35,3.5,0,0,10,110,2,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Marinara, Large Sub",,35,1,0,0,0,260,5,1,3,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Marinara, Medium Sub",,20,0.5,0,0,0,170,4,1,2,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Marinara, Small Sub/Sammie",,10,0,0,0,0,85,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Chipotle, Large Sub",,350,38,6,0.5,25,660,2,0,1,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Chipotle, Medium Sub",,260,28,4.5,0,20,500,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Chipotle, Small Sub/Sammie",,120,12,2,0,10,220,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Lite, Large Sub",,80,8,0,0,20,180,2,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Lite, Medium Sub",,60,6,0,0,15,135,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Mayo Lite, Small Sub/Sammie",,25,2.5,0,0,<5,60,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Peppercorn Sauce, Large Sub",,390,41,6,0.5,40,440,4,0,2,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Peppercorn Sauce, Medium Sub",,290,31,5,0,30,330,3,0,1,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Peppercorn Sauce, Small Sub/Sammie",,130,14,2,0,15,150,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Red Wine Vinaigrette, Large Sub",,240,24,4,0,0,690,5,0,3,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Red Wine Vinaigrette, Medium Sub",,180,18,3,0,0,510,4,0,3,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Red Wine Vinaigrette, Small Sub/Sammie",,80,8,1,0,0,230,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Yellow Mustard, Large Sub",,40,2.5,0,0,0,580,3,2,1,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Yellow Mustard, Medium Sub",,30,2,0,0,0,430,2,1,0,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Yellow Mustard, Small Sub/Sammie",,15,1,0,0,0,190,1,1,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Zesty Grille Sauce, Large Sub",,110,0.5,0,0,0,450,25,1,22,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Zesty Grille Sauce, Medium Sub",,80,0,0,0,0,340,19,1,17,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Dressings & Sauces,"Zesty Grille Sauce, Small Sub/Sammie",,35,0,0,0,0,150,8,0,7,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Banana Peppers, Large Sub",,5,0,0,0,0,560,2,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Banana Peppers, Medium Sub",,5,0,0,0,0,370,2,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Banana Peppers, Small Sub/Sammie",,0,0,0,0,0,190,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Black Olive Slices, Large Sub",,35,3.5,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Black Olive Slices, Medium Sub",,25,2.5,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Black Olive Slices, Small Sub/Sammie",,10,1,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Cucumber, Large Sub",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Cucumber, Medium Sub",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Cucumber, Small Sub/Sammie",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Green Bell Peppers Fresh, Large Sub",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Green Bell Peppers Fresh, Medium Sub",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Green Bell Peppers Fresh, Small Sub/Sammie",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Guacamole, Large Sub",,130,11,2,0,0,260,6,2,0,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Guacamole, Medium Sub",,90,7,1.5,0,0,170,4,1,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Guacamole, Small Sub/Sammie",,45,3.5,0.5,0,0,85,2,1,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Jalapeno Peppers, Large Sub",,0,0,0,0,0,560,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Jalapeno Peppers, Medium Sub",,0,0,0,0,0,370,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Jalapeno Peppers, Small Sub/Sammie",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Lettuce Iceberg Shredded, Large Sub",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Lettuce Iceberg Shredded, Medium Sub",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Lettuce Iceberg Shredded, Small Sub/Sammie",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Lettuce Romaine Chopped, Salad",,25,0,0,0,0,10,5,3,2,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Mushrooms Fresh, Large Sub",,5,0,0,0,0,0,1,0,0,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Mushrooms Fresh, Medium Sub",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Mushrooms Fresh, Small Sub/Sammie",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Onions Red Fresh, Large Sub",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Onions Red Fresh, Medium Sub",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Onions Red Fresh, Small Sub/Sammie",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pepperoncini, Large Sub",,5,0,0,0,0,750,0,1,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pepperoncini, Medium Sub",,5,0,0,0,0,500,0,1,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pepperoncini, Small Sub/Sammie",,0,0,0,0,0,250,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pickles Dill, Large Sub",,0,0,0,0,0,670,0,3,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pickles Dill, Medium Sub",,0,0,0,0,0,450,0,2,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Pickles Dill, Small Sub/Sammie",,0,0,0,0,0,220,0,1,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Green Bell Peppers, Large Sub",,45,5,0,0,0,50,1,1,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Green Bell Peppers, Medium Sub",,30,3,0,0,0,35,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Green Bell Peppers, Small Sub/Sammie",,15,1.5,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Mushrooms, Large Sub",,45,5,0,0,0,55,1,0,1,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Mushrooms, Medium Sub",,30,3,0,0,0,35,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Mushrooms, Small Sub/Sammie",,15,1.5,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Yellow Onions, Large Sub",,50,5,0,0,0,55,3,1,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Yellow Onions, Medium Sub",,35,3,0,0,0,35,2,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Sautéed Yellow Onions, Small Sub/Sammie",,20,1.5,0,0,0,20,1,0,0,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Tomatoes, Large Sub",,10,0,0,0,0,0,2,1,2,,1,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Tomatoes, Medium Sub",,10,0,0,0,0,0,2,1,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,"Condiments, Toppings, & Veggies","Tomatoes, Small Sub/Sammie",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Apple Harvest Chicken Salad Bowl",,3160,191,32,0,385,2400,246,34,189,,127,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Baja Chicken Sammie",,210,10,3,0,35,480,17,2,2,,13,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Baja Chicken Sub",,310,13,4,0,50,760,29,1,3,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Chipotle Turkey Sammie",,180,8,3,0,25,460,16,2,2,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Chipotle Turkey Sub",,260,11,3,0,35,710,27,1,2,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Chocolate Chip Cookie, 1.35 Oz",,170,7,3,0,10,115,24,1,14,,2,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Classic Italian Salad Bowl",,2570,202,67,1,390,9410,57,17,33,,122,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Classic Italian Sammie",,240,15,5,0,25,840,17,2,3,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Classic Italian Sub",,360,21,6,0,35,1290,29,2,3,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Fresh Garden Salad Bowl",,1220,109,17,1.5,<5,3100,55,18,29,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Honey Bacon Club Salad Bowl",,2550,154,46,2.5,405,6880,134,16,105,,156,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Honey Bacon Club Sammie",,190,8,3,0,25,510,18,2,4,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Honey Bacon Club Sub",,290,11,4,0,40,800,31,1,5,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Honey Mustard Chicken Sammie",,230,11,3,0,35,430,18,2,3,,13,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Honey Mustard Chicken Sub",,340,15,4,0,55,670,31,1,4,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Mesquite Chicken Sammie",,220,11,3,0,35,450,17,2,2,,13,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Mesquite Chicken Sub",,330,16,5,0,50,710,29,1,2,,20,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Traditional Sammie",,180,8,3,0,25,440,16,2,2,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Traditional Sub",,260,10,3,0,35,690,28,2,2,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Turkey Bacon Guacamole Sammie",,210,10,3,0,25,580,17,2,2,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Turkey Bacon Guacamole Sub",,320,14,4,0,40,900,29,2,2,,19,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Turkey Ranch Swiss Sammie",,190,9,2,0,25,430,16,2,2,,10,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Turkey Ranch Swiss Sub",,280,12,3,0,35,680,28,1,2,,15,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Ultimate Turkey Club Salad Bowl",,2560,189,54,2,480,7190,47,15,28,,156,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Ultimate Turkey Club Sammie",,190,8,3,0,30,540,16,2,2,,12,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Ultimate Turkey Club Sub",,270,10,4,0,45,830,28,1,2,,18,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Veggie Guacamole Sammie",,210,13,4,0,15,420,17,3,2,,7,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27
+quiznos,Catering,"Catering, Veggie Guacamole Sub",,310,17,5,0,20,660,30,2,2,,11,,,https://www.nutritionix.com/quiznos/menu/premium,2026-10-27

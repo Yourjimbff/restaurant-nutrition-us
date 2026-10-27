@@ -1,0 +1,855 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+wawa,Hot Beverages,"Buttery Caramel Cream Hot Latte, 12 oz",,370,16,10,0,50,190,54,0,46,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Buttery Caramel Cream Hot Latte, 16 oz",,620,25,16,0,80,310,94,0,80,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Café Con Leche, 12 oz",,150,6,4,0,20,60,21,0,19,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Café Con Leche, 16 oz",,270,12,8,0,40,120,35,0,31,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Café Con Leche Hot Latte, 12 oz",,150,6,4,0,20,60,21,0,19,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Café Con Leche Hot Latte, 16 oz",,150,6,4,0,20,60,21,0,19,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Hot Chocolate, 12 oz",,340,16,10,0,10,65,56,0,49,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Hot Chocolate, 16 oz",,540,23,14,0,20,130,92,0,80,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Hot Latte, 12 oz",,130,3.5,2,0,10,65,26,0,22,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Hot Latte, 16 oz",,260,7,4,0,20,130,52,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Macchiato, 12 oz",,80,1,0.5,0,<5,15,19,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Caramel Macchiato, 16 oz",,110,1,0.5,0,<5,15,25,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chai Matcha, 12 oz",,120,0,0,0,0,0,27,0,26,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chai Matcha, 16 oz",,170,0,0,0,0,0,38,0,35,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chai Tea, 12 oz",,60,0,0,0,0,0,15,0,15,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chai Tea, 16 oz",,90,0,0,0,0,0,23,0,23,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chocolate Chai Tea, 12 oz",,160,0.5,0,0,0,15,40,0,38,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Chocolate Chai Tea, 16 oz",,290,1,0,0,0,30,73,0,69,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Cocoa Cream Hot Chocolate, 12 oz",,640,34,22,0,60,180,82,0,72,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Cocoa Cream Hot Chocolate, 16 oz",,760,40,26,0,80,240,96,0,84,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Cookies and Cream Hot Chocolate, 12 oz",,630,32,20,0,40,200,87,0,72,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Cookies and Cream Hot Chocolate, 16 oz",,690,35,22,0,50,230,94,0,78,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Dulce De Leche Hot Latte, 12 oz",,290,7,4,0,20,130,58,0,50,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Dulce De Leche Hot Latte, 16 oz",,440,11,6,0,30,200,90,0,78,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Hot Chocolate, 12 oz",,210,12,8,0,0,0,30,0,27,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Hot Chocolate, 16 oz",,280,16,10,0,0,0,40,0,36,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Matcha, 12 oz",,90,0,0,0,0,0,20,0,18,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Matcha, 16 oz",,120,0,0,0,0,0,26,0,24,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mint Matcha, 12 oz",,170,0,0,0,0,0,38,0,36,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mint Matcha, 16 oz",,200,0,0,0,0,0,44,0,42,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Caramel Macchiato, 12 oz",,80,0,0,0,0,0,18,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Caramel Macchiato, 16 oz",,100,0,0,0,0,0,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Hot Latte, 12 oz",,100,0.5,0,0,0,15,25,0,23,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Hot Latte, 16 oz",,150,1,0,0,0,25,38,0,35,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Mint Hot Chocolate, 12 oz",,290,12,8,0,0,0,48,0,45,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Mint Hot Chocolate, 16 oz",,380,16,10,0,0,0,64,0,60,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Mint Hot Latte, 12 oz",,180,0.5,0,0,0,15,43,0,41,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Mocha Mint Hot Latte, 16 oz",,250,1,0,0,0,25,62,0,59,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Molten Lava Hot Latte, 12 oz",,210,12,8,0,0,0,30,0,27,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Molten Lava Hot Latte, 16 oz",,280,16,10,0,0,0,40,0,36,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Hot Chocolate, 12 oz",,270,12,8,0,0,70,46,0,43,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Hot Chocolate, 16 oz",,370,16,10,0,0,105,64,0,60,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Hot Latte, 12 oz",,90,0,0,0,0,105,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Hot Latte, 16 oz",,120,0,0,0,0,140,32,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Macchiato, 12 oz",,120,1,0.5,0,<5,85,29,0,28,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Salted Caramel Macchiato, 16 oz",,150,1,0.5,0,<5,120,37,0,36,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Sugar Free Salted Caramel Latte, 12 oz",,0,0,0,0,0,70,2,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Sugar Free Salted Caramel Latte, 16 oz",,0,0,0,0,0,105,3,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Chai Tea, 12 oz",,110,0,0,0,0,0,27,0,27,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Chai Tea, 16 oz",,170,0,0,0,0,0,41,0,41,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Hot Latte, 12 oz",,50,0,0,0,0,0,12,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Hot Latte, 16 oz",,80,0,0,0,0,0,18,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Ice Cream Hot Latte, 12 oz",,360,18,12,0,60,180,42,0,36,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Ice Cream Hot Latte, 16 oz",,480,24,16,0,80,240,56,0,48,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Matcha, 12 oz",,140,0,0,0,0,0,32,0,30,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hot Beverages,"Vanilla Matcha, 16 oz",,200,0,0,0,0,0,44,0,42,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"*Create Your Own Iced Coffee, 16 oz",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"*Create Your Own Iced Coffee, 24 oz",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"*Create Your Own Iced Coffee, 32 oz",,0,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"*Create Your Own Iced Espresso, 16 oz",,60,0,0,0,0,0,14,0,14,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"*Create Your Own Iced Espresso, 24 oz",,80,0,0,0,0,0,21,0,21,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Aqua + Recharger, 16 oz",,180,0,0,0,0,0,35,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Aqua + Recharger, 24 oz",,240,0,0,0,0,0,46,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Aqua + Recharger, 32 oz",,340,0,0,0,0,0,63,0,48,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Beach Vibes Recharger, 16 oz",,120,0,0,0,0,0,18,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Beach Vibes Recharger, 24 oz",,160,0,0,0,0,0,24,0,16,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Beach Vibes Recharger, 32 oz",,230,0,0,0,0,0,36,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Berry Burst Recharger, 16 oz",,90,0,0,0,0,0,12,0,8,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Berry Burst Recharger, 24 oz",,110,0,0,0,0,0,12,0,8,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Berry Burst Recharger, 32 oz",,180,0,0,0,0,0,24,0,16,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Black Cold Brew, 16 oz",,15,0,0,0,0,5,3,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Black Cold Brew, 24 oz",,20,0,0,0,0,10,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Black Cold Brew, 32 oz",,25,0,0,0,0,15,5,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Blue Raspberry Lemonade, 16 oz",,250,0,0,0,0,10,64,0,62,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Blue Raspberry Lemonade, 24 oz",,390,0,0,0,0,15,101,0,97,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Blue Raspberry Lemonade, 32 oz",,470,0,0,0,0,20,122,0,118,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Café Con Leche Iced Latte, 16 oz",,120,6,4,0,20,60,14,0,12,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Café Con Leche Iced Latte, 24 oz",,180,9,6,0,30,90,21,0,18,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Cold Brew, 16 oz",,140,3.5,2,0,10,70,29,0,22,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Cold Brew, 24 oz",,210,5,3,0,15,105,43,0,33,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Cold Brew, 32 oz",,290,7,4,0,20,140,57,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Coffee, 16 oz",,130,3.5,2,0,10,75,26,0,22,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Coffee, 24 oz",,200,5,3,0,15,110,39,0,33,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Coffee, 32 oz",,260,7,4,0,20,140,52,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Latte, 16 oz",,130,3.5,2,0,10,65,26,0,22,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Latte, 24 oz",,200,5,3,0,15,100,39,0,33,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Macchiato, 16 oz",,80,1,0.5,0,<5,15,19,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Caramel Iced Macchiato, 24 oz",,110,1,0.5,0,<5,15,25,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Chai Iced Matcha, 16 oz",,120,0,0,0,0,0,27,0,26,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Chai Iced Matcha, 24 oz",,180,0,0,0,0,0,41,0,39,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Chocolate Iced Chai Tea, 16 oz",,150,0.5,0,0,0,15,37,0,34,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Chocolate Iced Chai Tea, 24 oz",,210,1,0,0,0,25,53,0,50,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coastal Colada Recharger, 16 oz",,130,0,0,0,0,0,18,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coastal Colada Recharger, 24 oz",,180,0,0,0,0,0,24,0,16,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coastal Colada Recharger, 32 oz",,260,0,0,0,0,0,36,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Cold Brew, 16 oz",,35,0,0,0,0,5,7,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Cold Brew, 24 oz",,40,0,0,0,0,10,8,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Cold Brew, 32 oz",,60,0,0,0,0,15,11,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Iced Coffee, 16 oz",,20,0,0,0,0,10,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Iced Coffee, 24 oz",,20,0,0,0,0,10,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Iced Coffee, 32 oz",,30,0,0,0,0,15,6,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Iced Latte, 16 oz",,20,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Iced Latte, 24 oz",,20,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Lemonade, 16 oz",,200,0,0,0,0,10,52,0,46,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Lemonade, 24 oz",,330,0,0,0,0,15,85,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Coconut Lemonade, 32 oz",,410,0,0,0,0,20,103,0,91,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Colada + Recharger, 16 oz",,180,0,0,0,0,0,33,0,20,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Colada + Recharger, 24 oz",,240,0,0,0,0,0,43,0,28,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Colada + Recharger, 32 oz",,320,0,0,0,0,0,59,0,40,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Crème Brulee Cold Brew, 16 oz",,250,7,4,0,20,100,48,0,40,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Crème Brulee Cold Brew, 24 oz",,380,11,7,0,35,170,69,0,57,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Crème Brulee Cold Brew, 32 oz",,480,13,8,0,40,200,89,0,74,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon + Recharger, 16 oz",,220,0,0,0,0,0,41,0,33,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon + Recharger, 24 oz",,280,0,0,0,0,0,49,0,41,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon + Recharger, 32 oz",,410,0,0,0,0,0,75,0,66,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Burst Recharger, 16 oz",,240,0,0,0,0,0,52,0,50,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Burst Recharger, 24 oz",,320,0,0,0,0,0,68,0,65,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Burst Recharger, 32 oz",,470,0,0,0,0,0,99,0,95,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Fruit Lemonade, 16 oz",,220,0,0,0,0,10,56,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Fruit Lemonade, 24 oz",,340,0,0,0,0,15,87,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dragon Fruit Lemonade, 32 oz",,430,0,0,0,0,20,107,0,103,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dulce De Leche Iced Latte, 16 oz",,320,8,4.5,0,25,150,65,0,56,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Dulce De Leche Iced Latte, 24 oz",,470,11,7,0,35,210,97,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Electric Waves Recharger, 16 oz",,120,0,0,0,0,0,20,0,20,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Electric Waves Recharger, 24 oz",,180,0,0,0,0,0,31,0,31,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Electric Waves Recharger, 32 oz",,220,0,0,0,0,0,36,0,36,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Green Tea Lemonade, 16 oz",,180,0,0,0,0,5,48,0,46,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Green Tea Lemonade, 24 oz",,300,0,0,0,0,5,79,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Green Tea Lemonade, 32 oz",,370,0,0,0,0,10,95,0,91,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Iced Chai Tea, 16 oz",,45,0,0,0,0,0,12,0,11,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Iced Chai Tea, 24 oz",,60,0,0,0,0,0,15,0,15,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Iced Matcha, 16 oz",,90,0,0,0,0,0,20,0,18,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Iced Matcha, 24 oz",,120,0,0,0,0,0,26,0,24,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Island Surf Recharger, 16 oz",,290,0,0,0,0,0,64,0,62,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Island Surf Recharger, 24 oz",,410,0,0,0,0,0,91,0,87,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Island Surf Recharger, 32 oz",,570,0,0,0,0,0,128,0,123,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Lemonade, 16 oz",,180,0,0,0,0,10,48,0,46,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Lemonade, 24 oz",,300,0,0,0,0,15,79,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Lemonade, 32 oz",,370,0,0,0,0,20,95,0,91,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Lemonade, 16 oz",,230,0,0,0,0,10,62,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Lemonade, 24 oz",,350,0,0,0,0,15,93,0,89,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Lemonade, 32 oz",,470,0,0,0,0,20,123,0,117,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Passion Lemonade Refresher, 16 oz",,160,0,0,0,0,5,42,0,40,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Passion Lemonade Refresher, 24 oz",,190,0,0,0,0,10,50,0,48,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Passion Lemonade Refresher, 32 oz",,310,0,0,0,0,15,84,0,80,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Sunrise Recharger, 16 oz",,90,0,0,0,0,0,14,0,13,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Sunrise Recharger, 24 oz",,110,0,0,0,0,0,14,0,13,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mango Sunrise Recharger, 32 oz",,180,0,0,0,0,0,28,0,26,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Milk and Sugar Cold Brew, 16 oz",,100,0,0,0,0,5,24,0,21,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Milk and Sugar Cold Brew, 24 oz",,130,0,0,0,0,10,32,0,28,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Milk and Sugar Cold Brew, 32 oz",,170,0,0,0,0,15,41,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Milk and Sugar Iced Espresso, 16 oz",,80,0,0,0,0,0,21,0,21,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Milk and Sugar Iced Espresso, 24 oz",,140,0,0,0,0,0,35,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mint Iced Matcha, 16 oz",,170,0,0,0,0,0,38,0,36,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mint Iced Matcha, 24 oz",,200,0,0,0,0,0,44,0,42,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Cold Brew, 16 oz",,110,0.5,0,0,0,20,28,0,23,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Cold Brew, 24 oz",,170,1,0,0,0,30,41,0,35,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Cold Brew, 32 oz",,230,1,0,0,0,45,55,0,46,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Coffee, 16 oz",,100,0.5,0,0,0,25,25,0,23,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Coffee, 24 oz",,150,1,0,0,0,35,38,0,35,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Coffee, 32 oz",,200,1,0,0,0,45,50,0,46,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Latte, 16 oz",,100,0.5,0,0,0,15,25,0,23,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Latte, 24 oz",,150,1,0,0,0,25,38,0,35,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Macchiato, 16 oz",,80,0,0,0,0,0,18,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Iced Macchiato, 24 oz",,100,0,0,0,0,0,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Cold Brew, 16 oz",,160,0.5,0,0,0,20,40,0,35,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Cold Brew, 24 oz",,240,1,0,0,0,30,59,0,53,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Cold Brew, 32 oz",,330,1,0,0,0,45,79,0,70,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Iced Coffee, 16 oz",,150,0.5,0,0,0,25,37,0,35,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Iced Coffee, 24 oz",,230,1,0,0,0,35,56,0,53,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Iced Coffee, 32 oz",,300,1,0,0,0,45,74,0,70,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Iced Latte, 16 oz",,200,0.5,0,0,0,20,49,0,47,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Mocha Mint Iced Latte, 24 oz",,280,1,0,0,0,25,68,0,64,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Neon Pineapple Recharger, 16 oz",,160,0,0,0,0,0,31,0,30,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Neon Pineapple Recharger, 24 oz",,260,0,0,0,0,0,53,0,50,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Neon Pineapple Recharger, 32 oz",,410,0,0,0,0,0,84,0,80,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Passion Fruit Lemonade, 16 oz",,210,0,0,0,0,10,56,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Passion Fruit Lemonade, 24 oz",,330,0,0,0,0,15,87,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Passion Fruit Lemonade, 32 oz",,410,0,0,0,0,20,107,0,103,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pina Colada Recharger, 16 oz",,170,0,0,0,0,0,32,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pina Colada Recharger, 24 oz",,290,0,0,0,0,0,58,0,48,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pina Colada Recharger, 32 oz",,380,0,0,0,0,0,76,0,64,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pineapple Lemonade, 16 oz",,220,0,0,0,0,10,58,0,55,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pineapple Lemonade, 24 oz",,340,0,0,0,0,15,89,0,85,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Pineapple Lemonade, 32 oz",,450,0,0,0,0,20,115,0,109,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sailor Breeze Recharger, 16 oz",,210,0,0,0,0,0,44,0,38,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sailor Breeze Recharger, 24 oz",,290,0,0,0,0,0,60,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sailor Breeze Recharger, 32 oz",,420,0,0,0,0,0,88,0,77,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Cold Brew, 16 oz",,100,0,0,0,0,110,27,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Cold Brew, 24 oz",,140,0,0,0,0,150,36,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Cold Brew, 32 oz",,180,0,0,0,0,190,45,0,40,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Coffee, 16 oz",,90,0,0,0,0,115,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Coffee, 24 oz",,150,0,0,0,0,190,40,0,40,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Coffee, 32 oz",,180,0,0,0,0,220,48,0,48,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Espresso, 16 oz",,60,0,0,0,0,70,16,0,16,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Espresso, 24 oz",,90,0,0,0,0,105,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Latte, 16 oz",,90,0,0,0,0,105,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Latte, 24 oz",,120,0,0,0,0,140,32,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Macchiato, 16 oz",,120,1,0.5,0,<5,85,29,0,28,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Iced Macchiato, 24 oz",,150,1,0.5,0,<5,120,37,0,36,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Mocha Iced Coffee, 16 oz",,160,0.5,0,0,0,95,41,0,39,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Mocha Iced Coffee, 24 oz",,240,1,0,0,0,140,62,0,59,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Salted Caramel Mocha Iced Coffee, 32 oz",,320,1,0,0,0,180,82,0,78,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Dragon Fruit Lemonade Refresher, 16 oz",,170,0,0,0,0,5,40,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Dragon Fruit Lemonade Refresher, 24 oz",,210,0,0,0,0,10,48,0,43,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Dragon Fruit Lemonade Refresher, 32 oz",,340,0,0,0,0,15,80,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Lemonade, 16 oz",,230,0,0,0,0,10,60,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Lemonade, 24 oz",,350,0,0,0,0,15,91,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Lemonade, 32 oz",,470,0,0,0,0,20,119,0,107,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Passion Fruit Lemonade Refresher, 16 oz",,160,0,0,0,0,5,40,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Passion Fruit Lemonade Refresher, 24 oz",,190,0,0,0,0,10,48,0,43,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Strawberry Passion Fruit Lemonade Refresher, 32 oz",,310,0,0,0,0,15,80,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Coconut Iced Espresso, 16 oz",,20,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Coconut Iced Espresso, 24 oz",,30,0,0,0,0,0,6,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Cold Brew, 16 oz",,15,0,0,0,0,110,6,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Cold Brew, 24 oz",,20,0,0,0,0,150,8,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Cold Brew, 32 oz",,25,0,0,0,0,190,10,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Iced Coffee, 16 oz",,0,0,0,0,0,115,3,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Iced Coffee, 24 oz",,0,0,0,0,0,150,4,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sugar Free Salted Caramel Iced Coffee, 32 oz",,0,0,0,0,0,190,5,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Punch Recharger, 16 oz",,210,0,0,0,0,0,46,0,43,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Punch Recharger, 24 oz",,290,0,0,0,0,0,62,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Punch Recharger, 32 oz",,420,0,0,0,0,0,92,0,87,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Sky Recharger, 16 oz",,140,0,0,0,0,0,24,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Sky Recharger, 24 oz",,190,0,0,0,0,0,32,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sunset Sky Recharger, 32 oz",,250,0,0,0,0,0,44,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet and Salty Iced Coffee, 16 oz",,190,3.5,2,0,10,140,42,0,38,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet and Salty Iced Coffee, 24 oz",,290,5,3,0,15,210,63,0,57,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet and Salty Iced Coffee, 32 oz",,380,7,4,0,20,280,84,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet Cream Cold Brew, 16 oz",,70,3,2,0,10,35,10,0,6,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet Cream Cold Brew, 24 oz",,140,6,4,0,20,70,18,0,12,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Sweet Cream Cold Brew, 32 oz",,150,6,4,0,20,75,19,0,12,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tart Cherry Lemonade, 16 oz",,290,0,0,0,0,15,73,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tart Cherry Lemonade, 24 oz",,440,0,0,0,0,20,113,0,109,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tart Cherry Lemonade, 32 oz",,540,0,0,0,0,25,138,0,132,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Galaxy Recharger, 16 oz",,180,0,0,0,0,0,36,0,35,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Galaxy Recharger, 24 oz",,250,0,0,0,0,0,47,0,46,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Galaxy Recharger, 32 oz",,350,0,0,0,0,0,68,0,66,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Mermaid Recharger, 16 oz",,200,0,0,0,0,0,40,0,40,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Mermaid Recharger, 24 oz",,290,0,0,0,0,0,59,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"The Mermaid Recharger, 32 oz",,380,0,0,0,0,0,76,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical + Recharger, 16 oz",,270,0,0,0,0,0,59,0,43,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical + Recharger, 24 oz",,360,0,0,0,0,0,77,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical + Recharger, 32 oz",,510,0,0,0,0,0,111,0,87,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical Oasis Recharger, 16 oz",,140,0,0,0,0,0,24,0,17,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical Oasis Recharger, 24 oz",,170,0,0,0,0,0,26,0,17,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Tropical Oasis Recharger, 32 oz",,260,0,0,0,0,0,44,0,30,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Cold Brew, 16 oz",,60,0,0,0,0,5,15,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Cold Brew, 24 oz",,90,0,0,0,0,10,22,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Cold Brew, 32 oz",,130,0,0,0,0,15,29,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Chai Tea, 16 oz",,100,0,0,0,0,0,24,0,23,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Chai Tea, 24 oz",,140,0,0,0,0,0,33,0,33,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Espresso, 16 oz",,50,0,0,0,0,0,12,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Espresso, 24 oz",,80,0,0,0,0,0,18,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Latte, 16 oz",,50,0,0,0,0,0,12,0,12,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Latte, 24 oz",,80,0,0,0,0,0,18,0,18,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Matcha, 16 oz",,140,0,0,0,0,0,32,0,30,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Vanilla Iced Matcha, 24 oz",,170,0,0,0,0,0,38,0,36,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Zero Sugar Coconut Recharger, 16 oz",,70,0,0,0,0,0,6,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Zero Sugar Coconut Recharger, 24 oz",,100,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Zero Sugar Coconut Recharger, 32 oz",,140,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Zero Sugar Salted Caramel Iced Latte, 16 oz",,0,0,0,0,0,70,2,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Iced Beverages,"Zero Sugar Salted Caramel Iced Latte, 24 oz",,0,0,0,0,0,105,3,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"*Create Your Own Frozen Lemonade, 16 oz",,300,0,0,0,0,0,79,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"*Create Your Own Frozen Lemonade, 24 oz",,370,0,0,0,0,0,95,0,91,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Blue Raspberry Frozen Lemonade, 16 oz",,370,0,0,0,0,0,96,0,92,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Blue Raspberry Frozen Lemonade, 24 oz",,450,0,0,0,0,0,117,0,112,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Blue Raspberry Lemonade Swirl, 16 oz",,430,0,0,0,0,0,111,0,107,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Blue Raspberry Lemonade Swirl, 24 oz",,570,0,0,0,0,0,149,0,143,,<1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Chocolate Chip Frozen Cappucino, 16 oz",,630,30,19,0,70,250,88,0,76,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Chocolate Chip Frozen Cappucino, 24 oz",,1140,53,34,0,120,430,162,0,140,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Chocolate Chip Frozen Coffee, 16 oz",,380,12,7,0,10,100,73,0,54,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Chocolate Chip Frozen Coffee, 24 oz",,730,23,14,0,20,200,139,0,106,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Cookies and Cream Frozen Cappucino, 16 oz",,600,26,16,0,70,320,87,0,70,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Cookies and Cream Frozen Cappucino, 24 oz",,1080,45,27,0,120,580,160,0,128,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Double Shot Frozen Cappucino, 16 oz",,620,25,16,0,80,310,94,0,80,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Double Shot Frozen Cappucino, 24 oz",,990,41,26,0,130,490,148,0,126,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Frozen Cappucino, 16 oz",,620,25,16,0,80,310,94,0,80,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Frozen Cappucino, 24 oz",,860,37,24,0,120,430,122,0,104,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Frozen Coffee, 16 oz",,210,3.5,2,0,10,65,45,0,28,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Caramel Frozen Coffee, 24 oz",,390,7,4,0,20,130,83,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Caramel Frozen Cappucino, 16 oz",,590,22,14,0,70,260,93,0,81,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Caramel Frozen Cappucino, 24 oz",,1060,38,24,0,120,460,172,0,150,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Chocolate Chip Frozen Cappucino, 16 oz",,600,27,17,0,60,200,87,0,77,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Chocolate Chip Frozen Cappucino, 24 oz",,1080,47,30,0,100,330,160,0,142,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Cookies and Cream Frozen Cappucino, 16 oz",,570,23,14,0,60,270,86,0,71,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Chocolate Cookies and Cream Frozen Cappucino, 24 oz",,1020,39,23,0,100,480,158,0,130,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Coconut Frozen Lemonade, 16 oz",,330,0,0,0,0,0,85,0,76,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Coconut Frozen Lemonade, 24 oz",,410,0,0,0,0,0,103,0,91,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Cookies and Cream Frozen Cappucino, 16 oz",,470,22,14,0,60,260,61,0,48,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Cookies and Cream Frozen Cappucino, 24 oz",,820,38,23,0,100,450,108,0,84,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Double Chocolate Chip Frozen Coffee, 16 oz",,350,9,5,0,0,15,71,0,54,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Double Chocolate Chip Frozen Coffee, 24 oz",,640,17,10,0,0,30,128,0,99,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Double Shot Frozen Cappucino, 16 oz",,360,18,12,0,60,180,42,0,36,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Double Shot Frozen Cappucino, 24 oz",,600,30,20,0,100,300,70,0,60,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Dragon Fruit Frozen Lemonade, 16 oz",,340,0,0,0,0,0,87,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Dragon Fruit Frozen Lemonade, 24 oz",,430,0,0,0,0,0,107,0,103,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Cappucino, 16 oz",,360,18,12,0,60,180,42,0,36,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Cappucino, 24 oz",,600,30,20,0,100,300,70,0,60,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Chai Matcha, 16 oz",,530,21,14,0,70,210,72,0,64,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Chai Matcha, 24 oz",,750,30,20,0,100,300,104,0,92,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Chai Tea, 16 oz",,240,9,6,0,30,90,36,0,33,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Chai Tea, 24 oz",,330,12,8,0,40,120,51,0,47,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Coffee, 16 oz",,110,0,0,0,0,0,26,0,13,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Coffee, 24 oz",,190,0,0,0,0,0,46,0,24,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Matcha Cream, 16 oz",,570,24,16,0,80,240,76,0,66,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Matcha Cream, 24 oz",,840,36,24,0,120,360,110,0,96,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Mint Chocolate Chip Matcha, 16 oz",,760,32,21,0,80,240,108,0,96,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Mint Chocolate Chip Matcha, 24 oz",,1200,52,34,0,120,360,168,0,150,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Mint Matcha, 16 oz",,620,24,16,0,80,240,88,0,78,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Mint Matcha, 24 oz",,890,36,24,0,120,360,122,0,108,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Vanilla Chai, 16 oz",,320,9,6,0,30,90,54,0,51,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Frozen Vanilla Chai, 24 oz",,430,12,8,0,40,120,75,0,71,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mango Frozen Lemonade, 16 oz",,350,0,0,0,0,0,93,0,89,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mango Frozen Lemonade, 24 oz",,470,0,0,0,0,0,123,0,117,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mango Lemonade Freeze, 16 oz",,440,6,4,0,20,60,102,0,94,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mango Lemonade Freeze, 24 oz",,660,9,6,0,30,90,153,0,142,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mint Cookies and Cream Frozen Cappucino, 16 oz",,540,22,14,0,60,260,79,0,66,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mint Cookies and Cream Frozen Cappucino, 24 oz",,920,38,23,0,100,450,132,0,108,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Double Shot Frozen Cappucino, 16 oz",,560,19,12,0,60,210,92,0,82,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Double Shot Frozen Cappucino, 24 oz",,900,32,20,0,100,350,145,0,129,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Frozen Cappucino, 16 oz",,560,19,12,0,60,210,92,0,82,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Frozen Cappucino, 24 oz",,800,31,20,0,100,330,120,0,106,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Frozen Coffee, 16 oz",,180,0.5,0,0,0,15,44,0,29,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Frozen Coffee, 24 oz",,330,1,0,0,0,30,81,0,56,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Mint Frozen Cappucino, 16 oz",,530,19,12,0,60,200,85,0,77,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Mint Frozen Cappucino, 24 oz",,900,31,20,0,100,330,144,0,130,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Mint Frozen Coffee, 16 oz",,200,0.5,0,0,0,15,50,0,35,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Mocha Mint Frozen Coffee, 24 oz",,380,1,0,0,0,30,93,0,68,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Passion Fruit Frozen Lemonade, 16 oz",,330,0,0,0,0,0,87,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Passion Fruit Frozen Lemonade, 24 oz",,410,0,0,0,0,0,107,0,103,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Strawberry Frozen Lemonade, 16 oz",,350,0,0,0,0,0,91,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Strawberry Frozen Lemonade, 24 oz",,470,0,0,0,0,0,119,0,107,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Strawberry Lemonade Freeze, 16 oz",,440,6,4,0,20,60,94,0,74,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Strawberry Lemonade Freeze, 24 oz",,660,9,6,0,30,90,141,0,112,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Tart Cherry Frozen Lemonade, 16 oz",,410,0,0,0,0,5,105,0,100,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Tart Cherry Frozen Lemonade, 24 oz",,510,0,0,0,0,10,129,0,124,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Tart Cherry Lemonade Swirl, 16 oz",,470,0,0,0,0,5,121,0,116,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Tart Cherry Lemonade Swirl, 24 oz",,630,0,0,0,0,10,161,0,154,,<1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Vanilla Frozen Coffee, 16 oz",,130,0,0,0,0,0,32,0,19,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Frozen Beverages,"Vanilla Frozen Coffee, 24 oz",,210,0,0,0,0,0,50,0,29,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"*Create Your Own Milkshake, 16 oz",,780,39,26,0,130,390,91,0,78,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"*Create Your Own Milkshake, 24 oz",,1020,51,34,0,170,510,119,0,102,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,*Create Your Own Parfait,,660,33,22,0,110,330,77,0,66,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Black and White Milkshake, 16 oz",,880,40,26,0,130,410,116,0,101,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Black and White Milkshake, 24 oz",,1220,52,34,0,170,540,169,0,148,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Caramel Cheesecake Milkshake, 16 oz",,1160,56,35,0,165,700,144,<1,111,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Caramel Cheesecake Milkshake, 24 oz",,1720,81,50,0,230,1080,224,2,167,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,Caramel Chocolate Chip Parfait,,840,43,28,0,105,320,107,0,93,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Caramel Cookies and Cream Milkshake, 16 oz",,1020,47,30,0,140,530,136,0,112,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Caramel Cookies and Cream Milkshake, 24 oz",,1370,63,39,0,180,730,183,0,148,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,Caramel Cookies and Cream Parfait,,850,39,24,0,105,470,115,0,90,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,Chocolate Chip Parfait,,810,42,28,0,100,300,100,0,87,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Cookie Cheesecake Milkshake, 16 oz",,1090,53,33,0,155,570,137,0,115,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Cookie Cheesecake Milkshake, 24 oz",,1590,74,45,0,210,820,210,0,174,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Cookies and Cream Milkshake, 16 oz",,1090,44,28,0,130,500,160,0,136,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Cookies and Cream Milkshake, 24 oz",,1540,61,37,0,170,710,232,0,195,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,Chocolate Cookies and Cream Parfait,,850,38,23,0,100,450,114,0,90,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Milkshake, 16 oz",,980,40,26,0,130,420,141,0,124,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Milkshake, 24 oz",,1320,53,34,0,170,560,194,0,171,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Mint Cookies and Cream Milkshake, 16 oz",,1170,44,28,0,130,500,178,0,154,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Chocolate Mint Cookies and Cream Milkshake, 24 oz",,1640,61,37,0,170,710,256,0,219,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Coffee Milkshake, 16 oz",,780,39,26,0,130,390,91,0,78,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Coffee Milkshake, 24 oz",,1020,51,34,0,170,510,119,0,102,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Cookies and Cream Milkshake, 16 oz",,890,43,28,0,130,470,110,0,90,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Cookies and Cream Milkshake, 24 oz",,1240,59,37,0,170,660,157,0,126,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,Cookies and Cream Parfait,,820,38,23,0,100,450,108,0,84,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Lemonade Milkshake, 16 oz",,1020,39,26,0,130,390,155,0,139,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Lemonade Milkshake, 24 oz",,1320,51,34,0,170,510,198,0,178,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Mint Cookies and Cream Milkshake, 16 oz",,990,43,28,0,130,470,134,0,114,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Mint Cookies and Cream Milkshake, 24 oz",,1390,59,37,0,170,660,193,0,162,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Mocha Mint Milkshake, 16 oz",,980,40,26,0,130,410,140,0,125,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Mocha Mint Milkshake, 24 oz",,1370,52,34,0,170,540,205,0,184,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Orginal Cheesecake Milkshake, 16 oz",,1030,53,33,0,155,630,118,<1,89,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Orginal Cheesecake Milkshake, 24 oz",,1460,74,46,0,210,950,172,2,123,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Pina Colada Milkshake, 16 oz",,880,39,26,0,130,390,115,0,96,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Pina Colada Milkshake, 24 oz",,1170,51,34,0,170,510,155,0,129,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Strawberry Milkshake, 16 oz",,830,39,26,0,130,390,103,0,86,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Strawberry Milkshake, 24 oz",,1120,51,34,0,170,510,143,0,118,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Strawberry Original Cheesecake Milkshake, 16 oz",,1080,53,33,0,155,630,130,<1,97,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Strawberry Original Cheesecake Milkshake, 24 oz",,1560,74,46,0,210,950,196,2,139,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Vanilla Milkshake, 16 oz",,780,39,26,0,130,390,91,0,78,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Milkshakes & Desserts,"Vanilla Milkshake, 24 oz",,1020,51,34,0,170,510,119,0,102,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"*Create Your Own Cream Smoothie, 16 oz",,240,12,8,0,40,120,28,0,24,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"*Create Your Own Cream Smoothie, 24 oz",,420,21,14,0,70,210,49,0,42,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Banana Crème Smoothie, 16 oz",,550,25,17,0,85,200,75,4,61,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Banana Crème Smoothie, 24 oz",,900,37,25,0,125,320,132,8,106,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Banana Foster Cream Smoothie, 16 oz",,690,26,17,0,85,270,113,4,93,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Banana Foster Cream Smoothie, 24 oz",,930,38,25,0,125,390,141,4,117,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cheesecake Cream Smoothie, 16 oz",,870,43,26,0,125,520,109,<1,79,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cheesecake Cream Smoothie, 24 oz",,1310,62,37,0,170,840,175,2,123,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cookies and Cream Smoothie, 16 oz",,850,40,25,0,120,420,115,0,94,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cookies and Cream Smoothie, 24 oz",,1330,59,36,0,170,680,188,0,152,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cream Smoothie, 16 oz",,730,33,21,0,110,340,105,0,90,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Caramel Cream Smoothie, 24 oz",,970,45,29,0,150,460,133,0,114,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Banana Cream Smoothie, 16 oz",,630,20,13,0,65,170,111,4,95,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Banana Cream Smoothie, 24 oz",,1080,33,21,0,105,300,193,8,163,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Banana Protein Smoothie, 16 oz",,440,2.5,1.5,0,70,210,84,4,71,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Banana Protein Smoothie, 24 oz",,690,4,2,0,95,250,140,8,117,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cake Batter Cream Smoothie, 16 oz",,850,38,27,0,105,350,118,0,102,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cake Batter Cream Smoothie, 24 oz",,1190,49,35,0,135,480,173,0,150,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cookie Cheesecake Cream Smoothie, 16 oz",,790,39,23,0,110,380,101,0,83,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cookie Cheesecake Cream Smoothie, 24 oz",,1170,54,32,0,145,570,160,0,131,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cookies and Cream Smoothie, 16 oz",,690,30,18,0,85,300,99,0,83,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Cookies and Cream Smoothie, 24 oz",,1140,47,28,0,125,510,171,0,142,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Protein Smoothie, 16 oz",,430,3.5,2,0,75,230,75,0,58,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Chocolate Protein Smoothie, 24 oz",,620,4,2,0,95,300,116,0,91,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Coffee Protein Smoothie, 16 oz",,340,0,0,0,60,170,61,0,44,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Coffee Protein Smoothie, 24 oz",,460,0,0,0,80,230,84,0,61,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Cookies and Cream Smoothie, 16 oz",,710,36,22,0,105,340,88,0,72,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Cookies and Cream Smoothie, 24 oz",,1060,52,32,0,145,540,135,0,108,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Green Pineapple Matcha Smoothie, 16 oz",,320,0,0,0,0,0,85,0,79,,<1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Green Pineapple Matcha Smoothie, 24 oz",,450,0,0,0,0,0,117,0,110,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Green Pineapple Matcha Smoothie with Milk, 16 oz",,260,0,0,0,0,0,67,0,62,,<1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Green Pineapple Matcha Smoothie with Milk, 24 oz",,370,0,0,0,0,0,95,0,89,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Banana Smoothie, 16 oz",,410,0,0,0,0,0,113,4,99,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Banana Smoothie, 24 oz",,610,0,0,0,0,0,169,4,151,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Banana Smoothie with Milk, 16 oz",,310,0,0,0,0,0,85,4,73,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Banana Smoothie with Milk, 24 oz",,410,0,0,0,0,0,113,4,99,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Crème Smoothie, 16 oz",,470,19,13,0,65,135,74,0,67,,5,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Crème Smoothie, 24 oz",,630,22,15,0,75,170,109,0,99,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Dragon Fruit Smoothie, 16 oz",,350,0,0,0,0,0,85,0,69,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Dragon Fruit Smoothie, 24 oz",,470,0,0,0,0,0,115,0,90,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Dragon Fruit Smoothie with Milk, 16 oz",,180,0,0,0,0,0,44,0,42,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Dragon Fruit Smoothie with Milk, 24 oz",,250,0,0,0,0,0,62,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Matcha Immunity Smoothie, 16 oz",,390,0,0,0,0,0,106,0,92,,<1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Matcha Immunity Smoothie, 24 oz",,540,0,0,0,0,0,144,0,128,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Fruit Smoothie, 16 oz",,320,0,0,0,0,0,85,0,69,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Fruit Smoothie, 24 oz",,440,0,0,0,0,0,115,0,90,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Fruit Smoothie with Milk, 16 oz",,160,0,0,0,0,0,44,0,42,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Fruit Smoothie with Milk, 24 oz",,230,0,0,0,0,0,62,0,59,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Immunity Smoothie, 16 oz",,330,0,0,0,0,0,89,0,77,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Passion Immunity Smoothie, 24 oz",,480,0,0,0,0,0,131,0,116,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Pineapple Smoothie, 16 oz",,380,0,0,0,0,0,102,0,95,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Pineapple Smoothie, 24 oz",,440,0,0,0,0,0,120,0,112,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Pineapple Smoothie with Milk, 16 oz",,260,0,0,0,0,0,70,0,65,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Pineapple Smoothie with Milk, 24 oz",,340,0,0,0,0,0,92,0,86,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Smoothie, 16 oz",,400,0,0,0,0,0,112,0,104,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Smoothie, 24 oz",,600,0,0,0,0,0,168,0,156,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Smoothie with Milk, 16 oz",,200,0,0,0,0,0,56,0,52,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mango Smoothie with Milk, 24 oz",,300,0,0,0,0,0,84,0,78,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mint Cookies and Crème Smoothie, 16 oz",,530,23,14,0,65,210,75,0,64,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mint Cookies and Crème Smoothie, 24 oz",,1050,45,28,0,125,470,148,0,124,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mint Crème Smoothie, 16 oz",,540,25,17,0,85,200,70,0,64,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mint Crème Smoothie, 24 oz",,830,37,25,0,125,320,110,0,100,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mocha Mint Cream Smoothie, 16 oz",,760,32,21,0,105,270,109,0,99,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mocha Mint Cream Smoothie, 24 oz",,1010,38,25,0,125,350,154,0,140,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mocha Protein Smoothie, 16 oz",,380,0.5,0,0,60,180,72,0,53,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Mocha Protein Smoothie, 24 oz",,570,1,0,0,80,250,112,0,86,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Original Cheesecake Cream Smoothie, 16 oz",,830,41,25,0,120,450,101,<1,75,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Original Cheesecake Cream Smoothie, 24 oz",,1290,62,38,0,170,770,161,2,115,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pina Colada Cream Smoothie, 16 oz",,620,29,19,0,95,230,80,0,65,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pina Colada Cream Smoothie, 24 oz",,810,38,25,0,125,320,103,0,83,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pineapple Smoothie, 16 oz",,280,0,0,0,0,0,70,0,63,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pineapple Smoothie, 24 oz",,400,0,0,0,0,0,100,0,90,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pineapple Smoothie with Milk, 16 oz",,160,0,0,0,0,0,40,0,36,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pineapple Smoothie with Milk, 24 oz",,240,0,0,0,0,0,60,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pink Pineapple Smoothie, 16 oz",,390,0,0,0,0,0,92,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pink Pineapple Smoothie, 24 oz",,460,0,0,0,0,0,108,0,82,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pink Pineapple Smoothie with Milk, 16 oz",,270,0,0,0,0,0,64,0,50,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Pink Pineapple Smoothie with Milk, 24 oz",,360,0,0,0,0,0,84,0,66,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Cream Smoothie, 16 oz",,570,16,11,0,55,105,102,4,75,,5,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Cream Smoothie, 24 oz",,850,22,15,0,75,170,157,8,116,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Mango Smoothie, 16 oz",,410,0,0,0,0,0,107,4,84,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Mango Smoothie, 24 oz",,610,0,0,0,0,0,159,4,126,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Mango Smoothie with Milk, 16 oz",,360,0,0,0,0,0,93,4,71,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Mango Smoothie with Milk, 24 oz",,460,0,0,0,0,0,119,4,92,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Smoothie, 16 oz",,460,0,0,0,0,0,113,4,77,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Smoothie, 24 oz",,570,0,0,0,0,0,142,8,98,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Smoothie with Milk, 16 oz",,310,0,0,0,0,0,77,4,53,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Banana Smoothie with Milk, 24 oz",,520,0,0,0,0,0,130,8,90,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Immunity Smoothie, 16 oz",,340,0,0,0,0,0,79,0,52,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Immunity Smoothie, 24 oz",,410,0,0,0,0,0,95,0,64,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Smoothie, 16 oz",,350,0,0,0,0,0,79,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Smoothie, 24 oz",,470,0,0,0,0,0,107,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Smoothie with Milk, 16 oz",,180,0,0,0,0,0,40,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Dragon Fruit Smoothie with Milk, 24 oz",,250,0,0,0,0,0,56,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Mango Smoothie, 16 oz",,400,0,0,0,0,0,104,0,84,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Mango Smoothie, 24 oz",,600,0,0,0,0,0,156,0,126,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Mango Smoothie with Milk, 16 oz",,250,0,0,0,0,0,64,0,50,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Mango Smoothie with Milk, 24 oz",,350,0,0,0,0,0,90,0,71,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Original Cheesecake Cream Smoothie, 16 oz",,880,45,28,0,130,500,102,<1,72,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Original Cheesecake Cream Smoothie, 24 oz",,1360,66,40,0,185,810,168,2,114,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Passion Fruit Smoothie, 16 oz",,320,0,0,0,0,0,79,0,54,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Passion Fruit Smoothie, 24 oz",,440,0,0,0,0,0,107,0,70,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Passion Fruit Smoothie with Milk, 16 oz",,160,0,0,0,0,0,40,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Passion Fruit Smoothie with Milk, 24 oz",,230,0,0,0,0,0,56,0,44,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Protein Smoothie, 16 oz",,350,4,2.5,0,75,95,54,0,38,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Protein Smoothie, 24 oz",,410,6,4,0,105,135,57,0,41,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Smoothie, 16 oz",,400,0,0,0,0,0,96,0,64,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Smoothie, 24 oz",,600,0,0,0,0,0,144,0,96,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Smoothie with Milk, 16 oz",,200,0,0,0,0,0,48,0,32,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Strawberry Smoothie with Milk, 24 oz",,400,0,0,0,0,0,96,0,64,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Tropical Coconut Immunity Smoothie, 16 oz",,490,0,0,0,0,0,132,4,107,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Tropical Coconut Immunity Smoothie, 24 oz",,620,0,0,0,0,0,166,4,137,,1,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Vanilla Caramel Protein Smoothie, 16 oz",,430,4,2.5,0,75,260,72,0,56,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Smoothies,"Vanilla Caramel Protein Smoothie, 24 oz",,610,6,4,0,105,390,104,0,83,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,*Create Your Own Breakfast Panini,,340,7,0,0,0,660,62,2,0,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Applewood Smoked Bacon Breakfast Sandwich,,120,11,4.5,0,30,410,1,0,1,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Bacon, Egg & Cheese Sizzli Croissant",,440,30,12,0,220,870,25,1,6,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Bacon, Egg and Cheese Sizzli Bagel",,440,21,7,0,195,1070,48,2,4,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Cheesy Fajita Veggie Breakfast Panini,,650,31,14,0,75,1250,70,2,6,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Cheesy Turkey Bacon Breakfast Panini,,660,31,12,0,85,1710,73,2,5,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Cheesy Veggie Breakfast Panini,,650,31,14,0,75,1260,70,2,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Chicken Biscuit,,600,31,13,0,50,1920,60,<1,10,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Chorizo, Egg & Cheese Sizzli Croissant",,520,38,15,0,235,930,26,1,6,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Cream Cheese Bagel with Veggies Breakfast Sandwich,,10,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Double Bacon, Egg & Cheese Sizzli Croissant",,510,37,14,0,235,1090,26,1,7,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Ham, Egg & Cheese Sizzli Croissant",,420,26,11,0,230,1040,25,1,6,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Ham Breakfast Club Sandwich,,230,18,7,0,60,850,3,0,1,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Ham Omelet Sandwich,,110,6,3.5,0,40,480,0,0,0,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Honey Hot Bacon, Egg and Cheese Biscuit",,510,30,14,0,35,1560,49,0,11,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Pork Roll, Egg & Cheese Sizzli Bagel",,450,21,7,0,200,980,48,2,4,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Sausage, Egg & Cheese Sizzli Bagel",,570,34,11,0,220,1060,47,2,4,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Sausage, Egg & Cheese Sizzli Burrito",,290,17,7,0,120,700,23,1,0,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Sausage, Egg & Cheese Sizzli Croissant",,570,43,16,0,245,860,25,1,6,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Sausage, Egg & Cheese Sizzli French Toast",,630,42,12,0,290,970,39,2,15,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Sausage, Egg & Cheese Sizzli Muffin",,500,34,11,0,220,870,28,<1,2,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Sausage Biscuit,,760,57,21,0,85,1530,43,0,5,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Sausage Breakfast Sandwich,,250,24,9,0,55,400,1,0,1,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Scrambled Eggs Hoagie, Classic",,210,16,5,0,350,630,4,0,2,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,"Scrambled Eggs Hoagie, Shorti",,110,8,2.5,0,175,310,2,0,<1,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Southwest Chipotle Bacon Breakfast Panini,,640,31,11,0,70,1350,63,2,2,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Southwest Chipotle Bacon Breakfast Sandwich,,180,14,5,0,35,420,1,0,2,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Spicy Garlic Sausage Breakfast Panini,,940,63,21,0,130,1380,62,2,0,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Turkey Bacon Ranch Breakfast Panini,,690,33,9,0,75,1870,67,2,2,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Turkey Breakfast Club Sandwich,,230,18,6,0,55,920,4,0,2,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Sandwiches,Veggie & Egg Omelet Sandwich,,70,4.5,2.5,0,15,95,1,0,0,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Burritos & Quesadillas,*Create Your Own Breakfast Burrito,,260,7,3,0,0,520,42,1,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Burritos & Quesadillas,*Create Your Own Breakfast Quesadilla,,260,7,3,0,0,520,42,1,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Bowls,"French Toast, Egg and Bacon Bowl",,570,28,7,0,295,1030,58,3,21,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Bowls,"French Toast, Egg and Sausage Bowl",,690,40,12,0,315,1130,59,3,20,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Breakfast Bowls,French Toast and Bacon Bowl,,580,20,4.5,0,120,760,87,3,41,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",*Create Your Own Breakfast Snack & Go Wrap,,100,2.5,1,0,0,200,16,1,0,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Applewood Smoked Bacon Avocado Toast,,400,22,4,0,20,880,38,6,<1,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Avocado Toast,,300,14,1.5,0,0,580,37,6,0,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides","Bacon, Egg and Cheese Breakfast Snack & Go Wrap",,210,11,5,0,25,440,16,1,0,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Biscuit,,360,19,9,0,<5,1110,43,0,5,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Chipotle Egg and Cheese Breakfast Snack & Go Wrap,,240,15,5,0,30,520,17,1,<1,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Chocolate Chip Cookie,,410,18,10,0,55,380,62,2,38,,5,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Classic Roll,,370,4.5,0.5,0,0,910,75,5,5,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Cornbread,,250,13,2.5,0,35,150,31,0,15,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Croissant,,290,14,9,0,40,330,35,<1,6,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Egg and Cheese Breakfast Snack & Go Wrap,,160,7,3.5,0,15,290,16,1,0,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Garlic Parmesan Avocado Toast,,370,21,3.5,0,10,800,37,6,0,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Hashbrown,,130,7,1.5,0,0,240,16,2,0,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides","Honey Hot Bacon, Egg and Cheese Breakfast Snack & Go Wrap",,220,11,5,0,25,570,22,1,6,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Scrambled Egg Avocado Toast,,400,22,4,0,175,900,39,6,<1,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Scrambled Eggs,,210,16,5,0,350,630,4,0,2,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Shorti Roll,,220,3,0,0,0,440,40,4,2,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Side of Bacon,,100,8,3,0,20,300,<1,0,<1,,5,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Side of Sausage Crumble,,380,38,14,0,70,640,2,0,0,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Southwest Chipotle Avocado Toast,,350,18,2,0,5,710,38,6,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Wheat Classic Roll,,360,4,0.5,0,0,570,74,6,8,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Breakfast Avocado Toast, Snack Wraps, Bakery & Sides",Wheat Shorti Roll,,230,2.5,0,0,0,380,49,4,5,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,*Create Your Own Cheese Panini,,340,7,0,0,0,660,62,2,0,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Cold Gobbler Hoagie, Classic",,380,15,4,0,75,1980,30,1,6,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Cold Gobbler Hoagie, Shorti",,220,8,2,0,45,1220,16,<1,3,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,*Create Your Own Crispy Chicken Sandwich,,510,20,3.5,0,65,1200,54,2,5,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Double Stuffed Cold Gobbler Hoagie, Classic",,380,15,4,0,75,1980,30,1,6,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Double Stuffed Cold Gobbler Hoagie, Shorti",,220,8,2,0,45,1220,16,<1,3,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Double Stuffed Hot Gobbler Hoagie, Classic",,410,20,6,0,70,1630,34,1,3,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Double Stuffed Hot Gobbler Hoagie, Shorti",,240,11,3.5,0,45,990,18,<1,1,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Hot Gobbler Hoagie, Classic",,180,8,2.5,0,60,1030,7,0,0,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"*Create Your Own Hot Gobbler Hoagie, Shorti",,120,5,1.5,0,40,690,4,0,0,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,*Create Your Own Panini,,340,7,0,0,0,660,62,2,0,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,*Create Your Own Roasted Chicken Sandwich,,290,4,1,0,80,850,32,<1,4,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,*Create Your Own Spicy Crispy Chicken Sandwich,,520,20,3.5,0,65,1270,55,2,5,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Applewood Smoked Bacon Avocado Club,,750,46,14,0,80,1690,61,6,8,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Bacon Mac & Cheese Panini,,730,34,13,0,75,1520,74,2,2,,32,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,BBQ Bacon Crispy Chicken Sandwich,,640,30,8,0,95,1870,54,2,6,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Breaded Chicken Hoagie, Classic",,610,31,10,0,120,1810,36,2,6,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Breaded Chicken Hoagie, Junior",,230,12,3.5,0,45,720,15,<1,3,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Breaded Chicken Hoagie, Shorti",,380,20,7,0,75,1110,22,1,4,,23,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Cheesesteak Hoagie, Classic",,420,26,12,0,120,1500,9,0,9,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Cheesesteak Hoagie, Junior",,140,9,4,0,40,520,4,0,4,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Cheesesteak Hoagie, Shorti",,280,17,8,0,80,1000,6,0,6,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Chicken Cheesesteak Hoagie, Classic",,420,20,9,0,150,1650,12,0,9,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Chicken Cheesesteak Hoagie, Junior",,140,7,3,0,50,570,5,0,4,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Chicken Cheesesteak Hoagie, Shorti",,280,13,6,0,100,1100,8,0,6,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Honey Smoked Turkey Hoagie, Classic",,420,17,8,0,105,2330,24,0,15,,39,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Honey Smoked Turkey Hoagie, Junior",,140,6,2.5,0,35,790,9,0,6,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"BBQ Honey Smoked Turkey Hoagie, Shorti",,280,11,5,0,70,1550,16,0,10,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,BBQ Pulled Pork Mac & Cheese Panini,,810,33,13,0,135,1830,76,2,5,,51,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Breaded Chicken Parmesean Hoagie, Classic",,630,34,12,0,120,2210,33,3,1,,44,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Breaded Chicken Parmesean Hoagie, Junior",,250,13,4,0,45,910,15,2,1,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Breaded Chicken Parmesean Hoagie, Shorti",,400,22,8,0,75,1420,21,2,1,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Buffalo Chicken Mac & Cheese Panini,,800,32,11,0,130,2310,78,2,4,,47,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Buffalo Chicken Salad Club,,840,50,10,0,115,2100,64,3,10,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Breaded Chicken Hoagie, Classic",,590,35,10,0,130,2400,35,2,3,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Breaded Chicken Hoagie, Junior",,230,14,3.5,0,50,990,14,<1,1,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Breaded Chicken Hoagie, Shorti",,370,23,7,0,80,1550,21,1,2,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Chicken Cheesesteak Hoagie, Classic",,410,22,9,0,160,2300,9,0,3,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Chicken Cheesesteak Hoagie, Junior",,150,8,3,0,55,1100,4,0,1,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Buffalo Sauce Chicken Cheesesteak Hoagie, Shorti",,280,15,6,0,105,1700,7,0,2,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Cheesy Italian Panini,,760,39,13,0,95,2330,66,2,0,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Chicken Fajita Panini,,700,27,9,0,120,1990,74,2,2,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Chicken Salad Club,,910,59,12,0,120,1870,63,3,10,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Classic Crispy Chicken Sandwich,,610,32,5,0,75,1620,54,2,5,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cold Gobbler Double Stuffed Hoagie with Stuffing and Mashed Potato, Classic",,640,26,11,0,105,2370,68,4,28,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cold Gobbler Double Stuffed Hoagie with Stuffing and Mashed Potato, Shorti",,350,13,6,0,60,1420,35,2,15,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cold Gobbler Hoagie with Stuffing, Classic",,620,32,7,0,90,2080,55,3,27,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cold Gobbler Hoagie with Stuffing, Shorti",,360,19,4,0,55,1290,28,1,14,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Creamy Chipotle Sauce Chicken Cheesesteak Hoagie, Classic",,420,23,10,0,160,2040,8,0,3,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Creamy Chipotle Sauce Chicken Cheesesteak Hoagie, Junior",,160,10,3.5,0,55,960,4,0,1,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Creamy Chipotle Sauce Chicken Cheesesteak Hoagie, Shorti",,290,16,7,0,105,1490,6,0,2,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Crispy Chicken Bacon Ranch Sandwich,,690,34,8,0,100,1560,57,2,6,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cuban Hoagie, Classic",,250,11,4.5,0,120,1540,0,0,0,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cuban Hoagie, Junior",,90,3.5,1.5,0,40,560,0,0,0,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Cuban Hoagie, Shorti",,170,7,3,0,80,1040,0,0,0,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Cuban Pulled Pork Panini,,690,27,11,0,95,2260,63,2,0,,49,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Double Meat Italian Hoagie, Classic",,270,18,6,0,75,1650,3,0,0,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Double Meat Italian Hoagie, Shorti",,180,12,4,0,50,1100,2,0,0,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Double Meat Turkey & Ham Hoagie, Classic",,300,8,3,0,135,2550,3,0,3,,51,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Double Meat Turkey & Ham Hoagie, Shorti",,200,5,2,0,90,1700,2,0,2,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Provolone Cheese Hoagie, Classic",,210,12,6,0,30,390,12,0,4,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Provolone Cheese Hoagie, Junior",,80,4,2,0,10,135,5,0,2,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Provolone Cheese Hoagie, Shorti",,140,8,4,0,20,260,8,0,3,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Ranch & Cheddar Cheese Hoagie, Classic",,330,20,8,0,55,520,20,0,4,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Ranch & Cheddar Cheese Hoagie, Junior",,130,8,3,0,20,230,10,0,2,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Fajita Veggie with Ranch & Cheddar Cheese Hoagie, Shorti",,220,13,6,0,35,370,15,0,3,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Gobbler Hoagie with Mashed Potato, Classic",,440,31,12,0,100,1480,20,2,1,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Gobbler Hoagie with Mashed Potato, Shorti",,250,17,6,0,60,910,11,<1,<1,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Gobbler Hoagie with Sweet Potato, Classic",,560,33,11,0,130,1170,46,2,23,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Gobbler Hoagie with Sweet Potato, Shorti",,310,18,6,0,75,760,24,<1,12,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Garlic Honey Hot Oven Roasted Turkey Club,,770,36,12,0,115,2430,65,3,16,,45,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Garlic Honey Hot Turkey Mac & Cheese Panini,,790,33,11,0,100,2300,80,2,9,,45,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Honey Smoked Turkey Hoagie, Classic",,450,27,8,0,100,1880,16,0,9,,39,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Honey Smoked Turkey Hoagie, Junior",,150,10,3,0,35,630,5,0,3,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Garlic Honey Smoked Turkey Hoagie, Shorti",,280,16,5,0,65,1240,10,0,6,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing, Classic",,510,20,6,0,70,1630,59,3,24,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing, Shorti",,280,11,3.5,0,45,990,31,1,12,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing and Mashed Potato, Classic",,670,31,14,0,105,2030,72,4,25,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing and Mashed Potato, Shorti",,370,17,7,0,60,1180,37,2,13,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing and Sweet Potato, Classic",,780,32,13,0,135,1720,99,4,47,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Stuffing and Sweet Potato, Shorti",,420,17,7,0,75,1030,50,2,24,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Sweet Potato, Classic",,550,21,9,0,120,1120,71,3,44,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Gobbler Hoagie with Sweet Potato, Shorti",,300,12,5,0,70,730,37,1,22,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Ham Club,,690,36,12,0,110,2050,57,3,8,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Honey Hot Crispy Chicken Sandwich,,530,20,3.5,0,65,1690,59,2,10,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Italian Hoagie, Classic",,500,30,14,0,120,2300,23,0,9,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Italian Hoagie, Junior",,180,10,4.5,0,40,860,11,0,5,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Italian Hoagie, Shorti",,340,20,9,0,80,1590,17,0,7,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Honey Hot Italian Panini,,700,31,10,0,80,2280,73,2,5,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Oven Roasted Turkey Hoagie, Classic",,380,17,8,0,105,2420,15,0,12,,39,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Oven Roasted Turkey Hoagie, Junior",,130,6,2.5,0,35,860,7,0,6,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Hot Oven Roasted Turkey Hoagie, Shorti",,260,11,5,0,70,1640,11,0,9,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Honey Hot Pulled Pork Panini,,700,28,11,0,125,1980,67,2,5,,46,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Honey Hot Sauce BLT Club,,640,29,11,0,70,1490,63,3,14,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Honey Mustard Ham Panini,,650,28,10,0,60,1940,64,2,1,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Mustard Honey Smoked Turkey Hoagie, Classic",,440,24,8,0,120,2660,24,0,15,,36,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Mustard Honey Smoked Turkey Hoagie, Junior",,160,10,2.5,0,40,920,8,0,5,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Honey Mustard Honey Smoked Turkey Hoagie, Shorti",,290,16,5,0,80,1770,16,0,10,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Hot Turkey in Gravy Hoagie, Classic",,270,8,2.5,0,60,1030,32,1,22,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Hot Turkey in Gravy Hoagie, Shorti",,170,5,1.5,0,40,690,17,<1,11,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Italian Club,,770,44,13,0,100,2240,57,3,6,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Cheesesteak Hoagie, Classic",,440,29,14,0,120,1900,6,1,4,,43,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Cheesesteak Hoagie, Junior",,160,10,4.5,0,40,710,4,1,2,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Cheesesteak Hoagie, Shorti",,300,19,9,0,80,1310,5,1,3,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Chicken Cheesesteak Hoagie, Classic",,440,23,11,0,150,2050,9,1,4,,49,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Chicken Cheesesteak Hoagie, Junior",,160,8,3.5,0,50,760,5,1,2,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Marinara Chicken Cheesesteak Hoagie, Shorti",,300,15,7,0,100,1410,7,1,3,,33,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Meatball Parmesan Hoagie, Classic",,780,119,39,3,165,4470,30,0,24,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Meatball Parmesan Hoagie, Junior",,260,40,13,1,55,1490,10,0,8,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Meatball Parmesan Hoagie, Shorti",,520,79,26,2,110,2980,20,0,16,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,No-Bun Crispy Chicken Sandwich,,350,18,3,0,65,910,24,<1,1,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Onion Cheesesteak Panini,,680,32,10,0,85,1810,66,2,2,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Orginal Roasted Chicken Sandwich,,400,16,3,0,90,1270,34,<1,4,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Parmesan Crispy Chicken Sandwich,,600,27,7,0,85,1510,54,2,5,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Pepperoni Marinara Hoagie, Classic",,710,60,24,0,135,2410,6,1,4,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Pepperoni Marinara Hoagie, Junior",,250,20,8,0,45,880,4,1,2,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Pepperoni Marinara Hoagie, Shorti",,480,40,16,0,90,1650,5,1,3,,23,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Roast Beef Club,,740,35,11,0,125,1850,57,3,8,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Bacon Ranch Hoagie, Classic",,660,36,14,0,240,1930,10,0,1,,70,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Bacon Ranch Hoagie, Shorti",,400,24,9,0,135,1100,5,0,<1,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Roasted Chicken Bacon Ranch Panini,,780,34,12,0,145,1830,67,2,<1,,52,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Caesar Hoagie, Classic",,580,32,12,0,220,1920,7,0,0,,69,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Caesar Hoagie, Shorti",,330,20,8,0,120,1090,4,0,0,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Roasted Chicken Cheesesteak Panini,,540,15,3,0,90,1760,72,2,4,,35,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Chipotle Hoagie, Classic",,470,21,10,0,210,1570,4,0,3,,63,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Roasted Chicken Chipotle Hoagie, Shorti",,280,14,7,0,115,860,2,0,2,,33,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Southern Honey Hot Chicken Hoagie, Classic",,430,18,2.5,0,75,2220,39,2,9,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Southern Honey Hot Chicken Hoagie, Junior",,180,7,1,0,30,890,17,<1,5,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Southern Honey Hot Chicken Hoagie, Shorti",,350,14,2,0,60,1700,31,1,7,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Southwest Chipotle Chicken Panini,,680,27,9,0,120,1900,67,2,3,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Southwest Chipotle Turkey Panini,,640,25,8,0,90,2320,66,2,3,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Spicy Crispy Chicken Sandwich,,620,32,5,0,75,1690,55,2,5,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Spicy Turkey Club,,630,26,9,0,95,2020,58,3,8,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Tripleta Hoagie, Classic",,590,37,11,0,195,2460,5,0,5,,56,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Tripleta Hoagie, Shorti",,320,21,6,0,100,1280,3,0,3,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Tuna Melt Panini,,910,56,11,0,85,1440,72,4,2,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Tuna Salad Club,,860,57,12,0,90,1710,63,5,10,,32,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Turkey & Ham Club,,690,35,11,0,105,2120,58,3,9,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Turkey Club,,690,35,10,0,100,2190,59,3,10,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,Turkey Veggie Ranch Club,,650,27,9,0,65,1870,60,3,8,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Veggie Honey Smoked Turkey Hoagie, Classic",,470,25,14,0,130,1880,33,0,15,,33,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Veggie Honey Smoked Turkey Hoagie, Junior",,150,8,4.5,0,40,620,10,0,5,,11,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Hoagies & Specialty Sandwiches,"Veggie Honey Smoked Turkey Hoagie, Shorti",,310,17,10,0,90,1260,21,0,10,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Cold Turkey Double Stuffed Gobbler Wrap,,480,15,5,0,45,1740,58,2,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Cold Turkey Gobbler Wrap,,360,9,3,0,40,1440,44,1,3,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Hot Turkey Double Stuffed Gobbler Wrap,,500,18,7,0,45,1510,60,2,2,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Hot Turkey Gobbler Wrap,,380,12,4.5,0,40,1210,46,1,1,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Snack & Go Wrap,,100,2.5,1,0,0,200,16,0,0,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,*Create Your Own Wrap,,260,7,3,0,0,520,42,1,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Bacon Chicken Ranch Snack & Go Wrap,,260,13,3.5,0,30,680,23,0,0,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,BLT Wrap,,560,35,10,0,50,1180,45,1,2,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Breaded Chicken Applewood Smoked Bacon Ranch Wrap,,700,33,11,0,85,1710,63,2,1,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Breaded Chicken Caesar Wrap,,610,27,7,0,65,1660,62,2,1,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Buffalo Breaded Chicken Wrap,,660,30,10,0,80,1870,63,2,1,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Buffalo Chicken Snack & Go Wrap,,200,8,1.5,0,20,710,23,0,0,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Cold Turkey Gobbler Wrap with Stuffing,,620,26,7,0,55,1810,70,2,15,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Cold Turkey Gobbler Wrap with Stuffing and Mashed Potato,,700,32,10,0,70,2010,77,3,16,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Cold Turkey Gobbler Wrap with Stuffing and Sweet Potato,,760,33,10,0,85,1850,90,3,26,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Creamy Chipotle Oven Roasted Turkey Snack & Go Wrap,,240,11,4,0,40,830,18,0,1,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Creamy Chipotle Sauce Chicken Steak Wrap,,570,24,10,0,105,1680,47,1,4,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Garlic Italian Snack & Go Wrap,,280,17,6,0,40,1210,18,0,0,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Garlic Pepperoni Snack & Go Wrap,,390,29,11,0,55,1070,17,0,1,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Honey Hot Chicken Snack & Go Wrap,,200,6,1.5,0,15,800,27,0,5,,7,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Hot Turkey Double Stuffed Gobbler Wrap with Stuffing and Mashed Potato,,630,24,10,0,60,1700,79,3,14,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Hot Turkey Double Stuffed Gobbler Wrap with Stuffing and Sweet Potato,,680,24,10,0,75,1550,92,3,25,,23,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Hot Turkey Garlic Gobbler Wrap with Mashed Potato,,510,24,9,0,60,1430,53,2,2,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Hot Turkey Garlic Gobbler Wrap with Sweet Potato,,570,25,9,0,75,1280,66,2,13,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Hot Turkey Gobbler Wrap with Stuffing,,540,18,7,0,45,1510,73,2,13,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Italian Wrap,,560,27,11,0,70,1870,48,1,1,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Oven Roasted Turkey Wrap,,480,17,7,0,60,1690,48,1,3,,32,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Roasted Chicken Applewood Smoked Bacon Ranch Wrap,,660,31,12,0,135,1620,47,1,2,,44,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Wraps and Snack & Go Wraps,Roasted Chicken Caesar Wrap,,490,19,7,0,100,1360,46,1,1,,35,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",*Create Your Own Burrito,,260,7,3,0,0,520,42,1,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",*Create Your Own Quesadilla,,260,7,3,0,0,520,42,1,1,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",*Create Your Own Taco,,100,2.5,1,0,0,200,16,0,0,,2,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",BBQ Chicken Steak Quesadilla,,650,28,14,0,130,1830,50,1,8,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Buffalo Chicken Steak Quesadilla,,660,31,14,0,135,2070,47,1,4,,42,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Cali Chicken Taco,,240,10,3.5,0,45,790,21,1,1,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Cheese Quesadilla,,600,33,18,0,90,1090,42,1,2,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Chicken Steak Bacon Ranch Quesadilla,,770,41,17,0,155,2130,48,1,5,,47,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Chipotle Beef Steak Burrito,,590,25,10,0,60,1610,59,4,3,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Chipotle Chicken Steak Burrito,,500,17,6,0,50,1670,62,4,4,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Chipotle Roasted Chicken Burrito,,640,23,10,0,115,1790,59,4,3,,43,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Crispy Cheese Chicken Taco,,290,13,3.5,0,45,710,25,<1,2,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Fajita Veggie Burrito,,540,20,8,0,30,1230,65,5,4,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Jalapeno Popper Quesadilla,,670,39,20,0,105,1330,45,1,5,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Pierogi Quesadilla,,620,33,17,0,75,1460,55,2,6,,23,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Pulled Pork Burrito,,510,19,7,0,55,1520,60,4,3,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Rice & Beans Burrito,,520,21,9,0,35,1230,58,4,2,,18,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Roasted Chicken Bacon Ranch Quesadilla,,770,40,17,0,165,1800,45,1,2,,52,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Roasted Chicken Fajita Quesadilla,,650,27,14,0,140,1520,49,1,3,,47,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Seasoned Beef & Fire Roasted Corn Taco,,260,11,4,0.5,35,640,25,0,3,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Seasoned Beef Burrito,,540,20,9,0.5,50,1460,59,4,2,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Seasoned Beef Fajita Veggie Quesadilla,,700,34,16,1.5,110,1600,54,1,5,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Southwest Seasoned Beef Burrito,,570,20,9,0.5,50,1480,65,4,3,,27,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Southwest Seasoned Beef Quesadilla,,640,29,15,1.5,105,1540,51,1,5,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Quesadillas, Burritos & Tacos",Spicy Cheesy Chicken Taco,,210,7,3,0,45,730,19,0,1,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,*Create Your Own Gobbler Bowl,,120,5,1.5,0,40,690,4,0,0,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Applewood Smoked Bacon Mac & Cheese Bowl,,550,31,12,0,60,1480,45,1,8,,24,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Breaded Chicken Bacon Ranch Mashed Potato Bowl,,790,53,22,0,145,2280,49,4,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Breaded Chicken BLT Salad,,600,32,10,0,95,1650,40,2,5,,31,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Breaded Chicken Caesar Salad,,480,23,7,0,70,1530,36,1,2,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Breaded Chicken Strip Bowl,,240,11,1.5,0,45,870,18,1,0,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Buffalo Chicken Mac & Cheese Bowl,,630,30,10,0,115,2420,50,1,9,,39,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Burger Salad,,540,41,20,1,100,920,11,1,3,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Burrito Bowl,,110,10,3,0,20,380,3,0,3,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Cheesesteak Mac & Cheese Bowl,,770,44,13,0,90,2010,58,1,9,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Chef Salad,,330,17,8,0,250,1110,12,1,4,,33,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Chicken Salad,,480,30,2,0,60,890,32,1,6,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Classic Hot Turkey Bowl,,520,28,13,0,85,1680,45,3,4,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Garden Salad,,320,17,7,0,205,750,26,1,3,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Honey Hot Breaded Chicken Mac & Cheese Bowl,,730,33,11,0,85,2660,72,3,17,,34,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Italian Antipasto Salad,,330,21,9,0,75,1870,9,1,2,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Mac & Cheese Gobbler Bowl,,580,28,10,0,70,1880,54,2,6,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Meatball Bowl,,400,60,20,1.5,85,2280,15,0,12,,22,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Mediterranean Roasted Chicken Salad,,400,14,6,0,105,1220,29,1,4,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Roasted Chicken Fajita Bowl,,310,9,2,0,90,1590,29,0,5,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Seasoned Beef Mac & Cheese Bowl,,820,48,14,1.5,95,2040,61,1,8,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Southwest Chicken Salad,,240,16,6,0,30,260,11,<1,3,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Southwest Seasoned Beef Mac & Cheese Bowl,,680,34,13,1.5,95,2000,55,1,11,,37,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Spicy Roasted Chicken Bowl,,440,15,2,0,80,1920,44,6,<1,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Sweet Potato Hot Turkey Gobbler Bowl,,630,30,13,0,115,1380,72,3,25,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,Tuna Salad,,440,28,2,0,30,730,34,3,6,,16,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Bowls & Salads,"Turkey, Bacon & Ranch Salad",,250,10,3,0,60,1220,11,1,6,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",*Create Your Own Loaded fries,,310,15,3.5,0,0,890,42,0,0,,4,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Bacon Cheese Loaded Fries,,620,41,15,0,70,2050,49,0,4,,13,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Buffalo Chicken Loaded Fries,,590,29,5,0,55,2120,61,1,0,,19,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Buffalo Mac & Cheese, Large",,750,41,14,1,70,2450,69,2,10,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Buffalo Mac & Cheese, Medium",,540,29,10,0,50,1740,51,2,8,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Buffalo Mac & Cheese, Small",,380,20,7,0,35,1160,36,1,5,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Cheddar Cheese Sauce,,35,3,2,0,10,190,2,0,1,,0,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Cheesesteak Loaded Fries,,560,32,13,0,80,2220,50,0,5,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Chicken Strips, 3",,240,11,1.5,0,45,870,18,1,0,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Chicken Strips, 5",,400,18,2.5,0,75,1450,30,2,0,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Chili Cheese Loaded Fries,,550,29,12,0,60,2100,61,3,7,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Creamy Chipotle Sauce Mac & Cheese, Large",,790,45,16,1,75,2030,69,2,11,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Creamy Chipotle Sauce Mac & Cheese, Medium",,570,32,12,0,55,1470,50,2,8,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Creamy Chipotle Sauce Mac & Cheese, Small",,390,21,8,0,35,1020,36,1,6,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Fries,,260,12,3,0,0,730,34,0,0,,3,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Garlic Aloli Mac & Cheese, Large",,800,48,17,1,70,1840,67,2,10,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Garlic Aloli Mac & Cheese, Medium",,580,34,12,0,50,1340,49,2,8,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Garlic Aloli Mac & Cheese, Small",,400,22,8,0,35,960,35,1,5,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Garlic Knots, 2",,220,8,3,0,0,440,32,0,2,,6,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Garlic Knots, 3",,330,12,4.5,0,0,660,48,0,3,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Garlic Parmesan Loaded Fries,,450,30,8,0,20,1120,42,0,0,,8,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Ranch Mac & Cheese, Large",,770,43,15,1,70,1920,69,2,10,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Ranch Mac & Cheese, Medium",,560,31,11,0,50,1400,50,2,8,,21,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides","Ranch Mac & Cheese, Small",,390,21,8,0,35,980,36,1,5,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,"Snacks, Soups & Sides",Roasted Chicken Strip,,120,2,1,0,80,560,2,0,0,,25,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,*Create Your Own 14-Inch Pizza,,1700,52,29,0,135,4350,226,10,17,,74,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,*Create Your Own 16-Inch Pizza,,2170,64,35,0,165,5810,301,12,23,,93,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,*Create Your Own Half/Half 14-Inch Pizza,,1700,52,29,0,135,4350,226,10,17,,74,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,*Create Your Own Half/Half 16-Inch Pizza,,2170,64,35,0,165,5810,301,12,23,,93,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Cheese 14-Inch Pizza,,1700,52,29,0,135,4350,226,10,17,,74,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Cheese 16-Inch Pizza,,2170,64,35,0,165,5810,301,12,23,,93,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Cheese Personal Pizza,,650,28,12,0,60,1550,74,3,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,"Half Cheese, Half Pepperoni Personal Pizza",,700,32,14,0,70,1720,74,3,4,,28,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Half Cheese Half Pepperoni 14-Inch Pizza,,1850,65,34,0,170,4860,226,10,17,,80,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Half Cheese Half Pepperoni 16-Inch Pizza,,2360,81,41,0,210,6490,301,12,23,,101,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Italian Sausage & Pepperoni 14-Inch Pizza,,2220,98,44,0,255,5930,229,10,19,,98,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Italian Sausage & Pepperoni 16-Inch Pizza,,2880,126,56,0,325,7990,305,12,26,,125,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Italian Sausage 14-Inch Pizza,,2030,80,37,0,205,5250,229,10,19,,89,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Italian Sausage 16-Inch Pizza,,2590,100,46,0,250,6970,305,12,26,,113,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Pepperoni 14-Inch Pizza,,1990,79,39,0,210,5370,226,10,17,,86,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Pepperoni 16-Inch Pizza,,2550,99,48,0,260,7170,301,12,23,,109,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Pepperoni Personal Pizza,,750,36,16,0,85,1890,74,3,4,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Supreme 14-Inch Pizza,,2260,98,44,0,255,5930,237,10,23,,98,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Supreme 16-Inch Pizza,,2930,126,56,0,325,7990,315,12,31,,125,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Veggie 14-Inch Pizza,,1770,52,29,0,135,4350,240,10,24,,74,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Veggie 16-Inch Pizza,,2240,64,35,0,165,5810,315,12,30,,93,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,Veggie Personal Pizza,,670,28,12,0,60,1550,78,3,6,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,White 14-Inch Pizza,,2190,101,46,0,200,4910,219,10,12,,98,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,White 16-Inch Pizza,,2890,136,60,0,260,6630,291,12,15,,129,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Pizza & Personal Pizza,White Personal Pizza,,900,52,21,0,90,1840,70,3,2,,38,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,*Create Your Own Burger,,520,33,14,1,70,660,30,<1,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"*Create Your Own Burger, Double",,880,64,28,2,140,1030,30,<1,4,,46,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,All American Cheeseburger,,600,38,17,1,85,1230,35,<1,7,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"All American Cheeseburger, Double",,1010,73,33,2,170,1790,36,<1,8,,52,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,BBQ Bacon Cheeseburger,,680,44,19,1,100,1200,35,<1,7,,33,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"BBQ Bacon Cheeseburger, Double",,1180,86,37,2,200,1880,36,<1,8,,61,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,French Onion Burger,,660,45,18,1,75,1060,36,<1,7,,29,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"French Onion Burger, Double",,1080,81,34,2,145,1460,36,<1,7,,53,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,Nacho Burger,,640,41,17,1,90,1220,32,<1,5,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"Nacho Burger, Double",,1060,77,34,2,175,1680,32,<1,5,,54,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,No-Bun Burger,,360,31,14,1,70,370,0,0,0,,20,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"No-Bun Burger, Double",,720,62,28,2,140,740,0,0,0,,40,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,Southwest Burger,,630,41,17,1,90,1190,34,<1,4,,30,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Burgers,"Southwest Burger, Double",,1040,76,34,2,175,1650,34,<1,4,,54,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,"Kids Breaded Chicken Strips, 2",,160,7,1,0,30,580,12,<1,0,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,"Kids Breaded Chicken Strips, 3",,240,11,1.5,0,45,870,18,1,0,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Cheese Quesadilla,,310,17,9,0,45,530,21,<1,<1,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Chicken Noodle Soup,,130,4.5,1,0,35,930,15,<1,1,,9,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids French Toast and Syrup,,640,18,3,0,140,700,105,4,47,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Grilled Cheese,,350,17,8,0,45,600,31,1,0,,17,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Hamburger,,520,33,14,1,70,660,30,<1,4,,26,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Mac & Cheese,,360,18,7,0,30,940,35,1,5,,15,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Meatballs,,240,38,12,1,50,1400,10,0,8,,12,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Plain Bagel,,270,1,0,0,0,450,55,3,4,,10,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27
+wawa,Kids,Kids Scrambled Eggs,,210,16,5,0,350,630,4,0,2,,14,,,https://www.nutritionix.com/wawa/menu/premium,2026-10-27

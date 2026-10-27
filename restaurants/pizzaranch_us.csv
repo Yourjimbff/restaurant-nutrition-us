@@ -1,0 +1,855 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+pizzaranch,Bake At Home Pizzas,"Bake at Home, Bacon & Sausage Breakfast Pizza",,150,9,4,0,45,300,8,0,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Bake At Home Pizzas,"Bake at Home, Bronco Pizza",,140,8,4,0,25,410,9,0,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Bake At Home Pizzas,"Bake at Home, Garlic Cheese Pizza",,110,6,2.5,0,10,210,9,0,1,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Bake At Home Pizzas,"Bake at Home, Pepperoni Pizza",,110,6,3,0,20,260,7,0,0,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Original Slice, Large",,240,10,5,0,50,430,24,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Original Slice, Medium",,200,9,4,0,45,380,19,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Original Slice, Small",,210,9,5,0,45,410,20,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Skillet Slice, Large",,250,12,5,0,50,440,24,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Skillet Slice, Medium",,230,11,5,0,45,400,21,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Skillet Slice, Small",,230,11,5,0,45,430,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Thin Slice, Large",,170,9,5,0,50,370,11,0,0,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Thin Slice, Medium",,150,8,4,0,45,330,9,0,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Bacon & Sausage Pizza, Thin Slice, Small",,150,9,4,0,45,360,8,0,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Original Slice, Large",,260,13,5,0,45,360,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Original Slice, Medium",,220,12,5,0,40,320,19,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Original Slice, Small",,210,10,4,0,35,300,20,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Skillet Slice, Large",,270,15,5,0,45,370,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Skillet Slice, Medium",,240,14,5,0,40,340,21,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Skillet Slice, Small",,230,12,5,0,35,320,22,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Thin Slice, Large",,190,12,5,0,45,300,10,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Thin Slice, Medium",,160,11,4,0,40,270,8,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Garlic Sausage Pizza, Thin Slice, Small",,150,10,4,0,35,240,8,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Original Slice, Large",,230,9,5,0,45,390,24,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Original Slice, Medium",,190,8,4,0,40,340,20,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Original Slice, Small",,190,8,4,0,35,330,21,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Skillet Slice, Large",,240,11,5,0,45,400,24,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Skillet Slice, Medium",,220,11,4.5,0,45,350,22,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Skillet Slice, Small",,210,9,4,0,35,350,23,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Thin Slice, Large",,160,8,4,0,45,330,12,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Thin Slice, Medium",,140,8,4,0,45,300,9,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage, Peppers & Onions Pizza, Thin Slice, Small",,130,7,4,0,35,270,9,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Original Slice, Large",,220,9,5,0,45,390,24,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Original Slice, Medium",,190,8,4,0,45,340,19,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Original Slice, Small",,190,8,4,0,35,330,20,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Skillet Slice, Large",,240,11,5,0,45,400,24,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Skillet Slice, Medium",,220,10,5,0,40,360,21,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Skillet Slice, Small",,210,9,4,0,35,350,22,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Thin Slice, Large",,160,8,4,0,45,320,11,0,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Thin Slice, Medium",,140,8,4,0,45,300,9,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Breakfast Pizzas,"Sausage Pizza, Thin Slice, Small",,130,7,4,0,35,270,8,0,0,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Alfredo Sauce for Large Slice,,25,3,2,0,<5,60,1,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Alfredo Sauce for Medium Slice,,20,2,1,0,<5,40,1,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Alfredo Sauce for Small Slice,,15,2,1,0,<5,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Bacon Topping for Large Slice,,25,2,1,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Bacon Topping for Medium Slice,,25,2,1,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Bacon Topping for Small Slice,,25,2,1,0,10,85,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Banana Peppers Topping for Large Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Banana Peppers Topping for Medium Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Banana Peppers Topping for Small Slice,,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Beef Topping for Large Slice,,20,1,1,0,10,120,1,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Beef Topping for Medium Slice,,20,1,1,0,10,110,1,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Beef Topping for Small Slice,,20,1,1,0,<5,90,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Black Olives Topping for Large Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Black Olives Topping for Medium Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Black Olives Topping for Small Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Canadian Bacon Topping for Large Slice,,10,0,0,0,10,130,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Canadian Bacon Topping for Medium Slice,,10,0,0,0,10,120,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Canadian Bacon Topping for Small Slice,,10,0,0,0,<5,110,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Chicken Topping for Large Slice,,5,0,0,0,<5,45,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Chicken Topping for Medium Slice,,5,0,0,0,<5,45,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Chicken Topping for Small Slice,,5,0,0,0,<5,45,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Classic Tomato for Large Slice,,10,0,0,0,0,50,2,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Classic Tomato for Medium Slice,,5,0,0,0,0,35,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Classic Tomato for Small Slice,,5,0,0,0,0,40,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Garlic Sauce for Large Slice,,35,4,1,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Garlic Sauce for Medium Slice,,30,3,1,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Garlic Sauce for Small Slice,,25,3,1,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Gluten Free Crust Slice with Cheese,,170,7,4,0,20,380,21,0,2,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Olives Topping for Large Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Olives Topping for Medium Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Olives Topping for Small Slice,,10,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Peppers Topping for Large Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Peppers Topping for Medium Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Green Peppers Topping for Small Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Italian Sausage Topping for Large Slice,,50,4,2,0,10,140,1,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Italian Sausage Topping for Medium Slice,,50,4,2,0,10,150,1,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Italian Sausage Topping for Small Slice,,40,4,2,0,10,120,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Jalapenos Topping for Large Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Jalapenos Topping for Medium Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Jalapenos Topping for Small Slice,,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Mushrooms Topping for Large Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Mushrooms Topping for Medium Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Mushrooms Topping for Small Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Onions Topping for Large Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Onions Topping for Medium Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Onions Topping for Small Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Original Crust Slice with Cheese, Large",,210,8,5,0,25,290,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Original Crust Slice with Cheese, Medium",,180,7,4,0,20,250,18,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Original Crust Slice with Cheese, Small",,150,5,3,0,10,180,19,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pepperoni Topping for Large Slice,,20,2,1,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pepperoni Topping for Medium Slice,,15,2,1,0,<5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pepperoni Topping for Small Slice,,15,2,1,0,<5,65,0,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pickles Topping for Large Slice,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pickles Topping for Medium Slice,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pickles Topping for Small Slice,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pineapple Topping for Large Slice,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pineapple Topping for Medium Slice,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Pineapple Topping for Small Slice,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sauerkraut Topping for Large Slice,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sauerkraut Topping for Medium Slice,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sauerkraut Topping for Small Slice,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Skillet Crust Slice with Cheese, Large",,230,10,5,0,25,300,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Skillet Crust Slice with Cheese, Medium",,220,11,5,0,20,270,20,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Skillet Crust Slice with Cheese, Small",,180,7,3,0,10,200,21,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Spinach Topping for Large Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Spinach Topping for Medium Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Spinach Topping for Small Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Stuffed Crust Slice with Cheese, Large",,260,13,6,0,30,450,23,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Stuffed Crust Slice with Cheese, Medium",,240,13,6,0,30,420,19,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sweet Chili Sauce for Large Slice,,20,0,0,0,0,100,5,0,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sweet Chili Sauce for Medium Slice,,20,0,0,0,0,90,4,0,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Sweet Chili Sauce for Small Slice,,15,0,0,0,0,65,3,0,3,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Thin Crust Slice with Cheese, Large",,110,5,3,0,15,170,9,0,0,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Thin Crust Slice with Cheese, Medium",,90,5,3,0,15,150,7,0,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,"Thin Crust Slice with Cheese, Small",,80,4,2,0,10,130,7,0,0,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Tomatoes Topping for Large Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Tomatoes Topping for Medium Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Pizza,Tomatoes Topping for Small Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Gluten Free Crust",,180,7,3,0,20,480,23,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Original Crust, Large",,210,7,4,0,20,390,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Original Crust, Medium",,180,7,4,0,20,340,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Original Crust, Small",,170,6,3,0,15,310,21,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Skillet Crust, Large",,230,9,5,0,20,390,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Skillet Crust, Medium",,200,8,4,0,20,360,22,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Skillet Crust, Small",,190,7,4,0,15,330,23,2,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Stuffed Crust, Large",,260,12,6,0,25,530,25,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Stuffed Crust, Medium",,240,12,5,0,25,490,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Thin Crust, Large",,140,6,4,0,20,320,12,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Thin Crust, Medium",,120,6,4,0,20,290,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Beef Pizza Slice, Thin Crust, Small",,110,5,3,0,15,260,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Gluten Free Crust",,170,6,3,0,20,500,22,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Original Crust, Large",,200,6,3,0,20,410,24,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Original Crust, Medium",,170,6,3,0,20,360,19,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Original Crust, Small",,160,5,2,0,15,280,20,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Skillet Crust, Large",,220,9,4,0,20,420,24,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Skillet Crust, Medium",,190,8,3,0,20,380,22,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Skillet Crust, Small",,190,7,3,0,20,350,23,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Stuffed Crust, Large",,250,12,5,0,30,550,24,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Stuffed Crust, Medium",,230,11,5,0,25,500,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Thin Crust, Large",,130,6,3,0,20,350,11,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Thin Crust, Medium",,110,5,3,0,20,310,9,<1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Canadian Bacon Pizza Slice, Thin Crust, Small",,100,4,2,0,15,220,9,0,1,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Gluten Free Crust",,200,8,4,0,25,450,23,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Jumbo",,330,12,7,0,35,510,37,2,3,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Original Crust, Large",,220,8,5,0,25,340,24,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Original Crust, Medium",,190,7,4,0,20,290,19,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Original Crust, Small",,190,7,4,0,20,290,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Skillet Crust, Large",,240,10,5,0,25,350,24,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Skillet Crust, Medium",,210,9,5,0,20,310,22,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Skillet Crust, Small",,210,8,5,0,20,300,23,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Stuffed Crust, Large",,270,14,7,0,30,510,25,1,2,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Stuffed Crust, Medium",,260,13,6,0,30,470,22,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Thin Crust, Large",,150,8,5,0,25,280,12,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Thin Crust, Medium",,130,7,4,0,20,240,9,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Cheese Pizza Slice, Thin Crust, Small",,120,6,4,0,20,230,9,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Gluten Free Crust",,170,6,3,0,15,430,22,1,2,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Original Crust, Large",,190,6,3,0,20,330,24,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Original Crust, Medium",,160,5,3,0,20,280,19,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Original Crust, Small",,160,5,3,0,15,270,20,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Skillet Crust, Large",,210,8,4,0,20,330,24,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Skillet Crust, Medium",,190,7,4,0,20,300,22,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Skillet Crust, Small",,180,6,3,0,15,290,23,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Stuffed Crust, Large",,250,11,5,0,25,500,24,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Stuffed Crust, Medium",,230,11,5,0,25,450,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Thin Crust, Large",,120,5,3,0,20,260,11,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Thin Crust, Medium",,110,5,3,0,20,230,9,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Chicken Pizza Slice, Thin Crust, Small",,100,4,2,0,15,210,9,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Gluten Free Crust",,220,11,5,0,25,440,21,0,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Original Crust, Large",,250,12,5,0,25,330,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Original Crust, Medium",,210,10,5,0,20,280,18,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Original Crust, Small",,200,9,4,0,20,260,19,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Skillet Crust, Large",,260,14,6,0,25,340,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Skillet Crust, Medium",,230,12,5,0,20,300,20,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Skillet Crust, Small",,220,11,5,0,20,280,21,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Stuffed Crust, Large",,290,16,7,0,30,500,23,1,1,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Stuffed Crust, Medium",,270,15,7,0,30,460,21,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Thin Crust, Large",,180,11,5,0,25,270,10,0,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Thin Crust, Medium",,150,10,5,0,20,230,8,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Garlic Cheese Pizza Slice, Thin Crust, Small",,140,9,4,0,20,200,7,0,0,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Gluten Free Crust",,190,7,4,0,20,450,22,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Original Crust, Large",,210,8,4,0,20,350,24,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Original Crust, Medium",,180,7,4,0,20,310,19,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Original Crust, Small",,180,7,3,0,20,300,20,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Skillet Crust, Large",,230,10,5,0,20,360,24,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Skillet Crust, Medium",,210,9,4,0,20,330,22,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Skillet Crust, Small",,200,8,4,0,20,320,23,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Stuffed Crust, Large",,270,13,6,0,25,520,24,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Stuffed Crust, Medium",,250,13,6,0,25,470,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Thin Crust, Large",,140,7,4,0,20,290,11,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Thin Crust, Medium",,120,7,4,0,20,260,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Italian Sausage Pizza Slice, Thin Crust, Small",,120,6,3,0,20,250,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Gluten Free Crust",,200,9,4,0,25,550,22,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Jumbo",,340,15,7,0,40,670,36,2,3,,15,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Original Crust, Large",,230,10,5,0,25,450,24,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Original Crust, Medium",,200,9,5,0,25,410,19,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Original Crust, Small",,190,9,4,0,20,390,20,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Skillet Crust, Large",,250,12,5,0,25,460,24,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Skillet Crust, Medium",,220,11,5,0,25,430,21,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Skillet Crust, Small",,220,10,5,0,20,410,22,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Stuffed Crust, Large",,280,15,7,0,30,590,24,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Stuffed Crust, Medium",,260,14,6,0,30,540,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Thin Crust, Large",,160,9,5,0,25,390,11,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Thin Crust, Medium",,140,9,5,0,25,360,9,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,One Topping Pizzas,"Pepperoni Pizza Slice, Thin Crust, Small",,130,8,4,0,20,330,9,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Gluten Free Crust",,190,7,3,0,20,520,23,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Original Crust, Large",,220,8,4,0,25,420,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Original Crust, Medium",,180,7,4,0,20,380,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Original Crust, Small",,180,6,0,0,20,360,21,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Skillet Crust, Large",,230,10,5,0,25,430,25,17,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Skillet Crust, Medium",,210,9,4,0,20,400,22,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Skillet Crust, Small",,200,8,4,0,20,370,23,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Stuffed Crust, Large",,260,13,6,0,30,560,25,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Stuffed Crust, Medium",,250,12,6,0,30,520,22,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Thin Crust, Large",,150,7,4,0,25,360,12,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Thin Crust, Medium",,130,6,3,0,20,330,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bacon Cheeseburger Pizza Slice, Thin Crust, Small",,120,6,3,0,20,300,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Gluten Free Crust",,180,6,3,0,15,510,26,1,5,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Original Crust, Large",,200,6,3,0,20,390,27,1,4,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Original Crust, Medium",,170,5,3,0,20,340,22,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Original Crust, Small",,170,5,3,0,15,330,23,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Skillet Crust, Large",,220,8,4,0,20,400,27,2,4,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Skillet Crust, Medium",,200,7,4,0,20,360,24,1,3,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Skillet Crust, Small",,190,6,3,0,15,350,25,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Stuffed Crust, Large",,260,11,5,0,25,570,28,2,4,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Stuffed Crust, Medium",,240,11,5,0,25,520,25,1,3,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Thin Crust, Large",,130,5,3,0,20,330,14,1,4,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Thin Crust, Medium",,110,5,3,0,20,290,11,1,3,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BBQ Chicken Pizza Slice, Thin Crust, Small",,100,4,2,0,15,270,11,1,3,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Gluten Free Crust",,280,18,5,0,25,540,23,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Original Crust, Large",,310,18,5,0,30,440,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Original Crust, Medium",,260,16,5,0,25,380,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Original Crust, Small",,240,14,4,0,25,360,21,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Skillet Crust, Large",,320,20,6,0,30,450,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Skillet Crust, Medium",,290,17,5,0,25,400,22,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Skillet Crust, Small",,270,15,5,0,25,380,23,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Stuffed Crust, Large",,360,23,7,0,35,610,25,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Stuffed Crust, Medium",,330,21,7,0,30,540,22,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Thin Crust, Large",,240,17,5,0,30,380,12,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Thin Crust, Medium",,200,15,5,0,25,330,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"BLT Pizza Slice, Thin Crust, Small",,180,13,4,0,25,300,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Gluten Free Crust",,200,9,4,0,30,560,23,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Original Crust, Large",,230,9,4,0,30,460,24,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Original Crust, Medium",,200,8,4,0,30,420,19,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Original Crust, Small",,190,8,4,0,20,400,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Skillet Crust, Large",,240,11,5,0,30,470,24,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Skillet Crust, Medium",,220,10,5,0,25,430,21,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Skillet Crust, Small",,220,9,4,0,20,410,23,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Stuffed Crust, Large",,280,14,6,0,30,590,24,2,2,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Stuffed Crust, Medium",,260,14,6,0,30,550,22,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Thin Crust, Large",,160,8,4,0,30,400,12,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Thin Crust, Medium",,140,8,4,0,25,360,9,0,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Bronco Pizza Slice, Thin Crust, Small",,130,7,4,0,25,340,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Gluten Free Crust",,190,8,3,0,20,630,22,0,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Original Crust, Large",,220,10,4,0,25,590,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Original Crust, Medium",,190,8,4,0,20,490,18,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Original Crust, Small",,180,7,3,0,20,430,19,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Skillet Crust, Large",,240,12,5,0,25,590,23,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Skillet Crust, Medium",,210,10,4,0,20,510,21,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Skillet Crust, Small",,200,9,4,0,20,450,22,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Stuffed Crust, Large",,270,14,6,0,30,660,23,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Stuffed Crust, Medium",,250,13,5,0,25,610,21,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Thin Crust, Large",,150,9,4,0,25,520,10,0,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Thin Crust, Medium",,130,8,3,0,20,440,8,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Buffalo Chicken Pizza Slice, Thin Crust, Small",,120,7,3,0,20,380,8,0,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Gluten Free Crust",,240,13,5,0,25,580,22,0,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Original Crust, Large",,260,14,5,0,30,480,23,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Original Crust, Medium",,220,11,5,0,30,410,18,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Original Crust, Small",,220,11,4,0,25,400,19,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Skillet Crust, Large",,280,16,6,0,30,480,23,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Skillet Crust, Medium",,250,13,5,0,30,430,21,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Skillet Crust, Small",,240,12,5,0,25,420,22,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Stuffed Crust, Large",,320,19,7,0,35,640,24,1,1,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Stuffed Crust, Medium",,290,17,6,0,30,570,21,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Thin Crust, Large",,200,13,5,0,30,430,10,0,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Thin Crust, Medium",,160,11,4,0,30,360,8,0,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Chicken Bacon Ranch Pizza Slice, Thin Crust, Small",,150,10,4,0,25,340,8,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Original Crust, Large",,260,11,5,0,25,470,28,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Original Crust, Medium",,220,10,5,0,25,420,23,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Original Crust, Small",,210,9,4,0,20,390,24,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Skillet Crust, Large",,280,13,6,0,25,480,28,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Skillet Crust, Medium",,250,11,5,0,25,430,25,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Skillet Crust, Small",,230,10,5,0,20,410,26,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Stuffed Crust, Large",,290,15,7,0,30,600,27,1,1,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Stuffed Crust, Medium",,270,14,6,0,25,540,25,1,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Thin Crust, Large",,190,10,5,0,25,410,15,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Thin Crust, Medium",,160,9,5,0,25,360,12,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Macaroni & Cheese Pizza Slice, Thin Crust, Small",,150,8,4,0,20,330,12,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Gluten Free Crust",,170,6,3,0,15,400,23,1,3,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Original Crust, Large",,200,6,3,0,15,310,25,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Original Crust, Medium",,170,5,3,0,15,260,20,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Original Crust, Small",,160,5,3,0,10,250,21,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Skillet Crust, Large",,220,8,4,0,15,320,25,2,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Skillet Crust, Medium",,190,7,4,0,15,280,22,2,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Skillet Crust, Small",,190,6,3,0,10,270,23,2,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Stuffed Crust, Large",,250,11,5,0,20,470,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Stuffed Crust, Medium",,230,11,5,0,20,430,22,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Thin Crust, Large",,130,5,3,0,15,250,12,1,2,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Thin Crust, Medium",,110,5,3,0,15,210,9,1,1,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Prairie Pizza Slice, Thin Crust, Small",,100,4,2,0,10,190,9,1,1,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Gluten Free Crust",,190,7,3,0,20,480,23,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Original Crust, Large",,220,8,4,0,20,380,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Original Crust, Medium",,190,7,4,0,20,340,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Original Crust, Small",,180,7,3,0,20,310,20,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Skillet Crust, Large",,240,11,5,0,25,400,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Skillet Crust, Medium",,210,9,4,0,20,350,22,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Skillet Crust, Small",,200,8,4,0,20,330,23,2,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Stuffed Crust, Large",,270,13,6,0,25,530,25,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Stuffed Crust, Medium",,250,13,6,0,25,490,22,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Thin Crust, Large",,150,8,4,0,25,330,12,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Thin Crust, Medium",,130,7,4,0,20,280,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Roundup Pizza Slice, Thin Crust, Small",,120,6,3,0,20,260,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Gluten Free Crust",,200,8,3,0,<5,210,23,1,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Original Crust, Large",,230,8,4,0,20,420,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Original Crust, Medium",,200,8,4,0,60,370,20,1,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Original Crust, Small",,190,7,3,0,20,340,20,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Skillet Crust, Large",,250,10,5,0,20,430,25,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Skillet Crust, Medium",,220,9,4,0,20,390,22,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Skillet Crust, Small",,210,8,4,0,20,360,23,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Stuffed Crust, Large",,280,13,6,0,30,560,25,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Stuffed Crust, Medium",,260,13,6,0,30,510,22,1,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Thin Crust, Large",,160,8,4,0,20,360,12,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Thin Crust, Medium",,140,7,4,2,20,320,9,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Stampede Pizza Slice, Thin Crust, Small",,130,6,3,0,20,290,9,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Original Crust, Large",,220,6,3,0,20,420,30,1,7,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Original Crust, Medium",,180,5,3,0,20,370,25,1,7,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Original Crust, Small",,190,5,3,0,15,380,27,1,8,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Skillet Crust, Large",,230,8,4,0,20,430,30,1,7,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Skillet Crust, Medium",,210,7,4,0,20,390,27,1,7,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Skillet Crust, Small",,210,6,3,0,15,400,30,1,8,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Stuffed Crust, Large",,260,11,5,0,25,550,29,1,6,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Stuffed Crust, Medium",,250,11,5,0,25,520,26,1,5,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Thin Crust, Large",,150,5,3,0,20,360,17,1,7,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Thin Crust, Medium",,130,5,3,0,20,320,14,0,7,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Chili Pizza Slice, Thin Crust, Small",,120,4,2,0,15,320,16,0,8,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Gluten Free Crust",,180,6,3,0,20,470,23,1,4,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Original Crust, Large",,200,6,3,0,20,370,26,2,3,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Original Crust, Medium",,170,6,3,0,20,320,20,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Original Crust, Small",,170,5,2.5,0,20,330,21,1,2,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Skillet Crust, Large",,220,8,4,0,20,380,26,2,3,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Skillet Crust, Medium",,200,7,3,0,20,340,22,1,3,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Skillet Crust, Small",,190,7,3,0,20,350,24,2,3,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Stuffed Crust, Large",,250,11,5,0,30,520,25,2,3,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Stuffed Crust, Medium",,240,11,5,0,20,480,23,1,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Thin Crust, Large",,130,6,3,0,20,310,13,1,3,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Thin Crust, Medium",,110,5,3,0,20,270,10,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Sweet Swine Pizza Slice, Thin Crust, Small",,110,5,2,0,20,270,10,1,2,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Gluten Free Crust",,190,7,4,0,20,480,24,1,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Original Crust, Large",,220,8,4,0,20,380,26,2,2,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Original Crust, Medium",,190,7,4,0,20,330,21,2,2,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Original Crust, Small",,180,6,3,0,20,290,21,2,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Skillet Crust, Large",,240,10,5,0,20,390,26,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Skillet Crust, Medium",,220,9,4,0,20,340,23,2,2,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Skillet Crust, Small",,200,8,4,0,20,310,24,2,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Stuffed Crust, Large",,280,13,7,0,30,550,26,2,2,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Stuffed Crust, Medium",,270,14,6,0,30,520,23,2,1,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Thin Crust, Large",,150,7,4,0,20,310,13,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Thin Crust, Medium",,130,7,4,0,20,280,10,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Texan Taco Pizza Slice, Thin Crust, Small",,120,6,3,0,20,240,10,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Original Crust, Large",,210,8,5,0,25,290,23,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Original Crust, Medium",,170,7,4,0,20,240,19,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Original Crust, Small",,160,6,4,0,15,220,19,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Skillet Crust, Large",,220,10,5,0,25,300,23,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Skillet Crust, Medium",,200,9,5,0,20,260,21,1,1,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Skillet Crust, Small",,190,8,4,0,15,240,22,1,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Stuffed Crust, Large",,260,14,7,0,30,470,24,1,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Stuffed Crust, Medium",,240,13,6,0,25,430,21,1,1,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Thin Crust, Large",,140,8,5,0,25,230,11,1,1,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Thin Crust, Medium",,110,6,4,0,20,190,8,0,1,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Specialty Pizzas,"Tuscan Roma Pizza Slice, Thin Crust, Small",,100,5,3,0,15,160,8,0,1,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,Breadsticks with Marinara,,1430,96,18,0,0,2440,113,8,12,,20,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Cheesy Ranch Stix with Marinara, Large",,2890,133,51,2.5,200,4480,311,22,33,,102,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Cheesy Ranch Stix with Marinara, Medium",,2060,93,37,2,150,3010,223,14,19,,75,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Cheesy Ranch Stix with Marinara, Small",,1160,48,19,1,75,1650,137,9,10,,42,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,Chicken Fries,,740,56,10,0,105,1410,27,0,0,,35,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Beef, Large",,2910,137,56,1,300,4490,270,27,2,,117,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Beef, Medium",,2200,112,41,1,190,3450,201,17,15,,88,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Beef, Small",,1260,55,21,0,90,1860,129,7,7,,51,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Bacon, Large",,2940,139,58,0,350,4680,265,24,0,,115,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Bacon, Medium",,2210,114,43,0,230,2560,197,14,14,,86,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Bacon, Small",,1290,58,23,0,110,2000,127,6,6,,52,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Sausage, Large",,2930,144,57,0,310,4500,269,25,1,,110,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Sausage, Medium",,2210,119,43,0,200,3440,200,15,15,,82,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Jalapeno & Sausage, Small",,1310,62,23,0,100,1970,128,7,6,,50,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Pepperoni, Large",,3040,157,64,0,330,4720,264,24,0,,109,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Pepperoni, Medium",,2300,130,49,0,220,3650,196,14,14,,81,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Starters,"Loaded Cheesy Ranch Stix, Pepperoni, Small",,1310,64,25,0,100,1960,126,6,6,,48,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,BBQ Sauce for 8 Wings,,100,0,0,0,0,650,24,2,16,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,BBQ Sauce for 16 Wings,,190,0,0,0,0,1300,49,3,32,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,"Boneless Wings, Unsauced, 8 Wings",,840,56,9,0,95,1410,45,0,0,,38,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,"Boneless Wings, Unsauced, 16 Wings",,1680,112,17,0,190,2820,90,0,0,,77,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Buffalo Sauce for 8 Wings,,0,0,0,0,0,1590,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Buffalo Sauce for 16 Wings,,0,0,0,0,0,3180,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Chicken Dipping Sauce for 8 Wings,,240,22,3,0,20,560,12,0,10,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Chicken Dipping Sauce for 16 Wings,,480,44,6,0,40,1120,24,0,20,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Garlic Parmesan Sauce for 8 Wings,,150,15,2,0,0,830,4,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Garlic Parmesan Sauce for 16 Wings,,300,30,4,0,0,1660,8,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Mango Habanero Sauce for 8 Wings,,170,0,0,0,0,300,20,0,20,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Mango Habanero Sauce for 16 Wings,,330,0,0,0,0,600,40,0,40,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Nashville Hot Sauce for 8 Wings,,170,15,2,0,0,530,10,2,9,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Nashville Hot Sauce for 16 Wings,,340,31,4,0,0,1070,21,3,17,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sesame Sauce for 8 Wings,,160,8,1,0,0,620,23,0,19,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sesame Sauce for 16 Wings,,320,16,2,0,0,1230,45,0,39,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sweet Chili Sauce for 8 Wings,,120,0,0,0,0,600,30,0,27,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sweet Chili Sauce for 16 Wings,,240,0,0,0,0,1190,60,0,54,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sweet Teriyaki Sauce for 8 Wings,,90,0,0,0,0,950,27,0,24,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,Sweet Teriyaki Sauce for 16 Wings,,180,0,0,0,0,1910,54,0,48,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,"Traditional Wings, Unsauced, 8 Wings",,740,63,14,0,145,920,5,0,0,,44,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wings,"Traditional Wings, Unsauced, 16 Wings",,1490,126,28,0,290,1840,10,0,0,,87,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,Biscuits,,1210,55,33,0,0,3520,143,0,11,,22,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Coleslaw, Family",,1660,135,23,0,115,1580,105,15,83,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Coleslaw, Party",,1880,154,26,0,130,1790,119,17,94,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Coleslaw, Single",,280,23,4,0,20,260,18,3,14,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Corn, Family",,770,4,0,0,0,0,162,15,23,,23,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Corn, Party",,1550,8,0,0,0,0,324,31,46,,46,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Corn, Single",,180,1,0,0,0,0,38,4,5,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"French Fries, Single",,550,34,7,0,0,820,58,3,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Green Beans, Family",,250,2,0,0,0,5,55,22,26,,13,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Green Beans, Party",,490,4,1,0,0,15,111,45,51,,27,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Green Beans, Single",,60,0,0,0,0,0,13,5,6,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mac & Cheese, Family",,1100,57,14,1,40,4380,127,4,20,,20,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mac & Cheese, Single",,180,9,3,0,<5,730,21,1,3,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes with Gravy, Family",,1520,41,8,1,25,12150,238,8,6,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes with Gravy, Party",,3590,97,20,2,60,28220,563,21,14,,27,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes with Gravy, Single",,250,7,2,0,<5,1860,39,2,1,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes without Gravy, Family",,690,24,8,1,25,2560,106,8,6,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes without Gravy, Party",,1700,59,20,2,60,6300,261,21,14,,27,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Mashed Potatoes without Gravy, Single",,130,5,2,0,<5,490,20,2,1,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Ranch Chips, Single",,270,18,3,0,0,120,24,1,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Ranch Potato Wedges, Single",,610,34,7,0,0,1250,68,8,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sides,"Waffle Fries, Single",,440,35,5,0,0,610,36,2,2,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,1000 Island Dressing Pouch,,190,18,3,0,20,350,6,0,6,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Blue Cheese Dressing Pouch,,230,21,4,0,15,320,2,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Caesar Dressing Pouch,,160,16,3,0,20,440,3,0,2,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Chef Salad,,430,17,6,0,195,3190,14,3,7,,56,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Chicken Fiesta Salad,,180,7,3,0,70,800,9,3,5,,21,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Fat Free French Dressing Pouch,,50,0,0,0,0,470,12,1,10,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Fat Free Ranch Dressing Pouch,,40,0,0,0,0,520,10,1,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Garden Salad,,90,5,3,0,15,130,7,3,4,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Italian Chop Salad with Italian Herb Vinaigrette,,780,63,15,0,40,2170,28,5,6,,19,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Lite Italian Dressing Pouch,,60,5,1,0,0,310,3,0,3,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Ranch Dressing Pouch,,190,20,3,0,15,270,2,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salads,Taco Salad,,640,36,13,0.5,80,1510,51,6,7,,25,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, 1000 Island",,110,10,2,0,<5,280,5,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, 1000 Island Dressing Pouch",,190,18,3,0,20,350,6,0,6,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Baby Carrots",,5,0,0,0,0,15,2,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Bacon Bits",,30,1,0,0,0,120,2,0,0,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Bacon Diced",,240,16,8,0,80,850,0,0,0,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Banana Peppers",,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Black Olives",,15,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Blue Cheese Dressing Pouch",,230,21,4,0,15,320,2,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Broccoli",,30,0,0,0,0,15,5,3,1,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Buttermilk Ranch",,140,15,3,0,<5,290,2,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Caesar Dressing Pouch",,160,16,3,0,20,440,3,0,2,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Cauliflower",,15,0,0,0,0,15,3,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Celery Sticks",,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Cheddar Cheese",,30,3,2,0,<5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Cherry Tomatoes",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Chopped Lettuce",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Classic Pepperoni",,280,26,11,0,65,1060,0,0,0,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Croutons",,15,1,0,0,0,45,3,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Cucumbers",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Dorothy Lynch Dressing",,100,7,1,0,0,120,9,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Fat Free French Dressing Pouch",,50,0,0,0,0,470,12,1,10,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Fat Free Ranch Dressing Pouch",,40,0,0,0,0,520,10,1,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, French",,140,11,2,0,0,340,11,0,10,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Fresh Mushrooms",,10,0,0,0,0,0,1,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Grape Tomatoes",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Green Olives",,15,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Green Peas",,30,0,0,0,0,0,2,0,2,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Green Peppers",,10,0,0,0,0,0,3,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Hard Boiled Eggs",,80,5,2,0,230,75,2,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Jalapenos",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Lite Italian Dressing Pouch",,60,5,1,0,0,310,3,0,3,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Pickled Beets",,15,0,0,0,0,85,5,1,3,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Pickled Herring",,90,4,1,0,30,640,7,1,5,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Pulled Chicken",,140,9,3,0,65,320,3,0,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Radish",,10,0,0,0,0,20,2,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Raisins",,25,0,0,0,0,0,7,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Ranch Dressing Pouch",,190,20,3,0,15,270,2,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Red Bell Peppers",,20,0,0,0,0,0,3,1,2,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Red Onions",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Romaine Chopped",,10,0,0,0,0,0,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Shredded Lettuce",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Spinach",,5,0,0,0,0,25,1,1,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Spring Mix",,10,0,0,0,0,15,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Sunflower Seeds",,50,5,1,0,0,40,2,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Create Your Own Salad,"Create Your Own Salad, Taco Chips",,25,1,0,0,0,30,3,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Pasta,Pasta Dinner,,880,42,9,0,10,1380,108,12,9,,19,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Pasta,"Pasta with Marinara, Family",,1030,40,6,0,0,1550,150,19,13,,23,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Pasta,"Pasta with Marinara, Single",,220,9,2,0,0,590,32,6,5,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Boxes, 8 Pieces",,1310,75,19,0,640,3310,28,3,8,,130,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Boxes, 12 Pieces",,1960,113,28,0.5,955,4970,42,5,12,,196,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner, 2 Pieces - Breast, Leg",,360,18,4.5,0,180,960,7,1,3,,42,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner, 2 Pieces - Breast, Wing",,360,19,4.5,0,165,950,8,1,2,,39,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner, 2 Pieces - Thigh, Leg",,300,19,5,0,155,710,6,1,2,,26,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner, 4 Pieces - Breast, Wing",,710,37,9,0,330,1900,16,2,4,,78,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner, 4 Pieces - Thigh, Leg",,600,38,10,0,310,1410,12,1,4,,53,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Biscuit",,200,9,6,0,0,590,24,0,2,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Corn",,180,1,0,0,0,0,38,4,5,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, French Fries",,550,34,7,0,0,820,58,3,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Green Beans",,60,0,0,0,0,0,13,5,6,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Mashed Potatoes & Gravy",,250,7,2,0,<5,1860,39,2,1,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Mashed Potatoes without Gravy",,130,5,2,0,<5,490,20,2,1,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Ranch Chips",,270,18,3,0,0,120,24,1,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Ranch Wedges",,610,34,7,0,0,1250,68,8,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,The Country's Best Chicken,"Chicken Dinner Side, Waffle Fries",,440,35,5,0,0,610,36,2,2,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,BBQ Sauce,,100,0,0,0,0,650,24,2,16,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Buffalo Sauce,,0,0,0,0,0,1590,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Chicken Dipper Sauce,,240,22,3,0,20,560,12,0,10,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Garlic Parmesan Sauce,,150,15,2,0,0,830,4,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Mango Habanero Sauce,,170,0,0,0,0,300,20,0,20,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Nashville Hot Sauce,,170,15,2,0,0,530,10,2,9,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Sesame Sauce,,160,8,1,0,0,620,23,0,19,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Sweet Chili Sauce,,120,0,0,0,0,600,30,0,27,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Sauces,Sweet Teriyaki Sauce,,90,0,0,0,0,950,27,0,24,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Apple Dessert Pizza, Large",,160,4,1,0,0,115,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Apple Dessert Pizza, Medium",,160,4,1,0,0,115,29,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Apple Dessert Pizza, Small",,140,3,1,0,0,110,26,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Blueberry Dessert Pizza, Large",,160,4,1,0,0,125,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Blueberry Dessert Pizza, Medium",,160,4,1,0,0,125,30,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Blueberry Dessert Pizza, Small",,140,3,1,0,0,110,27,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cactus Bread, Large",,190,6,2,0,0,150,31,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cactus Bread, Medium",,190,6,2,0,0,150,32,1,11,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cactus Bread, Small",,180,5,2,0,0,140,30,1,11,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cherry Dessert Pizza, Large",,160,4,1,0,0,125,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cherry Dessert Pizza, Medium",,170,4,1,0,0,125,30,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,"Cherry Dessert Pizza, Small",,140,3,1,0,0,110,27,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert,Chocolate Chip Cookie,,160,8,5,0,<5,110,23,0,15,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Bacon",,160,14,5,0,40,500,0,0,0,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Belgian Waffle",,180,6,1,0,35,370,27,1,6,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Biscuit",,200,9,6,0,0,590,24,0,2,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Egg Bake Casserole",,210,15,7,0,260,590,4,0,0,,14,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, French Toast Sticks",,300,14,3,0,0,390,39,1,8,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Sausage Gravy",,60,3.5,1.5,0,<5,250,4,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Sausage Links",,200,18,6,0,40,320,2,0,0,,6,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Scrambled Eggs",,120,8,2.5,0,255,350,3,0,0,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Brunch Bar,"Brunch Bar, Syrup",,350,0,0,0,0,160,87,0,48,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken, Boneless",,120,7,1,0,10,260,9,0,2,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken, Traditional",,120,8,2,0,20,230,3,0,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken Breast",,330,13,4,0,125,1120,20,2,12,,33,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken Drumstick",,150,5,1,0,55,610,16,1,10,,12,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken Thigh",,270,14,4,0,100,870,19,1,11,,17,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, BBQ Chicken Wing",,150,5,2,0,40,610,17,1,10,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Biscuit",,200,9,6,0,0,590,24,0,2,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Breadstick",,230,16,3,0,0,360,17,1,1,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Broasted Chicken Chicken Breast",,270,13,4,0,125,730,5,1,2,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Broasted Chicken Chicken Drumstick",,90,5,1,0,55,220,2,0,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Broasted Chicken Chicken Thigh",,210,14,4,0,100,480,4,1,1,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Broasted Chicken Chicken Wing",,90,5,2,0,40,220,3,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Broccoli Cheese Soup",,80,3,2,0,<5,350,10,1,3,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken, Boneless",,100,7,1,0,10,370,6,0,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken, Traditional",,110,8,2,0,20,350,0,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken Breast",,270,13,4,0,125,1530,5,1,2,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken Drumstick",,90,5,1,0,55,1020,2,0,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken Thigh",,210,14,4,0,100,1280,4,1,1,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Buffalo Chicken Wing",,90,5,2,0,40,1010,3,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Cajun Corn",,70,4,2,0,10,100,9,1,1,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Cheesy Mashed Potatoes",,100,5,2,0,10,320,11,1,1,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken, Wings Boneless",,100,7,0,0,10,180,6,0,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken, Wings Traditional",,110,8,2,0,20,150,0,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken Fries",,45,4,1,0,<5,90,2,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken Gravy",,30,1,0,0,0,330,5,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken Noodle Soup",,35,1,0,0,10,400,5,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chicken Tortilla Soup",,60,3,1,0,10,660,7,0,1,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Chili with Beans",,110,5,2,0,20,410,11,3,4,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Corn",,90,0,0,0,0,0,19,2,3,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, French Fries",,170,10,2,0,0,260,19,1,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Fried Pollock",,100,6,1,0,15,200,7,0,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken, Boneless",,120,9,1,0,10,280,6,0,0,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken, Traditional",,120,10,2,0,20,250,1,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken Breast",,360,22,5,0,125,1230,7,1,2,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken Drumstick",,180,14,2,0,55,720,4,0,1,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken Thigh",,300,23,5,0,100,980,7,1,1,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Garlic Parmesan Chicken Wing",,180,14,3,0,40,720,5,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Green Bean Casserole",,90,3,1,0,<5,430,14,4,4,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Green Beans",,20,0,0,0,0,0,5,2,2,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Green Peas",,60,0,0,0,0,60,11,4,4,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mac & Cheese",,80,4,1,0,<5,310,9,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken, Boneless",,130,7,1,0,10,210,8,0,3,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken, Traditional",,130,8,2,0,20,190,3,0,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken Breast",,370,13,4,0,125,910,17,1,14,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken Drumstick",,190,5,1,0,55,400,14,0,13,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken Thigh",,310,14,4,0,100,660,16,1,13,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mango Habanero Chicken Wing",,190,5,2,0,40,400,15,0,12,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Mashed Potatoes",,80,3,1,0,<5,300,12,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken, Boneless",,130,9,1,0,10,240,7,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken, Traditional",,130,10,2,0,20,220,1,0,1,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken Breast",,370,22,5,0,125,1050,11,2,7,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken Drumstick",,190,14,2,0,60,540,8,1,6,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken Thigh",,310,23,5,0,100,800,10,2,6,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Nashville Hot Chicken Wing",,190,14,3,0,40,540,9,1,5,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Ranch Chips",,200,14,2,0,0,90,18,1,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Ranch Potato Wedge",,80,5,1,0,0,170,9,1,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Rotini Pasta",,100,4,1,0,0,40,15,1,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken, Boneless",,130,8,1,0,10,250,8,0,2,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken, Traditional",,130,9,2,0,20,230,3,0,2,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken Breast",,400,20,4,0,125,1230,23,1,18,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken Drumstick",,220,11,2,0,55,710,20,0,16,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken Thigh",,340,21,5,0,100,980,23,1,17,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sesame Chicken Wing",,220,12,2,0,40,710,21,0,16,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Stuffing",,150,6,1,0,0,540,23,1,2,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken, Boneless",,120,7,0,0,10,250,9,0,3,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken, Traditional",,120,8,2,0,20,220,4,0,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken Breast",,340,13,4,0,125,1090,23,1,18,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken Drumstick",,160,5,1,0,55,580,19,0,17,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken Thigh",,280,14,4,0,100,840,22,1,17,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Chili Chicken Wing",,160,5,2,0,40,580,21,0,16,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Marinara Sauce",,45,2.5,0,0,0,280,6,2,2,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken, Boneless",,120,7,1,0,10,300,9,0,3,,5,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken, Traditional",,120,8,2,0,20,270,3,0,3,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken Breast",,320,13,4,0,125,1310,21,1,16,,32,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken Drumstick",,140,5,1,0,55,790,18,0,15,,11,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken Thigh",,260,14,4,0,100,1060,21,1,16,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Sweet Teriyaki Chicken Wing",,140,5,2,0,40,790,19,0,14,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Hot Bar,"Hot Bar, Waffle Fries",,140,11,2,0,0,190,11,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, 1000 Island Dressing",,110,10,2,0,<5,280,5,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, 1000 Island Dressing Pouch",,190,18,3,0,20,350,6,0,6,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Applesauce",,45,0,0,0,0,0,12,2,9,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Baby Carrots",,5,0,0,0,0,15,2,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Bacon Bits",,30,1,0,0,0,120,2,0,0,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Bacon Diced",,240,16,8,0,80,850,0,0,0,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Banana Peppers",,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Black Olives",,15,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Blue Cheese Dressing Pouch",,230,21,4,0,15,320,2,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Broccoli",,30,0,0,0,0,15,5,3,1,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Buttermilk Ranch Dressing",,140,15,3,0,<5,290,2,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Butter Packets",,35,4,3,0,10,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Caesar Dressing Pouch",,160,16,3,0,20,440,3,0,2,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cauliflower",,15,0,0,0,0,15,3,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Celery Sticks",,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cheddar Cheese",,30,3,2,0,<5,45,0,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cherry Jello",,35,0,0,0,0,45,9,0,9,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cherry Tomatoes",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Chocolate Pudding",,60,2,0,0,0,95,12,1,8,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Chopped Lettuce",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Chow Mein Noodles",,35,2,0,0,0,65,5,1,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Churn Spread",,30,4,1,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Classic Pepperoni",,280,26,11,0,65,1060,0,0,0,,9,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Club Crackers",,35,2,0,0,0,65,5,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Coleslaw",,110,9,2,0,10,105,7,1,6,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cottage Cheese",,90,3,2,0,15,460,4,0,4,,14,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Croutons",,15,1,0,0,0,45,3,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Cucumbers",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Dill Pickle Spears",,0,0,0,0,0,290,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Dorothy Lynch Dressing",,100,7,1,0,0,120,9,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Fat Free French Dressing Pouch",,50,0,0,0,0,470,12,1,10,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Fat Free Ranch Dressing Pouch",,40,0,0,0,0,520,10,1,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, French Dressing",,140,11,2,0,0,340,11,0,10,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Fresh Mushrooms",,10,0,0,0,0,0,1,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Grapes",,50,0,0,0,0,0,14,1,12,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Grape Tomatoes",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Green Olives",,15,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Green Peas",,30,0,0,0,0,0,2,0,2,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Green Peppers",,10,0,0,0,0,0,3,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Hard Boiled Eggs",,80,5,2,0,230,75,2,0,0,,7,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Italian Chop Salad without Dressing",,70,4.5,2,0,10,270,2,1,1,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Jalapenos",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Lite Italian Dressing Pouch",,60,5,1,0,0,310,3,0,3,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Macaroni Salad",,120,6,1,0,10,270,13,0,6,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Mandarin Oranges in Light Syrup",,80,0,0,0,0,10,21,1,20,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Orange Jello",,35,0,0,0,0,45,9,0,9,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Peaches in Light Syrup",,80,0,0,0,0,0,20,1,19,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Pears in Light Syrup",,60,0,0,0,0,10,14,2,12,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Pickled Beets",,15,0,0,0,0,85,5,1,3,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Pickled Herring",,90,4,1,0,30,640,7,1,5,,8,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Pineapple Tidbits",,70,0,0,0,0,25,17,1,15,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Potato Salad",,90,0.5,1,0,<5,180,14,1,5,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Pulled Chicken",,140,9,3,0,65,320,3,0,1,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Radish",,10,0,0,0,0,20,2,1,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Raisins",,25,0,0,0,0,0,7,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Ranch Dressing Pouch",,190,20,3,0,15,270,2,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Red Bell Peppers",,20,0,0,0,0,0,3,1,2,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Red Onions",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Romaine Chopped",,10,0,0,0,0,0,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Shredded Lettuce",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Sour Cream",,60,5,3,0,20,15,2,0,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Spinach",,5,0,0,0,0,25,1,1,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Spring Mix",,10,0,0,0,0,15,2,1,1,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Strawberry Low Fat Yogurt",,90,0,0,0,0,65,20,0,15,,4,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Sunflower Seeds",,50,5,1,0,0,40,2,0,0,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Taco Chips",,25,1,0,0,0,30,3,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Vanilla Pudding",,60,2,0,0,0,105,13,0,8,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Watermelon",,25,0,0,0,0,0,6,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Salad Bar,"Salad Bar, Zesta Crackers",,25,1,0,0,0,60,5,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Apple Dessert Pizza, Large Slice",,160,4,1,0,0,115,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Apple Dessert Pizza, Medium Slice",,160,4,1,0,0,115,29,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Apple Dessert Pizza, Small Slice",,140,3,1,0,0,105,26,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Blueberry Dessert Pizza, Large Slice",,160,4,1,0,0,125,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Blueberry Dessert Pizza, Medium Slice",,160,4,1,0,0,125,30,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Blueberry Dessert Pizza, Small Slice",,140,3,1,0,0,110,27,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cactus Bread, Large Slice",,190,6,2,0,0,150,31,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cactus Bread, Medium Slice",,190,6,2,0,0,150,32,1,11,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cactus Bread, Small Slice",,180,5,2,0,0,140,30,1,12,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cherry Dessert Pizza, Large Slice",,160,4,1,0,0,125,29,1,9,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cherry Dessert Pizza, Medium Slice",,170,4,1,0,0,125,30,1,10,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Cherry Dessert Pizza, Small Slice",,140,3,1,0,0,110,27,1,8,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Chocolate Chip Cookie",,160,8,5,0,<5,110,23,0,15,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Soft Serve Ice Cream, Chocolate",,130,5,3,0,20,90,20,1,17,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Dessert Bar,"Dessert Bar, Soft Serve Ice Cream, Vanilla",,130,5,3,0,20,85,19,0,17,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Chocolate Milk, Glass",,290,6,4,0,35,410,43,0,41,,18,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Chocolate Milk, Kid Cup",,160,3,2,0,20,230,24,0,23,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Chocolate Milk, To-Go Cup, 16 fl oz",,260,5,3,0,30,360,38,0,36,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Chocolate Milk, To-Go Cup, 21 fl oz",,340,7,4,0,40,470,50,0,47,,21,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Milk, Glass",,230,5,4,0,25,240,27,0,27,,19,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Milk, Kid Cup",,130,3,2,0,15,135,15,0,15,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Milk, To-Go Cup, 16 fl oz",,200,5,3,0,25,210,24,0,24,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"1% Milk, To-Go Cup, 21 fl oz",,270,6,4,0,30,280,32,0,32,,22,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"2% Milk, Glass",,280,11,7,0,45,260,27,0,27,,18,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"2% Milk, Kid Cup",,150,6,4,0,25,140,15,0,15,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"2% Milk, To-Go Cup, 16 fl oz",,250,10,6,0,40,230,24,0,24,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"2% Milk, To-Go Cup, 21 fl oz",,320,13,8,0.5,50,300,31,0,31,,21,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aguas Frescas Mango Lime, Glass",,180,0,0,0,0,0,36,0,36,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aguas Frescas Mango Lime, Kid Cup",,100,0,0,0,0,0,20,0,20,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aguas Frescas Mango Lime, To-Go Cup, 16 fl oz",,160,0,0,0,0,0,32,0,32,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aguas Frescas Mango Lime, To-Go Cup, 21 fl oz",,210,0,0,0,0,0,42,0,42,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aha Blueberry & Pomegranate Sparkling Water, Glass",,0,0,0,0,0,60,36,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aha Blueberry & Pomegranate Sparkling Water, Kid Cup",,0,0,0,0,0,35,20,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aha Blueberry & Pomegranate Sparkling Water, To-Go Cup, 16 fl oz",,0,0,0,0,0,55,32,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Aha Blueberry & Pomegranate Sparkling Water, To-Go Cup, 21 fl oz",,0,0,0,0,0,70,42,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Barq's Root Beer, Glass",,260,0,0,0,0,100,66,0,66,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Barq's Root Beer, Kid Cup",,140,0,0,0,0,55,37,0,37,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Barq's Root Beer, To-Go Cup, 16 fl oz",,230,0,0,0,0,85,59,0,59,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Barq's Root Beer, To-Go Cup, 21 fl oz",,300,0,0,0,0,115,77,0,77,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Caffeine Free Diet Coke, Glass",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Caffeine Free Diet Coke, Kid Cup",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Caffeine Free Diet Coke, To-Go Cup, 16 fl oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Caffeine Free Diet Coke, To-Go Cup, 21 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Cherry Coke, Glass",,240,0,0,0,0,60,62,0,62,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Cherry Coke, Kid Cup",,130,0,0,0,0,35,35,0,35,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Cherry Coke, To-Go Cup, 16 fl oz",,210,0,0,0,0,55,55,0,55,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Cherry Coke, To-Go Cup, 21 fl oz",,280,0,0,0,0,70,73,0,73,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Classic, Glass",,220,0,0,0,0,70,60,0,60,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Classic, Kid Cup",,120,0,0,0,0,40,33,0,33,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Classic, To-Go Cup, 16 fl oz",,190,0,0,0,0,65,53,0,53,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Classic, To-Go Cup, 21 fl oz",,250,0,0,0,0,85,70,0,70,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Zero, Glass",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Zero, Kid Cup",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Zero, To-Go Cup, 16 fl oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Coke Zero, To-Go Cup, 21 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,Decaf Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Diet Coke, Glass",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Diet Coke, Kid Cup",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Diet Coke, To-Go Cup, 16 fl oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Diet Coke, To-Go Cup, 21 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Dr. Pepper, Glass",,230,0,0,0,0,90,59,0,58,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Dr. Pepper, Kid Cup",,130,0,0,0,0,50,33,0,32,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Dr. Pepper, To-Go Cup, 16 fl oz",,200,0,0,0,0,80,53,0,51,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Dr. Pepper, To-Go Cup, 21 fl oz",,260,0,0,0,0,105,69,0,67,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fresca, Glass",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fresca, Kid Cup",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fresca, To-Go Cup, 16 fl oz",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fresca, To-Go Cup, 21 fl oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Raspberry Iced Tea, Glass",,200,0,0,0,0,0,52,0,50,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Raspberry Iced Tea, Kid Cup",,110,0,0,0,0,0,29,0,28,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Raspberry Iced Tea, To-Go Cup, 16 fl oz",,180,0,0,0,0,0,46,0,44,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Raspberry Iced Tea, To-Go Cup, 21 fl oz",,240,0,0,0,0,0,60,0,58,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Sweet Iced Tea, Glass",,150,0,0,0,0,170,39,0,38,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Sweet Iced Tea, Kid Cup",,80,0,0,0,0,95,22,0,21,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Sweet Iced Tea, To-Go Cup, 16 fl oz",,130,0,0,0,0,150,35,0,33,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Sweet Iced Tea, To-Go Cup, 21 fl oz",,180,0,0,0,0,200,46,0,44,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Unsweet Iced Tea, Glass",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Unsweet Iced Tea, Kid Cup",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Unsweet Iced Tea, To-Go Cup, 16 fl oz",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Fuze Unsweet Iced Tea, To-Go Cup, 21 fl oz",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Southern Sweet Tea, Glass",,240,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Southern Sweet Tea, Kid Cup",,130,0,0,0,0,30,26,0,26,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Southern Sweet Tea, To-Go Cup, 16 fl oz",,210,0,0,0,0,45,41,0,41,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Southern Sweet Tea, To-Go Cup, 21 fl oz",,280,0,0,0,0,60,54,0,54,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Sweet Green Iced Tea, Glass",,150,0,0,0,0,0,37,0,37,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Sweet Green Iced Tea, Kid Cup",,80,0,0,0,0,0,21,0,21,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Sweet Green Iced Tea, To-Go Cup, 16 fl oz",,130,0,0,0,0,0,33,0,33,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Gold Peak Sweet Green Iced Tea, To-Go Cup, 21 fl oz",,170,0,0,0,0,0,43,0,43,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,Hazelnut Coffee,,5,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Fruit Punch, Glass",,120,0,0,0,0,45,33,0,30,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Fruit Punch, Kid Cup",,70,0,0,0,0,25,18,0,17,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Fruit Punch, To-Go Cup, 16 fl oz",,110,0,0,0,0,40,29,0,27,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Fruit Punch, To-Go Cup, 21 fl oz",,140,0,0,0,0,55,39,0,35,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Pink Lemonade, Glass",,230,0,0,0,0,100,61,0,56,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Pink Lemonade, Kid Cup",,130,0,0,0,0,55,34,0,31,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Pink Lemonade, To-Go Cup, 16 fl oz",,200,0,0,0,0,90,54,0,50,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Hi-C Pink Lemonade, To-Go Cup, 21 fl oz",,260,0,0,0,0,120,71,0,66,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mello Yello, Glass",,260,0,0,0,0,70,70,0,70,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mello Yello, Kid Cup",,150,0,0,0,0,40,39,0,39,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mello Yello, To-Go Cup, 16 fl oz",,230,0,0,0,0,65,62,0,62,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mello Yello, To-Go Cup, 21 fl oz",,300,0,0,0,0,85,82,0,82,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Lemonade, Glass",,250,0,0,0,0,30,65,0,63,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Lemonade, Kid Cup",,140,0,0,0,0,20,36,0,35,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Lemonade, To-Go Cup, 16 fl oz",,220,0,0,0,0,30,58,0,56,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Lemonade, To-Go Cup, 21 fl oz",,290,0,0,0,0,40,76,0,74,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Light Lemonade, Glass",,35,0,0,0,0,35,9,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Light Lemonade, Kid Cup",,20,0,0,0,0,20,5,0,3,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Light Lemonade, To-Go Cup, 16 fl oz",,30,0,0,0,0,30,8,0,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Minute Maid Light Lemonade, To-Go Cup, 21 fl oz",,40,0,0,0,0,40,11,0,5,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mountain Blast Powerade, Glass",,120,0,0,0,0,230,32,0,32,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mountain Blast Powerade, Kid Cup",,70,0,0,0,0,125,18,0,18,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mountain Blast Powerade, To-Go Cup, 16 fl oz",,110,0,0,0,0,200,28,0,28,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Mountain Blast Powerade, To-Go Cup, 21 fl oz",,140,0,0,0,0,260,37,0,37,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Orange Fanta, Glass",,240,0,0,0,0,80,66,0,66,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Orange Fanta, Kid Cup",,140,0,0,0,0,45,37,0,37,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Orange Fanta, To-Go Cup, 16 fl oz",,220,0,0,0,0,70,58,0,58,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Orange Fanta, To-Go Cup, 21 fl oz",,280,0,0,0,0,95,77,0,77,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Pibb Xtra, Glass",,210,0,0,0,0,60,57,0,57,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Pibb Xtra, Kid Cup",,120,0,0,0,0,35,32,0,32,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Pibb Xtra, To-Go Cup, 16 fl oz",,190,0,0,0,0,55,51,0,51,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Pibb Xtra, To-Go Cup, 21 fl oz",,250,0,0,0,0,70,67,0,67,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,Regular Coffee,,5,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Skim Chocolate Milk, Glass",,270,0,0,0,10,450,45,0,43,,18,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Skim Chocolate Milk, Kid Cup",,150,0,0,0,<5,250,25,0,24,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Skim Chocolate Milk, To-Go Cup, 16 fl oz",,240,0,0,0,10,400,40,0,38,,16,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Skim Chocolate Milk, To-Go Cup, 21 fl oz",,320,0,0,0,15,530,53,0,50,,21,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite, Glass",,240,0,0,0,0,55,60,0,53,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite, Kid Cup",,130,0,0,0,0,30,34,0,30,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite, To-Go Cup, 16 fl oz",,210,0,0,0,0,50,54,0,47,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite, To-Go Cup, 21 fl oz",,280,0,0,0,0,60,70,0,62,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite Zero, Glass",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite Zero, Kid Cup",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite Zero, To-Go Cup, 16 fl oz",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Sprite Zero, To-Go Cup, 21 fl oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Strawberry Fanta, Glass",,240,0,0,0,0,70,68,0,67,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Strawberry Fanta, Kid Cup",,140,0,0,0,0,40,38,0,37,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Strawberry Fanta, To-Go Cup, 16 fl oz",,220,0,0,0,0,65,60,0,59,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Strawberry Fanta, To-Go Cup, 21 fl oz",,280,0,0,0,0,85,79,0,78,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Vitamin Water XXX Zero, Glass",,0,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Vitamin Water XXX Zero, Kid Cup",,0,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Vitamin Water XXX Zero, To-Go Cup, 16 fl oz",,0,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Vitamin Water XXX Zero, To-Go Cup, 21 fl oz",,0,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Whole Milk, Glass",,330,18,10,0,55,240,26,0,26,,17,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Whole Milk, Kid Cup",,190,10,6,0,30,130,15,0,15,,10,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Whole Milk, To-Go Cup, 16 fl oz",,300,16,9,0,50,210,23,0,23,,15,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beverages,"Whole Milk, To-Go Cup, 21 fl oz",,390,21,12,0,65,280,31,0,31,,20,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Alaskan Amber,,190,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Blue Moon,,170,0,0,0,0,15,14,0,11,,2,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Budweiser,,150,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Budweiser Light,,110,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Busch Light,,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Citradelic Tangerine IPA,,180,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Coors Banquet,,150,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Coors Light,,100,0,0,0,0,10,5,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Corona,,150,0,0,0,0,15,14,0,4,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Leinenkugel,,150,0,0,0,0,15,15,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Michelob Golden,,120,0,0,0,0,10,7,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Michelob Ultra,,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Miller Lite,,100,0,0,0,0,5,3,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Pabst Blue Ribbon,,140,0,0,0,0,10,12,0,4,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Redd's Apple Ale,,170,0,0,0,0,20,17,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Sam Adam's Lager,,180,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Sam Adam's Seasonal,,200,0,0,0,0,0,18,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Shiner Bock,,140,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,Smirnoff Ice Original,,230,5,0,0,0,0,32,0,0,,3,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,West O Pilsner,,180,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Beer,West O Red Ale,,200,0,0,0,0,0,15,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wine,Cabernet Sauvignon,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wine,Chardonnay,,120,0,0,0,0,5,3,0,1,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27
+pizzaranch,Wine,Pinot Grigio,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/pizza-ranch/menu/premium,2026-10-27

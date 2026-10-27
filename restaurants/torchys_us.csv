@@ -1,0 +1,105 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+torchys,Tortillas,Burrito Tortilla,,400,13,6,0,0,1230,61,2,3,,8,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Tortillas,Corn Tortilla,,80,1,0,0,0,115,15,1,0,,2,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Tortillas,Flour Tortilla,,100,3,2,0,0,290,15,0,1,,2,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,Chips 4.5 oz,,150,6,0,0,0,0,20,0,0,,2,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Green Chile Queso & Chips, 4 oz Queso & 4.5 oz Chips",,440,30,13,0,60,1230,27,2,4,,13,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Green Chile Queso & Chips, 8 oz Queso & 4.5 oz Chips",,640,46,24,0,115,2150,32,2,7,,21,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Guacamole & Chips, 4 oz Guacamole & 4.5 oz Chips",,290,20,2,0,0,370,22,6,1,,4,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Guacamole & Chips, 8 oz Guacamole & 4.5 oz Chips",,420,33,4,0,0,750,23,11,2,,6,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Hillbilly Queso & Chips, 4 oz Queso & 4.5 oz Chips",,520,37,15,0,80,1450,29,2,4,,16,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Hillbilly Queso & Chips, 8 oz Queso & 4.5 oz Chips",,880,59,26,0,130,2370,53,2,7,,27,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Roja Sauce & Chips, 4 oz Sauce & 4.5 oz Chips",,180,7,0,0,0,510,27,1,3,,3,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Roja Sauce & Chips, 8 oz Sauce & 4.5 oz Chips",,210,8,0,0,0,1020,33,3,6,,5,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Threesome with Roja, 6 oz Chips",,640,39,13,0,55,1690,38,7,6,,15,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Threesome with Tomatilllo, 6 oz Chips",,660,40,13,0,55,1710,40,7,7,,15,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Tomatillo Sauce & Chips, 4oz Sauce & 4.5 oz Chips",,200,8,0,0,0,520,28,2,4,,4,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chips & Dips,"Tomatillo Sauce & Chips, 8oz Sauce & 4.5 oz Chips",,240,9,0,0,0,1050,36,4,7,,5,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,Damn Good Tots,,680,42,12,0,60,1960,44,5,1,,19,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,Half Damn Good Tots,,320,21,6,0,30,960,21,2,1,,9,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,"Half Street Corn, 4 oz",,240,13,2,0,10,920,29,6,6,,6,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,"Refried Pinto Beans, 8 oz.",,200,1,0,0,0,260,35,8,2,,12,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,"Rice & Beans Combo, 8 oz",,230,3,1,0,<5,440,42,5,3,,9,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,"Street Corn, 8 oz",,430,26,5,0,25,1550,51,7,10,,10,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sides,"Torchy's Mexican Rice, 8 oz.",,240,3,0,0,0,530,48,2,4,,5,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chicken Tacos,Brushfire on Flour with Side of Diablo Sauce,,300,14,5,0,75,1060,25,1,7,,18,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chicken Tacos,Chicken Fajita on Flour with Tomatillo Sauce,,350,21,7,0,80,750,20,1,4,,20,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chicken Tacos,Tipsy Chick on Flour with Chipotle & Side of Bacon Marmalade,,450,22,8,0,90,1030,40,1,18,,22,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chicken Tacos,Trailer Park on Flour with Poblano Sauce,,300,15,6,0,65,850,22,1,3,,17,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Chicken Tacos,Trailer Park Trashy on Flour with Poblano Sauce,,360,20,9,0,80,1110,23,1,3,,19,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Beef Tacos,Crossroads on Corn with Tomatillo Sauce,,350,22,9,0,65,780,18,2,2,,20,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Beef Tacos,Democrat on Corn with Tomatillo,,170,5,2,0,5,890,20,3,1,,10,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Beef Tacos,Republican on Flour with Chipotle Sauce & BBQ Sauce,,470,29,11,1,50,1260,35,1,3,,16,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Beef Tacos,Steak Fajita on Flour with Roja Sauce,,410,26,10,0,60,730,20,1,4,,20,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Pork Tacos,Green Chile Pork on Corn with Tomatillo Sauce,,240,10,4,0,30,720,26,3,5,,11,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Pork Tacos,Hogfather on Flour with a Side of Diablo,,450,25,9,0,60,2010,32,1,11,,20,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Veggie Tacos,Fo Sho on Corn with a Side of Diablo Sauce,,350,20,5,0,0,760,39,4,4,,5,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Veggie Tacos,Fresh Avocado on Corn with Poblano Sauce,,250,14,4,0,20,430,24,4,2,,8,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Veggie Tacos,Fried Avocado on Corn with Poblano Sauce,,270,14,5,0,30,540,27,4,3,,9,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Shrimp & Salmon Tacos,Baja Shrimp on Corn with Chipotle Sauce,,270,14,3,0,85,700,24,3,3,,12,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Shrimp & Salmon Tacos,Grilled Baja on Corn with Chipotle Sauce,,170,12,3,0,70,400,6,1,2,,9,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Shrimp & Salmon Tacos,Mr. Orange on Corn with Avocado Sauce,,240,10,3,0,5,710,23,3,2,,14,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,"#1 Bacon, Egg & Cheese on Flour with Roja Sauce",,380,25,10,0,255,1030,17,0,2,,21,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,"#2 Crispy Potatos, Egg & Cheese on Flour with Roja Sauce",,380,22,10,0,340,740,25,1,2,,18,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,"#3 Chorizo, Egg & Cheese on Flour with Roja Sauce",,390,26,10,0,285,910,19,0,3,,19,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,Breakfast Burrito,,1140,62,26,0,710,2830,100,7,7,,49,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,Migas on Flour with Tomatillo Sauce,,380,23,8,0,280,940,27,2,4,,17,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,Ranch Hand on Flour with a Side of Diablo Sauce,,450,31,11,0,290,930,19,0,3,,23,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Breakfast Tacos,The Wrangler on Flour with Tomatillo Sauce,,460,29,11,1,290,1040,24,1,3,,23,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Grande Burrito,Grande Burrito with a Side of Toamtillo & Roja Sauce,,800,35,16,0,50,2230,96,8,9,,23,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Grande Burrito,Grande Burrito with Chicken & a Side of Tomatillo & Roja Sauce,,910,42,17,0,110,2330,97,8,9,,36,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Grande Burrito,Grande Burrito with Pork & a Side of Tomatillo & Roja Sauce,,890,41,18,0,75,2690,98,8,10,,30,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Grande Burrito,Grande Burrito with Steak & a Side of Tomatillo & Roja Sauce,,960,47,20,0,90,2330,97,8,9,,37,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Airstream Salad,"Airstream Salad, with Chipotle & Champagne Vinn",,670,61,10,0,15,1130,22,8,6,,12,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Airstream Salad,Airstream Salad with Chicken with Chipotle & Champagne Vinn,,800,69,11,0,90,1270,23,8,7,,27,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Airstream Salad,Airstream Salad with Salmon with Chipotle & Champagne Vinn,,880,74,13,0,15,1790,25,9,7,,32,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Airstream Salad,Airstream Salad with Steak with Chipotle & Champagne Vinn,,830,74,14,0,60,1230,22,8,7,,25,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sweets,Chocolate Peanut Butter Cookie,,610,37,11,0,25,380,61,4,41,,13,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Sweets,Churros with Dulce,,620,30,30,1,160,220,77,2,37,,10,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Bean & Cheese Taco on Flour,,240,9,5,0,15,490,29,3,1,,10,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Cheese Quesadilla with Sour Cream,,370,26,14,0,65,620,18,5,7,,15,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Chicken Quesadilla with Sour Cream,,490,33,16,0,125,740,19,1,3,,28,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Fried Chicken Taco on Flour,,240,11,5,0,60,580,18,0,1,,16,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Grilled Chicken Taco on Flour,,280,15,6,0,80,510,16,0,1,,19,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Little Wrecker Avocado with Poblano Sauce,,290,22,3,0,10,370,21,6,2,,4,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Little Wrecker Chicken & Avocado with Poblano Sauce,,380,22,3,0,105,650,21,3,2,,23,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Little Wrecker Chicken with Poblano Sauce,,330,18,3,0,150,700,9,0,2,,31,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Kids Menu,Steak Taco on Flour,,330,21,9,0,60,500,16,0,1,,19,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Secret Menu,Green Chile Pork Missionary,,430,24,8,0,45,1270,35,3,4,,16,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Secret Menu,Mad Cow,,420,25,9,1,65,780,26,2,3,,22,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Secret Menu,Matador,,510,29,12,1,70,1510,38,4,4,,23,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Secret Menu,Naughty Santa,,360,23,8,0,100,870,21,2,3,,18,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Secret Menu,Trailer Park Hillbilly Style,,560,36,14,0,125,1820,24,1,4,,31,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Barq's Root Beer,,240,0,0,0,0,75,60,0,60,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Coke,,220,0,0,0,0,55,55,0,55,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Diet Coke,,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Dr. Pepper,,250,0,0,0,0,100,66,0,64,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Fantia Orange,,220,0,0,0,0,55,56,0,55,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Fuze Iced Tea,,80,0,0,0,0,115,22,0,22,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Hic Fruit Punch,,100,0,0,0,0,130,27,0,27,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,"Iced Tea, Sweet",,230,0,0,0,0,20,60,0,59,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,"Iced Tea, Unsweet",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Minute Maid Lemonade,,220,0,0,0,0,135,52,0,52,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Minute Maid Limeade,,90,0,0,0,0,0,25,0,23,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Sprite,,210,0,0,0,0,95,50,0,50,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Torchy's Pucker Up Punch,,250,0,0,0,0,0,65,0,63,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Tractor Famers Punch,,120,0,0,0,0,0,29,0,28,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Tractor Lemonade,,130,0,0,0,0,5,31,1,29,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Tractor Mango,,90,0,0,0,0,0,22,1,21,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Tractor Strawberry Dragon Fruit,,120,0,0,0,0,0,29,0,29,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Fountain Drinks,Vanilla Cream Soda,,160,0,0,0,0,65,45,0,45,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"House Frozen Margarita, Regular 14 oz",,490,0,0,0,0,0,98,0,98,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"House Frozen Margarita, Small 10 oz",,330,0,0,0,0,0,70,0,70,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"House Rocks Margarita, Regular",,320,0,0,0,0,0,36,0,15,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"House Rocks Margarita, Small",,190,0,0,0,0,0,18,0,8,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Keepin' It 100,,240,0,0,0,0,0,23,0,21,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Mexican Candy Margarita,,220,0,0,0,0,30,37,0,34,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Sangria,,180,0,0,0,0,0,16,0,8,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"Sangria Swirl, Regular",,550,0,0,0,0,10,78,0,51,,1,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,"Sangria Swirl, Small",,210,0,0,0,0,5,51,0,34,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Sucker Punch,,190,0,0,0,0,15,22,0,16,,1,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Titos Cherry Limeade,,250,0,0,0,0,20,33,0,25,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Top Shelf Patron,,220,0,0,0,0,0,25,0,21,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Torchy's Paloma,,150,0,0,0,0,210,16,0,15,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Torchy's Tini,,320,1,0,0,0,790,32,1,23,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27
+torchys,Damn Good Drinks,Watermelon Red Bull Margarita,,170,0,0,0,0,30,19,0,16,,0,,,https://www.nutritionix.com/torchys-tacos/menu/premium,2026-10-27

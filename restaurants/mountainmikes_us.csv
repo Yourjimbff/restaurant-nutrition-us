@@ -1,0 +1,420 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+mountainmikes,Appetizers,Chicken Bites,,430,12,2.5,0,120,2320,29,3,3,,51,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Appetizers,"Chicken Wings, Buffalo Style (6)",,260,20,5,0,85,690,2,0,0,,21,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Appetizers,"Chicken Wings, Buffalo Style (10)",,430,33,9,0,140,1150,3,0,0,,35,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Appetizers,Cream Cheese Poppers,,540,36,15,1.5,60,1220,45,11,9,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Appetizers,Jalapeno Poppers,,500,29,11,1.5,40,1790,47,8,8,,14,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Appetizers,Mozzarella Sticks,,720,48,16,0,80,1760,48,0,0,,32,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Breads,Garlic Bread,,470,21,4.5,0,<5,910,59,2,1,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Breads,Garlic Bread with Cheese,,560,28,8,0,25,1090,59,2,1,,18,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Breads,Garlic Not Knots,,200,14,0,0,0,0,15,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Breads,Garlic Sticks,,230,7,1.5,0,0,110,35,1,2,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Breads,Garlic Sticks with Cheese,,270,10,3,0,10,180,35,1,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Desserts,Dessert Pizza,,100,2.5,0.5,0,0,35,16,<1,4,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Side Items,"Potato Chips, KC Masterpiece BBQ",,230,15,4,0,0,300,23,1,4,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Side Items,"Potato Chips, Lays Original",,230,15,4.5,0,0,270,23,2,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll, Bread and Toppings",,290,1,0,0,0,620,60,3,3,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, American Cheese",,100,9,5,0,25,520,0,0,0,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Canadian Bacon",,90,3.5,1.5,0,35,1000,1,0,1,,13,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Chicken Tenders",,360,15,3,0,30,1050,33,2,2,,24,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, LA Sausage",,340,28,12,0,60,1220,4,0,0,,14,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Mozzarella Cheese",,90,6,3.5,0,15,190,1,0,0,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Salami",,350,27,11,0,85,1500,2,0,2,,20,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Smoked Ham",,90,2.5,1,0,30,940,1,0,1,,14,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Cliff Hanger Sandwich Roll Topping, Swiss Cheese",,110,8,5,0,25,60,0,0,0,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll, Bread and Toppings",,430,10,5,0,30,940,60,2,2,,19,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Anchovies",,10,0.5,0,0,<5,290,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Artichokes",,20,1,0,0,0,80,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Beef",,50,4.5,1.5,0,15,15,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Bell Peppers",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Canadian Bacon",,20,1,0,0,10,250,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Fresh Tomato",,10,0,0,0,0,0,2,<1,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Garlic",,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Green Chiles",,0,0,0,0,0,80,<1,<1,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Ham",,15,0,0,0,5,160,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Italian Sausage",,50,4.5,1.5,0,15,160,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Jalapenos",,5,0,0,0,0,130,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, LA Hot Sausage",,60,5,2.5,0,10,230,<1,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Linguica",,60,4.5,1.5,0,15,230,<1,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Mushrooms",,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Olives",,35,3.5,0,0,0,170,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Onions",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Pepperoni",,120,11,4,0,25,490,0,0,0,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Pineapple",,15,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Salami",,45,3.5,1.5,0,10,190,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Sandwiches,"Half Dome Roll Topping, Topping Cheese",,50,3.5,2,0,10,90,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Diet Pepsi,,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Mt Dew,,170,0,0,0,0,75,47,0,47,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Mug Root Beer,,150,0,0,0,0,70,44,0,42,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Pepsi,,150,0,0,0,0,40,41,0,41,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Sierra Mist,,150,0,0,0,0,40,39,0,39,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Beverages,Tropicana Pink Lemonade,,150,0,0,0,0,90,41,0,39,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Anchovies for Multiple Item Large Pizza Slice,,0,0,0,0,<5,170,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Anchovies for Single Item Large Pizza Slice,,5,0,0,0,<5,250,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Artichokes for Multiple Item Large Pizza Slice,,10,0.5,0,0,0,45,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Artichokes for Single Item Large Pizza Slice,,15,1,0,0,0,70,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Bacon Pieces for Multiple Item Large Pizza Slice,,60,4.5,1.5,0,10,150,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Bacon Pieces for Single Item Large Pizza Slice,,90,7,2.5,0,15,230,0,0,0,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Black Olives for Multiple Item Large Pizza Slice,,15,1.5,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Black Olives for Single Item Large Pizza Slice,,20,2,0,0,0,95,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Canadian Bacon for Multiple Item Large Pizza Slice,,10,0,0,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Canadian Bacon for Single Item Large Pizza Slice,,15,0.5,0,0,5,140,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Chicken for Multiple Item Large Pizza Slice,,15,0.5,0,0,5,55,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Chicken for Single Item Large Pizza Slice,,20,1,0,0,10,80,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Garlic for Multiple Item Large Pizza Slice,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Garlic for Single Item Large Pizza Slice,,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Bell Peppers for Multiple Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Bell Peppers for Single Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Chiles for Multiple Item Large Pizza Slice,,0,0,0,0,0,60,<1,<1,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Chiles for Single Item Large Pizza Slice,,0,0,0,0,0,90,<1,<1,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Onions for Multiple Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Green Onions for Single Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Ground Beef for Multiple Item Large Pizza Slice,,25,2,0.5,0,5,5,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Ground Beef for Single Item Large Pizza Slice,,35,3,1,0,10,10,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Ham for Multiple Item Large Pizza Slice,,10,0,0,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Ham for Single Item Large Pizza Slice,,10,0,0,0,<5,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Hot Link Sausage for Multiple Item Large Pizza Slice,,30,2.5,1,0,5,105,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Hot Link Sausage for Single Item Large Pizza Slice,,45,3.5,1.5,0,10,150,<1,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Italian Sausage for Multiple Item Large Pizza Slice,,25,2,0.5,0,5,75,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Italian Sausage for Single Item Large Pizza Slice,,35,3,1,0,10,105,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Jalapeno Slices for Multiple Item Large Pizza Slice,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Jalapeno Slices for Single Item Large Pizza Slice,,0,0,0,0,0,85,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Linguica for Multiple Item Large Pizza Slice,,30,2,0.5,0,5,105,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Linguica for Single Item Large Pizza Slice,,40,3,1,0,10,150,<1,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Mozzarella Cheese for Multiple Item Large Pizza Slice,,50,3.5,2,0,10,105,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Mozzarella Cheese for Single Item Large Pizza Slice,,50,3.5,2,0,10,105,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Mushrooms for Multiple Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Mushrooms for Single Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Onions for Multiple Item Large Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Onions for Single Item Large Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pepperoni for Multiple Item Large Pizza Slice,,40,3.5,1.5,0,5,150,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pepperoni for Single Item Large Pizza Slice,,60,5,2,0,10,240,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pineapple for Multiple Item Large Pizza Slice,,10,0,0,0,0,0,3,0,2,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pineapple for Single Item Large Pizza Slice,,15,0,0,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pizza Dough for Multiple Item Large Pizza Slice,,140,1,0,0,0,15,28,1,1,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pizza Dough for Single Item Large Pizza Slice,,140,1,0,0,0,15,28,1,1,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pizza Sauce for Multiple Item Large Pizza Slice,,0,0,0,0,0,30,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Pizza Sauce for Single Item Large Pizza Slice,,0,0,0,0,0,30,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Salami for Multiple Item Large Pizza Slice,,35,2.5,1,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Salami for Single Item Large Pizza Slice,,50,4,1.5,0,10,220,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Sun Dried Tomatoes for Multiple Item Large Pizza Slice,,10,0,0,0,0,65,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Sun Dried Tomatoes for Single Item Large Pizza Slice,,15,0,0,0,0,95,3,<1,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Tomato Slices for Multiple Item Large Pizza Slice,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Tomato Slices for Single Item Large Pizza Slice,,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Topping Cheese for Multiple Item Large Pizza Slice,,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Large",Topping Cheese for Single Item Large Pizza Slice,,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Anchovies for Multiple Item Medium Pizza Slice,,0,0,0,0,<5,180,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Artichokes for Multiple Item Medium Pizza Slice,,10,0.5,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Artichokes for Single Item Medium Pizza Slice,,15,1,0,0,0,60,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Bacon Pieces for Multiple Item Medium Pizza Slice,,60,4.5,1.5,0,10,160,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Bacon Pieces for Single Item Medium Pizza Slice,,70,6,2,0,10,200,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Black Olives for Multiple Item Medium Pizza Slice,,15,1.5,0,0,0,65,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Black Olives for Single Item Medium Pizza Slice,,15,1.5,0,0,0,85,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Canadian Bacon for Multiple Item Medium Pizza Slice,,10,0,0,0,<5,100,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Canadian Bacon for Single Item Medium Pizza Slice,,10,0,0,0,<5,120,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Chicken for Multiple Item Medium Pizza Slice,,15,0.5,0,0,5,55,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Chicken for Single Item Medium Pizza Slice,,20,1,0,0,10,70,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Garlic for Multiple Item Medium Pizza Slice,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Garlic for Single Item Medium Pizza Slice,,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Bell Peppers for Multiple Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Bell Peppers for Single Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Chiles for Multiple Item Medium Pizza Slice,,0,0,0,0,0,60,<1,<1,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Chiles for Single Item Medium Pizza Slice,,0,0,0,0,0,80,<1,<1,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Onions for Multiple Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Green Onions for Single Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Ground Beef for Multiple Item Medium Pizza Slice,,25,2,1,0,5,5,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Ground Beef for Single Item Medium Pizza Slice,,30,2.5,1,0,10,10,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Ham for Multiple Item Medium Pizza Slice,,10,0,0,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Ham for Single Item Medium Pizza Slice,,10,0,0,0,<5,110,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Hot Link Sausage for Multiple Item Medium Pizza Slice,,30,2.5,1,0,5,105,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Hot Link Sausage for Single Item Medium Pizza Slice,,35,3,1.5,0,5,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Italian Sausage for Multiple Item Medium Pizza Slice,,25,2,0.5,0,5,75,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Italian Sausage for Single Item Medium Pizza Slice,,30,2.5,1,0,10,95,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Jalapeno Slices for Multiple Item Medium Pizza Slice,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Jalapeno Slices for Single Item Medium Pizza Slice,,0,0,0,0,0,75,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Linguica for Multiple Item Medium Pizza Slice,,30,2,0.5,0,5,105,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Linguica for Single Item Medium Pizza Slice,,35,2.5,1,0,10,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Mozzarella Cheese for Single Item Medium Pizza Slice,,45,3,2,0,10,90,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Mushrooms for Multiple Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Mushrooms for Single Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Onions for Multiple Item Medium Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Onions for Single Item Medium Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pepperoni for Multiple Item Medium Pizza Slice,,40,3.5,1.5,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pepperoni for Single Item Medium Pizza Slice,,45,4.5,1.5,0,10,190,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pineapple for Multiple Item Medium Pizza Slice,,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pineapple for Single Item Medium Pizza Slice,,15,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pizza Dough for Single Item Medium Pizza Slice,,120,1,0,0,0,15,24,<1,<1,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Pizza Sauce for Single Item Medium Pizza Slice,,0,0,0,0,0,25,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Salami for Multiple Item Medium Pizza Slice,,35,2.5,1,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Salami for Single Item Medium Pizza Slice,,40,3,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Sun Dried Tomatoes for Multiple Item Medium Pizza Slice,,10,0,0,0,0,70,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Sun Dried Tomatoes for Single Item Medium Pizza Slice,,10,0,0,0,0,85,2,0,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Tomato Slices for Multiple Item Medium Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Topping Cheese for Multiple Item Medium Pizza Slice,,50,3.5,2,0,10,90,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Medium",Topping Cheese for Single Item Medium Pizza Slice,,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Anchovies for Multiple Item Small Pizza Slice,,0,0,0,0,0,115,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Anchovies for Single Item Small Pizza Slice,,0,0,0,0,<5,150,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Artichokes for Multiple Item Small Pizza Slice,,10,0,0,0,0,30,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Artichokes for Single Item Small Pizza Slice,,10,0.5,0,0,0,40,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Bacon Pieces for Multiple Item Small Pizza Slice,,40,3,1,0,5,100,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Bacon Pieces for Single Item Small Pizza Slice,,50,4,1.5,0,10,135,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Black Olives for Multiple Item Small Pizza Slice,,10,1,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Black Olives for Single Item Small Pizza Slice,,10,1,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Canadian Bacon for Multiple Item Small Pizza Slice,,5,0,0,0,<5,65,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Canadian Bacon for Single Item Small Pizza Slice,,5,0,0,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Chicken for Multiple Item Small Pizza Slice,,10,0,0,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Chicken for Single Item Small Pizza Slice,,15,0.5,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Garlic for Multiple Item Small Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Garlic for Single Item Small Pizza Slice,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Bell Peppers for Multiple Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Bell Peppers for Single Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Chiles for Multiple Item Small Pizza Slice,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Chiles for Single Item Small Pizza Slice,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Onions for Multiple Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Green Onions for Single Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Ground Beef for Multiple Item Small Pizza Slice,,15,1.5,0,0,<5,0,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Ground Beef for Single Item Small Pizza Slice,,20,1.5,0.5,0,5,5,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Ham for Multiple Item Small Pizza Slice,,5,0,0,0,<5,60,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Ham for Single Item Small Pizza Slice,,5,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Hot Link Sausage for Multiple Item Small Pizza Slice,,20,1.5,0.5,0,<5,70,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Hot Link Sausage for Single Item Small Pizza Slice,,25,2,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Italian Sausage for Multiple Item Small Pizza Slice,,15,1.5,0,0,<5,50,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Italian Sausage for Single Item Small Pizza Slice,,20,1.5,0.5,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Jalapeno Slices for Multiple Item Small Pizza Slice,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Jalapeno Slices for Single Item Small Pizza Slice,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Linguica for Multiple Item Small Pizza Slice,,20,1.5,0,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Linguica for Single Item Small Pizza Slice,,25,2,0.5,0,5,90,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Mozzarella Cheese for Multiple Item Medium Pizza Slice,,45,3,2,0,10,90,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Mozzarella Cheese for Multiple Item Small Pizza Slice,,35,2.5,1.5,0,10,75,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Mozzarella Cheese for Single Item Small Pizza Slice,,35,2.5,1.5,0,10,75,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Mushrooms for Multiple Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Mushrooms for Single Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Onions for Single Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pepperoni for Multiple Item Small Pizza Slice,,25,2.5,1,0,5,110,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pepperoni for Single Item Small Pizza Slice,,35,3,1,0,5,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pineapple for Multiple Item Small Pizza Slice,,5,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pineapple for Single Item Small Pizza Slice,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Dough for Multiple Item Medium Pizza Slice,,120,1,0,0,0,15,24,<1,<1,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Dough for Multiple Item Small Pizza Slice,,90,0.5,0,0,0,10,17,<1,<1,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Dough for Single Item Small Pizza Slice,,90,0.5,0,0,0,10,17,<1,<1,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Sauce for Multiple Item Medium Pizza Slice,,0,0,0,0,0,25,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Sauce for Multiple Item Small Pizza Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Pizza Sauce for Single Item Small Pizza Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Salami for Multiple Item Small Pizza Slice,,25,2,0.5,0,5,100,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Salami for Single Item Small Pizza Slice,,30,2.5,1,0,5,125,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Sun Dried Tomatoes for Multiple Item Small Pizza Slice,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Sun Dried Tomatoes for Single Item Small Pizza Slice,,10,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Tomato Slices for Multiple Item Small Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Tomato Slices for Single Item Small Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Topping Cheese for Multiple Item Small Pizza Slice,,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Small",Topping Cheese for Single Item Small Pizza Slice,,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Anchovies for Multiple Item Mini Pizza Slice,,0,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Anchovies for Single Item Mini Pizza Slice,,0,0,0,0,<5,150,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Artichokes for Multiple Item Mini Pizza Slice,,5,0,0,0,0,25,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Artichokes for Single Item Mini Pizza Slice,,10,0.5,0,0,0,40,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Bacon Pieces for Multiple Item Mini Pizza Slice,,30,2,1,0,<5,75,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Bacon Pieces for Single Item Mini Pizza Slice,,50,4,1.5,0,10,135,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Black Olives for Multiple Item Mini Pizza Slice,,5,0.5,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Black Olives for Single Item Mini Pizza Slice,,10,1,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Canadian Bacon for Multiple Item Mini Pizza Slice,,0,0,0,0,<5,55,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Canadian Bacon for Single Item Mini Pizza Slice,,5,0,0,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Chicken for Multiple Item Mini Pizza Slice,,5,0,0,0,<5,25,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Chicken for Single Item Mini Pizza Slice,,15,0.5,0,0,5,45,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Garlic for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Garlic for Single Item Mini Pizza Slice,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Bell Peppers for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Bell Peppers for Single Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Chiles for Multiple Item Mini Pizza Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Chiles for Single Item Mini Pizza Slice,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Onions for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Green Onions for Single Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Ground Beef for Multiple Item Mini Pizza Slice,,10,1,0,0,<5,0,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Ground Beef for Single Item Mini Pizza Slice,,20,1.5,0.5,0,5,5,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Ham for Multiple Item Mini Pizza Slice,,0,0,0,0,0,50,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Ham for Single Item Mini Pizza Slice,,5,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Hot Link Sausage for Multiple Item Mini Pizza Slice,,15,1,0.5,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Hot Link Sausage for Single Item Mini Pizza Slice,,25,2,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Italian Sausage for Multiple Item Mini Pizza Slice,,10,1,0,0,<5,35,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Italian Sausage for Single Item Mini Pizza Slice,,20,1.5,0.5,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Jalapeno Slices for Multiple Item Mini Pizza Slice,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Jalapeno Slices for Single Item Mini Pizza Slice,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Linguica for Multiple Item Mini Pizza Slice,,15,1,0,0,<5,50,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Linguica for Single Item Mini Pizza Slice,,25,2,0.5,0,5,90,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Mozzarella Cheese for Multiple Item Mini Pizza Slice,,30,2,1,0,5,60,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Mozzarella Cheese for Single Item Mini Pizza Slice,,30,2,1,0,5,60,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Mushrooms for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Mushrooms for Single Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Onions for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Onions for Single Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pepperoni for Multiple Item Mini Pizza Slice,,20,2,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pepperoni for Single Item Mini Pizza Slice,,35,3,1,0,5,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pineapple for Multiple Item Mini Pizza Slice,,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pineapple for Single Item Mini Pizza Slice,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pizza Dough for Multiple Item Mini Pizza Slice,,70,0.5,0,0,0,10,13,<1,<1,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pizza Dough for Single Item Mini Pizza Slice,,70,0.5,0,0,0,10,13,<1,<1,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pizza Sauce for Multiple Item Mini Pizza Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Pizza Sauce for Single Item Mini Pizza Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Salami for Multiple Item Mini Pizza Slice,,20,1.5,0.5,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Salami for Single Item Mini Pizza Slice,,30,2.5,1,0,5,125,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Sun Dried Tomatoes for Multiple Item Mini Pizza Slice,,5,0,0,0,0,35,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Sun Dried Tomatoes for Single Item Mini Pizza Slice,,10,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Tomato Slices for Multiple Item Mini Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Tomato Slices for Single Item Mini Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Topping Cheese for Multiple Item Mini Pizza Slice,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Mini",Topping Cheese for Single Item Mini Pizza Slice,,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Diamond Head Pizza, Large",,230,6,2.5,0,20,340,31,1,3,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Diamond Head Pizza, Medium",,200,5,2,0,15,300,27,1,3,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Diamond Head Pizza, Mountain",,310,8,3.5,0,25,480,42,2,5,,15,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Diamond Head Pizza, Small",,140,3.5,1.5,0,10,180,19,<1,2,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Garlic Tuscan Pizza, Large",,280,10,4,0,25,490,33,2,3,,12,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Garlic Tuscan Pizza, Medium",,250,9,3.5,0,20,430,28,2,3,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Garlic Tuscan Pizza, Mini",,150,6,2.5,0,15,290,16,<1,2,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Garlic Tuscan Pizza, Mountain",,390,15,6,0,35,690,45,3,4,,16,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Garlic Tuscan Pizza, Small",,190,7,3,0,20,340,21,1,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"McKinley Pizza, Large",,220,57,6,3,0,15,217,30,2,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"McKinley Pizza, Medium",,200,53,6,3,0,15,202,26,1,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"McKinley Pizza, Mountain",,320,92,10,4,0,25,368,41,2,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"McKinley Pizza, Small",,100,37,4,2,0,10,159,10,<1,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt St Helens Pizza, Large",,60,4,2.5,0,15,115,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt St Helens Pizza, Medium",,200,6,3,0,15,290,26,2,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt St Helens Pizza, Mountain",,320,10,4.5,0,25,460,40,3,3,,13,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt St Helens Pizza, Small",,150,5,2.5,0,15,220,19,1,1,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt Veggiemore Pizza, Large",,230,6,2.5,0,15,240,32,2,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt Veggiemore Pizza, Medium",,200,5,2,0,10,200,27,1,2,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt Veggiemore Pizza, Mountain",,310,9,3.5,0,20,330,43,2,3,,12,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Mt Veggiemore Pizza, Small",,150,4.5,1.5,0,10,160,20,1,2,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Pikes Peak Pizza, Large",,290,12,5,0,35,500,29,1,2,,13,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Pikes Peak Pizza, Medium",,250,10,4,0,30,440,25,1,2,,12,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Pikes Peak Pizza, Mountain",,480,22,10,0,65,860,40,2,3,,24,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Pikes Peak Pizza, Small",,190,8,3.5,0,25,350,18,<1,1,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, Red, Large",,230,6,2.5,0,20,250,30,2,2,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, Red, Medium",,200,6,2,0,15,220,26,1,2,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, Red, Mountain",,300,8,3,0,25,320,41,2,3,,13,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, Red, Small",,150,4.5,2,0,15,170,19,1,1,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, White, Large",,230,8,2,0,15,260,30,1,2,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, White, Medium",,200,7,2,0,15,230,26,1,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, White, Mountain",,320,12,3,0,25,360,40,2,3,,12,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Robbers Roost Pizza, White, Small",,150,6,1.5,0,10,180,19,<1,1,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Sizzlin Bacon Classic, Large",,270,12,3.5,0,25,420,29,1,2,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Sizzlin Bacon Classic, Medium",,240,10,3,0,20,370,25,1,1,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Sizzlin Bacon Classic, Mountain",,380,16,5,0,30,590,39,2,2,,15,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Sizzlin Bacon Classic, Small",,180,8,2.5,0,15,300,18,<1,1,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Combo, Large",,250,10,3,0,20,310,30,1,2,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Combo, Medium",,220,9,2.5,0,15,280,26,1,2,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Combo, Mountain",,340,14,4,0,25,440,40,2,3,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Combo, Small",,160,7,2,0,10,220,19,<1,1,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Veggie, Large",,230,8,2,0,10,240,30,2,2,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Veggie, Medium",,200,7,1.5,0,10,210,26,1,2,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Veggie, Mountain",,310,11,2.5,0,15,330,41,2,3,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"Snowy Alps Pizza, Creamy Garlic Veggie, Small",,150,6,1.5,0,10,170,19,1,1,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Chicken Club Pizza, Large",,280,12,4,0,25,380,29,1,2,,12,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Chicken Club Pizza, Medium",,250,10,3.5,0,25,330,25,1,2,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Chicken Club Pizza, Mini",,140,6,2,0,15,200,14,<1,<1,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Chicken Club Pizza, Mountain",,390,17,5,0,40,530,40,2,2,,16,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Chicken Club Pizza, Small",,190,8,2.5,0,20,260,18,<1,1,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Everest Pizza, Large",,270,10,4,0,25,390,30,1,2,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Everest Pizza, Medium",,230,9,3.5,0,25,340,26,1,2,,10,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Everest Pizza, Mountain",,370,14,6,0,35,540,41,2,3,,16,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Everest Pizza, Small",,180,7,3,0,20,260,19,<1,1,,8,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Pineapple Chicken Luau Pizza, Large",,300,10,4,0,30,410,34,1,6,,13,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Pineapple Chicken Luau Pizza, Medium",,260,9,3.5,0,25,360,30,1,5,,11,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Pineapple Chicken Luau Pizza, Mini",,150,5,2,0,15,220,17,<1,3,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Pineapple Chicken Luau Pizza, Mountain",,410,14,6,0,40,580,47,2,9,,18,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Specialty Pizzas,"The Pineapple Chicken Luau Pizza, Small",,190,7,3,0,20,280,21,<1,4,,9,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Cheese for Large Slice,,40,2.5,1.5,0,10,80,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Cheese for Medium Slice,,35,2.5,1.5,0,10,70,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Cheese for Mini Slice,,25,1.5,1,0,<5,45,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Cheese for Mountain Slice,,50,3.5,2,0,10,110,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Cheese for Small Slice,,25,2,1,0,5,55,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Sauce for Large Slice,,5,0,0,0,0,30,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Sauce for Medium Slice,,0,0,0,0,0,25,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Sauce for Mini Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Sauce for Mountain Slice,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Pizza Toppings,Extra Sauce for Small Slice,,0,0,0,0,0,20,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Ambrosia Cream Salad",,35,1.5,1,0,0,10,5,<1,3,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Baby Carrots",,10,0,0,0,0,25,2,<1,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Broccoli",,10,0,0,0,0,10,1,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, California Raisins",,90,0,0,0,0,5,22,1,21,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Cherry Tomatoes",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Chopped Eggs",,45,3,1,0,120,35,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Cottage Cheese",,30,1.5,1,0,5,85,<1,0,<1,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Country Potato Salad",,45,3,0.5,0,10,120,5,<1,1,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Croutons",,120,4,0,0,0,320,16,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Cucumbers",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Elbow Macaroni Salad",,60,4.5,1,0,<5,150,5,0,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Four Bean Salad",,30,0,0,0,0,95,7,<1,4,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Garbanzo Beans",,25,0.5,0,0,0,75,4,2,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Gourmet Potato Salad",,45,2.5,0.5,0,10,160,5,<1,1,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Green Beans",,10,0,0,0,0,0,2,<1,<1,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Italian Pasta Salad",,35,2,0,0,0,135,3,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Kidney Beans",,25,0,0,0,0,95,4,2,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Macaroni Salad",,60,5,1,0,<5,160,5,0,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Oreo Cookie and Cream Salad",,60,2.5,1.5,0.5,0,45,8,<1,7,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Peas",,20,0,0,0,0,35,4,1,2,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Pepperoncini",,5,0,0,0,0,360,1,1,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Potato Salad",,50,2.5,0.5,0,<5,105,6,<1,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Potato Salad with Diced Egg",,50,2.5,0.5,0,<5,105,6,<1,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Raspberry Parfait",,25,0.5,0.5,0,0,20,5,0,5,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Red Potato Salad",,60,4,1,0,<5,120,4,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Salad Dressing, Blue Cheese",,320,34,7,0,30,620,2,0,2,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Salad Dressing, Buttermilk Ranch",,200,22,3,0,20,540,2,0,2,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Salad Dressing, Lite Italian",,50,0,0,0,0,680,12,0,4,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Salad Dressing, Thousand Island",,240,22,3,0,10,600,10,0,8,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Salad Mix",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Sliced Beets",,5,0,0,0,0,50,2,0,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Strawberry Parfait",,25,0.5,0.5,0,0,20,5,0,5,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,Salad Bar,"Salad Bar, Sunflower Seeds",,140,10,2,0,0,0,7,3,0,,6,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Anchovies for Multiple Item Mountain Pizza Slice,,5,0,0,0,<5,230,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Anchovies for Single Item Mountain Pizza Slice,,10,0.5,0,0,<5,350,0,0,0,,1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Artichokes for Multiple Item Mountain Pizza Slice,,15,1,0,0,0,65,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Artichokes for Single Item Mountain Pizza Slice,,25,1.5,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Bacon Pieces for Multiple Item Mountain Pizza Slice,,80,6,2,0,15,220,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Bacon Pieces for Single Item Mountain Pizza Slice,,120,9,3.5,0,20,320,0,0,0,,7,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Black Olives for Multiple Item Mountain Pizza Slice,,20,2,0,0,0,90,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Black Olives for Single Item Mountain Pizza Slice,,25,2.5,0,0,0,135,1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Canadian Bacon for Multiple Item Mountain Pizza Slice,,10,0,0,0,<5,135,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Canadian Bacon for Single Item Mountain Pizza Slice,,20,0.5,0,0,5,200,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Chicken for Multiple Item Mountain Pizza Slice,,20,1,0,0,10,75,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Chicken for Single Item Mountain Pizza Slice,,30,1.5,0,0,10,110,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Garlic for Multiple Item Mountain Pizza Slice,,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Garlic for Single Item Mountain Pizza Slice,,15,0,0,0,0,0,3,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Bell Peppers for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Bell Peppers for Single Item Mountain Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Chiles for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,85,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Chiles for Single Item Mountain Pizza Slice,,5,0,0,0,0,125,1,1,1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Onions for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,0,0,<1,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Green Onions for Single Item Mountain Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Ground Beef for Multiple Item Mountain Pizza Slice,,35,2.5,1,0,10,10,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Ground Beef for Single Item Mountain Pizza Slice,,50,4,1.5,0,15,15,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Ham for Multiple Item Mountain Pizza Slice,,10,0,0,0,<5,125,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Ham for Single Item Mountain Pizza Slice,,15,0.5,0,0,5,190,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Hot Link Sausage for Multiple Item Mountain Pizza Slice,,40,3.5,1.5,0,5,140,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Hot Link Sausage for Single Item Mountain Pizza Slice,,60,5,2,0,10,210,<1,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Italian Sausage for Multiple Item Mountain Pizza Slice,,35,2.5,1,0,10,100,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Italian Sausage for Single Item Mountain Pizza Slice,,50,4,1.5,0,15,150,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Jalapeno Slices for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,80,<1,<1,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Jalapeno Slices for Single Item Mountain Pizza Slice,,0,0,0,0,0,120,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Linguica for Multiple Item Mountain Pizza Slice,,40,3,1,0,10,140,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Linguica for Single Item Mountain Pizza Slice,,60,4.5,1.5,0,15,210,<1,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Mozzarella Cheese for Multiple Item Mountain Pizza Slice,,70,5,3,0,15,150,0,0,0,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Mozzarella Cheese for Single Item Mountain Pizza Slice,,70,5,3,0,15,150,0,0,0,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Mushrooms for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Mushrooms for Single Item Mountain Pizza Slice,,0,0,0,0,0,0,<1,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Onions for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Onions for Single Item Mountain Pizza Slice,,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pepperoni for Multiple Item Mountain Pizza Slice,,50,5,2,0,10,220,0,0,0,,2,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pepperoni for Single Item Mountain Pizza Slice,,80,7,2.5,0,15,330,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pineapple for Multiple Item Mountain Pizza Slice,,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pineapple for Single Item Mountain Pizza Slice,,20,0,0,0,0,0,6,0,5,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pizza Dough for Multiple Item Mountain Pizza Slice,,190,1.5,0,0,0,25,38,2,2,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pizza Dough for Single Item Mountain Pizza Slice,,190,1.5,0,0,0,25,38,2,2,,5,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pizza Sauce for Multiple Item Mountain Pizza Slice,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Pizza Sauce for Single Item Mountain Pizza Slice,,5,0,0,0,0,45,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Salami for Multiple Item Mountain Pizza Slice,,45,3.5,1.5,0,10,200,0,0,0,,3,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Salami for Single Item Mountain Pizza Slice,,70,5,2,0,15,300,0,0,0,,4,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Sun Dried Tomatoes for Multiple Item Mountain Pizza Slice,,15,0,0,0,0,90,2,0,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Sun Dried Tomatoes for Single Item Mountain Pizza Slice,,20,0,0,0,0,135,4,<1,2,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Tomato Slices for Multiple Item Mountain Pizza Slice,,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Tomato Slices for Single Item Mountain Pizza Slice,,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Topping Cheese for Multiple Item Mountain Pizza Slice,,10,0.5,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27
+mountainmikes,"A La Carte Pizza, Moutain",Topping Cheese for Single Item Mountain Pizza Slice,,10,0.5,0,0,<5,20,0,0,0,,<1,,,https://www.nutritionix.com/mountain-mikes-pizza/menu/premium,2026-10-27

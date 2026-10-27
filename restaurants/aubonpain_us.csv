@@ -1,0 +1,248 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+aubonpain,Bagels,Asiago Cheese Bagel,,310,5,3,0,15,650,54,4,5,,13,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Cinnamon Raisin Bagel,,270,1,0,0,0,470,57,4,11,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Everything Bagel,,270,1.5,0,0,0,660,54,4,6,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Jalapeno Cheddar Bagel,,320,5,3.5,0,15,710,54,4,6,,13,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Plain Bagel,,260,0.5,0,0,0,510,53,4,5,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Sesame Seed Bagel,,280,2,0,0,0,510,54,4,5,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagels,Whole Wheat Skinny Bagel,,90,1,0,0,0,230,21,6,1,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagel Spreads,Garden Vegetable Cream Cheese Spread,,100,10,6,0,30,230,2,0,2,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Bagel Spreads,Reduced Fat Philadelphia Cream Cheese,,90,8,4.5,0,30,190,3,0,2,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Apple Caramel Crisp Cookie,,540,26,11,0.5,60,420,74,2,39,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Brownie Bites,,640,33,14,0,90,230,87,5,68,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Candy Cookie,,560,26,13,0,45,300,79,3,49,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Chewy Marshmallow Bar,,230,5,3,0,15,220,45,0,20,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Chocolate Chip Cookie,,370,18,11,0,45,120,54,2,35,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Cinnamon Swirl Roll,,490,19,11,0.5,60,580,73,0,31,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Classic Oatmeal Raisin Cookie,,290,11,6,0,40,150,46,2,24,,4,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Double Chocolate Brownie,,500,27,12,0,75,190,66,4,50,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Double Chocolate Mudslide Cookie,,370,19,10,0,50,170,50,2,32,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Iced Lemon Pound Cake,,470,21,11,0,140,510,66,1,41,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Mini Candy Cookie,,840,39,19,0.5,70,440,119,5,74,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Mini Chocolate Chip Cookies,,560,27,16,0,70,180,81,3,52,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Palmier Cookie,,370,17,10,0,45,280,50,1,17,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Pumpkin Blondie,,550,30,12,0,50,270,69,2,46,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Pumpkin Blondie Bites,,680,36,15,0.5,65,330,84,2,56,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Red Velvet Cookie,,560,27,14,0,50,270,78,1,50,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cookies & Desserts,Reese's Peanut Butter Cookie,,630,37,16,0,40,480,66,2,46,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Almond Croissant,,490,25,10,0,65,350,59,2,30,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Apple Croissant,,280,14,8,0,45,310,34,1,11,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Chocolate Croissant,,470,25,16,0,75,380,55,3,25,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Ham and Cheese Croissant,,410,21,13,0.5,85,590,25,1,6,,18,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Maple Pecan Croissant,,410,27,10,0,<5,250,37,1,11,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Plain Croissant,,280,16,9,0,65,320,28,1,4,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Croissants,Spinach and Cheese Croissant,,320,18,11,0,60,490,32,1,5,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Danish,Cherry Danish,,460,18,11,0,75,580,63,2,18,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Danish,Sweet Cheese Danish,,500,23,14,0.5,90,660,63,2,18,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Muffins & Loaves,Blueberry Muffin,,420,21,3.5,0,70,310,53,1,29,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Muffins & Loaves,Chocolate Chip Muffin,,490,25,6,0,75,320,61,1,37,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Muffins & Loaves,Corn Muffin,,470,22,4,0,75,330,62,1,29,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Muffins & Loaves,Triple Berry Muffin,,420,21,4,0,80,320,53,1,29,,4,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Scones,Cinnamon Chip Scone,,460,25,15,0,120,520,50,1,19,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Blasts & Smoothies,Berry Pomegranate Smoothie,,270,0,0,0,<5,30,62,3,52,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Blasts & Smoothies,Mango Smoothie,,300,0,0,0,<5,30,72,3,55,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Blasts & Smoothies,Strawberry Banana Smoothie,,290,0,0,0,<5,30,68,3,54,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caffe Americano, Large",,15,0,0,0,0,35,3,0,3,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caffe Americano, Medium",,10,0,0,0,0,25,2,0,2,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caffe Latte, Large",,180,9,5,0,25,135,15,0,15,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caffe Latte, Medium",,140,7,4,0,20,105,12,0,12,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Cappuccino, Large",,160,8,4.5,0,25,125,14,0,14,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Cappuccino, Medium",,120,6,3.5,0,20,90,10,0,10,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caramel Macchiato, Large",,330,10,6,0,30,170,51,0,48,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Caramel Macchiato, Medium",,270,8,4.5,0,25,135,41,0,40,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Chai Latte, Large",,270,9,5,0,25,120,38,0,38,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Chai Latte, Medium",,210,7,4,0,20,90,30,0,30,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,Espresso - Double Shot,,10,0,0,0,0,15,1,0,1,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Hot Chocolate, Large",,440,15,9,0,40,160,66,0,65,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Hot Chocolate, Medium",,350,12,7,0,35,130,51,0,50,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Iced Mocha Latte, Large",,400,11,7,0,25,160,64,0,61,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Iced Mocha Latte, Medium",,300,9,5,0,20,125,49,0,46,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Iced Vanilla Latte, Large",,300,9,5,0,25,140,45,0,42,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Iced Vanilla Latte, Medium",,230,7,4,0,20,110,35,0,34,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Mocha Latte, Large",,400,11,7,0,25,160,64,0,61,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Mocha Latte, Medium",,300,9,5,0,20,120,49,0,46,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Vanilla Latte, Large",,300,9,5,0,25,135,45,0,42,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Vanilla Latte, Medium",,230,7,4,0,20,105,35,0,34,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Vanilla Latte with Sugar Free Syrup, Large",,180,9,5,0,25,135,22,0,13,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,"Vanilla Latte with Sugar Free Syrup, Medium",,140,7,4,0,20,105,17,0,10,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Coffee & Espresso,Whipped Cream Topping,,20,1.5,1,0,<5,0,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Caffeine Free Diet Coke, Large",,5,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Caffeine Free Diet Coke, Medium",,5,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Coke, Large",,390,0,0,0,0,10,104,0,104,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Coke, Medium",,290,0,0,0,0,5,78,0,78,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Coke Zero, Large",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Coke Zero, Medium",,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Diet Coke, Large",,5,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Diet Coke, Medium",,5,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"FUZE Raspberry Iced Tea, Large",,240,0,0,0,0,30,66,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"FUZE Raspberry Iced Tea, Medium",,180,0,0,0,0,20,50,0,50,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Homestyle Lemonade, Large",,390,0,0,0,0,0,103,0,97,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Homestyle Lemonade, Medium",,290,0,0,0,0,0,78,0,72,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Iced Black Tea, Large",,10,0,0,0,0,30,3,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Iced Black Tea, Medium",,5,0,0,0,0,20,2,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Orange Juice, Large",,220,0,0,0,0,5,52,1,50,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Orange Juice, Medium",,110,0,0,0,0,0,26,0,26,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"PowerAde Mountain Blast, Large",,230,0,0,0,0,210,57,0,57,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"PowerAde Mountain Blast, Medium",,170,0,0,0,0,160,43,0,43,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sprite, Large",,390,0,0,0,0,85,104,0,104,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sprite, Medium",,290,0,0,0,0,65,78,0,78,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sprite Zero, Large",,10,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sprite Zero, Medium",,5,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Strawberry Lemonade, Large",,390,0,0,0,0,25,103,0,97,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Strawberry Lemonade, Medium",,300,0,0,0,0,20,77,0,73,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sweet Tea, Large",,340,0,0,0,0,30,88,0,85,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Sweet Tea, Medium",,250,0,0,0,0,20,66,0,64,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Vitamin Water Zero - Squeezed, Large",,10,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Vitamin Water Zero - Squeezed, Medium",,5,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Vitamin Water Zero - XXX, Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Fountain & Other Beverages,"Vitamin Water Zero - XXX, Medium",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Asiago Breadstick,,150,2,1,0,<5,310,27,2,3,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Ciabatta,,260,1,0,0,0,580,53,2,2,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Country White Bread,,220,1,0,0,0,480,45,1,1,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Everything Artisan Farmhouse Roll,,150,1.5,0,0,0,490,28,2,3,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Multigrain, Sandwich Size",,270,3.5,0.5,0,0,500,49,3,4,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Multigrain, Soup Size",,180,2.5,0,0,0,330,33,2,3,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Rustic Baguette, Sandwich Size",,260,2.5,1,0,0,550,50,0,1,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Rustic Baguette, Soup Size",,170,1.5,0.5,0,0,370,33,0,1,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Semolina, Sandwich Size",,310,3.5,0.5,0,0,700,59,3,2,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,"Semolina, Soup Size",,190,2,0,0,0,430,36,2,1,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Tortilla Wrap,,300,7,1.5,0,0,270,52,2,2,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breads,Whole Wheat Tortilla Wrap,,300,7,1.5,0,0,270,50,9,1,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs & Bacon on Skinny Wheat Bagel,,310,17,6,0,350,640,22,6,2,,21,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs & Turkey Sausage on Skinny Wheat Bagel,,310,16,6,0,360,660,22,7,1,,23,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Bacon and Cheddar on Ciabatta",,540,22,10,0,365,1090,54,2,3,,30,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Cheddar & Bacon on Skinny Wheat Bagel",,360,22,9,0,365,730,22,6,2,,24,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Cheddar & Ham on Skinny Wheat Bagel",,350,19,8,0,375,880,24,7,3,,26,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Cheddar & Sausage on Skinny Wheat Bagel",,450,29,12,0,390,790,23,6,2,,28,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Sausage & Cheddar on Asiago Bagel",,670,34,15,0,405,1160,56,4,6,,36,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Sausage & Cheddar on Ciabatta",,620,30,12,0,390,1140,55,2,2,,33,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"2 Eggs, Turkey Sausage & Cheddar on Skinny Wheat Bagel",,370,21,9,0,375,750,22,7,1,,26,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs on a Bagel,,400,11,4.5,0,330,650,54,4,6,,21,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs on a Bagel with Bacon,,480,17,6,0,350,930,55,4,6,,26,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs on a Bagel with Bacon and Cheese,,530,22,10,0,365,1020,55,4,6,,29,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs on a Bagel with Cheese,,460,16,7,0,345,740,54,4,6,,24,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,2 Eggs on a Bagel with Ham,,470,14,5,0,360,1080,56,4,8,,28,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,"Egg Whites, Cheddar & Avocado on Skinny Wheat",,360,23,12,0.5,50,590,25,9,1,,19,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,Egg Whites and Cheddar on Skinny Wheat Bagel,,210,7,4.5,0,20,490,22,6,1,,19,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,Power Protein Wrap,,820,51,14,0,395,1020,60,5,4,,32,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,Smoked Salmon Avocado,,470,16,2.5,0,25,1130,62,5,6,,21,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Breakfast Sandwiches,The Good Egg,,490,26,9,0,350,740,42,4,2,,22,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Basic Chicken Sandwich,,460,14,3,0,80,1020,55,1,2,,31,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Basic Ham Sandwich,,490,18,4.5,0,65,1610,57,1,6,,24,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Basic Turkey Sandwich,,450,13,2.5,0,60,1360,54,1,3,,29,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Classic Tuna Salad on Croissant,,480,23,10,0.5,125,700,34,4,6,,34,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Classic Tuna Salad on Croissant - Half Sandwich,,240,11,5,0,65,350,17,2,3,,17,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Everything Avocado Toast,,300,18,2.5,0,0,320,32,8,2,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Extra Bacon BLT,,600,31,9,0,60,1610,58,2,3,,24,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Half Basic Chicken Sandwich,,240,7,1.5,0,40,520,28,1,1,,16,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Half Basic Ham Sandwich,,250,9,2,0,30,810,29,0,3,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Half Basic Turkey Sandwich,,230,7,1,0,30,680,27,0,2,,15,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Jalapeno and Bacon Avocado Toast,,330,20,3.5,0,<5,550,32,8,2,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Original Chicken Salad on Croissant,,490,27,11,0.5,125,730,38,3,10,,25,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Original Chicken Salad on Croissant - Half Sandwich,,250,14,5,0,60,370,19,1,5,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Cafe Sandwiches,Turkey Club,,590,27,10,0,110,1720,48,2,3,,40,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Black Bean Chipotle Avocado,,730,37,8,0,30,1450,79,10,8,,29,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Caprese,,620,31,16,0.5,60,1120,56,3,4,,30,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Caprese - Half Sandwich,,310,16,8,0,30,560,28,2,2,,15,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Caprese with Chicken,,710,33,16,0.5,120,1420,57,3,4,,49,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Caprese with Chicken - Half Sandwich,,360,16,8,0,60,720,29,2,2,,25,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Chipotle Turkey & Avocado,,770,43,11,0,95,1700,59,5,5,,38,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Chipotle Turkey & Avocado - Half Sandwich,,390,22,5,0,45,860,30,2,2,,19,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Classic Grilled Cheese,,490,23,14,0,70,870,46,1,1,,24,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Cordon Bleu,,620,23,8,0,85,1750,69,4,10,,35,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Cordon Bleu - Half Sandwich,,320,12,4,0,40,920,35,2,5,,18,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Country Grilled Chesse,,570,30,16,0,85,1140,46,2,2,,29,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Jalapeno Popper Turkey Sandwich,,550,22,11,0,115,1760,48,2,4,,40,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Mayan Chicken Harvest Hot Wrap,,670,16,5,0,55,1120,97,13,6,,36,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Newport Turkey,,630,32,12,0,100,1870,64,4,16,,40,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Roasted Vegetarian Harvest Hot Wrap,,710,30,6,0,15,860,92,12,4,,18,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Smoky BBQ Chicken Melt,,650,26,10,0,85,1440,72,3,15,,32,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Spicy Tuna Melt,,550,19,8,0,90,1460,51,4,3,,43,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Signature & Hot Sandwiches,Toasted Chicken & Avocado,,640,25,5,0,85,1480,67,6,4,,37,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Wraps,Chicken Caesar Wrap,,610,28,7,0,85,930,56,3,4,,34,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Wraps,Mediterranean Wrap,,660,35,9,0,25,1090,69,15,8,,20,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Wraps,Napa Chicken Avocado Wrap,,580,24,4,0,65,810,63,6,6,,30,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Wraps,Turkey Cobb Wrap,,680,36,11,0,130,1450,58,12,5,,34,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Harvest Hot Bowls,Mayan Chicken Harvest Hot Bowl,,560,11,3.5,0,55,980,85,8,7,,31,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Harvest Hot Bowls,Mediterranean Chicken Harvest Hot Bowl,,670,26,6,0,70,950,76,5,4,,31,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Harvest Hot Bowls,Roasted Vegetarian Harvest Hot Bowl,,640,32,6,0,15,750,75,5,4,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Oatmeal,"Classic Oatmeal, Large",,340,6,1,0,0,15,63,9,1,,13,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Oatmeal,"Classic Oatmeal, Medium",,260,5,0.5,0,0,10,47,6,1,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Oatmeal,"Classic Oatmeal, Small",,170,3,0,0,0,5,32,4,1,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Bon To Go - Cheese & Fruit,,390,25,14,0.5,70,590,31,2,16,,14,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,"Bon To Go - Fruit, Eggs & Nuts",,500,35,10,0,195,320,30,5,19,,21,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Bon To Go - Hard Boiled Eggs,,140,9,3,0,330,110,1,0,1,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Bon To Go - Hummus,,300,14,1.5,0,0,670,37,4,5,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Bon To Go - Turkey & Cheddar Picnic,,590,23,10,0,80,1510,66,3,12,,31,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Cape Cod Original Potato Chips,,220,12,1,0,0,160,25,2,<1,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Cape Cod Reduced Fat Sweet Mesquite BBQ Potato Chips,,180,8,0.5,0,0,190,26,2,2,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Cape Cod Sea Salt & Vinegar Potato Chips,,220,10,1,0,0,390,28,1,0,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Chocolate Covered Almonds,,450,30,17,0,0,70,46,5,39,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Fresh Grapes,,160,0,0,0,0,0,41,2,35,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,"Fruit Cup, Large",,140,0.5,0,0,0,30,36,2,32,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,"Fruit Cup, Medium",,70,0,0,0,0,15,18,1,16,,1,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Mixed Nuts,,430,36,4.5,0,0,140,18,6,3,,14,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Multigrain Sun Chips,,210,9,1,0,0,170,28,4,3,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Overnight Oats,,410,13,3,0,<5,40,61,8,20,,15,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Signature Granola,,720,36,15,0,25,180,89,11,35,,16,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Strawberry Fruit Cup,,45,0,0,0,0,0,11,3,7,,1,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Snacks,Watermelon Fruit Cup,,70,0,0,0,0,0,17,1,14,,1,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Yogurt,Blueberry Yogurt & Wild Blueberry Parfait,,370,9,4.5,0,15,170,65,3,45,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Yogurt,Greek Vanilla Yogurt & Strawberry Parfait,,330,8,3.5,0,20,115,45,5,32,,23,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Yogurt,Greek Vanilla Yogurt & Wild Blueberry Parfait,,320,8,3.5,0,20,115,44,4,31,,23,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Caesar Asiago,,160,7,3,0,15,290,19,4,2,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Chef Salad,,280,13,6,0,75,1310,10,3,6,,29,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Chicken Caesar Asiago,,260,8,3.5,0,70,580,21,4,3,,27,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Chicken Cobb with Avocado,,430,24,9,0,250,1080,16,5,7,,39,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Mediterranean Salad,,350,24,7,0,25,740,24,8,7,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Side Garden,,50,0,0,0,0,35,11,4,5,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salads,Southwest Chicken,,310,9,1.5,0,60,530,31,10,10,,27,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,ABP Croutons,,90,2.5,0,0,0,140,14,1,1,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Balsamic Vinaigrette,,100,9,1,0,0,400,5,0,3,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Caesar Dressing,,220,24,4,0,20,350,1,0,0,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Chili Lime Vinaigrette,,120,10,1,0,0,340,8,0,7,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Green Goddess Dressing,,210,22,3.5,0,15,320,3,0,2,,1,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Lemon Vinaigrette,,170,16,2.5,0,0,400,8,0,6,,0,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Salad Dressings,Ranch Dressing,,200,20,3,0,20,300,4,0,2,,1,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"12 Veggie Soup, Large",,240,8,0.5,0,0,1200,36,5,14,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"12 Veggie Soup, Medium",,180,6,0,0,0,900,27,4,11,,4,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"12 Veggie Soup, Small",,120,4,0,0,0,600,18,2,7,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Baked Stuffed Potato Soup, Large",,510,33,16,1,85,1400,46,4,2,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Baked Stuffed Potato Soup, Medium",,390,24,12,0.5,65,1050,34,3,2,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Baked Stuffed Potato Soup, Small",,260,16,8,0,45,700,23,2,1,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Broccoli Cheddar Soup, Large",,450,32,15,1,80,1390,27,4,7,,14,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Broccoli Cheddar Soup, Medium",,340,24,11,0.5,60,1040,20,3,6,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Broccoli Cheddar Soup, Small",,220,16,7,0,40,690,13,2,4,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Chicken Noodle Soup, Large",,160,3.5,1,0,40,1370,20,2,3,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Chicken Noodle Soup, Medium",,120,2.5,1,0,30,1030,15,1,3,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Chicken Noodle Soup, Small",,80,2,0.5,0,20,690,10,1,2,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Clam Chowder, Large",,460,26,10,0.5,75,1490,42,3,12,,15,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Clam Chowder, Medium",,350,20,8,0,55,1120,32,2,9,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Clam Chowder, Small",,230,13,5,0,40,740,21,1,6,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Italian Wedding Soup, Large",,210,10,3,0,25,1110,20,3,5,,10,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Italian Wedding Soup, Medium",,160,7,2,0,20,830,15,2,4,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Italian Wedding Soup, Small",,100,5,1.5,0,15,560,10,1,2,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lemon Orzo Chicken Soup, Large",,310,16,7,0,65,1590,26,2,3,,16,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lemon Orzo Chicken Soup, Medium",,230,12,6,0,50,1190,20,1,3,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lemon Orzo Chicken Soup, Small",,150,8,3.5,0,30,790,13,1,2,,8,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lobster & Corn Bisque, Large",,370,22,12,0,90,1470,33,2,6,,12,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lobster & Corn Bisque, Medium",,280,16,9,0,65,1100,25,1,4,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Lobster & Corn Bisque, Small",,190,11,6,0,45,740,17,1,3,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Southwest Tortilla Soup, Large",,240,12,4,0,15,1090,32,3,7,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Southwest Tortilla Soup, Medium",,180,9,3,0,10,810,24,3,5,,4,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Southwest Tortilla Soup, Small",,120,6,2,0,10,540,16,2,3,,2,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Tomato Basil Bisque, Large",,320,14,9,0,50,500,40,3,22,,9,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Tomato Basil Bisque, Medium",,240,11,7,0,40,380,30,2,17,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Tomato Basil Bisque, Small",,160,7,4.5,0,25,250,20,1,11,,4,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetable Beef Barley, Large",,210,4.5,1.5,0,35,920,30,5,8,,14,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetable Beef Barley, Medium",,150,3.5,1.5,0,25,690,22,3,6,,11,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetable Beef Barley, Small",,100,2.5,1,0,20,460,15,2,4,,7,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetarian Minestrone, Large",,150,1.5,0,0,0,1400,29,5,9,,6,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetarian Minestrone, Medium",,120,1,0,0,0,1050,22,4,7,,5,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Soups,"Vegetarian Minestrone, Small",,80,0.5,0,0,0,700,15,3,4,,3,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Macaroni and Cheese, Large",,1170,57,35,2,195,1470,122,4,5,,40,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Macaroni and Cheese, Medium",,880,43,26,1.5,145,1100,92,3,4,,30,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Macaroni and Cheese, Small",,590,29,18,1,95,730,61,2,2,,20,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Turkey Chili, Large",,450,12,2,0,40,900,59,21,8,,26,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Turkey Chili, Medium",,330,9,1.5,0,30,680,44,15,6,,19,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
+aubonpain,Specialty Soups,"Turkey Chili, Small",,220,6,1,0,20,450,29,10,4,,13,,,https://www.nutritionix.com/au-bon-pain/menu/premium,2026-10-27
