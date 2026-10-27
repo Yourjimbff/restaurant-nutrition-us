@@ -1,0 +1,759 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+cheesecakefactory,All Day Brunch Cocktails,Peach Bellini Spritz,,280,0,0,0,0,2,37,0,35,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Peach Bellini Spritz (UT),,250,0,0,0,0,2,34,0,32,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Factory Peach Bellini,,250,0,0,0,0,10,46,1,44,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Tropical Mimosa,,250,0,0,0,0,10,34,0,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Tropical Mimosa (PR),,230,0,0,0,0,10,32,0,30,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Tropical Mimosa (UT),,240,0,0,0,0,10,34,0,32,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,White Sangria,,250,0,0,0,0,1,33,0,30,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,White Sangria (NC),,210,0,0,0,0,1,28,0,25,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,White Sangria (PR),,230,0,0,0,0,1,30,0,28,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,White Sangria (HI),,270,0,0,0,0,1,36,0,34,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Strawberry Spritz,,300,0,0,0,0,1,21,0,18,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Strawberry Spritz (PR),,280,0,0,0,0,1,21,0,19,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Martini,,250,0,0,0,0,2,23,0,22,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Martini (PR),,250,0,0,0,0,2,23,0,22,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Martini (UT),,210,0,0,0,0,2,19,0,18,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Martini (SUB),,240,0,0,0,0,1,21,0,21,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Old Fashioned,,340,0,0,0,0,25,40,0,36,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Old Fashioned (PR),,340,0,0,0,0,30,41,0,37,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Espresso Old Fashioned (UT),,260,0,0,0,0,20,29,0,27,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Bloody Mary,,360,4,0.5,0,5,1180,51,23,30,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Coconut Aperol Spritz (HI),,260,0,0,0,0,10,36,0,35,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Lilikoi Mimosa (HI),,240,0,0,0,0,10,34,0,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,All Day Brunch Cocktails,Banana Nut Old Fashioned,,250,1,1,0,0,0,17,0,16,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Fresh Cucumber Martini,,230,0,0,0,0,1,19,0,18,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Lemon Drop,,270,0,0,0,0,2,28,0,27,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Raspberry Lemon Drop,,270,0,0,0,0,2,32,1,30,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Cucumber Martini (PR),,260,0,0,0,0,10,28,0,24,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Strawberry Martini,,250,0,0,0,0,2,14,0,13,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Strawberry Martini (UT),,200,0,0,0,0,2,14,0,14,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Georgia Peach,,350,0,0,0,0,10,55,1,53,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Georgia Peach (UT),,330,0,0,0,0,10,55,1,53,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Pineapple Moscow Mule,,320,0,0,0,0,20,49,1,46,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Pineapple Moscow Mule (UT),,280,0,0,0,0,20,45,1,42,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Yuzu Lemon Drop,,260,0,0,0,0,1,30,0,28,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Yuzu Lemon Drop (PR),,240,0,0,0,0,1,27,0,25,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Sangria,,160,0,0,0,0,10,24,2,21,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,SkinnyLicious® Sangria,,130,0,0,0,0,10,19,1,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,J.W.’s Pink Lemonade™,,300,0,0,0,0,10,49,1,45,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,J.W.’s Pink Lemonade™ (UT),,290,0,0,0,0,10,50,1,47,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,J.W.’s Pink Lemonade™ (PR),,270,0,0,0,0,10,45,1,41,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Lava Flow Punch,,250,6,1,0,5,1000,0,3,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Mai Tai,,310,0,0,0,0,10,31,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Mai Tai (UT),,290,0,0,0,0,10,31,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,Mai Tai (PR),,300,0,0,0,0,10,33,0,31,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,The Well-Mannered Dirty Martini,,250,6,1,0,5,1000,0,3,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Drinks,The Well-Mannered Dirty Martini (UT),,140,5,1,0,5,830,0,3,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Lava Flow 2.0,,350,1.5,1,0,0,20,38,1,36,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Coconut Margarita,,220,0,0,0,0,210,31,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Island Time Sangria,,230,0,0,0,0,5,33,2,29,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Maui Mule,,310,0,0,0,0,10,47,1,44,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Tahitian Pineapple,,280,0,0,0,0,1,31,1,28,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Mai Tai (HI),,310,0,0,0,0,25,39,0,37,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Blue Hawaiian,,290,0,0,0,0,10,42,1,39,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Lava Flow,,490,9,8,0,0,35,79,4,69,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Mango Colada (HI),,530,7,6,0,0,25,62,1,61,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Coconut Lime Daiquiri,,280,1.5,1,0,0,15,37,1,34,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Piña Colada,,520,8,7,0,0,35,75,2,73,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Ohana Punch,,290,0,0,0,0,3,42,0,39,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Island Favorites (Hi),Big Island Paper Plane,,260,0,0,0,0,4,28,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Zero Proof Cocktails,Zero Proof PIneapple Mule,,150,0,0,0,0,10,37,0,36,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Zero Proof Cocktails,Zero Proof Mojito,,100,0,0,0,0,10,24,1,20,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Paradise Punch,,120,0,0,0,0,3,31,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Coconut Limeade,,190,0.5,0,0,0,20,44,0,42,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Pineapple Cherry Limeade,,150,0,0,0,0,15,37,1,34,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Sparkling Yuzu Lemonade,,130,0,0,0,0,4,34,0,32,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Passion Mint Fizz,,110,0,0,0,0,15,27,1,24,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Tropical Ginger Cooler,,140,0,0,0,0,15,36,0,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Pineapple Coconut Dream,,390,16,10,0.5,55,45,62,1,61,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Guava Sparkler (HI),,160,0,0,0,0,15,39,1,35,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Sparkling Grapefruit Cooler,,150,0,0,0,0,560,36,0,34,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Peaches & Cream Soda,,330,15,9,0.5,55,30,49,1,48,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Cherry-Licious Soda,,380,15,10,0.5,55,15,36,0,53,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Root Beer “Float” Soda,,310,15,10,0.5,55,25,44,0,42,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Coconut Vanilla Dr Pepper® (UT),,400,15,10,0.5,55,40,66,0,62,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Non-Alcoholic Specialty Sodas,Matcha Cream (UT),,330,15,9,0.5,55,30,48,1,46,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,The Ultimate,,260,0,0,0,0,170,25,0,23,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Paloma Rosa,,320,0,0,0,0,560,36,1,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Coconut Margarita (UT),,250,0,0,0,0,160,27,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Passion Fruit Margarita,,270,0,0,0,0,10,29,0,27,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Pineapple Mezcal,,290,0,0,0,0,250,36,1,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Pineapple Mezcal (PR),,270,0,0,0,0,250,36,1,33,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Mojito,,240,0,0,0,0,115,30,2,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Mojito (PR),,260,0,0,0,0,15,31,2,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,SkinnyLicious® Mojito,,150,0,0,0,0,210,16,1,8,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Coconut Mojito,,300,2,1,0,0,35,44,1,41,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Coconut Mojito (PR),,310,2,1,0,0,30,45,1,41,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Coconut Mojito (UT),,270,1.5,1,0,0,95,40,1,36,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Passion Fruit Mojito,,270,0,0,0,0,20,34,1,31,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Margaritas & Mojitos,Passion Fruit Mojito (PR),,260,0,0,0,0,20,34,1,31,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Raspberry Sour,,300,0,0,0,0,0,32,0,30,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Southern Peach Lemonade,,280,0,0,0,0,3,32,1,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Whiskey Smash,,190,0,0,0,0,10,22,0,21,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Whiskey Smash (PR),,220,0,0,0,0,10,31,1,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Japanese Whisky Sour,,250,0,0,0,0,1,26,0,25,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Japanese Whisky Sour (UT),,240,0,0,0,0,1,26,0,25,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Whisky & Ginger,,220,0,0,0,0,10,29,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Whisky & Ginger (UT),,200,0,0,0,0,10,29,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,Whisky & Ginger (PR),,230,0,0,0,0,10,29,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,The Old Fashioned,,280,0,0,0,0,0,10,0,18,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Whiskey Cocktails,The Old Fashioned (UT),,230,0,0,0,0,0,10,0,13,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Draft Beer (glass),,250,0,0,0,0,15,1,0,0,,4,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Draft Light Beer (glass),,120,0,0,0,0,15,7,0,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Bottled Beer (16 oz),,270,0,0,0,0,20,1,0,0,,4,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Bottled Light Beer (12 oz),,100,0,0,0,0,15,6,0,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Stella 0.0 Non- Alcoholic Beer,,60,0,0,0,0,0,13,0,0,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beers,Hazy IPA Non- Alcoholic Beer,,70,0,0,0,0,0,16,0,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sparkling Wine,Sparkling Wine (5-1/2 oz),,130,0,0,0,0,1,4,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sparkling Wine,Sparkling Wine (5 oz) (UT),,120,0,0,0,0,1,4,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sparkling Wine,Sparkling Wine Bottle 375ml,,300,0,0,0,0,3,9,0,5,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sparkling Wine,Sparkling Wine Bottle 750ml,,600,0,0,0,0,5,19,0,10,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,White Wine,White Wine (6-1/2 oz),,160,0,0,0,0,10,5,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,White Wine,White Wine (9 oz),,220,0,0,0,0,15,7,0,3,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,White Wine,White Wine (5 oz) (UT),,120,0,0,0,0,5,4,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,White Wine,White Wine Bottle,,630,0,0,0,0,35,19,0,7,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Red Wine,Red Wine (6-1/2 oz),,160,0,0,0,0,10,5,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Red Wine,Red Wine (9 oz),,220,0,0,0,0,10,7,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Red Wine,Red Wine (5 oz) (UT),,120,0,0,0,0,5,4,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Red Wine,Red Wine Bottle,,630,0,0,0,0,30,19,0,5,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Little House Salad,,260,25,2,0,0,250,10,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Street Corn,,710,54,14,0.5,40,1000,48,5,17,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Chicken Taquitos,,470,29,9,0,60,1050,35,7,6,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Korean Fried Cauliflower,,1150,71,13,0,20,2570,113,7,44,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Stuffed Mushrooms,,510,42,22,1.5,105,500,19,4,5,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Fried Zucchini,,1000,76,21,1,55,2050,58,4,14,,21,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Crispy Brussels Sprouts,,570,46,13,0.5,30,410,30,8,15,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Beet and Avocado Salad,,290,12,3,0,5,480,41,8,29,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Cheeseburger Spring Rolls,,980,69,27,2,170,1890,47,3,13,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Crispy Crab Bites,,410,31,6,0,85,600,19,2,5,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Crispy Fried Cheese,,1070,78,39,1.5,150,2320,49,3,4,,45,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Crab Wontons,,550,34,11,1,70,1050,48,2,18,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Mini Crabcakes (HI),,530,42,8,0,130,930,15,2,6,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Grilled Chicken Mini Tacos (MDR),,650,32,7,0,120,1480,43,5,10,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Small Plates & Snacks,Crispy Fish Mini Tacos (MDR),,530,30,4,0,25,920,49,5,9,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Roadside Sliders - Serves 2-4,,800,35,13,2,135,1720,70,1,18,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Chicken Pot Stickers - Serves 2-4,,380,12,2.5,0,90,2550,38,1,13,,27,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Tex Mex Eggrolls - Serves 2-4,,930,53,14,0.5,120,2030,72,10,12,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Quesadilla - Serves 2-4,,1120,77,46,1.5,170,2070,62,7,6,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Quesadilla (ABQ) - Serves 2-4,,1120,78,46,1.5,170,1950,61,7,5,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Quesadilla with Chicken - Serves 2-4,,1230,81,46,1.5,235,2300,62,7,6,,69,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Quesadilla with Chicken (ABQ) - Serves 2-4,,1240,81,46,1.5,235,2180,61,7,5,,69,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Quesadilla with Kalua Pork (HI) - Serves 2-4,,1340,90,50,1.5,265,2450,63,7,6,,73,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Thai Chili Shrimp - Serves 2-4,,700,52,10,0,75,950,35,1,7,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Avocado Eggrolls - Serves 2-4,,930,48,10,0,15,1300,111,14,38,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Fried Macaroni and Cheese - Serves 2-4,,1310,96,47,2.5,245,2140,70,6,12,,40,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Warm Crab Dip - Serves 2-4,,1220,92,34,1.5,195,1720,69,3,9,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Fried Calamari - Serves 2-4,,1520,105,20,1,705,1850,98,5,10,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Eggroll Sampler - Serves 2-4,,1320,76,21,1,135,2320,114,17,36,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Spicy Tuna* - Serves 2-4,,460,22,4,0,40,1490,46,2,15,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Ahi Poke Nachos* - Serves 2-4,,1020,63,10,0.5,55,1740,85,7,21,,27,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Hot Spinach and Cheese Dip - Serves 2-4,,1730,126,57,2.5,225,1590,115,13,9,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Buffalo Blasts® - Serves 2-4,,1670,93,25,1.5,190,7080,129,10,11,,78,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Thai Lettuce Wraps with Satay Chicken Strips - Serves 2-4,,850,27,7,0,125,1990,105,9,69,,51,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Small Thai Lettuce Wraps with Satay Chicken Strips,,500,16,4,0,60,1270,65,5,46,,27,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Thai Lettuce Wraps with Grilled Avocado - Serves 2-4,,830,42,8,0,0,1910,110,18,64,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Small Thai Lettuce Wraps with Grilled Avocado,,500,24,4.5,0,0,1230,68,10,43,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Sweet Corn Tamale Cakes - Serves 2-4,,1340,88,44,2.5,210,1710,119,19,42,,16,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Pretzel Bites with Cheddar Cheese Fondue - Serves 2-4,,1010,61,34,2,130,2470,84,3,11,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Factory Nachos - Serves 2-4,,2670,192,84,5,320,2680,173,21,25,,63,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Factory Nachos with Spicy Chicken - Serves 2-4,,2950,211,85,6,370,3350,180,22,29,,83,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Factory Nachos with Kalua Pork (HI) - Serves 2-4,,2880,204,88,5,415,3070,174,21,25,,88,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Buffalo Wings - Serves 2-4,,1120,69,18,0,515,5020,16,2,4,,109,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Buffalo Chicken Strips - Serves 2-4,,1090,48,11,0,135,4950,87,7,12,,76,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Ahi Poke (HI) - Serves 2,,470,10,1.5,0,95,3030,46,3,34,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Spicy Ahi Tempura Roll (HI) - Serves 2-4,,770,51,9,0.5,70,1910,45,3,11,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Spicy Tuna (HI) - Serves 2-4,,460,22,4,0,40,1490,46,2,15,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Appetizers,Mini Crab Cakes (HI) - Serves 2-4,,530,42,8,0,130,930,15,2,6,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Cup of Clam Chowder,,310,19,11,0.5,70,990,24,2,2,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Cup of Cream of Chicken Soup,,390,25,15,1,125,1030,25,3,10,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Cup of Mexican Chicken and Vegetable Soup,,340,19,7,0,40,1530,27,4,8,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Bowl of Clam Chowder,,500,30,18,1,115,1580,39,4,3,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Bowl of Cream of Chicken Soup,,630,40,23,1.5,195,1650,40,4,16,,28,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Soups,Bowl of Mexican Chicken and Vegetable Soup,,680,39,15,0.5,75,3070,54,7,17,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Flatbread Pizzas,Cheese Flatbread,,1000,50,31,1,125,2530,86,4,3,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Flatbread Pizzas,Margherita Flatbread,,760,30,15,0,55,1770,85,4,4,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Flatbread Pizzas,"Fresh Basil, Tomato and Cheese",,850,38,25,0.5,95,2300,84,4,3,,42,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Flatbread Pizzas,Pepperoni Flatbread,,1170,66,34,1,165,3420,88,5,3,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,French Fries (Glamburgers®),,530,23,4,0,0,1250,76,5,13,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Green Salad,,130,12,1,0,0,125,5,1,2,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Sweet Potato Fries (Glamburgers®),,510,20,3.5,0,0,1150,78,11,38,,4,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Old Fashioned Burger,,990,60,22,2.5,195,1880,64,3,19,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Double Smash Cheeseburger,,1140,70,31,3,230,3180,72,3,26,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Bistro Burger,,1330,74,25,2.5,165,3190,106,4,36,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Classic Burger,,1280,83,30,3,255,2520,69,4,23,,61,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,French Dip Cheeseburger,,1620,118,48,3,305,3470,79,5,23,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Smokehouse B.B.Q. Burger,,1580,97,39,3.5,280,3070,106,3,42,,68,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Americana Cheeseburger,,1390,90,37,3,255,3410,82,4,29,,60,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Macaroni and Cheese Burger,,1340,85,40,3.5,275,2430,81,4,20,,60,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Green Chile Cheeseburger (ABQ),,1270,80,35,3.5,265,2570,73,4,20,,61,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Bacon-Bacon Cheeseburger,,1610,110,44,3.5,315,3530,78,3,30,,75,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Factory Turkey Burger,,1060,69,24,1,205,2110,59,7,17,,53,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Glamburgers®,Veggie Burger,,1040,50,13,0,0,2920,129,10,32,,19,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad,,190,11,2.5,0,5,230,19,3,4,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad with Balsamic Vinaigrette,,660,60,6,0.5,5,680,25,4,8,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad with Blue Cheese Dressing,,530,42,13,0,50,900,25,4,8,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad with SK Mustard Vinaigrette,,280,16,3,0,5,1130,28,4,8,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad with Ranch Dressing,,610,51,10,0,30,840,26,4,10,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Tossed Green Salad with Thousand Island Dressing,,630,52,10,0,30,900,31,4,15,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Caesar Salad,,860,75,16,0,50,1100,30,8,9,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Caesar Salad with Chicken,,1090,81,17,0,175,1640,30,8,9,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Factory Chopped Salad,,780,59,11,0.5,85,1360,34,10,17,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Fried Chicken Club Salad,,1530,119,27,1,320,2920,64,7,28,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Vegan Cobb Salad,,1060,89,9,0.5,0,1310,55,19,18,,16,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Chinese Chicken Salad,,1630,102,14,1,80,2960,135,11,62,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Thai Chicken Salad,,1210,63,10,0,155,2670,93,14,63,,73,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Sheila’s Chicken and Avocado Salad,,1820,124,16,0.5,80,2150,134,22,57,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Luau Salad (HI),,1370,86,12,0.5,85,1930,110,11,58,,45,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Barbeque Ranch Chicken Salad,,1950,124,22,0,125,2920,151,22,64,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Santa Fe Salad,,1670,112,25,1,135,2450,108,19,39,,68,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Cobb Salad,,1480,124,24,1.5,365,2460,30,11,13,,66,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salads,Seared Tuna Tataki Salad,,450,29,2.5,0,45,1280,16,5,8,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Additions,Avocado (Additions),,160,14,2,0,0,5,8,6,0,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Additions,Grilled Chicken,,220,7,1,0,130,470,0,0,0,,39,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Additions,Grilled Shrimp,,90,1,0,0,155,115,2,0,0,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Additions,Grilled Salmon (Additions),,220,12,2,0,65,105,2,0,0,,26,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Additions,Chargrilled Steak,,200,7,3,0,95,410,0,0,0,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Balsamic Vinaigrette,,80,8,0.5,0,0,75,1,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Barbeque Ranch Dressing,,80,7,1.5,0,5,130,3,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Blue Cheese Dressing,,60,5,1.5,0,10,110,1,0,1,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Caesar Dressing,,80,7,1.5,0,5,90,1,0,1,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Chinese Plum Dressing,,60,4.5,0,0,0,260,6,0,6,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Cilantro Dressing,,60,6,0.5,0,1,60,1,0,1,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Citrus Honey Dressing,,60,4.5,0,0,0,50,4,0,3,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Ketchup,,20,0,0,0,0,160,5,0,4,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Ranch Dressing,,70,7,1.5,0,5,100,1,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Shallot Vinaigrette,,90,9,0.5,0,0,55,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),SkinnyLicious® Mustard Vinaigrette,,15,1,0,0,0,150,1,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),SkinnyLicious® Sesame Soy Dressing,,20,0,0,0,0,250,3,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Spicy Peanut Vinaigrette,,60,4,0.5,0,0,180,4,0,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Salad Dressings & Condiments (Per Tbl.),Thousand Island Dressing,,70,7,1.5,0,5,110,2,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Specials — Renee’s Special,One-Half Fresh Turkey Sandwich,,790,43,16,0,130,1860,69,4,14,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Specials — Renee’s Special,One-Half Chicken-Almond Salad Sandwich,,850,62,17,0,100,1280,49,5,9,,23,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Specials — Renee’s Special,Cup of Soup,,310-390,,,,,,,,,,,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Specials — Renee’s Special,Small Green Salad,,260,25,2,0,0,250,9,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Specials — Renee’s Special,Small Caesar Salad,,440,38,8,0,25,570,15,4,5,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Soup And Salad,Cup of Soup,,310-390,,,,,,,,,,,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Soup And Salad,Small Green Salad,,260,25,2,0,0,250,9,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Cobb Salad (Lunch),,1040,88,17,1,265,1420,22,7,10,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Santa Fe Salad (Lunch),,1130,76,15,0.5,80,1520,76,14,26,,42,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Chinese Chicken Salad (Lunch),,970,60,8,0.5,50,2040,82,6,44,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Barbeque Ranch Chicken Salad (Lunch),,1210,75,14,0,80,2080,98,17,45,,35,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Vegan Cobb Salad (Lunch),,830,72,7,0,0,1090,38,13,12,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salads,Sheila’s Chicken and Avocado Salad (Lunch),,1100,75,10,0,45,1280,80,13,37,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Cheese Flatbread,,1000,50,31,1,125,2530,86,4,3,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Margherita Flatbread,,760,30,15,0,55,1770,85,4,4,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,"Fresh Basil, Tomato and Cheese Flatbread",,850,38,25,0.5,95,2300,84,4,3,,42,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Pepperoni Flatbread,,1170,66,34,1,165,3420,88,5,3,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Pepperoni Flatbread with Hot Honey,,1200,66,34,1,165,3430,96,5,11,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Bee Sting Flatbread,,1170,62,30,1,145,3280,97,5,8,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Hawaiian Flatbread (HI),,970,40,25,0.5,125,2900,97,4,11,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Kalua Pig Flatbread (HI),,1100,51,29,1,190,2490,93,4,8,,65,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Small Green Salad,,260,25,2,0,0,250,9,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Flatbread Pizza And Salad,Small Caesar Salad,,440,38,8,0,25,570,15,4,5,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Fettuccini Alfredo (Lunch),,1450,94,57,3,210,2000,113,5,6,,39,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Fettuccini Alfredo with Chicken (Lunch),,1570,96,57,3,275,2230,113,5,6,,63,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Four Cheese Pasta (Lunch),,950,41,15,0.5,65,3040,111,9,18,,35,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Four Cheese Pasta with Chicken (Lunch),,1060,43,16,0.5,130,3470,111,9,18,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Pasta Carbonara (Lunch),,1430,92,45,2.5,205,2630,112,8,7,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Pasta Carbonara with Chicken (Lunch),,1540,94,45,2.5,270,2870,112,8,7,,61,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Pasta da Vinci (Lunch),,1050,57,23,1.5,170,1540,85,8,10,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Spaghetti and Meatballs (Lunch),,1390,72,16,1,95,4030,140,14,25,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Pasta with Shrimp and Sausage (HI) (Lunch),,1310,71,21,1,140,3600,116,9,18,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Louisiana Chicken Pasta (Lunch),,1380,80,43,2.5,310,2790,113,7,11,,53,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Spicy Chicken Chipotle Pasta (Lunch),,1290,68,25,1.5,140,2620,123,10,18,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Evelyn’s Favorite Pasta (Lunch),,940,49,15,1,40,1920,102,8,7,,24,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Farfalle with Chicken and Roasted Garlic (Lunch),,1070,50,24,1,175,2440,99,8,11,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Pasta,Spicy Rigatoni Vodka (Lunch),,1080,71,27,1.5,135,2890,86,9,20,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Chicken Specials,Crusted Chicken Romano (Lunch),,1100,55,19,1,220,2810,96,9,15,,57,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Chicken Specials,Chicken Piccata (Lunch),,1340,82,43,2.5,315,2750,85,5,6,,66,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Chicken Specials,Orange Chicken (Lunch),,1330,54,9,1.5,65,1810,170,4,47,,42,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Favorites,Famous Factory Meatloaf (Lunch),,1400,84,41,3,290,3660,105,7,43,,52,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Favorites,Shepherd’s Pie (Lunch),,1030,60,30,3,220,2670,66,10,12,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salmon,Grilled Salmon (Lunch),,940,64,19,0.5,160,1330,42,6,4,,47,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salmon,Herb Crusted Filet of Salmon (Lunch),,1150,86,34,2,235,1140,42,4,4,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salmon,Miso Salmon (Lunch),,1000,48,24,1.5,195,1260,96,2,26,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salmon,Cajun Salmon (Lunch),,1250,92,38,2.5,265,1540,59,6,16,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Lunch Salmon,Thai Glazed Salmon (PR) (Lunch),,840,31,10,0,100,1240,89,4,18,,52,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,One-Half Fresh Turkey Sandwich,,790,43,16,0,130,1860,69,4,14,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,One-Half Chicken-Almond Salad Sandwich,,850,62,17,0,100,1280,49,5,9,,23,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Cup of Soup,,310-390,,,,,,,,,,,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Small Green Salad,,260,25,2,0,0,250,9,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Small Caesar Salad,,440,38,8,0,25,570,15,4,5,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Chicken Shawarma,,1890,106,21,0,155,5350,163,12,33,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Chicken Salad Sandwich,,1180,78,19,0.5,145,2320,77,7,17,,41,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Cuban Sandwich,,1170,69,22,1.5,155,3210,66,3,3,,70,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,The Club,,1290,68,17,0,130,3240,112,6,24,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Grilled Chicken and Avocado Club,,1180,81,13,0,180,1860,79,5,8,,71,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Spicy Crispy Chicken Sandwich - Spicy Buffalo Sauce,,1090,66,24,0.5,245,2710,62,2,8,,62,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Spicy Crispy Chicken Sandwich - Chipotle Mayo,,1170,74,24,0.5,240,1790,62,2,8,,60,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Crispy Fish Sandwich,,1460,104,30,1.5,295,2760,71,4,16,,53,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Blackened Fish Sandwich,,1270,94,25,1,185,2900,62,4,17,,38,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Chicken Parmesan Sandwich,,1830,121,62,3.5,240,3600,100,5,7,,87,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Modern Cheesesteak,,1490,98,37,3,285,3610,83,5,8,,76,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,B.B.Q. Kalua Pork (HI),,930,45,17,0,240,1650,71,3,22,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Hawaiian Fish Sandwich - Mahi (HI),,750,33,11,0,180,1680,71,5,23,,41,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Hawaiian Fish Sandwich - Ahi (HI),,760,33,11,0,130,1690,71,5,23,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Hawaiian Fish Sandwich - Salmon (HI),,870,48,14,0,135,1600,71,5,23,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Sandwiches — Renee’s Special,Hawaiian Fish Sandwich - Ono (HI),,740,33,11,0,120,1670,71,5,23,,40,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Green Chile Chicken Enchiladas,,1420,67,27,1.5,180,2760,143,21,11,,65,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Korean Fried Chicken,,1810,72,13,1.5,80,3930,239,12,66,,51,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Chicken Parmesan “Pizza Style”,,1940,123,61,3,650,3730,90,5,10,,120,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Chicken Tenders,,1500,76,32,2,245,2900,145,9,49,,62,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Crispy Pineapple Chicken and Shrimp,,1630,50,8,0,150,2500,242,7,92,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Shepherd’s Pie,,1400,81,40,4,300,3290,90,13,16,,74,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Famous Factory Meatloaf,,1930,115,55,3.5,405,5100,144,9,59,,75,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Baja Chicken Tacos,,1410,61,20,1,200,2680,137,16,11,,80,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Grilled Fish Tacos,,1320,62,14,0.5,115,2580,141,17,15,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Crispy Hand Battered Fish Tacos,,1610,80,17,1,110,2740,156,17,13,,60,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Grilled Steak Tacos,,1580,81,24,1.5,165,2720,147,17,12,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Chicken Madeira,,1300,73,35,2,415,2390,72,9,11,,89,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Chicken Bellagio,,2020,116,32,1.5,395,4660,144,7,6,,98,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Crusted Chicken Romano,,1800,94,37,1.5,435,4420,132,13,20,,107,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Orange Chicken,,1750,69,12,1.5,80,2730,233,6,77,,52,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Orange Cauliflower,,1390,54,9,0,0,2280,205,10,67,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Truffle-Honey Chicken,,1700,107,37,2,275,3030,115,9,15,,71,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Parmesan-Herb Crusted Chicken,,1370,78,42,2.5,415,3350,62,6,5,,105,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Crispy Chicken Costoletta,,1800,120,51,2.5,500,2990,104,12,9,,77,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Chicken Piccata,,1420,85,44,2.5,355,2920,86,6,7,,79,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialties,Bang-Bang Chicken and Shrimp,,1370,56,22,0,235,1370,144,8,26,,75,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Tomato Basil Pasta,,1720,88,18,1,115,4910,162,18,44,,72,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Fettuccini Alfredo,,1930,128,78,4.5,285,2570,143,6,8,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Fettuccini Alfredo with Chicken,,2120,132,78,4.5,390,2960,143,6,8,,91,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Pasta Carbonara,,2030,139,68,3.5,315,3480,141,10,11,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Pasta Carbonara with Chicken,,2220,142,69,3.5,420,3860,141,10,11,,90,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Four Cheese Pasta,,1280,62,26,1,115,4110,132,11,23,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Four Cheese Pasta with Chicken,,1480,66,27,1,220,4890,132,11,23,,90,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Spicy Rigatoni Vodka,,1570,100,38,2,185,4470,131,13,27,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Spaghetti and Meatballs,,1920,105,24,2,140,5550,179,19,34,,66,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Evelyn’s Favorite Pasta,,1270,75,27,1.5,75,2520,122,11,12,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Pasta da Vinci,,1540,83,36,2,260,2380,129,10,20,,71,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Louisiana Chicken Pasta,,2270,132,67,4,555,4660,176,10,17,,98,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Farfalle with Chicken and Roasted Garlic,,1870,97,48,2,330,4130,153,13,17,,95,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Spicy Chicken Chipotle Pasta,,1770,103,37,2,215,3230,146,13,24,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Pasta with Shrimp and Sausage (HI),,1780,97,30,1,205,5090,156,14,28,,68,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Pasta,Cajun Jambalaya Pasta,,1270,49,28,1.5,455,3000,125,7,13,,83,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Fish & Chips,,1930,115,22,1.5,305,3580,135,9,37,,79,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Shrimp and Chicken Gumbo,,1450,82,38,2.5,445,2280,93,2,12,,84,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Shrimp Scampi,,1260,76,37,2,335,2340,105,7,7,,41,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Thai Glazed Salmon (PR),,1040,31,11,0,130,1470,121,6,19,,70,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Jamaican Black Pepper Shrimp,,1290,27,7,0,360,1940,195,17,70,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Jamaican Black Pepper Chicken,,1390,29,7,0,225,1710,192,14,69,,90,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Jamaican Black Pepper Chicken and Shrimp,,1340,30,8,0,275,1720,195,17,69,,72,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Grilled Salmon (Fish & Seafood),,1270,84,25,1,225,1640,64,9,5,,62,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Cajun Salmon,,1570,114,49,3,340,2030,77,7,17,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Herb Crusted Filet of Salmon,,1350,93,43,2.5,290,1620,65,5,4,,64,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Miso Salmon,,1340,67,31,1.5,240,1430,120,5,27,,64,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Grilled Branzino,,1410,94,40,2.5,290,1910,66,7,5,,72,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Macadamia Crusted Fresh Hawaiian Fish - Mahi (HI),,1340,75,25,1.5,290,1310,102,6,12,,64,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Macadamia Crusted Fresh Hawaiian Fish - Ahi (HI),,1420,80,26,1.5,230,1440,103,6,12,,79,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Macadamia Crusted Fresh Hawaiian Fish - Salmon (HI),,1660,110,32,1.5,235,1260,103,6,12,,65,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Macadamia Crusted Fresh Hawaiian Fish - Ono (HI),,1410,81,26,1.5,220,1500,102,6,12,,75,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Sesame Crusted Fresh Hawaiian Fish - Mahi (HI),,1470,66,7,0,235,5010,130,15,19,,88,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Sesame Crusted Fresh Hawaiian Fish - Ahi (HI),,1490,67,7,0,150,5060,130,15,19,,96,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Fish & Seafood,Sesame Crusted Fresh Hawaiian Fish - Salmon (HI),,1720,96,13,0,155,4880,130,15,19,,83,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Steaks & Chops,Carne Asada Steak,,1290,61,24,2,190,1350,132,8,20,,57,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Steaks & Chops,Steak Frites,,1530,90,33,3,135,2860,121,9,15,,58,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Steaks & Chops,Steak Diane,,1150,65,27,2,260,2750,67,6,14,,76,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Steaks & Chops,Grilled Rib-Eye Steak,,1360,88,43,4.5,300,2610,57,7,3,,86,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Steaks & Chops,Filet Mignon,,840,38,21,1.5,245,1680,56,7,3,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,French Fries (Side Dishes),,1060,46,8,0,0,2500,152,10,25,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Green Beans,,140,10,6,0,0,300,10,4,2,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Sweet Potato Fries (Side Dishes),,1010,52,9,0,10,1800,125,14,58,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Fresh Corn,,270,14,6,0,0,610,28,8,11,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Mashed Potatoes,,450,25,15,1,80,820,49,4,2,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Sauteed Spinach,,650,67,41,2.5,125,1100,10,5,1,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Macaroni & Cheese,,1550,109,67,4.5,345,2690,92,5,9,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Broccoli,,260,18,3,0,10,710,15,8,2,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Steamed White Rice (PR),,440,1.5,0.5,0,0,80,98,2,0,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Black Beans (PR),,340,2.5,0,0,0,940,59,20,5,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Plantains (PR),,630,9,1.5,0,0,810,134,12,97,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Rice and Beans (PR),,510,14,8,0,30,830,82,9,2,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Side Dishes,Grilled Asparagus,,120,8,4.5,0,0,450,8,3,0,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Eggs & Omelettes,Farm Fresh Eggs,,280,25,12,0,425,150,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Eggs & Omelettes,Farm Fresh Eggs with Old Smokehouse® Bacon,,480,40,18,0.5,465,220,4,0,3,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Eggs & Omelettes,Farm Fresh Eggs with Grilled Ham,,440,29,14,0,505,1770,2,0,1,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Eggs & Omelettes,Farm Fresh Eggs with Chicken Sausage,,520,39,18,0,590,1440,3,0,2,,40,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Eggs & Omelettes,Brioche Breakfast Sandwich,,1030,67,28,1,530,1920,59,5,9,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Plain Omelette,,630,60,17,1,670,790,2,0,1,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Bacon,,140,13,4.5,0,25,230,0,0,1,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Ham,,60,1.5,0.5,0,30,610,0,0,0,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Cheddar Cheese,,230,19,12,1,70,380,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Jack Cheese,,210,18,11,1,70,380,1,0,0,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Swiss Cheese,,220,17,10,1,45,115,0,0,0,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Fontina Cheese,,180,14,10,0,45,400,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Avocado (Factory Create An Omelette),,40,3.5,0,0,0,1,2,2,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Roasted Peppers,,20,0,0,0,0,10,4,1,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Fresh Mushrooms,,15,0,0,0,0,10,2,1,0,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Asparagus,,25,1,0,0,0,80,3,1,1,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Spinach,,5,0,0,0,0,20,1,1,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Bell Peppers,,15,0,0,0,0,1,4,1,2,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Fresh Tomato,,10,0,0,0,0,2,2,1,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Red Onions,,10,0,0,0,0,1,3,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Green Onions,,5,0,0,0,0,2,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Shakshuka Omelette,,1020,64,30,1.5,745,2140,64,7,17,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,California Omelette,,1090,91,42,2.5,810,1570,13,4,4,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,"Spinach, Mushroom, Bacon and Cheese Omelette",,1050,90,46,2,820,1570,14,3,4,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Grilled Steak & Eggs,,720,60,28,0,540,740,2,0,1,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Factory Create An Omelette,Loco Moco (HI),,1750,108,34,3.5,595,1960,112,4,5,,81,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Breakfast Potatoes,,630,37,9,0,10,790,66,6,15,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Sliced Tomatoes,,25,0,0,0,0,5,5,2,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,White Toast,,330,5,2.5,0,0,730,64,2,8,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Wheat Toast,,270,4,0.5,0,0,560,49,5,8,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Bagel,,360,1.5,0,0,0,580,74,2,7,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,English Muffin,,190,1.5,0,0,0,310,37,2,2,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Sourdough Baguette,,260,1,0,0,0,660,55,2,1,,9,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Breakfast Accompaniments,Wheat Baguette,,370,5,0.5,0,0,560,73,6,15,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Giant Belgian Waffle,,690,41,22,1.5,115,680,77,1,50,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,"Giant Belgian Waffle with Strawberries, Pecans and Chantilly Cream",,950,56,27,1.5,135,750,108,5,76,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Fried Chicken & Waffles,,1190,61,26,1.5,215,1260,118,1,54,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Buttermilk Pancakes,,1670,78,28,1.5,195,3650,214,8,79,,30,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Cinnamon Roll Pancakes,,2370,125,53,3.5,350,3920,281,5,148,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Lemon-Ricotta Pancakes,,2110,105,44,2,365,3670,255,5,139,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Bruléed French Toast,,2120,161,83,4.5,670,1120,139,6,63,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Bruléed French Toast with Bacon,,2330,176,89,4.5,715,1190,143,6,66,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Bruléed French Toast with Grilled Ham,,2290,165,84,4.5,750,2740,141,6,64,,62,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Bruléed French Toast with Chicken Sausage,,2370,175,88,4.5,835,2410,141,6,65,,57,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Brunch Combo,,1110,77,38,2,555,1010,81,2,50,,26,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Eggs Benedict with Canadian Bacon and Hollandaise,,1350,105,57,3,365,2270,51,3,3,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Bacon And Avocado Benedict,,1520,125,62,3,350,1070,62,7,10,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Fried Chicken & Waffles Benedict,,1670,128,71,3.5,425,1440,96,3,48,,33,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Green Chilaquiles with Carnitas and Eggs,,1650,102,33,1,945,2560,100,12,15,,85,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Green Chilaquiles with Chicken and Eggs,,1620,100,29,1,990,3040,88,11,18,,90,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Monte Cristo Sandwich,,1960,121,64,3.5,870,2470,145,6,70,,74,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Jambalaya Hash & Eggs,,1750,128,68,3.5,750,2370,106,8,15,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Saturday & Sunday Brunch,Breakfast Burrito,,2080,139,69,3.5,950,4580,121,20,19,,88,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Original,,830,59,37,2,265,510,63,1,51,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Fresh Strawberry,,1000,69,43,2.5,305,550,82,2,66,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Oreo® Dream Extreme Cheesecake,,1510,93,51,2.5,290,800,166,7,122,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Ultimate Red Velvet Cake Cheesecake™,,1580,116,62,4,350,630,125,1,104,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Reese’s® Peanut Butter Chocolate Cake Cheesecake,,1510,95,44,2,245,940,154,8,121,,23,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Godiva® Chocolate Cheesecake,,1400,105,66,3,380,260,110,8,96,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Brownie Crunch Choc-A-Lot Cheesecake,,1500,111,66,3,385,580,121,5,105,,16,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Peach Perfect With Raspberry Drizzle,,1450,98,63,2.5,360,550,129,2,109,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Coconut Cream Pie Cheesecake,,1370,98,64,2.5,335,530,114,5,93,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Adam’s Peanut Butter Cup Fudge Ripple,,1250,82,43,2,245,750,118,5,94,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Triple Berry Bliss,,1300,86,50,2.5,305,580,122,2,94,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Cookie Dough Lover’s Cheesecake with Pecans,,1550,105,62,3,375,650,145,5,110,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Pineapple Upside-Down Cheesecake,,1260,83,47,2,310,510,109,1,99,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Celebration Cheesecake,,1380,98,58,3.5,370,740,114,1,87,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Cinnabon® Cinnamon Swirl Cheesecake,,1370,85,51,3,275,710,141,2,120,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Salted Caramel Cheesecake,,1240,73,43,2.5,300,750,130,2,107,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Toasted Marshmallow S’mores Galore™,,1550,108,67,3,350,570,141,6,102,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Dulce De Leche Caramel Cheesecake,,1390,110,61,3,385,600,107,2,83,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,White Chocolate Raspberry Truffle®,,1220,89,57,3,365,550,92,1,78,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Mango Key Lime Cheesecake,,1300,85,54,2.5,350,520,123,2,97,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Fresh Banana Cream Cheesecake,,1250,90,56,3,405,510,99,3,79,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes,Lemon Raspberry Cream Cheesecake,,1040,73,42,2.5,320,420,87,2,72,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Chocolate Tuxedo Cream® Cheesecake,,1250,90,55,2.5,305,400,109,5,87,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Chocolate Caramelicious Cheesecake Made With Snickers®,,1370,96,50,2.5,340,400,116,6,96,,19,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Chocolate Mousse Cheesecake,,1220,94,58,3,385,480,85,4,69,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Lemon Meringue Cheesecake,,1170,73,48,2,315,510,117,1,95,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Hershey’s® Chocolate Bar Cheesecake,,1320,85,49,2.5,275,610,135,7,109,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Vanilla Bean Cheesecake,,1170,88,57,2.5,325,480,84,1,68,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Tiramisu Cheesecake,,980,70,41,2,310,450,75,1,64,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Key Lime Cheesecake,,1160,86,53,3,470,430,92,1,74,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Caramel Pecan Turtle Cheesecake,,1300,88,50,2.5,340,450,124,6,102,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Low-Licious Cheesecake,,570,44,26,1,195,460,37,7,5,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Low-Licious Cheesecake with Strawberries,,580,44,26,1,195,460,39,8,7,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Pumpkin,,1040,79,48,2.5,330,500,76,2,60,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Pumpkin Pecan,,1270,90,46,2.5,355,450,105,4,74,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,A La Mode,,400,24,16,1,95,110,36,0,34,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Cheesecakes And Desserts,Hot Fudge,,280,20,13,0,40,20,27,3,19,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Linda’s Fudge Cake,,1450,66,29,1.5,145,1040,233,9,165,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Carrot Cake,,1720,122,57,3.5,300,1060,146,5,116,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Chocolate Tower Truffle Cake™,,1770,111,60,2.5,375,970,192,11,143,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Tiramisu,,1270,94,52,3,455,340,91,1,66,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Warm Apple Crisp,,1000,33,19,1,105,390,170,3,139,,9,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Fresh Strawberry Shortcake,,1340,76,47,1.5,265,1140,143,3,77,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specialty Desserts,Bowl of Fresh Strawberries,,250,15,9,0,55,15,26,5,19,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Ice Cream Delights,Hot Fudge Sundae,,1280,86,51,2.5,260,220,116,6,97,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Ice Cream Delights,Godiva® Chocolate Brownie Sundae - Serves 2-4,,1750,118,71,2,330,420,168,10,134,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Ice Cream Delights,Bowl of Vanilla Ice Cream,,750,51,32,2,195,180,60,0,57,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Creamy Milkshakes,Chocolate Milkshake,,1260,67,43,2.5,220,410,143,2,123,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Creamy Milkshakes,Vanilla Milkshake,,1210,66,42,2.5,220,370,132,0,117,,21,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Creamy Milkshakes,Strawberry Milkshake,,1210,59,37,2,190,320,154,4,131,,19,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Creamy Milkshakes,Oreo® Milkshake,,1630,90,50,3,235,770,182,2,134,,26,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Strawberry Fruit Smoothie,,340,6,4.5,0,0,25,74,5,62,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Tropical Smoothie,,400,5,4.5,0,0,35,87,2,83,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Peach Smoothie,,330,0,0,0,0,15,82,3,78,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Frozen Iced Mango,,360,4,3.5,0,0,20,80,2,76,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Strawberry Fruit Smoothie (HI),,350,6,4.5,0,0,25,76,5,64,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Tropical Smoothie (HI),,410,5,4.5,0,0,35,90,2,85,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Peach Smoothie (HI),,340,0,0,0,0,15,85,3,80,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Iced & Frozen Drinks,Frozen Iced Mango (HI),,370,4,3.5,0,0,20,83,2,79,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Café (PR),,10,0,0,0,0,20,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Café Cortadito (PR),,15,0.5,0,0,0,15,2,0,1,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Café con Leche (PR),,100,5,3.5,0,25,85,9,0,8,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Matcha Latte,,170,3,2,0,15,105,29,1,27,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Cappuccino,,100,3,2,0,15,110,11,0,9,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Cafe Latte,,140,4.5,2.5,0,20,160,16,0,14,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Cafe Mocha,,630,46,29,1.5,145,150,48,3,38,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Double Espresso,,5,0,0,0,0,10,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Caramel Royale Macchiato,,660,34,22,1,135,140,79,0,74,,9,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Factory Hot Chocolate,,820,54,34,1.5,165,160,77,4,65,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Freshly Brewed Coffee,,5,0,0,0,0,0,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Cold Brew Iced Coffee,,5,0,0,0,0,15,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Hot Drinks & Espressos,Certified Organic Black and Herb Teas,,0,0,0,0,0,10,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,"Freshly Brewed Black, Green or Tropical Iced Teas",,0,0,0,0,0,10,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Sweet Tea,,110,0,0,0,0,10,28,0,28,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,The Cheesecake Factory Signature Lemonade (Beverages),,310,0,0,0,0,15,84,0,78,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Strawberry Lemonade,,330,0,0,0,0,15,87,1,81,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Cucumber Lemonade,,340,0,0,0,0,45,90,1,75,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Peach Lemonade,,330,0,0,0,0,15,83,4,78,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Arnold Palmer,,160,0,0,0,0,15,42,0,40,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Coke® (Beverages),,100,0,0,0,0,10,27,0,27,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Diet Coke® (Beverages),,0,0,0,0,0,20,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Coca-Cola® Zero Sugar (Beverages),,0,0,0,0,0,15,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Fanta Orange Soda (PR) (Beverages),,100,0,0,0,0,15,30,0,27,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Fanta Fruit Punch (HI),,100,0,0,0,0,20,28,0,28,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Barq’s® Root Beer (Beverages),,110,0,0,0,0,20,29,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Sprite® (Beverages),,100,0,0,0,0,30,26,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Sprite Zero® (PR) (Beverages),,0,0,0,0,0,15,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Dr. Pepper® (Beverages),,100,0,0,0,0,40,27,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Diet Dr. Pepper® (TX & OK) (Beverages),,0,0,0,0,0,45,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Fever Tree® Ginger Ale,,70,0,0,0,0,15,17,0,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Fiji Natural Artesian Water,,0,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,San Pellegrino Water,,0,0,0,0,0,50,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Fresh Orange Juice,,170,0.5,0,0,0,3,39,1,31,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Beverages,Apple Juice,,190,0,0,0,0,25,44,0,41,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Pickle Fries,,520,47,9,0.5,20,1230,18,1,6,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Asian Chicken Nachos,,820,44,16,1,80,1710,75,3,28,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Baked Brie With Truffle-Honey Butter,,610,41,19,1,65,860,47,1,13,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Spicy Jambalaya Arancini,,730,59,23,1.5,90,1060,39,4,6,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,BBQ Pork Belly Buns,,1080,81,21,0,85,1820,58,1,23,,28,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Meatball Sliders,,480,25,11,0.5,55,1390,42,2,3,,21,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Chicken & Waffle Skewers,,730,38,17,1.5,115,840,74,2,30,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,New Orleans Cajun Shrimp,,600,47,19,1.5,125,980,27,2,3,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,ParmesanTruffle Fries,,940,62,12,0,20,2020,85,6,15,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Chicken & Biscuits,,1240,88,52,2,305,1460,71,1,19,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Pigs in a Blanket,,730,44,18,2,65,2340,66,1,37,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Double Smash Cheeseburger Bites,,610,38,16,1,110,1470,36,1,9,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Sweet-Soy Glazed Ribs,,490,27,9,0,90,1340,34,1,28,,26,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bites,Fire-Roasted Artichoke,,490,40,10,0,20,1000,27,13,4,,4,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Chicken Katsu,,1380,44,8,0.5,100,2520,190,10,35,,57,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Mediterranean Bowl,,1430,78,25,1,175,3040,125,6,15,,58,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Baja Bowl Grilled Chicken,,1080,34,12,0.5,165,2200,132,15,16,,64,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Baja Bowl Carnitas,,1150,46,14,1,100,2630,140,17,13,,48,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Baja Bowl Chipotle-Honey Shrimp,,940,29,12,0.5,120,2010,131,16,14,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Southern Fried Chicken,,1540,92,44,2.5,280,3000,122,8,26,,58,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Teriyaki Salmon,,1130,33,6,0,75,2030,162,7,49,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Ahi Tuna Poke* with Rice,,830,22,3.5,0,50,1470,124,7,19,,38,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Specials Card — Bowls,Ahi Tuna Poke* with Salad,,600,30,4,0,55,1650,54,7,25,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Cocktails,SkinnyLicious® Long Island Iced Tea,,110,0,0,0,0,20,6,0,5,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Cocktails,SkinnyLicious® Sangria,,130,0,0,0,0,10,19,1,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Cocktails,SkinnyLicious® Margarita,,150,0,0,0,0,125,17,0,12,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Cocktails,SkinnyLicious® Mojito,,150,0,0,0,0,210,16,1,8,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Cocktails,SkinnyLicious® Cosmopolitan,,110,0,0,0,0,15,9,0,7,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Chicken Taquitos,,470,29,9,0,60,1050,35,7,6,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Stuffed Mushrooms,,510,42,22,1.5,105,500,19,4,5,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Crispy Brussels Sprouts,,570,46,13,0.5,30,410,30,8,15,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Crispy Crab Bites,,410,31,6,0,85,600,19,2,5,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Crab Wontons,,550,34,11,1,70,1050,48,2,18,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Chicken Pot Stickers,,380,12,2.5,0,90,2550,38,1,13,,27,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Spicy Tuna*,,460,22,4,0,40,1490,46,2,15,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Small Plates & Appetizers,Ahi Tartare (HI),,240,14,2,0,25,680,17,4,3,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Little House Salad (SkinnyLicious),,260,25,2,0,0,250,10,3,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Tossed Green Salad (SkinnyLicious),,190,11,2.5,0,5,230,19,3,4,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Tossed Green Salad with SK Mustard Vinaigrette,,280,16,3,0,5,1130,28,4,8,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Tossed Green Salad with SK Sesame Soy Dressing,,300,13,2.5,0,5,1710,39,5,18,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Beet and Avocado Salad,,290,12,3,0,5,480,41,8,29,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,SkinnyLicious® Factory Chopped Salad,,530,29,9,0,85,1660,36,11,16,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,SkinnyLicious® Asian Chicken Salad,,570,25,3,0,65,2810,54,11,25,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Mexican Tortilla Salad,,550,23,4.5,0,60,2080,59,12,19,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Salads,Seared Tuna Tataki Salad,,450,29,2.5,0,45,1280,16,5,8,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Burgers & Sandwiches,SkinnyLicious® Hamburger,,570,30,11,1.5,105,1180,41,3,9,,35,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Burgers & Sandwiches,SkinnyLicious® Veggie Burger,,550,18,3,0,5,1780,84,9,15,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Burgers & Sandwiches,SkinnyLicious® Crispy Chicken Sandwich,,560,27,6,0,55,1330,57,3,10,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Burgers & Sandwiches,SkinnyLicious® Spicy Crispy Chicken Sandwich,,580,28,6,0,55,1420,58,3,11,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Burgers & Sandwiches,SkinnyLicious® Grilled Turkey Burger,,560,30,11,0.5,105,1030,45,5,12,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Tacos,Asian Chicken Lettuce Wrap Tacos,,450,15,4,0,80,1040,49,3,32,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Tacos,SkinnyLicious® Chicken Soft Tacos,,520,16,3.5,0,80,1050,64,13,14,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Tacos,SkinnyLicious® Shrimp Soft Tacos,,520,15,3,0,185,1010,67,13,14,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,SkinnyLicious® Chicken Pasta,,590,13,1.5,0,90,1760,75,7,10,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,Sesame Ginger Chicken,,590,23,3,0,100,2320,55,9,30,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,Tuscan Chicken,,590,21,3.5,0,235,1560,19,5,5,,81,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,Lemon-Garlic Shrimp,,550,21,11,0.5,200,2320,51,4,3,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,SkinnyLicious® Grilled Salmon,,590,36,7,0,105,1020,22,7,12,,45,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,Grilled Steak Medallions,,440,19,10,0.5,140,1320,24,4,6,,45,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Skinnylicious® Specialties,SkinnyLicious® Grilled Branzino,,530,29,12,0.5,105,1250,30,5,5,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Roadside Sliders,,360,16,6,1,60,750,30,0,6,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pigs in a Blanket,,420,31,13,1.5,45,1270,24,1,5,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Grilled Cheese Sandwich,,700,37,21,1,135,1960,73,4,9,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Grilled Cheese Sandwich (Queens/ Philly),,450,28,14,1,85,620,35,2,3,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Fried Chicken Strips,,460,28,5,0,65,550,28,2,4,,24,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ French Fries,,300,11,2,0,0,870,45,3,12,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ French Fries (Queens/ Philly),,240,11,2,0,0,390,30,3,0,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Fresh Fruit,,50,0,0,0,0,0,13,2,10,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pasta with Butter and Parmesan,,460,19,11,0.5,45,950,60,3,2,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pasta with Marinara Sauce,,470,13,1,0,0,1600,73,6,11,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pasta with Alfredo Sauce,,910,60,37,2,170,1370,69,5,6,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Spaghetti with Meatball,,680,31,8,0.5,60,2180,72,7,14,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Spaghetti with Meatball (Queens/Philly),,680,31,8,0.5,60,2180,72,7,14,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Macaroni and Cheese,,1160,79,48,3,235,2040,84,5,9,,29,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Cheese Flatbread Pizza,,1000,50,31,1,125,2530,86,4,3,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pepperoni Flatbread Pizza,,990,50,29,1,125,2720,86,4,2,,47,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Cheese Flatbread Pizza (Queens/Philly),,830,38,22,0.5,90,2230,82,4,3,,39,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Pepperoni Pizza (Queens/Philly),,840,38,21,0.5,90,2280,84,4,2,,38,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Quesadilla,,820,54,34,1,115,1440,48,2,0,,40,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Quesadilla with Chicken,,940,58,35,1,180,1670,48,2,0,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Grilled Chicken,,460,19,11,0.5,145,1600,38,5,1,,33,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Grilled Salmon,,540,28,13,0.5,125,910,40,5,1,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Brunch with French Toast,,1210,88,44,2,355,590,83,4,43,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Brunch with Buttermilk Pancakes,,680,37,16,1,85,930,75,4,40,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Coke®,,60,0,0,0,0,5,17,0,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Diet Coke®,,0,0,0,0,0,10,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Coca-Cola® Zero Sugar,,0,0,0,0,0,5,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Fanta Orange Soda (PR),,60,0,0,0,0,10,18,0,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Fanta Fruit Punch (HI),,60,0,0,0,0,15,17,0,17,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Barq’s® Root Beer,,70,0,0,0,0,10,18,0,18,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Sprite®,,60,0,0,0,0,20,16,0,16,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Sprite Zero® (PR),,0,0,0,0,0,10,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Dr. Pepper®,,60,0,0,0,0,25,17,0,16,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Diet Dr. Pepper® (TX & OK),,0,0,0,0,0,25,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Milk,,200,7,4.5,0,30,200,20,0,19,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Chocolate Milk,,330,5,3.5,0,25,210,60,2,55,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Non-Fat Milk,,120,0,0,0,5,180,17,0,17,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Apple Juice,,170,0,0,0,0,20,40,0,37,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Lemonade,,190,0,0,0,0,10,52,0,48,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Scoop of Ice Cream,,320,21,13,0.5,80,80,26,0,25,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Mini Hot Fudge Sundae,,480,32,20,1,100,90,44,2,38,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Strawberries,,180,14,9,0,55,15,13,2,11,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Kids’ Menu,Kids’ Strawberry Shortcake,,450,25,16,0,90,380,48,1,26,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,“Happy Hour” Burger,,1140,70,31,3,230,3180,72,3,26,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,Margarita,,210,0,0,0,0,125,25,0,23,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,Margarita (UT),,200,0,0,0,0,125,25,0,23,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,Long Island Iced Tea,,240,0,0,0,0,10,28,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,Long Island Iced Tea (UT),,240,0,0,0,0,10,28,0,26,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Happy Hour Menu,SkinnyLicious® Long Island Iced Tea,,110,0,0,0,0,20,6,0,5,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Bourbon,,80,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Gin,,80,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Rum,,80,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Scotch,,80,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Tequila,,80,0,0,0,0,0,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Well Vodka,,90,0,0,0,0,0,2,0,2,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Coke® (Selected Well Drinks),,35,0,0,0,0,0,10,0,10,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Diet Coke® (Selected Well Drinks),,0,0,0,0,0,3,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Coca-Cola® Zero Sugar (Selected Well Drinks),,0,0,0,0,0,1,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Fanta Orange Soda (PR) (Selected Well Drinks),,40,0,0,0,0,1,11,0,10,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Barq’s® Root Beer (Selected Well Drinks),,40,0,0,0,0,4,11,0,11,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Sprite® (Selected Well Drinks),,35,0,0,0,0,5,9,0,9,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Sprite Zero® (PR) (Selected Well Drinks),,0,0,0,0,0,2,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Dr. Pepper® (Selected Well Drinks),,35,0,0,0,0,10,10,0,10,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Diet Dr. Pepper® (TX & OK) (Selected Well Drinks),,0,0,0,0,0,15,0,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Ginger Ale,,35,0,0,0,0,10,9,0,9,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Cranberry Juice,,45,0,0,0,0,3,11,0,11,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Orange Juice,,40,0,0,0,0,0,10,0,8,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,Pineapple Juice,,50,0,0,0,0,1,12,0,11,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Selected Well Drinks,The Cheesecake Factory Signature Lemonade (Selected Well Drinks),,110,0,0,0,0,2,31,0,29,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Small Plates & Snacks,Little House Salad (Gluten-Free),,320,31,3,0,0,330,8,2,5,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Small Plates & Snacks,Beet and Avocado Salad,,290,12,3,0,5,480,41,8,29,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizers,Sweet Corn Tamale Cakes - Serves 2-4,,1340,88,44,2.5,210,1710,119,19,42,,16,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Tossed Green Salad (Gluten-Free),,35,0,0,0,0,25,7,3,4,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Tossed Green Salad with Blue Cheese Dressing (Gluten-Free),,370,31,11,0,50,690,13,4,7,,9,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Tossed Green Salad with French Mustard Vinaigrette,,630,62,6,0,0,640,13,3,9,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Tossed Green Salad with Ranch Dressing (Gluten-Free),,450,41,8,0,25,630,15,3,10,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Tossed Green Salad with Thousand Island Dressing (Gluten-Free),,470,41,8,0,25,690,19,3,14,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Caesar Salad (Gluten-Free) (Gluten Free Appetizer Salads),,720,66,14,0,50,930,19,7,9,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Caesar Salad with Chicken (Gluten-Free) (Gluten Free Appetizer Salads),,950,71,15,0,175,1470,19,7,9,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Appetizer Salads,Factory Chopped Salad (Gluten-Free),,870,67,13,0.5,85,1470,34,10,18,,34,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Cobb Salad,,1160,100,20,1,265,1590,22,7,12,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Four Cheese Pasta,,930,46,16,0.5,65,2760,106,6,15,,24,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Four Cheese Pasta with Chicken,,950,41,16,0.5,130,2860,99,6,15,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Pasta with Chicken and Roasted Garlic,,1180,60,25,1,150,2550,120,6,9,,41,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Pasta Carbonara,,1500,101,46,2.5,205,2160,119,5,6,,26,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Pasta Carbonara with Chicken,,1610,103,46,2.5,270,2390,119,5,6,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Evelyn’s Favorite Pasta,,830,47,15,1,40,1330,92,6,5,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Spicy Chicken Chipotle Pasta,,1270,74,25,1.5,140,2340,118,8,16,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Shrimp with Rotini,,1000,66,10,0.5,80,2250,74,8,16,,27,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Lunch Specials,Lunch Shepherd’s Pie,,1030,60,30,3,220,2670,66,10,12,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,French Fries (Gluten-Free) (Gluten Free Glamburgers®),,530,23,4,0,0,1250,76,5,13,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Green Salad (Gluten-Free),,160,16,1.5,0,0,170,5,1,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Sweet Potato Fries (Gluten-Free),,510,20,3.5,0,0,1150,78,11,38,,4,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Double Smash Cheeseburger (Gluten-Free),,980,56,24,2.5,180,3090,72,6,28,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Old Fashioned Burger (Gluten-Free),,840,46,15,2,140,1790,64,6,21,,43,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Bistro Burger (Gluten-Free),,1250,78,25,2.5,165,2790,89,7,42,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Mushroom Burger,,1300,86,32,3,200,2370,73,8,25,,61,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Americana Cheeseburger (Gluten-Free),,1230,76,29,2.5,205,3330,83,8,31,,56,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Bacon-Bacon Cheeseburger (Gluten-Free),,1460,96,37,3,260,3440,79,7,33,,71,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,B.B.Q. Kalua Pork (HI) (Gluten-Free),,770,32,9,0,185,1560,72,7,24,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Factory Turkey Burger (Gluten-Free),,940,60,20,0.5,200,2240,59,9,13,,49,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Hawaiian Fish Sandwich - Mahi (HI) (Gluten-Free),,600,19,3,0,125,1600,72,8,26,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Hawaiian Fish Sandwich - Ahi (HI) (Gluten-Free),,600,19,3,0,80,1610,72,8,26,,40,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Hawaiian Fish Sandwich - Salmon (HI) (Gluten-Free),,720,35,6,0,80,1510,72,8,26,,33,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Glamburgers®,Hawaiian Fish Sandwich - Ono (HI) (Gluten-Free),,590,19,3,0,70,1590,72,8,26,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Specialties,Green Chile Chicken Enchiladas,,1420,67,27,1.5,180,2760,143,21,11,,65,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Specialties,Shepherd’s Pie (Gluten-Free),,1400,81,40,4,300,3290,90,13,16,,74,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Four Cheese Pasta (Gluten-Free),,1270,69,27,1,115,3800,126,8,20,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Four Cheese Pasta with Chicken (Gluten-Free),,1460,72,28,1,220,4580,126,8,20,,77,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Pasta with Chicken and Roasted Garlic,,1900,109,49,2,290,3970,164,10,14,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Pasta Carbonara (Gluten-Free),,2120,150,69,3.5,315,2910,151,7,9,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Pasta Carbonara with Chicken (Gluten-Free),,2310,154,70,3.5,420,3300,151,7,9,,77,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Evelyn’s Favorite Pasta (Gluten-Free),,1150,73,27,1.5,75,1880,112,8,9,,14,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Spicy Chicken Chipotle Pasta (Gluten-Free),,1750,110,37,2,215,2910,140,10,22,,54,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Pasta,Shrimp with Rotini,,1390,91,14,1,105,3320,107,11,22,,37,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Grilled Branzino (Gluten-Free),,1360,91,38,2.5,285,1840,60,7,5,,71,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Grilled Salmon with Fresh Corn,,1330,80,31,1.5,255,1680,86,8,25,,63,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Grilled Salmon with Green Beans,,1150,74,28,1.5,245,1380,61,6,6,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Grilled Salmon with Sauteed Spinach,,1190,76,29,1.5,225,1850,63,8,6,,62,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Miso Salmon (Gluten-Free),,1330,67,31,1.5,240,1430,119,5,27,,64,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Fish & Seafood,Cajun Salmon (Gluten-Free),,1570,114,49,3,340,2030,77,7,17,,59,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Steaks & Chops,Steak Frites,,1530,90,33,3,135,2860,121,9,15,,58,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Steaks & Chops,Steak Diane,,1150,65,27,2,260,2750,67,6,14,,76,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Steaks & Chops,Grilled Rib-Eye Steak,,1360,88,43,4.5,300,2610,57,7,3,,86,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Steaks & Chops,Filet Mignon,,840,38,21,1.5,245,1680,56,7,3,,67,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,French Fries (Gluten-Free) (Gluten Free Side Dishes),,1060,46,8,0,0,2500,152,10,25,,11,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Green Beans,,140,10,6,0,0,300,10,4,2,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Roasted Sweet Potatoes,,450,21,10,0.5,45,430,63,8,18,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Fresh Corn,,270,14,6,0,0,610,28,8,11,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Mashed Potatoes,,450,25,15,1,80,820,49,4,2,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Sauteed Spinach,,650,67,41,2.5,125,1100,10,5,1,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Side Dishes,Broccoli,,260,18,3,0,10,710,15,8,2,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Salads,Caesar Salad (Gluten-Free) (Gluten Free Salads),,1070,99,22,0,75,1410,25,9,12,,18,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Salads,Caesar Salad with Chicken (Gluten-Free) (Gluten Free Salads),,1300,106,23,0,205,1880,25,9,12,,57,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Salads,Cobb Salad (Gluten-Free),,1650,141,27,1,365,2680,30,11,15,,65,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes,Breakfast Potatoes,,630,37,9,0,10,790,66,6,15,,8,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes,Sliced Tomatoes,,25,0,0,0,0,5,5,2,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes,Farm Fresh Eggs,,280,25,12,0,425,150,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes,Farm Fresh Eggs with Old Smokehouse® Bacon,,480,40,18,0.5,465,220,4,0,3,,25,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes,Farm Fresh Eggs with Grilled Ham,,440,29,14,0,505,1770,2,0,1,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Plain Omelette,,630,60,17,1,670,790,2,0,1,,22,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Bacon,,140,13,4.5,0,25,230,0,0,1,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Ham,,60,1.5,0.5,0,30,610,0,0,0,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Cheddar Cheese,,230,19,12,1,70,380,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Jack Cheese,,210,18,11,1,70,380,1,0,0,,12,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Swiss Cheese,,220,17,10,1,45,115,0,0,0,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Fontina Cheese,,180,14,10,0,45,400,1,0,0,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Avocado (Gluten-Free),,40,3.5,0,0,0,1,2,2,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Roasted Peppers,,20,0,0,0,0,10,4,1,3,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Fresh Mushrooms,,15,0,0,0,0,10,2,1,0,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Asparagus,,25,1,0,0,0,80,3,1,1,,2,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Spinach,,5,0,0,0,0,20,1,1,0,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Bell Peppers,,15,0,0,0,0,1,4,1,2,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Fresh Tomato,,10,0,0,0,0,2,2,1,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Red Onions,,10,0,0,0,0,1,3,0,1,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Green Onions,,5,0,0,0,0,2,1,0,0,,0,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,California Omelette,,1090,91,42,2.5,810,1570,13,4,4,,55,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,"Spinach, Mushroom, Bacon and Cheese Omelette (Gluten-Free)",,950,80,40,2,795,1460,12,3,4,,46,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Grilled Steak & Eggs,,720,60,28,0,540,740,2,0,1,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Eggs & Omelettes — Factory Create An Omelette,Loco Moco (HI),,1750,108,34,3.5,595,1960,112,4,5,,81,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Saturday & Sunday Brunch,Jambalaya Hash & Eggs,,1750,128,68,3.5,750,2370,106,8,15,,44,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Godiva® Chocolate Cheesecake,,1400,105,66,3,380,260,110,8,96,,15,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Low-Licious Cheesecake,,570,44,26,1,195,460,37,7,5,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Low-Licious Cheesecake with Strawberries,,580,44,26,1,195,460,39,8,7,,10,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Bowl of Fresh Strawberries,,250,15,9,0,55,15,26,5,19,,3,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Hot Fudge Sundae,,1280,86,51,2.5,260,220,116,6,97,,20,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Desserts,Bowl of Vanilla Ice Cream,,750,51,32,2,195,180,60,0,57,,13,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Skinnylicious® Small Plates & Appetizers,Beet and Avocado Salad,,290,12,3,0,5,480,41,8,29,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Skinnylicious® Specialties,SkinnyLicious® Chicken Soft Tacos,,520,16,3.5,0,80,1050,64,13,14,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Skinnylicious® Specialties,SkinnyLicious® Shrimp Soft Tacos,,520,15,3,0,185,1010,67,13,14,,31,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Skinnylicious® Specialties,SkinnyLicious® Grilled Branzino,,530,29,12,0.5,105,1250,30,5,5,,36,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Pasta with Butter and Parmesan (Gluten-Free),,460,20,11,0.5,45,720,66,1,0,,5,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Pasta with Marinara Sauce (Gluten-Free),,460,13,1.5,0,0,1360,79,4,9,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Pasta with Alfredo Sauce (Gluten-Free),,910,60,37,2,170,1130,75,3,4,,17,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Grilled Chicken,,460,19,11,0.5,145,1600,38,5,1,,33,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Grilled Salmon,,540,28,13,0.5,125,910,40,5,1,,32,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Scoop of Ice Cream,,320,21,13,0.5,80,80,26,0,25,,6,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Mini Hot Fudge Sundae,,480,32,20,1,100,90,44,2,38,,7,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Kids’ Menu,Kids’ Strawberries,,180,14,9,0,55,15,13,2,11,,1,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
+cheesecakefactory,Gluten Free Happy Hour Menu,“Happy Hour” Burger (Gluten-Free),,980,56,24,2.5,180,3090,72,6,28,,50,,,https://www.thecheesecakefactory.com/nutrition/,2026-10-27
