@@ -1,0 +1,225 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+zaxbys,Zalads,The Fried Asian Zensation Zalad,,640,29,4.5,0,55,2160,62,6,18,,35,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Fried Blue Zalad,,680,39,12,0,80,2890,43,4,5,,39,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Fried Cobb Zalad,,780,45,16,0,315,2130,43,4,5,,55,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Fried House Zalad,,660,37,13,0,90,1920,42,4,4,,44,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Garden Asian Zensation Zalad,,390,17,3,0,0,940,53,6,18,,8,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Garden Blue Zalad,,370,22,9,0,20,860,32,4,4,,12,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Garden Cobb Zalad,,530,34,14,0,260,910,34,4,5,,27,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Garden House Zalad,,410,25,11,0,35,700,33,4,4,,17,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Grilled Asian Zensation Zalad,,530,19,3.5,0,95,1850,54,7,18,,39,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Grilled Blue Zalad,,510,24,10,0,115,1760,34,4,5,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Grilled Cobb Zalad,,680,35,14,0,355,1820,35,5,5,,58,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Zalads,The Grilled House Zalad,,560,27,12,0,130,1600,34,5,5,,48,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Add Bacon (2 Slices),,60,4.5,1.5,0,10,290,0,0,0,,6,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Add Cheese (1 Slice),,50,4.5,2.5,0,15,190,1,0,0,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Grilled Chicken Sandwich Only,,470,20,3.5,0,100,1440,35,3,8,,38,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Kickin’ Chicken Sandwich Only,,690,39,6,0,65,2760,51,2,5,,34,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Nibblerz Only,,960,56,11,0,70,2710,76,4,16,,38,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Signature Sandwich Only with Spicy Zax Sauce,,590,31,5,0,70,2260,45,2,8,,31,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sandwiches,Signature Sandwich Only with Zax Sauce,,600,32,5,0,75,2200,45,2,8,,31,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Big Zax Snak Meal,,890,48,7,0,70,2650,80,6,5,,36,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Boneless Wings & Things,,1450,87,13,0,125,4620,106,8,7,,62,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Boneless Wings Meal (5),,1040,60,9,0,60,2890,92,7,4,,34,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Big Zax Snak Meal,,900,50,8,0,70,2980,79,6,4,,36,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Boneless Wings & Things,,1460,88,14,0,125,4950,105,8,6,,63,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Chicken Finger Plate (4),,1130,62,10,0,95,3750,98,8,15,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Chicken Finger Plate (5),,1220,66,10,0,110,4340,102,8,15,,55,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Chicken Finger Plate (6),,1460,86,13,0,140,5220,108,8,16,,65,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Buffalo Traditional Wings & Things,,1450,89,16,0,265,4850,83,6,6,,79,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Chicken Finger Plate (4),,1110,60,9,0,95,3230,98,8,16,,45,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Chicken Finger Plate (5),,1190,64,10,0,110,3640,101,8,16,,54,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Chicken Finger Plate (6),,1430,83,13,0,140,4560,109,8,19,,64,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Traditional Wings & Things,,1440,88,16,0,265,4520,84,6,7,,79,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Most Popular,Traditional Wings Meal (5),,1030,61,12,0,195,2780,70,6,4,,51,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings (No Sauce), 1 Each",,80,4.5,0.5,0,10,220,4,0,0,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings (No Sauce), 5 Each",,390,22,3.5,0,45,1090,22,1,0,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, BBQ, 1 Each",,90,4.5,0.5,0,10,300,7,0,2,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, BBQ, 5 Each",,450,22,3.5,0,45,1500,36,2,11,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Buffalo Garlic Blaze, 1 Each",,90,6,1,0,10,400,5,0,0,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Buffalo Garlic Blaze, 5 Each",,450,29,4.5,0,50,1990,23,2,1,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, HHM, 1 Each",,100,6,1,0,10,280,6,0,1,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, HHM, 5 Each",,480,30,4.5,0,55,1390,28,2,4,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Nuclear, 1 Each",,80,4.5,0.5,0,10,320,5,0,0,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Nuclear, 5 Each",,400,23,3.5,0,45,1600,24,2,1,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Sweet & Spicy, 1 Each",,90,4.5,0.5,0,10,260,7,0,2,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Sweet & Spicy, 5 Each",,450,23,3.5,0,45,1310,35,1,11,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Teriyaki, 1 Each",,90,4.5,0,0,10,280,6,0,2,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Teriyaki, 5 Each",,430,23,3.5,0,45,1420,31,1,8,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Tongue Torch, 1 Each",,80,4.5,0.5,0,10,340,5,0,0,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Tongue Torch, 5 Each",,400,23,3.5,0,45,1680,24,2,1,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Wimpy, 1 Each",,80,4.5,0.5,0,10,320,5,0,1,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Boneless Wings, Wimpy, 5 Each",,410,22,3.5,0,45,1590,26,2,3,,26,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger (No Sauce), 1 Each",,80,4,0.5,0,20,410,3,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger (No Sauce), 5 Each",,420,20,3,0,90,2030,16,0,0,,45,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, BBQ, 1 Each",,100,4,0.5,0,20,550,8,0,4,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, BBQ, 5 Each",,520,20,3,0,90,2720,39,1,19,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Buffalo Garlic Blaze, 1 Each",,100,6,1,0,20,650,4,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Buffalo Garlic Blaze, 5 Each",,510,28,4.5,0,100,3260,18,0,1,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, HHM, 1 Each",,110,6,1,0,20,500,5,0,1,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, HHM, 5 Each",,570,32,5,0,105,2510,25,0,6,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Nuclear, 1 Each",,90,4,0.5,0,20,560,4,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Nuclear, 5 Each",,440,20,3,0,95,2800,18,1,1,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Sweet & Spicy, 1 Each",,100,4,0.5,0,20,480,7,0,3,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Sweet & Spicy, 5 Each",,510,21,3,0,90,2380,36,0,17,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Teriyaki, 1 Each",,100,4,0.5,0,20,540,7,0,3,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Teriyaki, 5 Each",,510,20,3,0,95,2690,35,0,16,,47,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Tongue Torch, 1 Each",,90,4,0.5,0,20,590,4,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Tongue Torch, 5 Each",,440,20,3,0,95,2960,19,1,2,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Wimpy, 1 Each",,90,4,0.5,0,20,560,4,0,1,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Chicken Finger, Wimpy, 5 Each",,450,20,3,0,95,2790,22,1,5,,46,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings (No Sauce), 1 Each",,80,4.5,1,0,35,200,0,0,0,,8,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings (No Sauce), 5 Each",,380,23,6,0,185,980,0,0,0,,42,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, BBQ, 1 Each",,90,4.5,1,0,35,280,3,0,2,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, BBQ, 5 Each",,440,23,6,0,185,1390,14,0,11,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Buffalo Garlic Blaze, 1 Each",,90,6,1.5,0,40,370,0,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Buffalo Garlic Blaze, 5 Each",,440,29,7,0,190,1820,2,0,1,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, HHM, 1 Each",,100,6,1.5,0,40,260,1,0,1,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, HHM, 5 Each",,480,31,7,0,190,1290,6,0,4,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Nuclear, 1 Each",,80,5,1,0,35,330,0,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Nuclear, 5 Each",,400,24,6,0,185,1660,2,1,1,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Sweet & Spicy, 1 Each",,90,5,1,0,35,240,3,0,2,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Sweet & Spicy, 5 Each",,440,24,6,0,185,1210,13,0,11,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Teriyaki, 1 Each",,90,4.5,1,0,35,280,2,0,2,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Teriyaki, 5 Each",,430,24,6,0,185,1390,12,0,10,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Tongue Torch, 1 Each",,80,4.5,1,0,35,320,0,0,0,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Tongue Torch, 5 Each",,390,24,6,0,185,1580,2,0,1,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Wimpy, 1 Each",,80,4.5,1,0,35,300,1,0,1,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Wings & Fingers,"Traditional Wings, Wimpy, 5 Each",,400,24,6,0,185,1520,5,0,3,,43,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Chocolate Chip Cookie,,170,8,4,0,10,125,24,1,15,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Fried Cheesecake Bites (No Sauce),,520,31,15,0,55,700,53,2,16,,7,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Handcrafted Birthday Cake Milkshake,,730,19,13,0.5,60,600,129,0,113,,13,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Handcrafted Chocolate Milkshake,,670,18,12,0.5,60,670,119,0,111,,14,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Handcrafted Strawberry Milkshake,,680,17,11,0.5,60,600,121,1,110,,13,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Treats,Handcrafted Vanilla Milkshake,,570,17,11,0.5,60,600,94,0,93,,13,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"BBQ, 8 oz",,330,0,0,0,0,2300,77,3,62,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,BBQ Dip Cup,,60,0,0,0,0,480,15,1,11,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Buffalo Garlic Blaze, 2 oz",,120,12,2,0,15,1730,3,1,1,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Buffalo Garlic Blaze, 8 oz",,500,49,8,0,55,6940,12,2,6,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Honey Mustard, 8 oz",,870,75,12,0,45,1360,48,1,38,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Honey Mustard Dip Cup,,130,11,2,0,<5,210,7,0,6,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Hot Honey Mustard, 2 oz",,200,16,2.5,0,20,640,13,0,8,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Hot Honey Mustard, 8 oz",,800,65,10,0,70,2550,51,2,33,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Nuclear, 2 oz",,30,1,0,0,0,1290,5,1,2,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Nuclear, 8 oz",,120,3.5,0.5,0,<5,5170,19,5,7,,4,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Ranch, 8 oz",,990,105,17,0.5,75,1830,12,0,7,,4,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Ranch Sauce Dip Cup,,150,16,2.5,0,10,290,2,0,1,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Spicy Zax Sauce, 8 oz",,920,89,14,0,65,3950,28,2,19,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Spicy Zax Sauce Dip Cup,,170,16,2.5,0,10,720,5,0,4,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Strawberry Sauce, 2 oz",,180,0,0,0,0,0,47,0,43,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Sweet & Spicy, 8 oz",,590,6,1,0,0,2280,132,1,111,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Sweet & Spicy Dip Cup,,90,1,0,0,0,330,19,0,16,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Teriyaki, 2 oz",,110,0.5,0,0,0,850,25,0,21,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Teriyaki, 8 oz",,450,3,0,0,<5,3400,99,1,83,,7,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Tongue Torch, 8 oz",,130,2.5,0,0,<5,5780,23,4,10,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Tongue Torch Dip Cup,,20,0,0,0,0,950,4,1,2,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Wimpy, 2 oz",,50,0,0,0,0,1180,10,1,7,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Wimpy, 8 oz",,200,2,0,0,<5,4720,41,4,28,,4,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,"Zax Sauce, 8 oz",,1040,102,16,0.5,85,3500,30,3,21,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sauces,Zax Sauce Dip Cup,,150,15,2.5,0,10,510,4,0,3,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Dressings,Blue Cheese,,140,15,3,0,15,270,2,0,1,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Dressings,Citrus Vinaigrette,,110,9,1.5,0,0,180,8,0,7,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Dressings,Honey Mustard,,110,9,1.5,0,<5,170,6,0,5,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Dressings,Lite Vinaigrette,,30,0,0,0,0,250,6,0,5,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Dressings,Ranch,,120,13,2,0,10,230,1,0,1,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Asian Slaw, side",,100,7,1,0,0,140,10,0,8,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,Chicken Bacon Ranch Loaded Fries,,1270,78,22,0,145,3070,88,8,2,,61,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Cole Slaw, side",,140,10,1.5,0,<5,170,13,2,11,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Crinkle Fries, Large",,530,23,3,0,0,930,75,7,1,,8,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Crinkle Fries, Regular",,330,14,2,0,0,580,47,5,0,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,Fried Pickles,,470,31,4.5,0,0,2150,42,3,2,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,Fried White Cheddar Bites,,700,46,21,1,75,1550,46,3,2,,27,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Texas Toast, 1 slice",,150,7,1,0,0,340,19,1,2,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Texas Toast, Basket",,450,21,3.5,0,0,1020,57,3,5,,9,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Sides,"Veggie Eggroll, 1 Eggroll",,140,6,1,0,0,350,19,1,2,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Kids Meals,Chicken Fingerz with Zax Sauce,,320,23,3.5,0,50,1330,11,0,3,,19,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Kids Meals,"Goldfish Giant Grahams, Vanilla",,120,4,1,0,0,105,19,1,7,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Kids Meals,Grilled Cheese Sandwich Only,,410,23,8,0,30,1060,39,2,4,,11,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Kids Meals,Kid's Crinkle Fries,,200,8,1,0,0,350,28,3,0,,3,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Kids Meals,Rice Krispie Treat,,45,1,0,0,0,50,8,0,4,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,Apple Juice 6oz,,80,0,0,0,0,15,21,0,19,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Barq’s Root Beer, Kidz",,160,0,0,0,0,70,40,0,40,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Barq’s Root Beer, Large",,540,0,0,0,0,230,134,0,134,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Barq’s Root Beer, Medium",,400,0,0,0,0,170,101,0,101,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Barq’s Root Beer, Small",,270,0,0,0,0,115,67,0,67,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,Chocolate Milk 8oz,,160,2.5,1.5,0,10,220,27,0,25,,8,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola, Kidz",,160,0,0,0,0,40,40,0,40,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola, Large",,530,0,0,0,0,125,133,0,133,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola, Medium",,400,0,0,0,0,95,100,0,100,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola, Small",,270,0,0,0,0,65,67,0,67,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola Zero Sugar, Kidz",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola Zero Sugar, Large",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola Zero Sugar, Medium",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Coca-Cola Zero Sugar, Small",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Diet Coke, Kidz",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Diet Coke, Large",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Diet Coke, Medium",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Diet Coke, Small",,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Dr Pepper, Kidz",,140,0,0,0,0,45,39,0,38,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Dr Pepper, Large",,480,0,0,0,0,150,130,0,128,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Dr Pepper, Medium",,360,0,0,0,0,110,98,0,96,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Dr Pepper, Small",,240,0,0,0,0,75,65,0,64,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Fanta Cherry, Kidz",,130,0,0,0,0,50,31,0,31,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Fanta Cherry, Large",,420,0,0,0,0,170,104,0,103,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Fanta Cherry, Medium",,320,0,0,0,0,125,78,0,77,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Fanta Cherry, Small",,210,0,0,0,0,85,52,0,51,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Frozen Lemonade, Small",,310,0,0,0,0,55,80,0,76,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Frozen Strawberry Lemonade, Small",,400,0,0,0,0,55,103,0,97,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Lemonade, Kidz",,210,0,0,0,0,40,55,0,52,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Lemonade, Large",,700,0.5,0,0,0,130,182,0,172,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Lemonade, Medium",,520,0,0,0,0,95,137,0,129,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Lemonade, Small",,350,0,0,0,0,65,91,0,86,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Strawberry Lemonade, Large",,790,0.5,0,0,0,125,205,0,193,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Strawberry Lemonade, Medium",,570,0,0,0,0,95,148,0,140,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Handcrafted Strawberry Lemonade, Small",,390,0,0,0,0,65,102,0,96,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Flashin' Fruit Punch, Kidz",,170,0,0,0,0,75,42,0,41,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Flashin' Fruit Punch, Large",,560,0,0,0,0,240,141,0,138,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Flashin' Fruit Punch, Medium",,420,0,0,0,0,180,106,0,103,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Flashin' Fruit Punch, Small",,280,0,0,0,0,120,71,0,69,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Orange Lavaburst, Kidz",,170,0,0,0,0,40,41,0,41,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Orange Lavaburst, Large",,560,0,0,0,0,135,138,0,138,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Orange Lavaburst, Medium",,420,0,0,0,0,100,104,0,104,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Hi-C Orange Lavaburst, Small",,280,0,0,0,0,65,69,0,69,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Mello Yello, Kidz",,170,0,0,0,0,50,44,0,44,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Mello Yello, Large",,570,0,0,0,0,170,145,0,145,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Mello Yello, Medium",,430,0,0,0,0,125,109,0,109,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Mello Yello, Small",,290,0,0,0,0,85,73,0,73,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,Milk 8 oz,,110,2.5,1.5,0,10,125,13,0,12,,8,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach Sweet Tea, Large",,710,0,0,0,0,25,178,0,171,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach Sweet Tea, Medium",,530,0,0,0,0,20,134,0,129,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach Sweet Tea, Small",,360,0,0,0,0,15,89,0,86,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach UnsweetenedTea, Large",,190,0,0,0,0,25,49,0,45,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach UnsweetenedTea, Medium",,140,0,0,0,0,20,36,0,34,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Peach UnsweetenedTea, Small",,100,0,0,0,0,15,24,0,23,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Powerade Mountain Berry Blast, Kidz",,90,0,0,0,0,110,22,0,22,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Powerade Mountain Berry Blast, Large",,300,0,0,0,0,370,73,0,73,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Powerade Mountain Berry Blast, Medium",,230,0,0,0,0,280,55,0,55,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Powerade Mountain Berry Blast, Small",,150,0,0,0,0,190,37,0,36,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sprite, Kidz",,150,0,0,0,0,70,36,0,36,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sprite, Large",,490,0,0,0,0,230,121,0,121,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sprite, Medium",,370,0,0,0,0,170,91,0,91,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sprite, Small",,250,0,0,0,0,115,61,0,61,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sweet Tea, Gallon",,1750,0,0,0,0,0,438,0,425,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sweet Tea, Kidz",,160,0,0,0,0,0,41,0,40,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sweet Tea, Large",,550,0,0,0,0,0,137,0,133,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sweet Tea, Medium",,410,0,0,0,0,0,103,0,100,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Drinks,"Sweet Tea, Small",,270,0,0,0,0,0,68,0,66,,0,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering, Asian Zensation Zalad Platter- Fried",,5300,241,39,0,335,17020,560,30,191,,238,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering, Asian Zensation Zalad Platter- Garden",,3770,170,28,0,<5,9700,503,30,191,,75,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering, Asian Zensation Zalad Platter- Grilled",,4660,181,31,0,575,15140,513,33,193,,261,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering, Asian Zensation Zalad Platter- Half & Half",,4980,211,35,0,455,16080,536,32,192,,250,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, Cobb, Fried",,5590,322,110,1,1910,14710,343,27,39,,349,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, Cobb, Grilled",,4950,263,102,1,2145,12820,296,30,40,,372,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, Cobb, Half & Half",,5270,293,106,1,2025,13760,320,28,40,,361,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, House, Fried",,4790,268,91,0.5,545,13130,338,27,35,,282,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, House, Garden",,3260,197,81,0.5,210,5800,282,27,35,,118,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, House, Grilled",,4150,208,83,0.5,780,11240,291,30,37,,304,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Zalads,"Catering Zalad, House, Half & Half",,4470,238,87,0.5,665,12180,315,28,36,,293,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, 1 Nibbler (No Sauce)",,260,13,2.5,0,20,700,24,1,4,,13,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, 2 Nibbler Sandwiches",,670,41,7,0,50,1910,52,3,11,,25,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Cole Slaw, Large",,1160,69,11,0,45,1510,129,17,88,,5,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Cole Slaw, Small",,290,17,3,0,10,380,32,4,22,,1,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Grilled Chicken Sandwich",,560,29,5,0,105,1610,36,3,9,,38,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Tater Chips Platter (Chips Only)",,5670,351,50,0,0,16900,528,55,6,,99,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Texas Toast Platter (Half Piece)",,80,3.5,0.5,0,0,170,10,0,1,,2,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27
+zaxbys,Catering Platters & Sides,"Catering, Zaxby’s Signature Sandwich",,820,53,9,0,90,3100,52,3,13,,31,,,https://www.nutritionix.com/zaxbys/menu/premium,2026-10-27

@@ -1,0 +1,557 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+caribou,Trending,Cinnamon Sugar Caramel Cream Donut,,310,14,6,0,0,290,42,1,25,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Energy with Coconutmilk Cold Foam, Extra Large",,440,1,0.5,0,0,220,104,0,100,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Energy with Coconutmilk Cold Foam, Large",,310,1,0.5,0,0,150,72,0,69,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Energy with Coconutmilk Cold Foam, Medium",,240,1,0.5,0,0,120,56,0,54,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Energy with Coconutmilk Cold Foam, Small",,180,1,0.5,0,0,85,40,0,38,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,520,1.5,0.5,0,0,30,124,1,119,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Large",,360,1.5,0.5,0,0,25,86,1,82,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Medium",,280,1.5,0.5,0,0,25,66,0,63,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Small",,200,1,0.5,0,0,20,47,0,44,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Berries & Cream, Extra Large",,980,19,14,0,35,290,205,0,154,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Berries & Cream, Large",,710,18,13,0,40,210,138,0,102,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Berries & Cream, Medium",,570,17,12,0,45,170,104,0,76,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Berries & Cream, Small",,440,17,11,0,45,135,70,0,50,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Peaches & Cream, Extra Large",,900,19,14,0,35,290,184,1,134,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Peaches & Cream, Large",,660,18,13,0,40,210,125,0,90,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Peaches & Cream, Medium",,540,17,12,0,45,170,95,0,68,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Peaches & Cream, Small",,420,17,11,0,45,135,66,0,46,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Strawberries & Cream, Extra Large",,900,19,14,0,35,290,183,0,133,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Strawberries & Cream, Large",,660,18,13,0,40,210,124,0,89,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Strawberries & Cream, Medium",,540,17,12,0,45,170,95,0,67,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Frozen Strawberries & Cream, Small",,420,17,11,0,45,135,66,0,45,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Energy with Coconutmilk Cold Foam, Extra Large",,410,1,0.5,0,0,220,97,0,91,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Energy with Coconutmilk Cold Foam, Large",,290,1,0.5,0,0,150,67,0,63,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Energy with Coconutmilk Cold Foam, Medium",,220,1,0.5,0,0,120,52,0,48,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Energy with Coconutmilk Cold Foam, Small",,160,1,0.5,0,0,85,37,0,34,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,490,1.5,0.5,0,0,30,117,1,110,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Large",,340,1.5,0.5,0,0,25,80,1,75,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Medium",,260,1,0.5,0,0,25,62,0,58,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Small",,190,1,0.5,0,0,25,44,0,40,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,Milk Bar Brown Butter Chocolate Chip Super Crunchy Cookies,,140,6,3,0,<5,75,20,0,11,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,Milk Bar Confetti Cookie,,310,10,6,0,40,240,51,1,27,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,Milk Bar Cornflake Chocolate Chip Marshmallow Cookie,,320,11,7,0,40,260,52,1,31,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,Nashville Hot Chicken Biscuit,,480,26,13,0,35,1400,45,1,4,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Extra Large",,450,1.5,0.5,0,0,220,107,0,103,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Large",,320,1,0.5,0,0,150,74,0,71,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Medium",,250,1,0.5,0,0,120,58,0,55,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Small",,180,1,0.5,0,0,85,41,0,39,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,530,1.5,0.5,0,0,30,127,1,122,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Large",,370,1.5,0.5,0,0,25,87,1,84,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Medium",,290,1.5,0.5,0,0,25,68,1,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Small",,210,1,0.5,0,0,25,48,0,45,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Passionfruit Yuzu Energy Drink, Extra Large",,30,0,0,0,0,310,30,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Passionfruit Yuzu Energy Drink, Large",,20,0,0,0,0,210,21,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Passionfruit Yuzu Energy Drink, Medium",,15,0,0,0,0,160,16,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Passionfruit Yuzu Energy Drink, Small",,10,0,0,0,0,230,11,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Salted Watermelon Energy Drink, Extra Large",,30,0,0,0,0,560,30,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Salted Watermelon Energy Drink, Large",,20,0,0,0,0,400,21,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Salted Watermelon Energy Drink, Medium",,15,0,0,0,0,310,16,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Trending,"Sugar-Free Salted Watermelon Energy Drink, Small",,10,0,0,0,0,230,11,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Hot, Extra Large",,5,0,0,0,0,20,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Hot, Large",,0,0,0,0,0,15,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Hot, Medium",,0,0,0,0,0,15,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Hot, Small",,0,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Iced, Extra Large",,5,0,0,0,0,20,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Iced, Large",,0,0,0,0,0,15,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Iced, Medium",,0,0,0,0,0,15,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Americano, Iced, Small",,0,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Hot, Extra Large",,630,55,34,0,180,210,21,0,1,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Hot, Large",,590,52,32,0,165,190,19,0,1,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Hot, Medium",,510,45,28,0,145,170,17,0,1,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Hot, Small",,350,31,19,0,100,115,12,0,0,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Iced, Extra Large",,500,44,28,0,140,170,17,0,1,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Iced, Large",,360,32,20,0,105,120,12,0,0,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Iced, Medium",,310,28,17,0,90,90,10,0,0,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Breve, Iced, Small",,250,22,14,0,70,85,8,0,0,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cappuccino, Extra Large",,170,7,4.5,0,25,160,16,0,16,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cappuccino, Large",,140,6,3.5,0,20,130,13,0,13,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cappuccino, Medium",,120,5,3,0,20,115,11,0,11,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cappuccino, Small",,110,4.5,2.5,0,15,100,10,0,10,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cold Press, Iced, Extra Large",,30,0,0,0,0,15,4,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cold Press, Iced, Large",,20,0,0,0,0,15,3,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cold Press, Iced, Medium",,20,0,0,0,0,10,3,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cold Press, Iced, Small",,15,0,0,0,0,10,2,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Cold Press, Nitro",,25,0,0,0,0,0,3,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Blended, Extra Large",,240,10,6,0,40,450,28,0,25,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Blended, Large",,160,8,4.5,0,30,280,18,0,16,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Blended, Medium",,130,6,4,0,25,190,13,0,11,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Blended, Small",,90,5,3,0,20,105,8,0,6,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Hot, Extra Large",,240,12,7,0,50,370,25,0,21,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Hot, Large",,200,10,6,0,40,290,20,0,17,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Hot, Medium",,170,9,5,0,35,200,15,0,12,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Hot, Small",,100,6,3.5,0,25,105,8,0,7,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Iced, Extra Large",,240,10,6,0,40,450,28,0,25,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Iced, Large",,160,8,4.5,0,30,280,18,0,16,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Iced, Medium",,130,6,4,0,25,190,13,0,11,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Crafted Press, Iced, Small",,90,5,3,0,20,105,8,0,6,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Dark Roast Coffee of the Day, Extra Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Dark Roast Coffee of the Day, Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Dark Roast Coffee of the Day, Medium",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Dark Roast Coffee of the Day, Small",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Decaf Coffee of the Day, Extra Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Decaf Coffee of the Day, Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Decaf Coffee of the Day, Medium",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Decaf Coffee of the Day, Small",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Depth Charge, Extra Large",,10,0,0,0,0,15,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Depth Charge, Large",,5,0,0,0,0,15,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Depth Charge, Medium",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Depth Charge, Small",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Espresso, Extra Large",,5,0,0,0,0,20,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Espresso, Large",,0,0,0,0,0,15,0,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Espresso, Medium",,0,0,0,0,0,15,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Espresso, Small",,0,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Hot Press, Extra Large",,40,0,0,0,0,25,6,0,0,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Hot Press, Large",,35,0,0,0,0,20,5,0,0,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Hot Press, Medium",,30,0,0,0,0,15,4,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Hot Press, Small",,20,0,0,0,0,15,3,0,0,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Hot, Extra Large",,250,10,6,0,40,210,23,0,23,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Hot, Large",,230,9,6,0,35,200,21,0,21,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Hot, Medium",,200,8,5,0,30,170,19,0,19,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Hot, Small",,140,5,3.5,0,20,120,13,0,13,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Iced, Extra Large",,200,8,5,0,30,170,18,0,18,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Iced, Large",,140,6,3.5,0,25,125,13,0,13,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Iced, Medium",,120,5,3,0,20,105,11,0,11,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Iced, Small",,100,4,2.5,0,15,85,9,0,9,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Latte, Nitro",,140,5,3,0,20,110,13,0,11,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Light Roast Coffee of the Day, Extra Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Light Roast Coffee of the Day, Large",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Light Roast Coffee of the Day, Medium",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Light Roast Coffee of the Day, Small",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Macchiato, Extra Large",,20,1,0.5,0,0,35,1,0,1,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Macchiato, Large",,20,1,0,0,0,30,1,0,1,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Macchiato, Medium",,15,1,0,0,0,25,1,0,1,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Macchiato, Small",,15,0.5,0,0,0,25,1,0,1,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Hot, Extra Large",,770,47,29,0,100,200,72,2,69,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Hot, Large",,660,41,25,0,95,170,59,1,57,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Hot, Medium",,560,35,22,0,90,150,47,1,45,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Hot, Small",,440,29,18,0,80,110,33,1,32,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Iced, Extra Large",,470,11,7,0,40,250,81,1,67,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Iced, Large",,330,8,5,0,30,180,55,1,46,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Iced, Medium",,260,6,4,0,25,140,43,1,36,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Iced, Small",,190,5,3,0,20,110,30,0,25,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Mocha, Nitro",,450,20,12,0,80,160,57,1,45,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Hot, Extra Large",,180,1,0.5,0,10,270,40,0,24,,18,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Hot, Large",,160,1,0.5,0,10,230,34,0,20,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Hot, Medium",,130,0.5,0,0,<5,200,28,0,18,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Hot, Small",,90,0.5,0,0,<5,140,20,0,12,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Iced, Extra Large",,130,1,0,0,<5,190,35,0,17,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Iced, Large",,90,0.5,0,0,<5,140,25,0,12,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Iced, Medium",,80,0,0,0,<5,120,21,0,10,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Classic,"Northern Lite Latte, Iced, Small",,70,0,0,0,<5,95,16,0,8,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Blended, Extra Large",,1120,26,18,0,80,390,205,0,186,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Blended, Large",,870,23,15,0,75,300,153,0,139,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Blended, Medium",,750,21,14,0,75,250,127,0,116,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Blended, Small",,620,20,13,0,70,200,101,0,92,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Hot, Extra Large",,890,44,27,0,95,210,106,0,105,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Hot, Large",,740,38,23,0,85,160,86,0,85,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Hot, Medium",,630,33,20,0,85,140,69,0,68,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Hot, Small",,490,27,17,0,80,105,50,0,49,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Iced, Extra Large",,620,9,6,0,35,230,120,0,108,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Iced, Large",,430,7,4.5,0,25,160,83,0,75,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Iced, Medium",,350,6,4,0,20,135,65,0,59,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Berry White Mocha, Iced, Small",,250,4.5,3,0,15,100,47,0,43,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Blended, Extra Large",,1140,26,18,0,80,400,211,2,189,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Blended, Large",,890,23,15,0,75,300,158,1,142,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Blended, Medium",,770,22,14,0,75,250,132,1,118,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Blended, Small",,640,20,13,0,70,200,105,1,95,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Hot, Extra Large",,940,47,29,0,100,200,113,2,107,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Hot, Large",,780,40,25,0,90,160,92,1,87,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Hot, Medium",,660,35,21,0,85,140,74,1,70,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Hot, Small",,520,29,17,0,80,105,54,1,51,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Iced, Extra Large",,640,10,6,0,35,230,124,1,110,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Iced, Large",,440,7,4.5,0,25,160,85,1,76,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Iced, Medium",,350,6,4,0,20,135,67,1,60,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Iced, Small",,260,4.5,3,0,15,105,48,0,44,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Campfire Mocha, Nitro",,430,19,11,0,80,130,53,0,46,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel Caribou Cooler Blended Beverage, Extra Large",,1050,33,22,0,100,690,176,0,153,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel Caribou Cooler Blended Beverage, Large",,830,28,19,0,90,520,134,0,116,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel Caribou Cooler Blended Beverage, Medium",,720,26,17,0,85,440,112,0,97,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel Caribou Cooler Blended Beverage, Small",,610,24,15,0,80,350,91,0,79,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Blended, Extra Large",,1030,28,18,0,85,660,183,0,150,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Blended, Large",,820,25,16,0,80,500,139,0,114,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Blended, Medium",,710,23,15,0,75,420,116,0,95,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Blended, Small",,600,21,13,0,70,340,94,0,77,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Hot, Extra Large",,710,28,17,0,110,470,96,0,74,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Hot, Large",,630,26,15,0,105,400,81,0,63,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Hot, Medium",,550,24,14,0,100,330,68,0,53,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Hot, Small",,460,22,13,0,90,250,52,0,41,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Iced, Extra Large",,530,11,7,0,40,440,95,0,72,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Iced, Large",,380,8,5,0,30,320,68,0,51,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Iced, Medium",,310,7,4,0,25,260,55,0,42,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Iced, Small",,240,5,3.5,0,20,200,42,0,32,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Caramel High Rise, Nitro",,560,22,13,0,85,340,79,0,57,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Chocolate Caribou Cooler Blended Beverage, Extra Large",,980,27,19,0,80,440,170,2,148,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Chocolate Caribou Cooler Blended Beverage, Large",,770,24,16,0,75,330,127,1,111,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Chocolate Caribou Cooler Blended Beverage, Medium",,660,22,15,0,75,280,106,1,91,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Chocolate Caribou Cooler Blended Beverage, Small",,560,21,14,0,70,220,84,1,74,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Coffee Caribou Cooler Blended Beverage, Extra Large",,550,9,8,0,0,380,108,1,102,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Coffee Caribou Cooler Blended Beverage, Large",,410,7,6,0,0,280,81,0,77,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Coffee Caribou Cooler Blended Beverage, Medium",,340,6,5,0,0,240,68,0,77,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Coffee Caribou Cooler Blended Beverage, Small",,280,4.5,4,0,0,190,54,0,51,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Cold Press with Oatmilk Cold Foam, Extra Large",,60,1.5,0,0,0,40,10,1,2,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Cold Press with Oatmilk Cold Foam, Large",,60,1.5,0,0,0,35,9,1,2,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Cold Press with Oatmilk Cold Foam, Medium",,50,1.5,0,0,0,35,8,1,2,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Cold Press with Oatmilk Cold Foam, Small",,50,1.5,0,0,0,30,8,1,2,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Espresso Caribou Cooler Blended Beverage, Extra Large",,520,9,8,0,0,360,102,1,96,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Espresso Caribou Cooler Blended Beverage, Large",,380,6,6,0,0,260,75,0,70,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Espresso Caribou Cooler Blended Beverage, Medium",,310,5,4.5,0,0,220,61,0,57,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Espresso Caribou Cooler Blended Beverage, Small",,240,4,3.5,0,0,170,47,0,45,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Frozen Cookies & Cream, Extra Large",,1270,56,34,0,140,590,187,17,110,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Frozen Cookies & Cream, Large",,1000,50,31,0,135,430,134,12,78,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Frozen Cookies & Cream, Medium",,850,44,27,0,125,350,106,9,62,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Frozen Cookies & Cream, Small",,690,39,24,0,120,260,78,6,46,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Hot, Extra Large",,420,10,6,0,40,230,65,0,65,,18,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Hot, Large",,360,9,5,0,35,200,56,0,56,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Hot, Medium",,310,7,4.5,0,30,170,48,0,47,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Hot, Small",,220,5,3,0,20,115,36,0,35,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Iced, Extra Large",,320,5,3.5,0,20,135,60,0,60,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Iced, Large",,240,4,2.5,0,15,105,45,0,45,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Iced, Medium",,210,3.5,2.5,0,15,95,39,0,39,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Honey Lavender Latte, Iced, Small",,180,3.5,2,0,15,85,33,0,32,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Blended, Extra Large",,1180,29,19,0,90,480,215,2,182,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Blended, Large",,900,25,16,0,85,360,157,2,134,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Blended, Medium",,760,23,15,0,80,290,128,1,109,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Blended, Small",,620,21,14,0,75,230,99,1,85,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Hot, Extra Large",,990,48,29,0,100,260,122,2,109,,20,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Hot, Large",,830,42,25,0,95,220,99,2,89,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Hot, Medium",,690,36,22,0,90,190,78,1,70,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Hot, Small",,520,29,18,0,85,135,54,1,48,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Iced, Extra Large",,730,12,8,0,45,320,141,2,116,,18,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Iced, Large",,500,9,5,0,30,220,95,1,78,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Iced, Medium",,390,7,4.5,0,25,180,73,1,60,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Malted Mocha, Iced, Small",,280,5,3.5,0,20,135,50,1,42,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Blended, Extra Large",,1150,30,21,0,80,390,208,2,186,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Blended, Large",,900,27,19,0,75,290,156,1,140,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Blended, Medium",,780,25,18,0,70,240,130,1,117,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Blended, Small",,660,24,16,0,70,190,104,1,94,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Hot, Extra Large",,970,50,32,0,100,210,114,2,111,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Hot, Large",,820,44,28,0,90,160,93,1,91,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Hot, Medium",,700,38,25,0,85,140,76,1,74,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Hot, Small",,550,32,21,0,80,105,56,1,55,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Iced, Extra Large",,620,10,7,0,35,230,122,1,107,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Iced, Large",,430,7,4.5,0,25,160,84,1,74,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Iced, Medium",,340,6,4,0,20,135,66,1,59,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Mint Condition Mocha, Iced, Small",,250,4.5,3,0,15,100,48,0,43,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Blended, Extra Large",,240,6,1,0,0,510,45,2,26,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Blended, Large",,160,4,0.5,0,0,320,30,2,17,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Blended, Medium",,120,3,0,0,0,220,22,1,12,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Blended, Small",,80,2,0,0,0,125,15,1,7,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Hot, Extra Large",,210,5,0.5,0,0,420,38,2,21,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Hot, Large",,170,4,0.5,0,0,320,31,2,17,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Hot, Medium",,130,3,0,0,0,220,23,1,12,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Hot, Small",,90,2,0,0,0,125,23,1,7,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Iced, Extra Large",,240,6,1,0,0,510,45,2,26,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Iced, Large",,160,4,0.5,0,0,320,30,2,17,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Iced, Medium",,120,3,0,0,0,220,22,1,12,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Oatmilk Crafted Press with Oatmilk Cold Foam, Iced, Small",,80,2,0,0,0,125,15,1,7,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Blended, Extra Large",,1330,34,22,0,100,730,244,2,196,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Blended, Large",,1040,29,19,0,90,550,184,1,148,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Blended, Medium",,900,27,18,0,85,460,154,1,124,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Blended, Small",,750,25,16,0,80,370,124,1,100,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Hot, Extra Large",,1150,54,33,0,110,480,151,2,126,,19,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Hot, Large",,990,47,29,0,105,410,127,2,105,,17,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Hot, Medium",,830,41,25,0,100,350,103,1,86,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Hot, Small",,660,33,20,0,90,270,78,1,64,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Iced, Extra Large",,800,15,9,0,50,520,157,1,120,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Iced, Large",,560,10,6,0,35,370,110,1,84,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Iced, Medium",,450,9,5,0,30,300,86,1,66,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Iced, Small",,330,7,4,0,25,230,63,0,48,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Turtle Mocha, Nitro",,510,21,13,0,85,250,67,0,51,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla Caribou Cooler Blended Beverage, Extra Large",,840,23,16,0,65,350,147,1,141,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla Caribou Cooler Blended Beverage, Large",,670,21,14,0,65,260,112,0,107,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla Caribou Cooler Blended Beverage, Medium",,590,20,13,0,65,220,94,0,90,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla Caribou Cooler Blended Beverage, Small",,510,19,12,0,60,180,77,0,73,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Blended, Extra Large",,1100,26,18,0,80,390,205,0,186,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Blended, Large",,870,23,15,0,75,300,152,0,139,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Blended, Medium",,750,21,14,0,75,250,127,0,116,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Blended, Small",,620,20,13,0,70,200,101,0,92,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Hot, Extra Large",,890,44,27,0,95,210,106,0,106,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Hot, Large",,740,38,23,0,85,160,86,0,85,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Hot, Medium",,630,33,20,0,85,140,69,0,69,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Hot, Small",,490,27,17,0,80,105,49,0,49,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Iced, Extra Large",,640,10,7,0,40,230,125,0,112,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Iced, Large",,430,7,4.5,0,25,160,83,0,75,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Iced, Medium",,340,6,4,0,20,135,65,0,59,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Signature,"Vanilla White Mocha, Iced, Small",,250,4.5,3,0,15,100,47,0,43,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Berry Punch Fruit Shaker, Extra Large",,440,6,6,0,0,125,94,1,91,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Berry Punch Fruit Shaker, Large",,330,5,4.5,0,0,90,69,0,67,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Berry Punch Fruit Shaker, Medium",,270,4,3.5,0,0,75,57,0,54,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Berry Punch Fruit Shaker, Small",,210,3,3,0,0,60,44,0,42,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Peach Fruit Shaker, Extra Large",,390,6,6,0,0,120,80,1,77,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Peach Fruit Shaker, Large",,280,5,4.5,0,0,90,59,0,56,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Peach Fruit Shaker, Medium",,230,4,3.5,0,0,75,48,0,46,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Peach Fruit Shaker, Small",,180,3,3,0,0,60,37,0,35,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Strawberry Fruit Shaker, Extra Large",,380,6,6,0,0,120,79,0,76,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Strawberry Fruit Shaker, Large",,280,5,4.5,0,0,90,58,0,56,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Strawberry Fruit Shaker, Medium",,230,4,3.5,0,0,75,47,0,45,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Fruit Shakers,"Strawberry Fruit Shaker, Small",,180,3,3,0,0,60,37,0,35,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Caramel Espresso Shaker, Extra Large",,500,11,4,0,20,410,99,2,61,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Caramel Espresso Shaker, Large",,330,7,2.5,0,15,280,67,1,43,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Caramel Espresso Shaker, Medium",,280,6,2,0,10,230,55,1,35,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Caramel Espresso Shaker, Small",,220,5,2,0,10,190,44,1,27,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Honey Lavender Espresso Shaker, Extra Large",,240,2,0,0,0,70,55,1,49,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Honey Lavender Espresso Shaker, Large",,180,2,0,0,0,65,40,1,37,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Honey Lavender Espresso Shaker, Medium",,160,2,0,0,0,55,36,1,31,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Honey Lavender Espresso Shaker, Small",,140,2,0,0,0,45,30,1,25,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Vanilla Espresso Shaker, Extra Large",,310,6,1,0,0,125,62,3,45,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Vanilla Espresso Shaker, Large",,180,3,0,0,0,65,38,1,31,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Vanilla Espresso Shaker, Medium",,160,3,0,0,0,60,32,1,25,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"Vanilla Espresso Shaker, Small",,130,3,0,0,0,60,26,1,19,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"White Chocolate Espresso Shaker, Extra Large",,490,11,4,0,15,240,91,3,61,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"White Chocolate Espresso Shaker, Large",,320,7,3,0,10,160,60,2,40,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"White Chocolate Espresso Shaker, Medium",,220,5,2,0,10,110,43,1,30,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Espresso Shakers,"White Chocolate Espresso Shaker, Small",,170,4,1.5,0,<5,90,31,1,20,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink, Extra Large",,440,0,0,0,0,200,105,0,103,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink, Large",,300,0,0,0,0,135,72,0,70,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink, Medium",,230,0,0,0,0,100,56,0,54,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink, Small",,160,0,0,0,0,70,39,0,38,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink with Coconutmilk Cold Foam, Extra Large",,460,1,0.5,0,0,220,108,0,104,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink with Coconutmilk Cold Foam, Large",,320,1,0.5,0,0,150,75,0,72,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink with Coconutmilk Cold Foam, Medium",,250,1,0.5,0,0,120,58,0,56,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Energy Drink with Coconutmilk Cold Foam, Small",,180,1,0.5,0,0,85,42,0,40,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink, Extra Large",,520,0,0,0,0,10,125,0,122,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink, Large",,350,0,0,0,0,10,86,0,83,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink, Medium",,270,0,0,0,0,5,66,0,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink, Small",,190,0,0,0,0,0,46,0,44,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink with Coconutmilk Cold Foam, Extra Large",,540,1.5,0.5,0,0,30,128,1,123,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink with Coconutmilk Cold Foam, Large",,370,1.5,0.5,0,0,0,88,1,85,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink with Coconutmilk Cold Foam, Medium",,290,1,0.5,0,0,25,68,0,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Berry-C Lemonade Energy Drink with Coconutmilk Cold Foam, Small",,210,1,0.5,0,0,25,49,0,46,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Energy Drink, Extra Large",,410,0,0,0,0,220,100,0,97,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Energy Drink, Large",,280,0,0,0,0,150,68,0,66,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Energy Drink, Medium",,220,0,0,0,0,110,52,0,51,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Energy Drink, Small",,150,0,0,0,0,75,36,0,36,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Lemonade Energy Drink, Extra Large",,490,0,0,0,0,30,120,0,116,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Lemonade Energy Drink, Large",,330,0,0,0,0,20,81,0,79,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Lemonade Energy Drink, Medium",,260,0,0,0,0,15,62,0,60,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Blue Raspberry Lemonade Energy Drink, Small",,180,0,0,0,0,15,43,0,42,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy Drink, Extra Large",,420,0,0,0,0,200,102,0,99,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy Drink, Large",,290,0,0,0,0,135,69,0,68,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy Drink, Medium",,220,0,0,0,0,100,53,0,52,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy Drink, Small",,160,0,0,0,0,65,37,0,36,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy with Coconutmilk Cold Foam, Extra Large",,440,1,0.5,0,0,220,104,0,100,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy with Coconutmilk Cold Foam, Large",,310,1,0.5,0,0,150,72,0,69,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy with Coconutmilk Cold Foam, Medium",,240,1,0.5,0,0,120,56,0,54,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Energy with Coconutmilk Cold Foam, Small",,180,1,0.5,0,0,85,40,0,38,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy Drink, Extra Large",,500,0,0,0,0,10,122,1,118,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy Drink, Large",,340,0,0,0,0,5,83,0,80,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy Drink, Medium",,260,0,0,0,0,5,63,0,62,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy Drink, Small",,180,0,0,0,0,0,44,0,43,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,520,1.5,0.5,0,0,30,124,1,119,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Large",,360,1.5,0.5,0,0,25,86,1,82,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Medium",,280,1.5,0.5,0,0,25,66,0,63,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Cotton Candy Lemonade Energy with Coconutmilk Cold Foam, Small",,200,1,0.5,0,0,20,47,0,44,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy Drink, Extra Large",,390,0,0,0,0,200,94,0,90,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy Drink, Large",,260,0,0,0,0,135,64,0,61,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy Drink, Medium",,200,0,0,0,0,100,49,0,47,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy Drink, Small",,140,0,0,0,0,70,34,0,33,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy with Coconutmilk Cold Foam, Extra Large",,410,1,0.5,0,0,220,97,0,91,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy with Coconutmilk Cold Foam, Large",,290,1,0.5,0,0,150,67,0,63,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy with Coconutmilk Cold Foam, Medium",,220,1,0.5,0,0,120,52,0,48,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Energy with Coconutmilk Cold Foam, Small",,160,1,0.5,0,0,85,37,0,34,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy Drink, Extra Large",,470,0,0,0,0,10,114,0,106,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy Drink, Large",,320,0,0,0,0,10,77,0,74,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy Drink, Medium",,240,0,0,0,0,5,59,0,56,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy Drink, Small",,170,0,0,0,0,0,41,0,39,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,490,1.5,0.5,0,0,30,117,1,110,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Large",,340,1.5,0.5,0,0,25,80,1,75,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Medium",,260,1,0.5,0,0,25,62,0,58,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Ice Pop Lemonade Energy with Coconutmilk Cold Foam, Small",,190,1,0.5,0,0,25,44,0,40,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Energy Drink, Extra Large",,440,0,0,0,0,210,107,0,105,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Energy Drink, Large",,300,0,0,0,0,140,74,0,72,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Energy Drink, Medium",,230,0,0,0,0,105,56,0,56,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Energy Drink, Small",,160,0,0,0,0,70,40,0,39,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Lemonade Energy Drink, Extra Large",,520,0,0,0,0,15,127,0,124,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Lemonade Energy Drink, Large",,360,0,0,0,0,10,87,0,85,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Lemonade Energy Drink, Medium",,190,0,0,0,0,10,67,0,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Lavender Lemonade Energy Drink, Small",,190,0,0,0,0,10,46,0,45,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Energy Drink, Extra Large",,450,0,0,0,0,200,108,0,105,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Energy Drink, Large",,310,0,0,0,0,135,74,0,72,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Energy Drink, Medium",,240,0,0,0,0,105,57,0,56,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Energy Drink, Small",,170,0,0,0,0,70,40,0,39,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Lemonade Energy Drink, Extra Large",,530,0,0,0,0,15,128,0,125,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Lemonade Energy Drink, Large",,360,0,0,0,0,10,88,0,85,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Lemonade Energy Drink, Medium",,280,0,0,0,0,10,67,0,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Peach Mango Lemonade Energy Drink, Small",,190,0,0,0,0,5,47,0,46,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Energy Drink, Extra Large",,400,0,0,0,0,200,98,0,94,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Energy Drink, Large",,280,0,0,0,0,135,67,0,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Energy Drink, Medium",,210,0,0,0,0,100,51,0,50,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Energy Drink, Small",,150,0,0,0,0,70,36,0,35,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Lemonade Energy Drink, Extra Large",,480,0,0,0,0,10,118,0,114,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Lemonade Energy Drink, Large",,330,0,0,0,0,10,80,0,77,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Lemonade Energy Drink, Medium",,250,0,0,0,0,5,61,0,59,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Pomegranate Acai Lemonade Energy Drink, Small",,170,0,0,0,0,5,43,0,41,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy Drink, Extra Large",,430,0,0,0,0,200,104,0,102,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy Drink, Large",,290,0,0,0,0,135,71,0,70,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy Drink, Medium",,230,0,0,0,0,100,55,0,54,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy Drink, Small",,160,0,0,0,0,70,38,0,38,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Extra Large",,450,1.5,0.5,0,0,220,107,0,103,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Large",,320,1,0.5,0,0,150,74,0,71,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Medium",,250,1,0.5,0,0,120,58,0,55,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Energy with Coconutmilk Cold Foam, Small",,180,1,0.5,0,0,85,41,0,39,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy Drink, Extra Large",,510,0,0,0,0,10,124,1,121,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy Drink, Large",,350,0,0,0,0,10,84,0,82,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy Drink, Medium",,270,0,0,0,0,5,65,0,63,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy Drink, Small",,180,0,0,0,0,0,45,0,44,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Extra Large",,530,1.5,0.5,0,0,30,127,1,122,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Large",,370,1.5,0.5,0,0,25,87,1,84,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Medium",,290,1.5,0.5,0,0,25,68,1,65,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Rainbow Sherbet Lemonade Energy with Coconutmilk Cold Foam, Small",,210,1,0.5,0,0,25,48,0,45,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Energy Drink, Extra Large",,410,0,0,0,0,210,99,0,96,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Energy Drink, Large",,280,0,0,0,0,140,67,0,66,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Energy Drink, Medium",,210,0,0,0,0,110,52,0,50,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Energy Drink, Small",,150,0,0,0,0,75,36,0,35,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Lemonade Energy Drink, Extra Large",,490,0,0,0,0,25,119,0,115,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Lemonade Energy Drink, Large",,330,0,0,0,0,15,81,0,78,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Lemonade Energy Drink, Medium",,250,0,0,0,0,15,62,0,60,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Strawberry Pineapple Lemonade Energy Drink, Small",,180,0,0,0,0,10,43,0,42,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Passionfruit Yuzu Energy Drink, Extra Large",,30,0,0,0,0,310,30,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Passionfruit Yuzu Energy Drink, Large",,20,0,0,0,0,210,21,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Passionfruit Yuzu Energy Drink, Medium",,15,0,0,0,0,160,16,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Passionfruit Yuzu Energy Drink, Small",,10,0,0,0,0,230,11,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Salted Watermelon Energy Drink, Extra Large",,30,0,0,0,0,560,30,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Salted Watermelon Energy Drink, Large",,20,0,0,0,0,400,21,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Salted Watermelon Energy Drink, Medium",,15,0,0,0,0,310,16,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Energy Drinks,"Sugar-Free Salted Watermelon Energy Drink, Small",,10,0,0,0,0,230,11,0,0,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Hot, Extra Large",,440,10,6,0,40,210,70,0,64,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Hot, Large",,370,8,5,0,35,180,59,0,55,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Hot, Medium",,310,7,4.5,0,30,160,48,0,45,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Hot, Small",,220,5,3,0,20,105,35,0,32,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Iced, Extra Large",,390,6,4,0,25,150,70,0,64,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Iced, Large",,290,5,3,0,20,115,51,0,46,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Iced, Medium",,240,4,2.5,0,15,95,41,0,38,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Classic Chai Latte, Iced, Small",,180,3.5,2,0,15,80,32,0,29,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Earl Grey Tea Latte, Extra Large",,270,10,6,0,40,200,29,0,29,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Earl Grey Tea Latte, Large",,200,7,4.5,0,30,150,23,0,23,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Earl Grey Tea Latte, Medium",,200,7,4.5,0,30,150,23,0,23,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Earl Grey Tea Latte, Small",,140,5,3,0,20,100,18,0,17,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Berries & Cream, Extra Large",,980,19,14,0,35,290,205,0,154,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Berries & Cream, Large",,710,18,13,0,40,210,138,0,102,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Berries & Cream, Medium",,570,17,12,0,45,170,104,0,76,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Berries & Cream, Small",,440,17,11,0,45,135,70,0,50,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Lavender Matcha with Bubbles, Extra Large",,950,36,25,0,90,350,155,15,99,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Lavender Matcha with Bubbles, Large",,720,28,19,0,75,250,114,10,75,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Lavender Matcha with Bubbles, Medium",,600,24,16,0,65,200,94,8,63,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Lavender Matcha with Bubbles, Small",,490,20,13,0,55,150,73,5,51,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Matcha Tea with Bubbles, Extra Large",,950,36,25,0,90,340,155,15,99,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Matcha Tea with Bubbles, Large",,720,28,19,0,75,240,103,10,75,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Matcha Tea with Bubbles, Medium",,600,24,16,0,65,190,82,8,63,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Matcha Tea with Bubbles, Small",,490,20,13,0,55,140,62,5,51,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Peaches & Cream, Extra Large",,900,19,14,0,35,290,184,1,134,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Peaches & Cream, Large",,660,18,13,0,40,210,125,0,90,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Peaches & Cream, Medium",,540,17,12,0,45,170,95,0,68,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Peaches & Cream, Small",,420,17,11,0,45,135,66,0,46,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Strawberries & Cream, Extra Large",,900,19,14,0,35,290,183,0,133,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Strawberries & Cream, Large",,660,18,13,0,40,210,124,0,89,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Strawberries & Cream, Medium",,540,17,12,0,45,170,95,0,67,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Frozen Strawberries & Cream, Small",,420,17,11,0,45,135,66,0,45,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Blended, Extra Large",,890,0.5,0,0,0,25,222,1,187,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Blended, Large",,670,0,0,0,0,15,167,1,140,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Blended, Medium",,560,0,0,0,0,15,139,1,117,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Blended, Small",,450,0,0,0,0,10,111,0,94,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Iced, Extra Large",,330,0,0,0,0,10,83,0,70,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Iced, Large",,220,0,0,0,0,10,56,0,47,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Iced, Medium",,170,0,0,0,0,0,42,0,35,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Green Tea Lemonade, Iced, Small",,110,0,0,0,0,0,28,0,23,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Hot Chocolate, Extra Large",,830,49,30,0,110,240,78,2,75,,20,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Hot Chocolate, Large",,720,43,27,0,105,210,65,1,62,,18,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Hot Chocolate, Medium",,610,37,23,0,95,180,52,1,50,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Hot Chocolate, Small",,450,29,18,0,85,120,35,1,34,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Hot, Extra Large",,390,10,6,0,40,210,59,0,59,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Hot, Large",,340,8,5,0,35,180,50,0,50,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Hot, Medium",,280,7,4.5,0,30,160,41,0,41,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Hot, Small",,200,5,3,0,20,105,30,0,30,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Iced, Extra Large",,390,9,5,0,35,190,63,0,63,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Iced, Large",,290,6,4,0,25,140,46,0,46,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Iced, Medium",,240,5,3.5,0,20,120,37,0,37,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Lavender Matcha Tea Latte, Iced, Small",,190,4.5,3,0,20,95,29,0,29,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Hot, Extra Large",,390,10,6,0,40,200,59,0,59,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Hot, Large",,340,8,5,0,35,180,50,0,50,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Hot, Medium",,280,7,4.5,0,30,150,41,0,41,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Hot, Small",,200,5,3,0,20,100,30,0,30,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Iced, Extra Large",,390,9,5,0,35,180,63,0,63,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Iced, Large",,290,6,4,0,25,135,46,0,45,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Iced, Medium",,230,5,3.5,0,20,115,37,0,37,,9,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Matcha Vanilla Tea Latte, Iced, Small",,180,4.5,3,0,20,90,29,0,28,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Blended, Extra Large",,760,0,0,0,0,10,193,2,165,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Blended, Large",,570,0,0,0,0,10,145,1,124,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Blended, Medium",,470,0,0,0,0,5,121,1,103,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Blended, Small",,380,0,0,0,0,5,96,1,83,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Iced, Extra Large",,280,0,0,0,0,5,72,1,62,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Iced, Large",,190,0,0,0,0,5,48,0,41,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Iced, Medium",,140,0,0,0,0,0,36,0,31,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Peach Black Tea, Iced, Small",,90,0,0,0,0,0,24,0,21,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More",Pup Cup,,150,14,8,0,60,0,1,0,1,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Raspberry Green Tea with Bubbles, Extra Large",,310,3,2,0,15,70,64,0,63,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Raspberry Green Tea with Bubbles, Large",,230,2,1,0,10,40,50,0,48,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Raspberry Green Tea with Bubbles, Medium",,190,1,1,0,<5,30,42,0,41,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Raspberry Green Tea with Bubbles, Small",,160,0.5,0,0,<5,15,35,2,34,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Strawberry Banana Smoothie, Extra Large",,570,0,0,0,0,50,136,10,123,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Strawberry Banana Smoothie, Large",,430,0,0,0,0,35,102,7,92,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Strawberry Banana Smoothie, Medium",,360,0,0,0,0,30,85,6,77,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,"Tea, Cocoa & More","Strawberry Banana Smoothie, Small",,280,0,0,0,0,25,68,5,61,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Berry Punch Fruit Shaker,,150,2.5,2,0,0,45,32,0,30,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Frozen Berries & Cream,,320,13,8,0,35,85,50,0,38,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Frozen Cookies & Cream,,530,34,20,0,110,170,50,3,30,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Frozen Peaches & Cream,,300,13,8,0,35,85,46,0,34,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Frozen Strawberries & Cream,,300,13,8,0,35,85,45,0,34,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Hot Chocolate,,320,16,10,0,70,110,34,0,29,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Peach Fruit Shaker,,130,2.5,2,0,0,45,26,0,25,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Reindeer Drink,,160,4.5,3,0,20,95,23,0,23,,8,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Silly Soda,,70,0,0,0,0,0,16,0,16,,0,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Strawberry Banana Smoothie,,210,0,0,0,0,20,51,4,46,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Kids,Kids Strawberry Fruit Shaker,,130,2.5,2,0,0,45,26,0,25,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"Bacon, Egg and Cheddar",,540,23,10,0,165,1010,57,2,6,,25,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"Chicken Apple Sausage, Egg & Cheddar",,440,21,7,0,200,870,39,2,10,,26,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,Chicken Chorizo Burrito,,500,22,7,0,245,1580,53,3,2,,24,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,Gluten-Free Bacon & Gouda Souffle,,320,25,14,0.5,230,500,11,0,5,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"Ham, Egg and Swiss Croissant",,510,29,12,0,160,880,40,1,7,,22,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"JUST Egg, Roasted Tomato & Pesto Flatbread",,350,21,10,0,0,910,31,2,3,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,Lumberjack,,630,32,12,0,300,1490,57,3,7,,32,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,Maple Waffle Sandwich,,500,26,12,0,100,900,41,2,15,,22,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"Sausage, Egg and Cheddar",,550,39,15,0,170,1160,32,1,3,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,All Day Breakfast,"Turkey Bacon, Egg & Cheddar Mini",,250,13,3.5,0,140,480,22,1,1,,13,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Asiago Bagel,,280,2.5,1.5,0,<5,590,53,2,5,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Asiago Bagel with Cream Cheese,,400,15,9,0,45,710,63,2,12,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Blueberry Bagel,,280,1,0,0,0,490,59,2,10,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Blueberry Bagel with Cream Cheese,,400,13,7,0,40,610,69,2,17,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Cinnamon Raisin Bagel,,310,2,0,0,0,480,65,4,10,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Cinnamon Raisin Bagel with Cream Cheese,,440,13,7,0,40,610,71,4,12,,14,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Everything Bagel,,280,1.5,0,0,0,540,58,2,6,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Everything Bagel with Cream Cheese,,400,13,7,0,40,660,68,2,13,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Plain Bagel,,280,1,0,0,0,540,58,2,6,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bagels,Plain Bagel with Cream Cheese,,500,13,7,0,40,660,68,2,13,,12,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Birthday Cake Pop,,130,6,2.5,0,25,100,14,0,13,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Blueberry Cream Cheese Croissant,,450,28,17,1,85,350,43,1,22,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Blueberry Muffin,,390,16,4,0,50,360,48,1,25,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Chocolate Cake Pop,,130,6,2.5,0,20,120,14,1,12,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Chocolate Croissant,,360,21,12,0.5,45,300,40,2,17,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Cinnamon Coffee Cake,,470,22,4.5,0,75,300,67,2,44,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Cinnamon Sugar Caramel Cream Donut,,310,14,6,0,0,290,42,1,25,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Glazed Donut,,290,12,4.5,0,0,410,40,1,15,,5,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Milk Bar Confetti Cookie,,310,10,6,0,40,240,51,1,27,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Milk Bar Cornflake Chocolate Chip Marshmallow Cookie,,320,11,7,0,40,260,52,1,31,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Plain Croissant,,310,17,10,0.5,55,390,33,1,6,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Raspberry White Chocolate Scone,,360,17,9,0,40,280,44,<1,15,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Bakery,Sweet Lemon Loaf,,360,19,3.5,0,65,270,44,1,26,,4,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Oatmeal,Blueberry Almond Oatmeal,,310,8,0,0,0,260,43,0,13,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Oatmeal,Classic Oatmeal,,230,2.5,0,0,0,210,37,0,10,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Oatmeal,Maple Brown Sugar Oatmeal,,280,3.5,1,0,<5,240,47,1,18,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Provisions,Blueberry Almond Overnight Oats,,260,7,0,0,0,140,43,6,19,,6,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Provisions,Mixed Berry Yogurt Parfait,,190,4.5,1,0,0,55,26,3,14,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Provisions,Strawberry Honey Overnight Oats,,250,5,2,0,10,140,41,5,18,,11,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Caprese Sandwich,,640,24,12,0,65,1220,63,5,2,,16,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Grilled Cheese,,600,26,16,0,70,1280,61,2,4,,30,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Ham & Swiss,,410,24,14,0.5,90,850,29,0,6,,21,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Nashville Hot Chicken Biscuit,,480,26,13,0,35,1400,45,1,4,,15,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Smoked Salmon on Plain Bagel,,520,17,9,0,50,1300,60,2,9,,22,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Lunch,Turkey Provolone on Asiago Bagel,,490,16,8,0,50,1340,59,5,8,,26,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,All Mixed Up Kettle Chips,,300,18,2.5,0,0,230,33,2,3,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Almond Biscotti,,90,4.5,2,0,15,35,10,1,5,,2,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Honey Barbeque Kettle Chips,,290,16,2,0,0,290,34,2,5,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Kodiak Double Chocolate Chip Chewy Granola Bar,,140,4,1,0,<5,105,20,2,8,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Kodiak Peanut Butter Crunchy Granola Bar,,220,10,1.5,0,0,170,23,2,11,,10,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Kodiak S'mores Chewy Granola Bar,,140,3.5,1,0,<5,90,20,2,9,,7,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Milk Bar Brown Butter Chocolate Chip Super Crunchy Cookies,,140,6,3,0,<5,75,20,0,11,,1,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27
+caribou,Snacks & Sweets,Sea Salt Kettle Chips,,290,16,2,0,0,220,34,2,4,,3,,,https://www.nutritionix.com/caribou-coffee/menu/premium,2026-10-27

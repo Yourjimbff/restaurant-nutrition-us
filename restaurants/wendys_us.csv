@@ -1,0 +1,142 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+wendys,Hamburgers,Baconator,,890,58,24,2.5,165,1580,36,1,8,,59,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Bacon Double Stack,,420,24,10,1,70,880,25,1,6,,26,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Big Bacon Classic,,610,37,15,1.5,95,1340,38,2,9,,35,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Big Bacon Classic Double,,860,55,23,2.5,155,1570,38,2,9,,55,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Big Bacon Classic Triple,,1140,77,33,3.5,225,2000,38,2,10,,77,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Dave's Double,,810,52,22,2.5,150,1410,37,2,9,,50,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Dave's Single,,560,34,14,1.5,90,1170,37,2,9,,31,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Dave's Triple,,1100,74,32,3.5,220,1830,38,2,9,,72,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Double Stack,,380,21,9,1,65,770,25,1,5,,23,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Jr. Bacon Cheeseburger,,350,21,8,0.5,50,650,24,1,5,,18,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Jr. Cheeseburger,,270,13,6,0.5,35,660,25,1,5,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Jr. Cheeseburger Deluxe,,330,19,7,0.5,45,710,26,1,6,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Jr. Hamburger,,230,10,4,0,25,470,24,1,5,,12,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Pretzel Bacon Pub Cheeseburger,,780,46,17,1.5,100,1340,52,3,6,,40,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Pretzel Bacon Pub Double Cheeseburger,,1110,71,28,2.5,180,1720,52,3,6,,65,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Pretzel Bacon Pub Triple Cheeseburger,,1430,96,40,4,260,2090,53,3,6,,89,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Hamburgers,Son of Baconator,,590,36,14,1.5,95,1220,35,1,8,,34,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",3 Piece Tenders,,420,22,3.5,0,80,1050,22,1,0,,33,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",4 Piece Chicken Nuggets,,170,11,2.5,0,30,360,9,0,0,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",4 Piece Spicy Chicken Nuggets,,190,12,3,0,25,480,9,1,0,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",4 Piece Tenders,,560,30,5,0,105,1390,29,1,0,,44,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",6 Piece Chicken Nuggets,,260,16,3.5,0,45,540,13,1,0,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",6 Piece Spicy Chicken Nuggets,,280,18,4,0,40,720,13,1,0,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",10 Piece Chicken Nuggets,,430,27,6,0,75,900,22,1,0,,23,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",10 Piece Spicy Chicken Nuggets,,470,31,7,0,65,1190,22,2,0,,26,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More","Asiago Ranch Club Sandwich, Classic",,670,34,8,0,80,1830,56,3,7,,37,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More","Asiago Ranch Club Sandwich, Spicy",,680,35,9,0,80,1700,56,3,7,,36,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Classic Chicken Sandwich,,550,25,4,0,60,1630,55,3,7,,28,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Crispy Chicken BLT,,420,23,6,0,55,950,34,1,6,,20,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Crispy Chicken Sandwich,,340,17,3,0,40,650,32,1,4,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Grilled Chicken Ranch Wrap,,420,16,5,0,70,1100,41,1,2,,28,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Pretzel Bacon Pub Chicken Sandwich,,860,44,11,0.5,90,2280,73,5,6,,42,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Spicy Chicken Sandwich,,560,26,4.5,0,60,1500,55,3,7,,28,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,"Chicken, Nuggets & More",Spicy Nuggs Party Pack,,2340,153,34,0,330,5960,112,8,0,,128,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Apple Pecan Salad, Dressing (Per Packet)",,90,3,0,0,0,190,16,0,15,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Apple Pecan Salad, Entree",,420,22,9,0,90,980,27,5,18,,30,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Cobb Salad, Dressing (Per Packet)",,250,26,4.5,0,20,310,2,0,1,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Cobb Salad, Entree",,410,23,8,0,245,860,16,3,4,,37,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Parmesan Caesar Salad, Dressing (Per Packet)",,240,25,4.5,0,35,450,2,0,1,,2,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Parmesan Caesar Salad, Entree",,270,11,5,0,80,790,12,3,2,,31,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Taco Salad, Dressing (Per Packet)",,150,15,3,0,25,330,3,0,1,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fresh-Made Salads,"Taco Salad, Entree",,470,25,10,1,70,1180,36,8,12,,27,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Baconator Fries,,450,25,8,0,30,1000,42,3,1,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Bacon Cheese Baked Potato,,420,12,6,0,30,570,64,7,4,,17,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Cheese Baked Potato,,440,14,8,0,40,700,65,7,4,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Cheese Fries,,470,27,10,0,40,1120,44,3,1,,12,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Chili,,280,12,4.5,0.5,45,1050,24,3,6,,19,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Chili & Cheese Baked Potato,,490,14,7,0,45,830,70,8,6,,21,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Chili Cheese Fries,,510,27,9,0,45,1260,49,5,3,,18,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Jr. Natural-Cut Fries,,260,12,2,0,0,420,35,3,0,,4,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Plain Baked Potato,,270,0,0,0,0,40,61,7,3,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Pub Fries,,460,25,9,0,35,1040,43,3,1,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,"Sides, 4 Piece Chicken Nuggets",,170,11,2.5,0,30,360,9,0,0,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,"Sides, 4 Piece Spicy Chicken Nuggets",,190,12,3,0,25,480,9,1,0,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,"Sides, 6 Piece Chicken Nuggets",,260,16,3.5,0,45,540,13,1,0,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,"Sides, 6 Piece Spicy Chicken Nuggets",,280,18,4,0,40,720,13,1,0,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,"Sides, Apple Bites",,35,0,0,0,0,0,8,1,6,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Fries & Sides,Sour Cream & Chive Baked Potato,,300,2.5,1.5,0,<5,55,63,7,4,,8,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,All-Natural Lemonade,,190,0,0,0,0,25,48,0,46,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Caramel Cold Brew with Cream,,120,4,2.5,0,15,40,18,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Chocolate Cold Brew with Cream,,120,4,2.5,0,15,50,19,0,16,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Chocolate Milk,,140,2.5,1.5,0,10,160,23,1,22,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Cold Brew with Cream & Sugar,,110,4,2.5,0,15,35,18,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Honest Kids Fruit Punch,,35,0,0,0,0,15,8,0,8,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Milk,,90,2,1,0,10,90,10,0,10,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Pineapple Citrus Sparkling Energy,,160,0,0,0,0,135,42,0,41,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Pineapple Mango Lemonade,,230,0,0,0,0,25,58,0,55,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Simply Orange Juice,,160,0,0,0,0,0,39,1,34,,3,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Small Cold Brew,,20,0,0,0,0,15,4,0,0,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Small Regular Hot Coffee,,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Sprite Watermelon,,170,0,0,0,0,40,45,0,45,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Strawberry Lemonade,,230,0,0,0,0,25,58,0,54,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Vanilla Cold Brew with Cream,,120,4,2.5,0,15,40,17,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Watermelon Lemonade,,220,0,0,0,0,25,57,0,54,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Beverages,Watermelon Sparkling Energy,,190,0,0,0,0,140,48,0,47,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,"Apple Crumble Frosty Fusion, Vanilla",,390,10,5,0,30,220,67,1,53,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Brownie Batter Chocolate Frosty Swirl,,500,24,8,0,30,370,61,2,50,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Brownie Batter Vanilla Frosty Swirl,,500,24,8,0,30,370,62,1,51,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Caramel Chocolate Frosty Swirl,,380,10,6,0,35,310,64,1,52,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Caramel Crunch Chocolate Frosty Fusion,,420,11,6,0,35,390,75,1,59,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Caramel Crunch Vanilla Frosty Fusion,,420,10,6,0,35,390,75,0,60,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Caramel Vanilla Frosty Swirl,,380,10,6,0,35,310,65,0,52,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,"Cookie Dough Frosty Fusion, Chocolate",,540,25,10,0,35,400,72,2,54,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,"Cookie Dough Frosty Fusion, Vanilla",,540,24,10,0,35,400,73,1,55,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Jr. Classic Chocolate Frosty,,310,9,6,0,35,180,49,1,41,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Jr. Vanilla Frosty,,310,9,5,0,35,180,49,0,41,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,OREO Brownie Chocolate Frosty Fusion,,520,24,8,0,30,370,67,2,53,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,OREO Brownie Vanilla Frosty Fusion,,520,23,8,0,30,370,68,1,54,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Strawberry Chocolate Frosty Swirl,,330,8,5,0,30,160,58,1,50,,8,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Frosty,Strawberry Vanilla Frosty Swirl,,330,8,5,0,30,160,59,0,51,,8,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Bakery,Chocolate Chunk Cookie,,330,16,8,0,20,210,43,2,26,,3,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Bakery,Cinnabon Pull-Apart,,550,26,11,0,35,440,70,3,30,,8,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Bakery,Sugar Cookie,,330,16,8,0,20,300,44,1,24,,3,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Wendy's Kids' Meal,Kids' 2 Piece Tenders,,280,15,2.5,0,55,700,15,1,0,,22,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Wendy's Kids' Meal,Kids' 4 Piece Spicy Nuggets,,190,12,3,0,25,480,9,1,0,,10,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Wendy's Kids' Meal,Kids' 4PC Nuggets,,170,11,2.5,0,30,360,9,0,0,,9,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Wendy's Kids' Meal,Kids' Cheeseburger,,270,13,6,0.5,35,550,24,1,5,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Wendy's Kids' Meal,Kids' Hamburger,,230,10,4,0,25,360,23,1,5,,12,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Bacon Double Stack",,420,24,10,1,70,880,25,1,6,,26,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Crispy Chicken BLT",,420,23,6,0,55,950,34,1,6,,20,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Crispy Chicken Sandwich",,340,17,3,0,40,650,32,1,4,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Double Stack",,380,21,9,1,65,770,25,1,5,,23,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Jr. Bacon Cheeseburger",,350,21,8,0.5,50,650,24,1,5,,18,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Jr. Cheeseburger",,270,13,6,0.5,35,660,25,1,5,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Jr. Cheeseburger Deluxe",,330,19,7,0.5,45,710,26,1,6,,15,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Everyday Value,"Everyday Value, Jr. Hamburger",,230,10,4,0,25,470,24,1,5,,12,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Classics,"Breakfast, Breakfast Baconator",,680,45,18,0.5,275,1580,36,1,8,,34,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Classics,"Breakfast, Homestyle French Toast Sticks, 4 Piece",,130,0,0,0,0,30,31,0,13,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Classics,"Breakfast, Homestyle French Toast Sticks, 6 Piece",,500,27,6,0,170,520,48,2,12,,16,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Burrito,"Breakfast, Breakfast Burrito, Bacon",,700,39,15,0.5,420,2140,55,2,3,,32,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Burrito,"Breakfast, Breakfast Burrito, Sausage",,820,53,20,0.5,440,2120,55,3,4,,31,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Sides & Sweets,"Breakfast, Apple Bites",,35,0,0,0,0,0,8,1,6,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Sides & Sweets,"Breakfast, Cinnabon Pull-Apart",,550,26,11,0,35,440,70,3,30,,8,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Sides & Sweets,"Breakfast, Small Seasoned Potatoes",,280,13,2,0,0,600,39,4,0,,3,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, All-Natural Lemonade",,190,0,0,0,0,25,48,0,46,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Caramel Cold Brew with Cream",,120,4,2.5,0,15,40,18,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Chocolate Cold Brew with Cream",,120,4,2.5,0,15,50,19,0,16,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Chocolate Milk",,140,2.5,1.5,0,10,160,23,1,22,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Cold Brew with Cream & Sugar",,110,4,2.5,0,15,35,18,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Honest Kids Fruit Punch",,35,0,0,0,0,15,8,0,8,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Milk",,90,2,1,0,10,90,10,0,10,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Pineapple Citrus Sparkling Energy",,160,0,0,0,0,135,42,0,41,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Pineapple Mango Lemonade",,230,0,0,0,0,25,58,0,55,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Simply Orange Juice",,160,0,0,0,0,0,39,1,34,,3,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Small Cold Brew",,20,0,0,0,0,15,4,0,0,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Small Regular Hot Coffee",,5,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Sprite Watermelon",,170,0,0,0,0,40,45,0,45,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Strawberry Lemonade",,230,0,0,0,0,25,58,0,54,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Vanilla Cold Brew with Cream",,120,4,2.5,0,15,40,17,0,15,,1,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Watermelon Lemonade",,220,0,0,0,0,25,57,0,54,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Beverages,"Breakfast, Watermelon Sparkling Energy",,190,0,0,0,0,140,48,0,47,,0,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Croissants,"Breakfast, Bacon, Egg & Swiss Croissant",,420,23,10,0,235,800,34,0,7,,18,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Croissants,"Breakfast, Maple Bacon Chicken Croissant",,540,30,11,0.5,60,880,48,3,12,,19,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Croissants,"Breakfast, Sausage, Egg & Swiss Croissant",,590,40,16,0.5,265,960,35,0,7,,21,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Bacon, Egg & Cheese Biscuit",,420,24,11,0,205,1200,34,2,3,,17,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Egg & Cheese Biscuit",,370,21,10,0,195,1030,34,2,3,,13,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Honey Buddy Chicken Biscuit",,490,27,9,0,25,1040,48,4,8,,14,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Honey Butter Biscuit",,330,17,8,0,<5,740,39,2,8,,5,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Sausage, Egg & Cheese Biscuit",,590,41,17,0,235,1350,35,2,3,,21,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Sausage Biscuit",,470,31,13,0,40,1020,34,2,3,,12,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27
+wendys,Breakfast Biscuits,"Breakfast, Sausage Gravy & Biscuit",,410,23,10,0,10,1300,45,2,3,,7,,,https://www.nutritionix.com/wendys/menu/premium,2026-10-27

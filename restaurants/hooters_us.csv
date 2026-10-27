@@ -1,0 +1,804 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+hooters,Draft Beer,"Bell's Oberon Ale, 14 fl oz",,170,0,0,0,0,10,16,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Oberon Ale, 16 fl oz",,200,0,0,0,0,10,19,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Oberon Ale, Big Daddy",,330,0,0,0,0,15,31,3,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Oberon Ale, Pitcher",,820,0,0,0,0,40,78,9,1,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Two Hearted, 14 fl oz",,210,0,0,0,0,10,17,1,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Two Hearted, 16 fl oz",,250,0,0,0,0,10,19,2,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Two Hearted, Big Daddy",,410,0,0,0,0,20,32,3,3,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bell's Two Hearted, Pitcher",,1020,0,0,0,0,50,81,6,8,,11,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Belgian White, 14 fl oz",,170,0,0,0,0,15,14,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Belgian White, 16 fl oz",,200,0,0,0,0,20,16,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Belgian White, Big Daddy",,320,0,0,0,0,30,27,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Belgian White, Pitcher",,810,0,0,0,0,80,68,0,0,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Mango Wheat, 14 fl oz",,180,0,0,0,0,10,16,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Mango Wheat, 16 fl oz",,200,0,0,0,0,10,18,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Mango Wheat, Big Daddy",,340,0,0,0,0,20,30,0,4,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Blue Moon Mango Wheat, Pitcher",,850,0,0,0,0,50,76,0,10,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Single-Wide IPA, 14 fl oz",,180,0.5,0,0,0,25,17,1,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Single-Wide IPA, 16 fl oz",,210,0.5,0,0,0,30,20,1,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Single-Wide IPA, Big Daddy",,350,1,0,0,0,45,33,2,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Single-Wide IPA, Pitcher",,870,3,0,0,0,115,82,4,3,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Unfiltered Wheat, 14 fl oz",,150,0,0,0,0,20,10,21,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Unfiltered Wheat, 16 fl oz",,180,0,0,0,0,25,11,25,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Unfiltered Wheat, Big Daddy",,290,0,0,0,0,40,19,40,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Boulevard Unfiltered Wheat, Pitcher",,730,0,0,0,0,100,47,102,0,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bud Light, 14 fl oz",,110,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bud Light, 16 fl oz",,130,0,0,0,0,0,8,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bud Light, Big Daddy",,210,0,0,0,0,0,13,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Bud Light, Pitcher",,530,0,0,0,0,0,32,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Budweiser, 14 fl oz",,150,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Budweiser, 16 fl oz",,170,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Budweiser, Big Daddy",,280,0,0,0,0,0,20,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Budweiser, Pitcher",,700,0,0,0,0,0,51,0,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Busch Light, 14 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Busch Light, 16 fl oz",,110,0,0,0,0,0,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Busch Light, Big Daddy",,180,0,0,0,0,0,6,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Busch Light, Pitcher",,460,0,0,0,0,0,15,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Banquet, 14 fl oz",,150,0,0,0,0,15,12,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Banquet, 16 fl oz",,170,0,0,0,0,20,14,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Banquet, Big Daddy",,280,0,0,0,0,30,22,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Banquet, Pitcher",,710,0,0,0,0,75,57,0,5,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Light, 14 fl oz",,100,0,0,0,0,10,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Light, 16 fl oz",,120,0,0,0,0,15,6,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Light, Big Daddy",,200,0,0,0,0,20,10,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Coors Light, Pitcher",,490,0,0,0,0,50,24,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Light, 14 fl oz",,100,0,0,0,0,5,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Light, 16 fl oz",,120,0,0,0,0,5,6,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Light, Big Daddy",,190,0,0,0,0,10,10,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Light, Pitcher",,480,0,0,0,0,25,24,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Premier, 14 fl oz",,90,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Premier, 16 fl oz",,110,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Premier, Big Daddy",,170,0,0,0,0,0,5,0,5,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Corona Premier, Pitcher",,440,0,0,0,0,0,13,0,13,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum Dallas Blonde, 14 fl oz",,160,0,0,0,0,10,9,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum Dallas Blonde, 16 fl oz",,190,0,0,0,0,10,11,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum Dallas Blonde, Big Daddy",,310,0,0,0,0,20,17,2,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum Dallas Blonde, Pitcher",,770,0,0,0,0,50,44,5,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum IPA, 14 fl oz",,210,0,0,0,0,10,11,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum IPA, 16 fl oz",,250,0,0,0,0,10,13,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum IPA, Big Daddy",,400,0,0,0,0,20,21,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Deep Ellum IPA, Pitcher",,1020,0,0,0,0,50,53,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Eight Point IPA, 14 fl oz",,190,0,0,0,0,5,15,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Eight Point IPA, 16 fl oz",,220,0,0,0,0,5,18,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Eight Point IPA, Big Daddy",,360,0,0,0,0,10,29,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Eight Point IPA, Pitcher",,920,0,0,0,0,25,73,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Vienna Lager, 14 fl oz",,170,0,0,0,0,5,13,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Vienna Lager, 16 fl oz",,200,0,0,0,0,5,16,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Vienna Lager, Big Daddy",,330,0,0,0,0,10,25,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Devils Backbone Vienna Lager, Pitcher",,820,0,0,0,0,30,64,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head 60 Minute IPA, 14 fl oz",,190,0,0,0,0,10,17,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head 60 Minute IPA, 16 fl oz",,220,0,0,0,0,10,20,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head 60 Minute IPA, Big Daddy",,360,0,0,0,0,20,33,0,4,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head 60 Minute IPA, Pitcher",,920,0,0,0,0,50,82,0,10,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head Slighty Mighty, 14 fl oz",,90,0,0,0,0,0,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head Slighty Mighty, 16 fl oz",,110,0,0,0,0,0,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head Slighty Mighty, Big Daddy",,180,0,0,0,0,0,7,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dogfish Head Slighty Mighty, Pitcher",,460,0,0,0,0,0,17,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Ambar, 14 fl oz",,150,0,0,0,0,40,14,0,4,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Ambar, 16 fl oz",,170,0,0,0,0,50,16,0,5,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Ambar, Big Daddy",,280,0,0,0,0,80,27,0,8,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Ambar, Pitcher",,710,0,0,0,0,200,68,0,19,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Lager Especial, 14 fl oz",,130,0,0,0,0,45,11,0,4,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Lager Especial, 16 fl oz",,150,0,0,0,0,50,13,0,5,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Lager Especial, Big Daddy",,250,0,0,0,0,80,21,0,8,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Lager Especial, Pitcher",,630,0,0,0,0,210,53,0,19,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Mexican Pale Ale, 14 fl oz",,170,0,0,0,0,20,15,0,4,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Mexican Pale Ale, 16 fl oz",,200,0,0,0,0,25,18,0,5,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Mexican Pale Ale, Big Daddy",,330,0,0,0,0,40,29,0,8,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Dos Equis Mexican Pale Ale, Pitcher",,820,0,0,0,0,100,73,0,19,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Eight Elite Lager, 14 fl oz",,90,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Eight Elite Lager, 16 fl oz",,110,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Eight Elite Lager, Big Daddy",,170,0,0,0,0,0,5,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Eight Elite Lager, Pitcher",,440,0,0,0,0,0,13,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Estrella Jalisco, 14 fl oz",,140,0,0,0,0,0,13,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Estrella Jalisco, 16 fl oz",,160,0,0,0,0,0,15,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Estrella Jalisco, Big Daddy",,260,0,0,0,0,0,24,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Estrella Jalisco, Pitcher",,660,0,0,0,0,0,60,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Foothills Hoppyum IPA, 14 fl oz",,200,0,0,0,0,10,18,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Foothills Hoppyum IPA, 16 fl oz",,230,0,0,0,0,10,21,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Foothills Hoppyum IPA, Big Daddy",,380,0,0,0,0,20,34,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Foothills Hoppyum IPA, Pitcher",,970,0,0,0,0,50,87,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day IPA, 14 fl oz",,140,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day IPA, 16 fl oz",,160,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day IPA, Big Daddy",,270,0,0,0,0,0,21,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day IPA, Pitcher",,680,0,0,0,0,0,53,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day Vacay, 14 fl oz",,140,0,0,0,0,10,11,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day Vacay, 16 fl oz",,160,0,0,0,0,10,13,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day Vacay, Big Daddy",,270,0,0,0,0,15,22,0,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Founders All Day Vacay, Pitcher",,680,0,0,0,0,45,55,0,5,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners El Grito, 14 fl oz",,130,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners El Grito, 16 fl oz",,160,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners El Grito, Big Daddy",,260,0,0,0,0,0,22,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners El Grito, Pitcher",,650,0,0,0,0,0,55,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners Local Buzz, 14 fl oz",,170,0,0,0,0,10,12,1,3,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners Local Buzz, 16 fl oz",,200,0,0,0,0,10,14,1,3,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners Local Buzz, Big Daddy",,330,0,0,0,0,20,23,1,5,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Four Corners Local Buzz, Pitcher",,820,0,0,0,0,50,57,3,14,,8,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Funky Buddha Floridian, 14 fl oz",,170,0,0,0,0,20,11,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Funky Buddha Floridian, 16 fl oz",,200,0,0,0,0,25,13,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Funky Buddha Floridian, Big Daddy",,330,0,0,0,0,40,21,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Funky Buddha Floridian, Pitcher",,820,0,0,0,0,95,53,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Golden Road Mango Cart, 14 fl oz",,160,0,0,0,0,10,20,0,3,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Golden Road Mango Cart, 16 fl oz",,190,0,0,0,0,10,23,0,4,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Golden Road Mango Cart, Big Daddy",,310,0,0,0,0,20,38,0,6,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Golden Road Mango Cart, Pitcher",,770,0,0,0,0,50,97,0,15,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose IPA, 14 fl oz",,210,0,0,0,0,15,21,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose IPA, 16 fl oz",,240,0,0,0,0,20,25,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose IPA, Big Daddy",,400,0,0,0,0,30,40,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose IPA, Pitcher",,1010,0,0,0,0,75,102,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Lemonade Shandy, 14 fl oz",,180,0,0,0,0,5,19,0,10,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Lemonade Shandy, 16 fl oz",,210,0,0,0,0,5,22,0,12,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Lemonade Shandy, Big Daddy",,350,0,0,0,0,10,36,0,19,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Lemonade Shandy, Pitcher",,870,0,0,0,0,25,92,0,48,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Urban Wheat, 14 fl oz",,140,0,0,0,0,10,12,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Urban Wheat, 16 fl oz",,160,0,0,0,0,10,14,0,3,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Urban Wheat, Big Daddy",,260,0,0,0,0,20,23,0,4,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island 312 Urban Wheat, Pitcher",,650,0,0,0,0,50,58,0,11,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Hazy Bear Hug, 14 fl oz",,210,0,0,0,0,15,19,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Hazy Bear Hug, 16 fl oz",,250,0,0,0,0,20,22,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Hazy Bear Hug, Big Daddy",,400,0,0,0,0,30,36,0,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Hazy Bear Hug, Pitcher",,1020,0,0,0,0,75,92,0,0,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Lost Palate, 14 fl oz",,200,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Lost Palate, 16 fl oz",,230,0,0,0,0,0,20,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Lost Palate, Big Daddy",,380,0,0,0,0,0,33,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Goose Island Lost Palate, Pitcher",,970,0,0,0,0,0,82,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Guinness Draught, 14 fl oz",,130,0,0,0,0,0,10,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Guinness Draught, 16 fl oz",,150,0,0,0,0,0,11,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Guinness Draught, Big Daddy",,240,0,0,0,0,0,18,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Guinness Draught, Pitcher",,600,0,0,0,0,0,46,0,4,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Heineken, 14 fl oz",,140,0,0,0,0,10,11,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Heineken, 16 fl oz",,170,0,0,0,0,10,13,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Heineken, Big Daddy",,270,0,0,0,0,15,21,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Heineken, Pitcher",,690,0,0,0,0,45,53,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Highland Brewing Gaelic Ale, 14 fl oz",,170,0,0,0,0,10,12,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Highland Brewing Gaelic Ale, 16 fl oz",,200,0,0,0,0,10,14,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Highland Brewing Gaelic Ale, Big Daddy",,330,0,0,0,0,20,23,4,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Highland Brewing Gaelic Ale, Pitcher",,820,0,0,0,0,50,58,10,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Hop Valley Bubble Stash IPA, 14 fl oz",,190,0,0,0,0,5,16,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Hop Valley Bubble Stash IPA, 16 fl oz",,220,0,0,0,0,5,19,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Hop Valley Bubble Stash IPA, Big Daddy",,360,0,0,0,0,10,31,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Hop Valley Bubble Stash IPA, Pitcher",,920,0,0,0,0,25,78,0,0,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Jekyll Hop Dang Diggity Southern IPA, 14 fl oz",,200,0,0,0,0,10,13,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Jekyll Hop Dang Diggity Southern IPA, 16 fl oz",,230,0,0,0,0,10,15,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Jekyll Hop Dang Diggity Southern IPA, Big Daddy",,380,0,0,0,0,20,25,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Jekyll Hop Dang Diggity Southern IPA, Pitcher",,970,0,0,0,0,50,63,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Crawford Bock, 14 fl oz",,140,0,0,0,0,25,11,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Crawford Bock, 16 fl oz",,160,0,0,0,0,30,13,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Crawford Bock, Big Daddy",,260,0,0,0,0,50,21,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Crawford Bock, Pitcher",,670,0,0,0,0,120,53,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Hopadillo IPA, 14 fl oz",,210,0,0,0,0,35,16,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Hopadillo IPA, 16 fl oz",,250,0,0,0,0,40,19,0,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Hopadillo IPA, Big Daddy",,400,0,0,0,0,65,31,0,4,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Hopadillo IPA, Pitcher",,1020,0,0,0,0,170,77,0,10,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Light Circus Hazy IPA, 14 fl oz",,170,0,0,0,0,30,11,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Light Circus Hazy IPA, 16 fl oz",,200,0,0,0,0,35,13,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Light Circus Hazy IPA, Big Daddy",,330,0,0,0,0,60,21,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Light Circus Hazy IPA, Pitcher",,820,0,0,0,0,150,53,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Blonde, 14 fl oz",,150,0,0,0,0,30,10,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Blonde, 16 fl oz",,170,0,0,0,0,35,12,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Blonde, Big Daddy",,280,0,0,0,0,60,19,0,4,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Blonde, Pitcher",,710,0,0,0,0,150,48,0,10,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Citrus, 14 fl oz",,150,0,0,0,0,25,12,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Citrus, 16 fl oz",,170,0,0,0,0,30,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Citrus, Big Daddy",,280,0,0,0,0,50,22,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Citrus, Pitcher",,700,0,0,0,0,130,57,0,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Light, 14 fl oz",,100,0,0,0,0,30,3,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Light, 16 fl oz",,110,0,0,0,0,35,4,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Light, Big Daddy",,180,0,0,0,0,60,6,0,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Love Street Light, Pitcher",,460,0,0,0,0,150,15,0,5,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Weisse Versa, 14 fl oz",,170,0,0,0,0,30,13,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Weisse Versa, 16 fl oz",,200,0,0,0,0,35,15,0,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Weisse Versa, Big Daddy",,330,0,0,0,0,60,25,0,4,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Karbach Weisse Versa, Pitcher",,820,0,0,0,0,150,63,0,10,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Kona Big Wave Golden Ale, 14 fl oz",,130,0,0,0,0,10,10,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Kona Big Wave Golden Ale, 16 fl oz",,150,0,0,0,0,10,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Kona Big Wave Golden Ale, Big Daddy",,250,0,0,0,0,20,19,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Kona Big Wave Golden Ale, Pitcher",,640,0,0,0,0,45,48,0,0,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lagunitas IPA, 14 fl oz",,190,0,0,0,0,15,14,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lagunitas IPA, 16 fl oz",,220,0,0,0,0,20,17,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lagunitas IPA, Big Daddy",,360,0,0,0,0,30,27,0,4,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lagunitas IPA, Pitcher",,920,0,0,0,0,75,69,0,10,,13,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Juicy Peach, 14 fl oz",,160,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Juicy Peach, 16 fl oz",,190,0,0,0,0,0,20,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Juicy Peach, Big Daddy",,310,0,0,0,0,0,33,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Juicy Peach, Pitcher",,770,0,0,0,0,0,84,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Summer Shandy, 14 fl oz",,130,0,0,0,0,0,12,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Summer Shandy, 16 fl oz",,160,0,0,0,0,5,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Summer Shandy, Big Daddy",,260,0,0,0,0,10,23,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Leinenkugel Summer Shandy, Pitcher",,650,0,0,0,0,25,58,0,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lone Star, 14 fl oz",,140,0,0,0,0,10,12,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lone Star, 16 fl oz",,160,0,0,0,0,15,14,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lone Star, Big Daddy",,260,0,0,0,0,20,23,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Lone Star, Pitcher",,660,0,0,0,0,55,58,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra, 14 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra, 16 fl oz",,110,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra, Big Daddy",,180,0,0,0,0,0,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra, Pitcher",,460,0,0,0,0,0,13,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra Pure Gold, 14 fl oz",,90,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra Pure Gold, 16 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra Pure Gold, Big Daddy",,160,0,0,0,0,0,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Michelob Ultra Pure Gold, Pitcher",,410,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Miller Lite, 14 fl oz",,100,0,0,0,0,5,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Miller Lite, 16 fl oz",,110,0,0,0,0,5,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Miller Lite, Big Daddy",,180,0,0,0,0,10,6,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Miller Lite, Pitcher",,460,0,0,0,0,25,15,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Modelo Especial, 14 fl oz",,140,0,0,0,0,0,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Modelo Especial, 16 fl oz",,170,0,0,0,0,0,16,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Modelo Especial, Big Daddy",,270,0,0,0,0,0,26,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Modelo Especial, Pitcher",,690,0,0,0,0,0,66,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Fat Tire Amber Ale, 14 fl oz",,140,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Fat Tire Amber Ale, 16 fl oz",,160,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Fat Tire Amber Ale, Big Daddy",,270,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Fat Tire Amber Ale, Pitcher",,680,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Voodoo Ranger IPA, 14 fl oz",,200,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Voodoo Ranger IPA, 16 fl oz",,230,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Voodoo Ranger IPA, Big Daddy",,380,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"New Belgium Voodoo Ranger IPA, Pitcher",,970,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Oskar Blues Dale's Pale Ale, 14 fl oz",,200,0,0,0,0,10,18,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Oskar Blues Dale's Pale Ale, 16 fl oz",,230,0,0,0,0,10,21,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Oskar Blues Dale's Pale Ale, Big Daddy",,380,0,0,0,0,20,35,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Oskar Blues Dale's Pale Ale, Pitcher",,970,0,0,0,0,50,87,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pacifico, 14 fl oz",,140,0,0,0,0,10,14,0,12,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pacifico, 16 fl oz",,160,0,0,0,0,15,16,0,14,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pacifico, Big Daddy",,270,0,0,0,0,20,27,0,23,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pacifico, Pitcher",,670,0,0,0,0,55,68,0,58,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pappy Slokum Local Yella, 14 fl oz",,140,0,0,0,0,10,9,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pappy Slokum Local Yella, 16 fl oz",,160,0,0,0,0,10,11,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pappy Slokum Local Yella, Big Daddy",,270,0,0,0,0,20,17,2,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Pappy Slokum Local Yella, Pitcher",,680,0,0,0,0,50,44,5,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Rahr's Blonde, 14 fl oz",,150,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Rahr's Blonde, 16 fl oz",,180,0,0,0,0,0,14,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Rahr's Blonde, Big Daddy",,290,0,0,0,0,0,23,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Rahr's Blonde, Pitcher",,730,0,0,0,0,0,58,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Ugly Pug, 14 fl oz",,180,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Ugly Pug, 16 fl oz",,210,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Ugly Pug, Big Daddy",,350,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Rahr & Sons Ugly Pug, Pitcher",,870,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Real Ale Firemans #4, 14 fl oz",,160,0,0,0,0,10,13,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Real Ale Firemans #4, 16 fl oz",,190,0,0,0,0,10,15,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Real Ale Firemans #4, Big Daddy",,310,0,0,0,0,15,25,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Real Ale Firemans #4, Pitcher",,770,0,0,0,0,40,63,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Red Oak Bavarian Amber Lager, 14 fl oz",,150,0,0,0,0,10,14,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Red Oak Bavarian Amber Lager, 16 fl oz",,180,0,0,0,0,10,16,2,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Red Oak Bavarian Amber Lager, Big Daddy",,290,0,0,0,0,20,27,4,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Red Oak Bavarian Amber Lager, Pitcher",,730,0,0,0,0,50,68,10,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Blood & Honey, 14 fl oz",,210,0,0,0,0,90,18,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Blood & Honey, 16 fl oz",,250,0,0,0,0,105,21,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Blood & Honey, Big Daddy",,410,0,0,0,0,170,34,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Blood & Honey, Pitcher",,1020,0,0,0,0,440,85,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Mi Cheve, 14 fl oz",,150,0,0,0,0,60,13,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Mi Cheve, 16 fl oz",,180,0,0,0,0,70,15,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Mi Cheve, Big Daddy",,300,0,0,0,0,115,25,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Revolver Brewing Mi Cheve, Pitcher",,740,0,0,0,0,290,64,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Saint Archer Gold, 14 fl oz",,100,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Saint Archer Gold, 16 fl oz",,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Saint Archer Gold, Big Daddy",,190,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Saint Archer Gold, Pitcher",,480,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Samuel Adams Boston Lager, 14 fl oz",,170,0,0,0,0,20,17,1,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Samuel Adams Boston Lager, 16 fl oz",,200,0,0,0,0,25,20,1,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Samuel Adams Boston Lager, Big Daddy",,330,0,0,0,0,40,33,2,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Samuel Adams Boston Lager, Pitcher",,820,0,0,0,0,95,82,5,5,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Bock, 14 fl oz",,140,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Bock, 16 fl oz",,160,0,0,0,0,20,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Bock, Big Daddy",,270,0,0,0,0,30,24,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Bock, Pitcher",,680,0,0,0,0,75,60,0,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Light Blonde, 14 fl oz",,100,0,0,0,0,20,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Light Blonde, 16 fl oz",,120,0,0,0,0,20,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Light Blonde, Big Daddy",,190,0,0,0,0,35,7,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shiner Light Blonde, Pitcher",,480,0,0,0,0,85,16,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shock Top Belgian White, 14 fl oz",,170,0,0,0,0,0,15,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shock Top Belgian White, 16 fl oz",,190,0,0,0,0,0,17,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shock Top Belgian White, Big Daddy",,320,0,0,0,0,0,28,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Shock Top Belgium White, Pitcher",,810,0,0,0,0,0,71,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Hazy Little Thing IPA, 14 fl oz",,210,0,0,0,0,10,16,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Hazy Little Thing IPA, 16 fl oz",,250,0,0,0,0,10,19,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Hazy Little Thing IPA, Big Daddy",,400,0,0,0,0,20,31,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Hazy Little Thing IPA, Pitcher",,1020,0,0,0,0,50,77,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Pale Ale, 14 fl oz",,180,0,0,0,0,0,15,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Pale Ale, 16 fl oz",,210,0,0,0,0,0,17,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Pale Ale, Big Daddy",,340,0,0,0,0,0,28,0,0,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Pale Ale, Pitcher",,850,0,0,0,0,0,71,0,0,,8,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Sunny Little Thing, 14 fl oz",,170,0,0,0,0,0,0,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Sunny Little Thing, 16 fl oz",,200,0,0,0,0,0,0,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Sunny Little Thing, Big Daddy",,330,0,0,0,0,0,0,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sierra Nevada Sunny Little Thing, Pitcher",,820,0,0,0,0,0,0,0,0,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stella Artois, 14 fl oz",,150,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stella Artois, 16 fl oz",,180,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stella Artois, Big Daddy",,290,0,0,0,0,0,22,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stella Artois, Pitcher",,730,0,0,0,0,0,56,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stiegl Grapefruit Radler, 14 fl oz",,120,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stiegl Grapefruit Radler, 16 fl oz",,140,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stiegl Grapefruit Radler, Big Daddy",,230,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stiegl Grapefruit Radler, Pitcher",,580,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone Buenaveza Salt & Lime Lager, 14 fl oz",,140,0,0,0,0,30,10,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone Buenaveza Salt & Lime Lager, 16 fl oz",,160,0,0,0,0,35,12,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone Buenaveza Salt & Lime Lager, Big Daddy",,270,0,0,0,0,60,19,0,4,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone Buenaveza Salt & Lime Lager, Pitcher",,680,0,0,0,0,150,48,0,10,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone IPA, 14 fl oz",,210,0,0,0,0,20,17,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone IPA, 16 fl oz",,250,0,0,0,0,20,19,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone IPA, Big Daddy",,400,0,0,0,0,35,32,0,4,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Stone IPA, Pitcher",,1020,0,0,0,0,95,81,0,10,,12,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain G13, 14 fl oz",,180,0,0,0,0,5,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain G13, 16 fl oz",,210,0,0,0,0,5,14,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain G13, Big Daddy",,350,0,0,0,0,10,23,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain G13, Pitcher",,870,0,0,0,0,30,58,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain Mango Kush Wheat Ale, 14 fl oz",,150,1,0,0,0,0,9,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain Mango Kush Wheat Ale, 16 fl oz",,180,1,0,0,0,0,11,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain Mango Kush Wheat Ale, Big Daddy",,290,2,0,0,0,10,17,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420 Strain Mango Kush Wheat Ale, Pitcher",,730,5,0,0,0,20,44,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420, 14 fl oz",,180,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420, 16 fl oz",,210,0,0,0,0,0,14,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420, Big Daddy",,340,0,0,0,0,0,23,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater 420, Pitcher",,860,0,0,0,0,0,58,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater Blue, 14 fl oz",,180,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater Blue, 16 fl oz",,210,0,0,0,0,0,14,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater Blue, Big Daddy",,340,0,0,0,0,0,23,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater Blue, Pitcher",,860,0,0,0,0,0,58,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater IPA, 14 fl oz",,180,0,0,0,0,0,12,0,12,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater IPA, 16 fl oz",,210,0,0,0,0,0,14,0,14,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater IPA, Big Daddy",,340,0,0,0,0,0,23,0,23,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Sweetwater IPA, Pitcher",,860,0,0,0,0,0,58,0,58,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Alta, 14 fl oz",,90,0,0,0,0,0,2,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Alta, 16 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Alta, Big Daddy",,160,0,0,0,0,0,5,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Alta, Pitcher",,410,0,0,0,0,0,12,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Light, 14 fl oz",,110,0,0,0,0,0,7,0,2,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Light, 16 fl oz",,120,0,0,0,0,0,8,0,2,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Light, Big Daddy",,200,0,0,0,0,0,14,0,3,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Tecate Light, Pitcher",,510,0,0,0,0,0,34,0,9,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Terrapin Luau Krunkles, 14 fl oz",,200,0,0,0,0,15,15,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Terrapin Luau Krunkles, 16 fl oz",,230,0,0,0,0,20,17,0,2,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Terrapin Luau Krunkles, Big Daddy",,380,0,0,0,0,30,29,0,4,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Terrapin Luau Krunkles, Pitcher",,970,0,0,0,0,75,72,0,10,,12,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Alpha King, 14 fl oz",,230,0,0,0,0,10,19,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Alpha King, 16 fl oz",,270,0,0,0,0,10,22,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Alpha King, Big Daddy",,440,0,0,0,0,20,36,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Alpha King, Pitcher",,1110,0,0,0,0,50,92,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Gumballhead, 14 fl oz",,190,0,0,0,0,15,14,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Gumballhead, 16 fl oz",,220,0,0,0,0,20,16,1,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Gumballhead, Big Daddy",,360,0,0,0,0,30,27,2,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Gumballhead, Pitcher",,920,0,0,0,0,75,68,5,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Yum Yum, 14 fl oz",,190,0,0,0,0,10,15,1,1,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Yum Yum, 16 fl oz",,220,0,0,0,0,10,18,1,1,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Yum Yum, Big Daddy",,360,0,0,0,0,20,29,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Three Floyds Yum Yum, Pitcher",,920,0,0,0,0,50,73,5,5,,15,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Twisted Tea, 14 fl oz",,190,0,0,0,0,0,27,0,17,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Twisted Tea, 16 fl oz",,230,0,0,0,0,0,32,0,20,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Twisted Tea, Big Daddy",,370,0,0,0,0,0,52,0,33,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Twisted Tea, Pitcher",,930,0,0,0,0,0,132,0,84,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Two Lane American Golden Lager, 14 fl oz",,100,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Two Lane American Golden Lager, 16 fl oz",,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Two Lane American Golden Lager, Big Daddy",,190,0,0,0,0,0,6,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Two Lane American Golden Lager, Pitcher",,480,0,0,0,0,0,15,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Wicked Weed Perni-Haze, 14 fl oz",,200,0,0,0,0,25,15,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Wicked Weed Perni-Haze, 16 fl oz",,230,0,0,0,0,30,18,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Wicked Weed Perni-Haze, Big Daddy",,380,0,0,0,0,50,29,0,2,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Wicked Weed Perni-Haze, Pitcher",,970,0,0,0,0,120,73,0,5,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Flight, 14 fl oz",,100,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Flight, 16 fl oz",,110,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Flight, Big Daddy",,180,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Flight, Pitcher",,460,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Golden Pilsner, 14 fl oz",,140,0,0,0,0,15,9,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Golden Pilsner, 16 fl oz",,160,0,0,0,0,20,11,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Golden Pilsner, Big Daddy",,260,0,0,0,0,30,17,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Golden Pilsner, Pitcher",,650,0,0,0,0,75,44,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Traditional Lager, 14 fl oz",,140,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Traditional Lager, 16 fl oz",,160,0,0,0,0,20,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Traditional Lager, Big Daddy",,270,0,0,0,0,30,23,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Yuengling Traditional Lager, Pitcher",,680,0,0,0,0,75,58,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Ziegenbock Amber, 14 fl oz",,150,0,0,0,0,10,3,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Ziegenbock Amber, 16 fl oz",,180,0,0,0,0,10,4,0,0,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Ziegenbock Amber, Big Daddy",,290,0,0,0,0,20,6,0,0,,4,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Draft Beer,"Ziegenbock Amber, Pitcher",,730,0,0,0,0,50,15,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Bacardi Rum Punch 12 fl oz Can,,270,0,0,0,0,0,37,0,37,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Blue Moon Light Sky, 12 fl oz",,100,0,0,0,0,5,4,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Bud Light, 12 fl oz",,110,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Bud Light Black Cherry Seltzer 12 fl oz Can,,100,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Bud Light Next, 12 fl oz Can",,80,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Budweiser, 12 fl oz",,150,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Coors Light, 12 fl oz",,100,0,0,0,0,10,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Corona Extra, 12 fl oz",,150,0,0,0,0,15,14,0,4,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Corona Light, 12 fl oz",,100,0,0,0,0,5,5,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Dos Equis Lime & Salt 12 fl oz Can,,140,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Dos Equis Ranch Water Hard Seltzer 12 fl oz Can,,90,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Good Boy Vodka Iced Tea Lemonade 12 fl oz Can,,100,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Heineken Silver 12 fl oz Can,,90,0,0,0,0,0,6,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,High Noon Peach 12 fl oz Can,,100,0,0,0,0,0,5,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,High Noon Watermelon 12 fl oz Can,,100,0,0,0,0,0,5,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Lone River Ranch Water Hard Seltzer 12 fl oz Can,,80,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Michelob Ultra, 12 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Miller Lite, 12 fl oz",,100,0,0,0,0,5,3,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Modelo Especial, 12 fl oz",,140,0,0,0,0,0,14,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Modelo Negra, 12 fl oz",,160,0,0,0,0,10,15,0,13,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,New Belgium Fat Tire 12 fl oz,,140,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"New Belgium Voodoo Ranger IPA, 12 fl oz",,200,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Pabst Blue Ribbon, 12 fl oz",,140,0,0,0,0,10,12,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Shiner Bock, 12 fl oz",,140,0,0,0,0,15,12,0,0,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Simply Spiked Lemonade 12 fl oz Can,,170,0,0,0,0,40,19,0,18,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Stiegl Grapefruit Radler 12 fl oz,,120,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Stone Buenaveza Salt & Lime Lager 12 fl oz,,140,0,0,0,0,30,10,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Topo Chico Strawberry Guava Hard Seltzer, 12 fl oz",,100,0,0,0,0,20,3,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,Truly Blackberry & Lemon Vodka Seltzer 12 fl oz Can,,110,0,0,0,0,0,4,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,"Truly Wild Berry, 12 fl oz",,100,0,0,0,0,0,2,0,1,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,White Claw Black Cherry 12 fl oz Can,,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,White Claw Mango 12 fl oz Can,,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Beer and Malt Beverages - Bottles & Cans,White Claw Watermelon 12 fl oz Can,,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,Mezgarita,,460,0,0,0,0,260,90,0,78,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,Perfect 10 Rita,,510,0,0,0,0,340,94,0,87,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,Red Bull Watermelon Rita,,390,0,0,0,0,140,64,0,61,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Frozen",,450,0,0,0,0,340,79,0,74,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Mango Frozen",,470,0,0,0,0,140,85,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Mango Rocks",,470,0,0,0,0,140,85,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Passion Fruit Frozen",,510,0,0,0,0,150,94,0,89,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Passion Fruit Rocks",,510,0,0,0,0,150,94,0,89,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Peach Frozen",,470,0,0,0,0,150,85,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Peach Rocks",,470,0,0,0,0,150,85,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Rocks",,450,0,0,0,0,340,79,0,74,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Spicy Frozen",,510,0,0,0,0,180,93,0,74,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Spicy Rocks",,510,0,0,0,0,180,93,0,74,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Strawberry Frozen",,470,0,0,0,0,150,84,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Strawberry Rocks",,470,0,0,0,0,150,84,0,80,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Wildberry Frozen",,490,0,0,0,0,140,91,0,85,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,"Rita Gone Wild, Wildberry Rocks",,490,0,0,0,0,140,91,0,85,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,The Legendary Margarita Frozen,,470,0,0,0,0,390,98,0,91,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Margaritas,The Legendary Margarita Rocks,,470,0,0,0,0,390,98,0,91,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Hooterades,Blue Hooterade,,210,0,0,0,0,10,27,0,25,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Hooterades,Hootorade Punch,,220,0,0,0,0,20,38,0,31,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Hooterades,Mango Hooterade,,190,0,0,0,0,10,27,0,25,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tropicals,Beach Retreat,,290,0,0,0,0,135,60,0,55,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tropicals,Hula Hoop Pina Colada,,570,12,10,0,0,95,103,4,92,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tropicals,Hurricane,,240,0,0,0,0,5,23,1,19,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tropicals,Pink Passion,,350,0,0,0,0,55,62,1,56,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tropicals,Strawberry Daiquiri,,300,0,0,0,0,45,48,0,47,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Long Islands,The Long Island Iced Tea,,360,0,0,0,0,100,56,0,53,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Long Islands,Tropical Long Island Iced Tea,,380,0,0,0,0,100,70,0,66,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Long Islands,VIP LIT,,350,0,0,0,0,100,56,0,53,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Long Islands,Whiskey Long Island Iced Tea,,360,0,0,0,0,100,56,0,53,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Classics,3 Mile Island Bloody Mary,,170,4,1.5,0,10,1560,9,1,3,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Classics,Angel's Envy Old Fashioned,,210,0,0,0,0,0,14,0,13,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Classics,Spiked Cherry Cola,,250,0,0,0,0,10,38,0,36,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Classics,Spiked No. 7 Lemonade,,210,0,0,0,0,10,18,0,17,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Classics,Tito's Mule,,170,0,0,0,0,20,23,0,22,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,Jager Bomb,,170,0,0,0,0,40,24,0,10,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,Jamo-Mango Bomb,,180,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,PBJ Bomb,,190,0,0,0,0,70,30,0,30,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,Strawberry Skrew Bomb,,200,0,0,0,0,20,12,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,Vegas Bomb,,120,0,0,0,0,40,16,0,16,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Bombs Away,Watermelon Bomb,,200,0,0,0,0,90,34,0,32,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Angel's Envy Kentucky Straight Bourbon Whiskey, Double",,140,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Angel's Envy Kentucky Straight Bourbon Whiskey, Single",,90,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,Bosscal Mezcal,,90,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Crown Royal Regal Apple Whiskey, Double",,130,0,0,0,0,0,7,0,7,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Crown Royal Regal Apple Whiskey, Single",,80,0,0,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,Jack Daniel's Apple Tennessee Whiskey,,90,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Jameson Irish Whiskey, Double",,130,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,"Jameson Irish Whiskey, Single",,80,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,Ole Smoky Salty Caramel Whiskey,,80,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,Patron Tequila,,80,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Shooters,Skrewball Peanut Butter Whiskey,,100,0,0,0,0,0,9,0,9,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Cabernet Sauvignon, 6 fl oz",,150,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Cabernet Sauvignon, 20 fl oz",,490,0,0,0,0,0,15,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Chardonnay, 6 fl oz",,150,0,0,0,0,10,4,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Chardonnay, 20 fl oz",,490,0,0,0,0,30,13,0,6,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Merlot, 6 fl oz",,150,0,0,0,0,5,4,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Merlot, 20 fl oz",,490,0,0,0,0,25,15,0,4,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Moscato, 6 fl oz",,150,0,0,0,0,0,9,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Moscato, 20 fl oz",,490,0,0,0,0,0,31,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Pinot Grigio, 6 fl oz",,150,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"Pinot Grigio, 20 fl oz",,490,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"White Zinfandel, 6 fl oz",,150,0,0,0,0,10,7,0,7,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wine,"White Zinfandel, 20 fl oz",,500,0,0,0,0,30,23,0,23,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,3 Mile Island Buffalo Sauce,,20,0,0,0,0,1700,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Add Curly Fries to Sliders,,500,24,4.5,0,0,460,62,7,0,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,BBQ Sauce,,100,0,0,0,0,540,24,0,20,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Bleu Cheese Dressing,,200,20,4,0,20,410,2,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Buffalo Chicken Sliders (4),,990,47,21,1,175,1650,99,4,12,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Buffalo Hot Honey Sauce,,140,8,0,0,0,1080,16,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Buffalo Sauce, Hot",,80,8,0,0,0,1300,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Buffalo Sauce, Medium",,140,14,0,0,0,850,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Buffalo Sauce, Mild",,240,20,4,0,0,770,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Cajun Dry Rub (Per 10 Wings),,5,0,0,0,0,500,1,1,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Caribbean Jerk Dry Rub (Per 10 Wings),,0,0,0,0,0,350,5,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Celery (5),,5,0,0,0,0,15,1,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Cheese And Pretzels,,980,33,10,0,15,5600,142,5,6,,30,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Cheese Burger Sliders (4),,1150,76,37,3,200,4380,77,4,14,,44,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Chesapeake Dry Rub (Per 10 Wings),,0,0,0,0,0,810,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Chipotle Honey Sauce,,160,6,0,0,0,770,24,0,24,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Chips And Queso,,1200,67,17,0.5,45,2770,124,11,11,,23,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Chips And Queso With Chili,,1300,72,19,1,60,3180,131,13,13,,29,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Daytona Beach Sauce,,100,0,0,0,0,1140,24,0,20,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Garlic Habanero Dry Rub (Per 10 Wings),,10,0,0,0,0,460,1,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,General Tso's Sauce,,140,0,0,0,0,970,37,0,32,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Ghost Pepper Sauce,,60,4,0,0,0,2200,4,0,4,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Honey Sriracha Sauce,,160,0,0,0,0,1420,41,0,28,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Hooters Original Buffalo Chicken Dip With Blue Cheese Dressing,,1370,79,25,0,125,4130,121,9,12,,35,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Hooters Original Buffalo Chicken Dip With Ranch Dressing,,1370,79,25,0,125,4140,121,9,12,,35,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Hooters Original Buffalo Platter,,1210,65,15,0,355,1560,50,7,3,,101,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Hooters Original Buffalo Shrimp, 12 Piece",,390,22,4,0,210,810,22,1,1,,29,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Hooters Original Buffalo Shrimp, 24 Piece",,790,43,8,0,420,1620,43,2,1,,57,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Hooters Original Fried Pickles With Remoulade Sauce,,1180,90,15,0.5,40,4450,82,7,8,,11,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Lemon Pepper Dry Rub (Per 10 Wings),,410,46,29,2,120,1180,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Lots Of Tots,,1290,79,22,0.5,65,2910,119,15,6,,25,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Mozzarella Sticks With Marinara Sauce,,800,45,15,1,55,2390,67,3,7,,29,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Parmesan Garlic Sauce,,240,24,4,0,0,970,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Ranch Dressing,,200,21,2.5,0,15,470,3,0,2,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Remoulade Sauce,,430,44,7,0,40,1030,7,1,4,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Samurai Teriyaki Sauce,,160,0,0,0,0,370,41,0,37,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Spicy Garlic Sauce,,320,32,6,0,20,1500,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Texas-Style Quesadillas,,1300,75,36,1,230,2800,83,3,14,,62,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,Texas BBQ Rub (Per 10 Wings),,10,0,0,0,0,390,2,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Tex Mex Nachos, Chili",,1470,83,24,1.5,95,3620,144,16,18,,37,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Teasers,"Tex Mex Nachos, Grilled Chicken",,1570,82,22,1,215,6950,132,13,15,,77,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Bun, Brioche",,260,9,5,0,20,430,40,1,5,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Bun, Texas Toast",,270,8,5,0,15,450,43,1,5,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, American, 2 Slices",,140,12,7,0,40,510,1,0,1,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, Bleu Crumbles",,100,8,5,0,20,380,1,0,1,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, Cheddar, 2 Slices",,230,19,11,0,55,370,2,0,0,,13,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, Pepper Jack, 2 Slices",,160,13,8,0,45,270,1,0,0,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, Provolone, 2 Slices",,150,11,7,0,30,370,1,0,0,,11,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Cheese, Swiss, 2 Slices",,170,13,8,0,40,80,1,0,0,,11,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Bacon (2)",,70,6,2,0,15,240,0,0,0,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Chili",,100,5,2,0,15,420,8,2,2,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Pickled Jalapenos",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Sauteed Green Peppers",,20,1.5,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Sauteed Mushrooms",,15,1,0,0,0,0,1,1,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Extras, Sauteed Onions",,20,1.5,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Meat, 2 All Beef Patties",,400,35,13,2,105,2470,1,0,0,,22,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Meat, Build A Home Run, 4 Beef Patties",,810,69,26,4,205,4950,3,1,1,,44,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Meat, Build A Triple, 3 Beef Patties",,610,52,20,3,155,3710,2,0,0,,33,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Meat, Crispy Chicken Breast",,400,18,3.5,0,115,600,27,2,0,,33,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Meat, Grilled Chicken Breast",,290,9,2,0,155,3460,2,0,0,,51,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, 3 Mile",,10,0,0,0,0,850,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, BBQ",,50,0,0,0,0,270,12,0,10,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Buffalo Hot",,40,4,0,0,0,650,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Buffalo Hot Honey",,70,4,0,0,0,550,8,0,6,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Buffalo Medium",,70,7,0,0,0,430,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Buffalo Mild",,120,10,2,0,0,390,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Chipotle Honey",,80,3,0,0,0,390,12,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Daytona Beach",,50,0,0,0,0,570,12,0,10,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, General Tso's",,70,0,0,0,0,490,18,0,16,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Ghost Pepper",,30,2,0,0,0,1120,2,0,2,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Honey Sriracha",,80,0,0,0,0,710,20,0,14,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Parmesan Garlic",,120,12,2,0,0,490,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Queso Cheese",,200,14,6,0,30,1330,9,0,6,,8,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Samurai Teriyaki",,80,0,0,0,0,180,20,0,18,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Sauce, Spicy Garlic",,160,16,3,0,10,750,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Veggies, Diced Tomatoes",,10,0,0,0,0,0,2,1,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Veggies, Lettuce",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Veggies, Onions Sliced (2)",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Veggies, Pickles (3)",,5,0,0,0,0,210,1,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Build Your Own Burger or Chicken Sandwich,"Veggies, Tomato (1)",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Burgers,Twisted Texas Melt,,1020,69,27,2.5,160,3920,61,2,18,,41,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Burgers,Western Bbq Burger,,1050,70,31,2.5,195,3820,59,2,16,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,3 Mile Island Buffalo Sauce,,20,0,0,0,0,1700,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,BBQ Sauce,,100,0,0,0,0,540,24,0,20,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Bleu Cheese Dressing,,200,20,4,0,20,410,2,0,2,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Boneless Wings, 8 Piece",,580,26,5,0,80,1220,32,1,1,,55,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Boneless Wings, 10 Piece",,730,33,7,0,100,1530,40,1,1,,68,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Boneless Wings, 16 Piece",,1160,52,10,0,155,2440,64,2,2,,109,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Boneless Wings, 22 Piece",,1600,72,14,0.5,215,3360,88,3,3,,150,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Boneless Wings, 50 Piece",,3640,163,33,1.5,490,7630,201,7,7,,342,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Buffalo Hot Honey Sauce,,140,8,0,0,0,1080,16,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Buffalo Sauce, Hot",,80,8,0,0,0,1300,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Buffalo Sauce, Medium",,140,14,0,0,0,850,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Buffalo Sauce, Mild",,240,20,4,0,0,770,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Cajun Dry Rub (Per 10 Wings),,5,0,0,0,0,500,1,1,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Caribbean Jerk Dry Rub (Per 10 Wings),,0,0,0,0,0,350,5,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Celery (5),,5,0,0,0,0,15,1,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Chesapeake Dry Rub (Per 10 Wings),,0,0,0,0,0,810,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Chipotle Honey Sauce,,160,6,0,0,0,770,24,0,24,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Daytona Beach Sauce,,100,0,0,0,0,1140,24,0,20,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Garlic Habanero Dry Rub (Per 10 Wings),,10,0,0,0,0,460,1,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,General Tso's Sauce,,140,0,0,0,0,970,37,0,32,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Ghost Pepper Sauce,,60,4,0,0,0,2200,4,0,4,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Honey Sriracha Sauce,,160,0,0,0,0,1420,41,0,28,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Dayton Beach Style Wings, 6 Piece",,490,26,7,0,210,870,15,1,13,,53,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Dayton Beach Style Wings, 10 Piece",,820,43,11,0,345,1440,25,1,21,,88,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Dayton Beach Style Wings, 15 Piece",,1230,64,16,0,520,2160,38,2,32,,132,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Dayton Beach Style Wings, 20 Piece",,1640,86,22,0,695,2890,51,3,43,,176,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Dayton Beach Style Wings, 50 Piece",,4090,214,55,1,1735,7220,126,6,106,,439,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Roasted Wings, 6 Piece",,420,22,7,0,200,1090,1,1,1,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Roasted Wings, 10 Piece",,710,36,11,0,330,1820,1,1,1,,76,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Roasted Wings, 15 Piece",,1060,54,16,0,495,2720,2,2,2,,114,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Roasted Wings, 30 Piece",,1410,72,22,0.5,660,3630,3,3,3,,153,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Roasted Wings, 50 Piece",,3530,181,54,1.5,1655,9080,7,7,7,,381,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Smoked Wings, 6 Piece",,470,24,6,0,130,1740,8,1,5,,59,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Smoked Wings, 10 Piece",,790,40,10,0,220,2900,13,2,8,,98,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Smoked Wings, 15 Piece",,1180,61,14,0,330,4350,19,2,12,,147,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Smoked Wings, 20 Piece",,1580,81,19,0.5,440,5800,25,3,17,,196,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Smoked Wings, 50 Piece",,3950,202,48,1.5,1095,14510,63,8,42,,489,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Style Original Wings, 6 Piece",,570,34,9,0,190,230,14,5,2,,45,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Style Original Wings, 10 Piece",,950,57,14,0,315,380,24,9,3,,75,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Style Original Wings, 15 Piece",,1430,86,22,0,470,560,36,13,4,,113,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Style Original Wings, 20 Piece",,1910,114,29,0.5,630,750,48,18,5,,151,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Hooters Style Original Wings, 50 Piece",,4770,285,72,1.5,1575,1880,119,44,14,,376,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Lemon Pepper Dry Rub (Per 10 Wings),,410,46,29,2,120,1180,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Naked Wings, 6 Piece",,430,26,7,0,210,190,1,1,1,,53,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Naked Wings, 10 Piece",,720,43,11,0,345,320,1,1,1,,88,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Naked Wings, 15 Piece",,1080,64,16,0,520,480,2,2,2,,132,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Naked Wings, 20 Piece",,1440,86,22,0,695,650,3,3,3,,176,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,"Naked Wings, 50 Piece",,3590,214,55,1,1735,1620,6,6,6,,439,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Parmesan Garlic Sauce,,240,24,4,0,0,970,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Ranch Dressing,,200,21,2.5,0,15,470,3,0,2,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Remoulade Sauce,,430,44,7,0,40,1030,7,1,4,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Samurai Teriyaki Sauce,,160,0,0,0,0,370,41,0,37,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Spicy Garlic Sauce,,320,32,6,0,20,1500,4,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Wings,Texas BBQ Rub (Per 10 Wings),,10,0,0,0,0,390,2,0,1,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Boneless Wings,,790,36,9,0,195,1840,35,2,1,,80,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Daytona Wings,,830,41,11,0,320,1800,28,2,11,,90,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Naked Wings,,780,41,11,0,320,1240,16,2,1,,90,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Original Wings,,900,48,13,0,305,1270,27,6,1,,84,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Roasted Wings,,780,38,11,0,310,1990,16,2,1,,84,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,3 Tenders & 5 Smoked Wings,,820,40,10,0,255,2530,21,2,4,,95,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,"Tenders, 4 Piece",,560,27,7,0,195,1440,20,2,0,,61,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,"Tenders, 5 Piece",,700,33,9,0,245,1800,25,3,0,,77,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Tenders,"Tenders, 6 Piece",,850,40,11,0,290,2150,30,3,0,,92,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Big Fish Sandwich With Tartar Sauce, Fried",,1220,79,17,0.5,270,1740,85,4,12,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Big Fish Sandwich With Tartar Sauce, Grilled",,1090,74,16,1,130,3780,56,2,12,,53,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Hooters Original Buffalo Chicken Sandwich, Fried",,670,27,9,0,135,1030,68,4,6,,40,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Hooters Original Buffalo Chicken Sandwich, Grilled",,560,18,7,0,175,3890,43,2,6,,59,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Hooters Original Buffalo Chicken Tacos, Fried",,720,26,8,0,145,1660,68,5,4,,49,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Hooters Original Buffalo Chicken Tacos, Grilled",,480,12,3.5,0,90,2670,54,4,4,,34,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,Hooters Original Chicken Tender Melt Sandwich,,1020,50,21,0,250,2250,64,3,5,,80,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Philly Cheesesteak Sandwich, Beef",,930,57,25,1,150,1590,51,3,6,,54,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sandwiches & Tacos,"Philly Cheesesteak Sandwich, Chicken",,790,34,15,0,195,4340,52,3,6,,72,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Baja Fish Tacos, Fried",,870,49,9,0,165,1520,76,6,6,,27,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Baja Fish Tacos, Grilled",,780,45,9,0.5,70,1720,58,5,6,,30,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,Baja Shrimp Tacos,,670,40,8,0,135,1980,58,6,6,,17,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,Fish & Chips With Tarter Sauce,,720,52,9,0,210,950,33,2,6,,31,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Fish & Chips With Tarter Sauce, Add 6 Fried Shrimp Without Sauce",,200,11,2,0,105,400,11,1,0,,14,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Oysters With Cocktail Sauce, Horseradish And Saltines (1 Dozen)",,330,7,2.5,0,130,1520,47,3,13,,16,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,Shrimp Platter With Cocktail Sauce,,450,22,4,0,210,1650,34,2,11,,30,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,Snow Crab Legs With Butter (1 Pound),,530,48,29,2,250,4360,2,0,1,,25,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Steamed Shrimp With Cocktail Sauce And Butter, Half Pound",,360,25,15,1,265,3410,13,3,10,,24,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Seafood,"Steamed Shrimp With Cocktail Sauce And Butter, Pound",,670,50,29,2,535,5980,14,5,11,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Chili Cheese Fries,,1100,58,13,0.5,30,1850,123,14,3,,22,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Curly Fries,,500,24,4.5,0,0,460,62,7,0,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Curly Fries, Add Cheese Sauce",,150,11,4.5,0,25,980,7,0,4,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Hooters Chili With Saltines,,390,18,6,1,55,1510,35,6,7,,21,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Hooters Chili With Saltines, Add Cheese And Onions",,120,9,5,0,25,180,3,0,1,,7,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Onion Rings,,460,30,5,0,0,430,40,2,5,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Side Caesar Salad,,240,19,3.5,0,20,870,13,2,3,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Side Garden Salad,,160,10,5,0,25,270,9,2,3,,8,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Balsamic",,90,7,1,0,0,300,7,0,7,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Bleu Cheese",,150,15,3,0,15,300,1,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Caesar",,130,12,2,0,15,530,4,0,1,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Honey Dijon",,240,22,3.5,0,15,210,12,0,11,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Lite Italian",,35,1.5,0,0,0,540,4,0,3,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Side Garden Salad Dressing Choice, Ranch",,150,15,2,0,10,340,2,0,2,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Tots,,500,28,6,0,0,880,56,7,1,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,Waffle Fries,,620,36,7,0,0,940,67,3,0,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Sides,"Waffle Fries, Add Cheese Sauce",,150,11,4.5,0,25,980,7,0,4,,6,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Caesar Salad, Fried Chicken",,770,47,9,0,85,2190,45,5,6,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Caesar Salad, Grilled Chicken",,600,41,8,0,110,4950,25,5,6,,34,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Caesar Salad, Grilled Shrimp",,480,36,7,0,110,1950,24,5,6,,18,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Caesar Salad, Hold The Chicken",,380,29,6,0,30,1360,23,4,6,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Garden Salad, Fried Chicken",,710,38,14,0,105,1370,40,4,6,,53,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Garden Salad, Grilled Chicken",,540,33,13,0,130,4130,20,4,6,,40,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Garden Salad, Grilled Shrimp",,420,28,12,0,130,1130,19,4,5,,24,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Chicken Garden Salad, Hold The Chicken",,320,21,10,0,55,550,18,3,5,,16,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Balsamic",,190,15,2,0,0,610,14,0,13,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Bleu Cheese",,300,30,6,0,30,600,3,0,3,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Caesar",,260,24,4,0,25,1070,8,0,3,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Honey Dijon",,480,44,7,0,35,410,24,0,23,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Lite Italian",,70,3,0,0,0,1070,9,0,6,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Entree Salad Dressing Choice, Ranch",,300,31,4,0,20,690,4,0,3,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Hooters Original Buffalo Chicken Salad, Fried Chicken",,530,26,8,0,75,1220,30,3,5,,45,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Hooters Original Buffalo Chicken Salad, Grilled Chicken",,350,20,7,0,95,3980,11,3,5,,32,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Salads,"Hooters Original Buffalo Chicken Salad, Grilled Shrimp",,230,16,6,0,95,970,9,4,5,,16,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,Caramel Fudge Cheese Cake,,880,50,24,1,110,630,92,3,83,,11,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,Chocolate Mousse Cake,,830,40,17,0,30,540,123,9,95,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Caramel Latte",,200,11,7,0,35,95,24,0,14,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Chocolate Brownie",,220,13,7,0,40,140,27,1,20,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Cookies N' Cream",,190,11,6,0,30,150,22,0,15,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Heath Bar",,260,15,9,0,35,220,31,0,23,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Peanut Butter",,330,19,11,0,25,190,35,1,31,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,"Dessert Shooter, Strawberry",,260,15,9,0,45,180,30,1,25,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,Funnel Fries With Chocolate Sauce,,810,29,6,0,30,550,137,3,89,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,Funnel Fries With Raspberry Sauce,,780,28,5,0,30,520,130,3,84,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Desserts,Key Lime Pie,,620,31,18,1,115,330,89,1,75,,8,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Add-On Blackberry Flavor,,100,0,0,0,0,0,25,0,23,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Add-On Mango Flavor,,50,0,0,0,0,0,13,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Add-On Passion Fruit Flavor,,50,0,0,0,0,25,12,0,10,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Add-On Peach Flavor,,50,0,0,0,0,10,13,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Add-On Strawberry Flavor,,50,0,0,0,0,10,12,0,12,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Coconut Berry, Original, Tangerine, Tropical Fruit Red Bull, 12 fl oz",,160,0,0,0,0,150,40,0,39,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Coconut Berry Red Bull, 8.4 fl oz",,110,0,0,0,0,70,28,0,27,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Coconut Berry Red Bull, 12 fl oz",,160,0,0,0,0,125,40,0,38,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Diet Pepsi,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Diet Pepsi, Kids",,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Dr Pepper,,230,0,0,0,0,90,59,0,58,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Dr Pepper, Kids",,110,0,0,0,0,45,28,0,27,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Iced Tea, Sweet",,330,0,0,0,0,15,85,0,84,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Iced Tea, Sweet, Kids",,150,0,0,0,0,5,40,0,40,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Iced Tea, Unsweet",,5,0,0,0,0,15,2,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Iced Tea, Unsweet, Kids",,5,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Lemonade, Tropicana",,230,0,0,0,0,45,59,0,54,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Lemonade, Tropicana, Kids",,110,0,0,0,0,20,28,0,26,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Milk,,150,6,4,0,25,140,15,0,15,,10,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Mt. Dew,,260,0,0,0,0,95,69,0,69,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Mt. Dew, Kids",,120,0,0,0,0,45,33,0,33,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Mug Root Beer,,230,0,0,0,0,95,65,0,64,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Mug Root Beer, Kids",,110,0,0,0,0,45,31,0,30,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Original, Tangerine, Tropical Fruit Red Bull, 8.4 fl oz",,110,0,0,0,0,105,28,0,27,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Pepsi,,230,0,0,0,0,50,62,0,62,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Pepsi, Kids",,110,0,0,0,0,25,29,0,29,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,Starry,,220,0,0,0,0,50,59,0,59,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Starry, Kids",,120,0,0,0,0,30,33,0,33,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Refreshers,"Sugar Free Red Bull, 8.4 fl oz",,5,0,0,0,0,105,3,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Add Fried Chicken to Salad,,1590,71,14,0.5,215,3330,88,3,3,,149,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Add Grilled Chcken to Salad,,890,63,12,1,235,5960,4,1,1,,73,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Balsamic Vinaigrette Dressing,,760,60,7,0,0,2440,58,0,53,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Bleu Cheese Dressing,,1200,120,24,0,120,2400,12,0,12,,12,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Boneless Wings, 40 Piece",,2920,131,26,1,390,6170,163,6,6,,274,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Boneless Wings, 50 Piece",,3650,163,33,1.5,490,7700,203,8,8,,342,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Boneless Wings, 60 Piece",,4380,196,39,1.5,590,9220,243,9,9,,410,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Boneless Wings, 75 Piece",,5460,245,49,2,735,11490,303,11,11,,513,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Boneless Wings, 100 Piece",,7290,326,65,2.5,980,15330,404,14,14,,684,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Chicken Sliders, 20 Piece",,4940,233,105,5,865,8270,494,21,61,,232,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Chicken Sliders, 24 Piece",,5930,280,126,6,1040,9930,592,25,73,,279,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Chicken Sliders, 25 Piece",,6180,292,131,7,1080,10340,617,26,76,,290,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Chicken Sliders, 40 Piece",,9890,466,210,10,1730,16540,987,42,121,,465,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Shrimp, 50 Piece",,1660,90,18,0.5,875,3410,93,5,3,,119,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Shrimp, 75 Piece",,2490,135,26,1,1310,5110,141,8,5,,179,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Buffalo Shrimp, 100 Piece",,3310,179,35,1,1750,6810,187,10,7,,239,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Caesar Salad,,1850,130,29,0.5,150,6220,125,32,32,,61,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Caesar Salad Dressing,,1030,97,16,0,105,4300,31,2,12,,12,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Caramel Fudge Cheese Cake,,10570,597,293,12,1320,7600,1112,30,998,,135,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Caramel Latte Mini Dessert,,200,11,7,0,35,95,24,0,14,,1,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Cheese & Pretzels,,3230,122,38,0.5,70,18250,440,16,18,,95,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Cheeseburger Sliders, 20 Piece",,5750,381,186,15,1005,21860,383,20,68,,218,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Cheeseburger Sliders, 24 Piece",,6900,457,224,18,1205,26230,460,24,81,,261,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Cheeseburger Sliders, 25 Piece",,7190,476,233,19,1255,27320,479,25,85,,272,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Cheeseburger Sliders, 40 Piece",,11500,762,373,30,2010,43720,766,40,136,,435,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Chips & Queso,,3300,187,49,2,135,8280,334,29,32,,66,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Chocolate Brownie Mini Dessert,,220,13,7,0,40,140,27,1,20,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Chocolate Mousse Cake,,8590,399,175,0,300,5560,1304,86,1010,,105,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Curly Fries,,2480,122,23,0.5,0,2320,310,33,0,,35,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Garden Salad,,2370,161,84,0,435,3920,116,25,38,,124,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Heath Bar Mini Dessert,,260,15,9,0,35,220,31,0,23,,2,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Honey Dijon Dressing,,1940,177,27,1,140,1650,95,0,91,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Key Lime Pie,,6160,310,180,10,1150,3260,891,12,756,,81,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Lemonade,,1920,0,0,0,0,240,480,0,448,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Lite Italian Dressing,,300,12,0,0,0,4320,36,0,24,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Bacon & Bleu Burger",,730,47,24,1.5,125,2670,43,1,7,,35,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Boneless Wings (8)",,580,26,5,0,80,1220,32,1,1,,55,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Breaded Wings (6)",,570,34,9,0,190,230,14,5,2,,45,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Chicken Sliders (3)",,740,35,16,1,130,1240,74,3,9,,35,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Chicken Tenders (3)",,420,20,6,0,145,1080,15,2,0,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Fried Shrimp (10)",,330,18,3.5,0,175,670,18,1,0,,24,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Mushroom Swiss Burger",,660,41,20,1.5,110,1740,44,3,7,,31,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Naked Wings (6)",,430,26,7,0,210,190,1,1,1,,53,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Patty Melt",,740,49,21,1.5,105,2200,49,2,8,,26,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Quarter Pound Cheeseburger",,750,49,22,2.5,145,3370,45,3,8,,33,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Roasted Wings (6)",,420,22,7,0,200,1090,1,1,1,,46,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Smoked Wings (6)",,470,24,6,0,130,1740,8,1,5,,59,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Smothered Burger",,700,45,20,1.5,100,2040,46,3,8,,30,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Meal Basket, Twisted Texas Melt",,1020,69,27,2.5,160,3920,61,2,18,,41,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Naked Wings, 30 Piece",,2170,129,33,0.5,1040,1030,6,5,5,,264,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Naked Wings, 50 Piece",,3600,214,55,1,1735,1680,9,8,8,,440,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Naked Wings, 75 Piece",,5400,321,83,2,2600,2470,12,11,11,,659,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Naked Wings, 100 Piece",,7190,428,110,2.5,3470,3300,15,14,14,,879,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Original Breaded Wings, 30 Piece",,2880,171,43,1,945,1190,74,28,9,,226,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Original Breaded Wings, 50 Piece",,4790,286,72,1.5,1575,1950,121,45,15,,377,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Original Breaded Wings, 75 Piece",,7170,428,108,2,2360,2870,180,67,21,,565,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Original Breaded Wings, 100 Piece",,9560,571,143,3,3150,3830,240,90,28,,753,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Peanut Butter Mini Dessert,,330,19,11,0,25,190,35,1,31,,5,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Peel & Eat Shrimp Listed With Cocktail Sauce, 2 lb",,950,9,0,0,1090,17190,99,17,81,,126,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Peel & Eat Shrimp Listed With Cocktail Sauce, 3.5 lb",,1360,16,0,0,1905,25110,99,24,81,,215,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Peel & Eat Shrimp Listed With Cocktail Sauce, 5 lb",,1900,23,0,0,2720,34680,133,33,105,,306,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Ranch Dressing,,1210,125,15,0.5,85,2770,16,0,14,,9,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Roasted Wings, 30 Piece",,2130,109,33,1,990,5510,7,6,6,,229,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Roasted Wings, 50 Piece",,3540,181,54,1.5,1655,9150,10,9,8,,382,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Roasted Wings, 75 Piece",,5300,271,81,2,2480,13670,13,12,12,,573,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Roasted Wings, 100 Piece",,7070,362,109,2.5,3305,18230,17,16,16,,764,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Smoked Wings, 30 Piece",,2380,121,29,1,655,8770,40,6,26,,294,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Smoked Wings, 50 Piece",,3960,202,48,1.5,1095,14580,65,9,43,,490,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Smoked Wings, 75 Piece",,5930,303,71,2.5,1645,21810,96,13,63,,734,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,"Catering Smoked Wings, 100 Piece",,7910,404,95,3.5,2190,29090,128,18,84,,978,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Strawberry Mini Dessert,,260,15,9,0,45,180,30,1,25,,3,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Sweet Tea Gallon,,2330,0,0,0,0,95,601,0,600,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Tots,,2490,139,30,1,10,4400,280,36,4,,29,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Unsweet Tea Gallon,,40,0,0,0,0,115,11,0,0,,0,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27
+hooters,Catering,Catering Waffle Fries,,3110,182,36,0,0,4720,335,16,0,,32,,,https://www.nutritionix.com/hooters/menu/premium,2026-10-27

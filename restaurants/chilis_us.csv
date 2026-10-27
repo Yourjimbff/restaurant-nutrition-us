@@ -1,0 +1,359 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+chilis,Appetizers,8 Count Boneless Wings - Buffalo,,920,67,12,0.5,105,3400,44,3,4,,36,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Boneless Wings - Honey Chipotle,,1110,64,11,0.5,105,2620,100,3,46,,36,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Boneless Wings - House BBQ,,1060,64,11,0.5,105,2530,88,3,45,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Boneless Wings - Nashville Hot,,1190,92,16,1,110,3120,53,2,7,,39,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Wings - Buffalo,,990,74,13,1,345,3350,6,1,4,,74,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Wings - Honey Chipotle,,1170,71,13,1,345,2520,60,1,44,,74,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Wings - House BBQ,,1140,71,13,0.5,345,2500,53,1,47,,75,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,8 Count Wings - Nashville Hot,,1190,93,16,1,345,2760,13,0,6,,76,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Boneless Wings - Buffalo,,1210,83,14,0.5,145,4810,64,4,4,,53,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Boneless Wings - Honey Chipotle,,1490,78,14,0.5,145,3640,148,4,67,,53,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Boneless Wings - House BBQ,,1420,78,14,0.5,145,3500,129,5,65,,54,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Boneless Wings - Nashville Hot,,1610,120,21,1,145,4380,78,3,8,,57,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Wings - Buffalo,,1310,94,16,1,500,4730,7,1,4,,110,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Wings - Honey Chipotle,,1580,89,16,1,500,3480,88,1,65,,110,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Wings - House BBQ,,1540,89,16,1,500,3450,77,2,69,,111,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,12 Count Wings - Nashville Hot,,1610,122,21,1.5,500,3840,17,0,7,,113,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Boneless Wings - Buffalo,,1500,99,17,0.5,180,6210,84,6,4,,70,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Boneless Wings - Honey Chipotle,,1880,93,16,0.5,180,4660,196,6,88,,70,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Boneless Wings - House BBQ,,1780,92,16,0.5,180,4470,171,7,86,,71,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Boneless Wings - Nashville Hot,,2030,148,26,1,185,5650,102,5,10,,75,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Wings - Buffalo,,1640,114,20,1,655,6110,8,1,4,,146,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Wings - Honey Chipotle,,1990,107,19,1,655,4450,117,1,85,,146,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Wings - House BBQ,,1940,107,19,1,655,4410,101,2,91,,148,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,16 Count Wings - Nashville Hot,,2040,151,26,1.5,660,4930,21,0,8,,150,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Bottomless Chips & Salsa,,910,45,7,0,0,1920,113,8,5,,13,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Chicken Bacon Ranch Nachos,,2260,155,67,0.5,390,4280,109,11,12,,112,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - Chips Only (Choose 3 Dips),,880,45,7,0,0,810,107,7,1,,12,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - Fresh Guacamole,,160,14,2,0,0,530,9,7,1,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - Fresh Salsa,,30,0,0,0,0,1110,7,2,4,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - House-Made Ranch,,450,47,8,0.5,40,790,5,0,4,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - Skillet Beef Queso,,220,16,9,0,40,1320,8,1,4,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Dip Trio - Southwestern Queso,,230,19,12,0,60,1020,6,0,3,,10,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Fresh Guacamole & Chips,,1150,67,11,0,0,2710,127,18,7,,16,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella, 3 Count",,920,55,27,1,105,2950,59,6,8,,48,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella, 6 Count",,1790,109,53,2.5,205,5260,108,10,10,,95,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella - Honey Chipotle, 3 Count",,1450,101,35,2,145,3550,86,4,29,,50,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella - Honey Chipotle, 6 Count",,2440,155,61,3,245,6320,167,9,54,,97,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella - Nashville Sauce, 3 Count",,1460,114,37,2,145,3720,60,4,7,,51,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,"Fried Mozzarella - Nashville Sauce, 6 Count",,2470,181,66,3.5,250,6650,114,8,10,,99,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Skillet Beef Queso & Chips,,1340,77,26,0,80,4560,129,10,13,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Southwestern Eggrolls,,1020,49,13,0,65,2830,108,11,11,,36,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Southwest Queso & Chips,,1360,83,31,0.5,125,3970,125,9,11,,33,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Big Mouth Bites,,820,59,17,1.5,105,1570,42,1,12,,32,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Bone-In Wings - Buffalo,,490,37,6,0,170,1680,3,0,2,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Bone-In Wings - Honey-Chipotle,,580,36,6,0,170,1260,30,0,22,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Bone-In Wings - House BBQ,,570,36,6,0,170,1250,26,1,24,,38,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Boneless Wings - Buffalo,,530,37,6,0,65,2050,27,2,2,,22,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Boneless Wings - Honey-Chipotle,,650,36,6,0,65,1570,62,2,28,,22,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Boneless Wings - House BBQ,,620,35,6,0,65,1510,54,2,27,,23,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Crispy Chicken Crispers without Sauce,,590,38,7,0,70,1990,28,2,1,,34,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Fried Mozzarella,,600,36,18,1,70,1780,36,3,4,,32,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Fried Mozzarella Honey Chipotle,,870,54,21,1,85,2290,67,3,26,,33,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Fried Mozzarella Nashville Sauce,,890,67,23,1,85,2460,40,3,4,,34,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Honey-Chipotle Chicken Crispers,,950,56,10,0,85,2980,79,2,38,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Nashville Hot Chicken Crispers,,1020,80,14,0.5,85,3430,40,2,5,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,TD Southwestern Eggrolls,,570,31,8,0,35,1550,55,6,6,,19,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Appetizers,Texas Cheese Fries,,1790,123,52,0,250,3890,101,8,5,,72,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Fajitas,Fajita Grilled Chicken,,480,17,3.5,0,140,2180,22,5,10,,62,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Fajitas,Fajita Grilled Steak,,570,29,8,1,165,1850,24,3,11,,57,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Fajitas,Fajita Shrimp,,310,15,3.5,0,240,2280,21,3,9,,25,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Fajitas,Fajita Trio,,590,25,6,0.5,270,2820,24,4,10,,71,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Fajitas,Fajita Veggie,,340,14,3,0,0,840,45,12,12,,17,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Alex's Santa Fe Burger,,930,62,24,3,135,1290,48,4,11,,49,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Bacon Cheeseburger,,1130,79,31,3,180,1740,44,1,10,,63,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Bacon Rancher Burger,,1710,123,50,6,305,2640,48,2,12,,107,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Burger Big Mouth Bites,,1220,76,26,2.5,165,2210,78,3,19,,57,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Mushroom Swiss Burger,,1010,68,26,3,140,1030,50,4,14,,53,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Oldtimer Burger with Cheese,,850,53,23,3,130,1200,45,2,10,,49,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,The Big QP Burger,,890,56,25,3,145,1680,47,2,12,,51,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,The Big Smasher Burger,,950,64,24,3,140,1440,49,2,14,,47,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,The Double Big Smasher Burger,,1490,106,44,5,265,2080,50,2,14,,86,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Big Mouth Burgers,Veggie Santa Fe Burger,,640,31,8,0.5,25,1410,74,13,14,,28,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Big Crispy Chicken Sandwich,,880,52,10,0.5,120,1960,61,1,10,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Buffalo Big Crispy Chicken Sandwich,,710,33,6,0,100,3400,62,2,10,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Deluxe Big Crispy Chicken Sandwich,,1050,64,16,0.5,155,2190,63,2,11,,56,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Deluxe Grilled Chicken Sandwich,,800,47,12,0.5,120,1680,46,3,11,,50,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Grilled Chicken Sandwich,,740,36,11,0,115,1560,54,4,18,,51,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Honey-Chipotle Big Crispy Chicken Sandwich,,840,29,6,0,100,2430,104,2,41,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Nashville Hot Big Crispy Chicken Sandwich,,950,54,10,0,105,3000,70,1,12,,45,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Crispy Chicken Sandwiches,Spicy Big Crispy Chicken Sandwich,,870,52,9,0,115,2000,61,1,9,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Ancho Salmon (Add-on),,330,21,3.5,0,95,860,4,0,1,,41,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Applewood Smoked Bacon (Add-on),,80,6,2,0,15,180,0,0,0,,7,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Fresh Fajita Toppings,,260,20,12,0,60,440,4,0,3,,15,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Garlic Butter Mushrooms (Add-on),,50,3.5,1,0,0,150,3,1,1,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Guacamole (Add-on),,50,4.5,0.5,0,0,170,3,2,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Jalapeno-Cheddar Smoked Sausage,,380,31,13,1,95,1340,4,1,0,,21,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Seared Shrimp - Full Order,,60,2,0,0,120,810,1,0,0,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Seared Shrimp - Half Order,,30,1,0,0,60,400,0,0,0,,6,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Side Dippable Guacamole,,160,14,2,0,0,530,9,7,1,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Side Dippable House-Made Ranch,,450,47,8,0.5,40,790,5,0,4,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Side Dippable Skillet Beef Queso,,220,16,9,0,40,1320,8,1,4,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Side Dippable Southwestern Queso,,230,19,12,0,60,1020,6,0,3,,10,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Sub Black Bean Patty,,180,6,1,0,0,450,26,9,3,,15,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,Sub Classic Beef Patty,,470,37,16,2.5,110,330,0,0,0,,36,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,"Tortillas Corn, 4 Each",,240,4,4,0,0,45,44,5,1,,5,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Extras and Add-Ons,"Tortillas Flour, 4 Each",,390,14,7,0,0,920,57,2,3,,8,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Crispy Crispers, 4 Count",,790,51,9,0,95,2650,38,2,1,,45,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Crispy Crispers, 5 Count",,990,64,11,0,115,3320,47,3,1,,57,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Crispy Crispers, 6 Count",,1190,76,13,0,140,3980,57,3,1,,68,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Honey Chipotle Crispy Crispers, 4 Count",,1040,51,9,0,95,3590,103,3,48,,45,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Honey Chipotle Crispy Crispers, 5 Count",,1300,64,11,0,115,4480,129,3,61,,57,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Honey Chipotle Crispy Crispers, 6 Count",,1560,77,13,0,140,5380,154,4,73,,68,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Nashville Hot Crispy Crispers, 4 Count",,1140,83,14,0,95,4180,51,2,5,,48,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Nashville Hot Crispy Crispers, 5 Count",,1420,104,18,0,120,5220,63,3,6,,60,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Chicken Crisper Combos,"Nashville Hot Crispy Crispers, 6 Count",,1710,125,22,0.5,145,6270,76,3,7,,72,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Dipping Sauces,"Buffalo, 1.5 oz",,40,3,0,0,0,1590,2,0,1,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Dipping Sauces,"Buffalo Ranch, 1.5 oz",,180,19,3,0,15,570,2,0,1,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Dipping Sauces,"Honey Mustard, 1.5 oz",,200,18,3,0,20,330,10,0,10,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Dipping Sauces,"House BBQ, 1.5 oz",,110,0,0,0,0,440,27,1,25,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Dipping Sauces,"Ranch, 1.5 oz",,170,18,3,0,15,290,2,0,2,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Bacon Ranch Chicken Quesadilla,,740,53,19,0.5,115,1560,32,0,2,,34,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Brisket Quesadilla,,700,50,19,0.5,75,1180,40,1,9,,25,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Crispers Crispy without Sauce,,590,38,7,0,70,1990,28,2,1,,34,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Crispers Honey Chipotle with Ranch,,950,56,10,0,85,2980,79,2,38,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Crispers Nashville Hot with Ranch,,1020,80,14,0.5,85,3430,40,2,5,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,House BBQ - Full Rack,,2160,145,56,0.5,565,2860,81,2,74,,136,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,House BBQ - Half Rack,,1130,73,28,0,285,1650,54,1,49,,68,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Jalapeno-Cheddar Smoked Sausage,,380,31,13,1,95,1340,4,1,0,,21,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Monterey Chicken,,880,47,19,0,160,2610,55,7,21,,62,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,BBQ Classics,Ribs House BBQ,,1130,73,28,0,285,1650,54,1,49,,68,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Steaks,Classic Ribeye,,620,39,17,2.5,185,1440,0,0,0,,67,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Steaks,"Classic Sirloin, 6 oz",,250,12,4.5,0,85,630,1,0,0,,34,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Steaks,"Classic Sirloin, 10 oz",,390,18,6,1,140,950,2,0,1,,54,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Steaks,Surf & Turf Ribeye,,690,41,17,2.5,300,2250,1,0,0,,78,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Steaks,"Surf & Turf Sirloin, 10 oz",,450,20,7,1,260,1760,3,0,1,,66,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Pastas,Cajun Pasta with Grilled Chicken,,1160,51,21,1,145,3550,109,8,5,,64,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Pastas,Cajun Pasta with Shrimp,,1070,50,21,1,195,3480,108,7,5,,46,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Pastas,Smoked Cajun Pasta,,1540,83,34,1.5,240,4890,113,9,5,,86,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Pastas,Ultimate Cajun Pasta,,1230,53,21,1,265,4350,110,8,5,,76,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Pastas,Veggie Pasta,,1010,48,20,1,75,2670,107,7,4,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Guiltless Grill,Ancho Salmon,,590,31,5,0,100,1770,41,0,3,,48,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Guiltless Grill,Guiltless 6 oz Sirloin,,300,13,4,0,90,1010,9,3,2,,38,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Guiltless Grill,Guiltless 10 oz Sirloin,,450,20,6,1,140,1310,10,3,3,,59,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Guiltless Grill,Guiltless Grill Chicken Platter,,350,8,1.5,0,70,1480,37,5,3,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Guiltless Grill,Margarita Grilled Chicken,,640,14,2.5,0,140,2660,61,8,7,,69,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Quesadillas,Quesadillas - Brisket,,1620,120,43,1.5,175,2760,86,2,24,,53,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Quesadillas,Quesadillas - Chicken Bacon Ranch,,1700,127,43,1.5,255,3520,71,2,10,,70,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Quesadillas,Quesadillas - Veggie,,1390,101,36,1,130,2160,79,3,12,,40,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,3 for Me,"Crispy Crispers, 3 Count, with Choice of Sauce",,1010,55,9,0,70,2650,89,6,1,,40,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,3 for Me,"Crispy Crispers, 3 Count, with Honey Chipotle Sauce",,1370,73,12,0,85,3650,140,7,38,,41,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,3 for Me,"Crispy Crispers, 3 Count, with Nashville Sauce",,1440,97,17,0.5,85,4090,100,6,6,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Avocado Ranch, 1.5 oz",,130,14,2.5,0,10,260,3,1,1,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Blue Cheese, 1.5 oz",,250,27,5,0,15,260,1,0,1,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Chicken Enchilada, Bowl",,390,24,8,0,50,1240,23,2,3,,19,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Chicken Enchilada, Cup",,200,12,4,0,25,620,11,1,2,,10,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",Chipotle Chicken Fresh Mex Bowl,,880,42,11,0,100,2610,80,7,9,,46,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Citrus Balsamic Vinaigrette, 1.5 oz",,250,25,4,0,0,230,5,0,5,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Honey Mustard, 1.5 oz",,200,18,3,0,20,330,10,0,10,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",House Large Salad without Dressing,,270,14,6,0,25,580,25,4,5,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",House Side Salad without Dressing,,130,7,3,0,15,290,12,1,3,,5,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Loaded Baked Potato, Bowl",,430,30,19,0.5,95,1220,25,2,8,,16,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Loaded Baked Potato, Cup",,220,15,9,0,50,610,12,1,4,,8,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",Quesadilla Explosion Salad with Crispers,,1420,100,29,0.5,125,2850,82,6,14,,51,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",Quesadilla Explosion Salad with Grilled Chicken,,1180,77,25,0.5,145,2270,65,6,14,,58,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Ranch Dressing, 1.5 oz",,170,18,3,0,15,290,2,0,2,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Santa Fe, 1.5 oz",,230,24,4,0,15,580,3,0,2,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",Santa Fe Chicken Salad with Crispers,,780,58,10,0,65,2150,42,6,7,,28,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls",Santa Fe Chicken Salad with Grilled Chicken,,540,35,6,0,90,1580,24,6,7,,35,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,"Salads, Soups, and Bowls","Thousand Island, 1.5 oz",,200,19,3,0,20,370,6,0,6,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Arctic Drift,,370,0,0,0,0,0,62,0,56,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Blue Moon, 10 fl oz",,140,0,0,0,0,15,12,0,9,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Blue Moon, 16 fl oz",,220,0,0,0,0,20,19,0,14,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Blue Moon, 22 fl oz",,310,0,0,0,0,30,26,0,20,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Bud Light, 10 fl oz",,90,0,0,0,0,0,5,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Bud Light, 12 fl oz",,110,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Bud Light, 16 fl oz",,150,0,0,0,0,0,9,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Bud Light, 22 fl oz",,200,0,0,0,0,0,12,0,0,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Budweiser, 12 fl oz",,150,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Casamigos Marg,,240,0,0,0,0,880,29,0,27,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Coors Light, 10 fl oz",,90,0,0,0,0,10,4,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Coors Light, 12 fl oz",,100,0,0,0,0,10,5,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Coors Light, 16 fl oz",,140,0,0,0,0,15,7,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Coors Light, 22 fl oz",,190,0,0,0,0,20,9,0,0,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Corona Extra, 12 fl oz",,150,0,0,0,0,15,14,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Deep Eddy Strawberry Texas Lemonade,,270,0,0,0,0,5,33,0,30,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Don Julio Marg,,180,0,0,0,0,520,21,0,19,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,El Nino Marg,,330,0,0,0,0,1160,34,0,29,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Flamingo Freeze,,380,0,0,0,0,15,64,0,59,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Heineken, 12 fl oz",,140,0,0,0,0,10,11,0,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Henny Marg,,320,0,0,0,0,1160,45,0,40,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Michelob Ultra, 10 fl oz",,80,0,0,0,0,0,2,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Michelob Ultra, 12 fl oz",,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Michelob Ultra, 16 fl oz",,130,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Michelob Ultra, 22 fl oz",,170,0,0,0,0,0,5,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Miller Lite, 10 fl oz",,80,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Miller Lite, 12 fl oz",,100,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Miller Lite, 16 fl oz",,130,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Miller Lite, 22 fl oz",,180,0,0,0,0,10,6,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Modelo Especial, 10 fl oz",,120,0,0,0,0,15,11,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Modelo Especial, 16 fl oz",,190,0,0,0,0,25,18,0,0,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Modelo Especial, 22 fl oz",,260,0,0,0,0,35,25,0,0,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg,,300,0,0,0,0,1160,43,0,38,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg - Blackberry,,390,0,0,0,0,0,67,0,63,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg - Dragon Fruit,,390,0,0,0,0,0,67,0,63,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg - Mango,,410,0,0,0,0,0,70,0,64,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg - Strawberry,,330,0,0,0,0,0,52,1,46,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg Frozen,,280,0,0,0,0,660,52,0,48,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg Frozen - Blackberry,,380,0,0,0,0,660,76,0,71,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg Frozen - Dragon Fruit,,380,0,0,0,0,670,76,0,71,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg Frozen - Mango,,390,0,0,0,0,660,78,0,72,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Patron Marg Frozen - Strawberry,,310,0,0,0,0,660,60,0,55,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Premium Long Island Iced Tea,,290,0,0,0,0,0,32,0,28,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Presidente Marg,,240,0,0,0,0,1020,24,0,20,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Presidente Marg - Blackberry,,340,0,0,0,0,0,49,0,45,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Presidente Marg - Dragon Fruit,,340,0,0,0,0,5,49,0,44,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Presidente Marg - Mango,,350,0,0,0,0,0,50,0,46,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Presidente Marg - Strawberry,,270,0,0,0,0,0,33,1,28,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Red Wine, 6 fl oz",,150,0,0,0,0,5,5,0,1,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"Red Wine, 9 fl oz",,220,0,0,0,0,10,7,0,2,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Skinny Marg,,150,0,0,0,0,530,13,0,12,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Spice-A-Rita,,240,0,0,0,0,510,33,0,26,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Tequila Classic Rocks Marg,,210,0,0,0,0,660,35,0,33,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Tito's Punch,,330,0,0,0,0,5,55,0,51,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,Tito's Watermelon Spritz,,280,0,0,0,0,25,43,0,41,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"White Wine, 6 fl oz",,140,0,0,0,0,10,4,0,2,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Alcohol,"White Wine, 9 fl oz",,210,0,0,0,0,15,7,0,2,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Desserts,Classic Cheesecake,,870,60,33,2,190,690,71,1,51,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Desserts,Molten Chocolate Cake,,1140,57,28,1,130,1030,147,4,110,,13,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Desserts,Peanut Butter Pie,,920,65,29,1,70,400,81,6,57,,13,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Desserts,Skillet Chocolate Chip Cookie,,1210,49,31,2,185,700,174,5,110,,17,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Asparagus,,35,1,0,0,0,135,5,3,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Black Beans,,110,0.5,0,0,0,480,20,5,1,,6,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Bowl of Loaded Street Corn,,350,26,4,0,25,380,24,3,10,,6,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Garlic Butter Mushrooms,,100,7,2.5,0,0,290,5,1,3,,5,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Homestyle Fries,,420,17,2.5,0,0,660,60,5,0,,6,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Loaded Mac & Cheese,,350,23,13,0,65,1140,19,1,4,,18,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Loaded Mashed Potatoes,,320,21,6,0,25,790,25,2,1,,9,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Mashed Pototatoes,,230,13,3,0,<5,690,25,2,1,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Mexican Rice,,160,4.5,1,0,0,480,27,1,1,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Steamed Broccoli,,40,0,0,0,0,250,8,4,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,Texas Cheese Fries - Half Order,,1300,92,38,0,185,2600,68,5,4,,51,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Sides,White Cheddar Mac & Cheese,,260,15,9,0,45,930,19,1,4,,12,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Blue Bell Vanilla Ice Cream,,180,9,6,0,35,70,20,0,20,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Cheeseburger Bites,,450,23,10,1,65,740,36,1,7,,25,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Cheese Pizza,,500,33,14,1,45,760,34,2,3,,17,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Cheese Quesadilla,,460,30,14,0,50,720,30,0,1,,17,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Cheesy Chicken Pasta,,620,27,11,0,115,2050,47,4,2,,47,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Crispy Crispers,,570,43,7,0,60,1620,21,1,2,,24,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Grilled Chicken Bites,,150,3,0.5,0,70,760,1,1,0,,30,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Kraft Macaroni & Cheese,,310,9,2.5,0,15,830,44,2,10,,11,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Mini Molten Chocolate Cake,,640,30,12,0,70,690,90,0,64,,7,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Applesauce,,90,0,0,0,0,0,24,1,22,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Corn Kernels,,120,1.5,0,0,0,0,22,3,9,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Homestyle Fries,,210,8,1.5,0,0,330,30,2,0,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Mashed Potatoes,,110,7,1.5,0,0,280,12,1,0,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Salad with Ranch,,240,21,4.5,0,20,440,8,1,3,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Kids Menu,Side Steamed Broccoli,,40,0,0,0,0,45,8,4,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"1% Chocolate Milk, Kids",,140,2.5,1.5,0,10,150,23,1,22,,8,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"1% Milk, Kids",,110,2.5,1.5,0,10,130,13,0,12,,8,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,Apple Juice,,100,0,0,0,0,0,24,0,23,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Arnold Palmer - Mango, Regular Cup",,80,0,0,0,0,20,23,0,21,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Arnold Palmer - Mango, To-Go Cup",,150,0,0,0,0,40,41,0,38,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Arnold Palmer - Regular, To-Go Cup",,100,0,0,0,0,40,28,0,26,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,Arnold Palmer - Regular Cup,,60,0,0,0,0,20,16,0,15,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Arnold Palmer - Strawberry, Regular Cup",,70,0,0,0,0,20,19,0,17,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Arnold Palmer - Strawberry, To-Go Cup",,120,0,0,0,0,35,33,1,30,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Blue Lagoon, Kids",,120,0,0,0,0,25,31,0,28,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola, Kid Cup",,100,0,0,0,0,30,27,0,27,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola, Regular Cup",,110,0,0,0,0,35,30,0,30,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola, To-Go Cup",,190,0,0,0,0,65,53,0,53,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola Zero, Kid Cup",,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola Zero, Regular Cup",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coca-Cola Zero, To-Go Cup",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Coke Float, Kids",,280,9,6,0,35,100,49,0,48,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,Cranberry Juice,,120,0,0,0,0,35,30,0,30,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Diet Coke, Regular Cup",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Diet Coke, To-Go Cup",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dr. Pepper, Kid Cup",,100,0,0,0,0,35,27,0,26,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dr. Pepper, Regular Cup",,110,0,0,0,0,40,30,0,29,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dr. Pepper, To-Go Cup",,200,0,0,0,0,75,53,0,52,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dragon Fruit Lemonade, Regular Cup",,180,0,0,0,0,40,49,0,47,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dragon Fruit Lemonade, To-Go Cup",,270,0,0,0,0,70,73,0,70,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Dr Pepper Float, Kids",,280,9,6,0,35,105,49,0,47,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Blackberry, Regular Cup",,80,0,0,0,0,10,19,0,18,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Blackberry, To-Go Cup",,80,0,0,0,0,15,19,0,18,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Dragon Fruit, Regular Cup",,80,0,0,0,0,10,19,0,17,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Dragon Fruit, To-Go Cup",,80,0,0,0,0,15,19,0,17,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Mango, Regular Cup",,80,0,0,0,0,10,20,0,18,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Mango, To-Go Cup",,80,0,0,0,0,15,20,0,18,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Unsweetened, Regular Cup",,5,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Iced Tea - Unsweetened, To-Go Cup",,5,0,0,0,0,15,1,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Minute Maid Lemonade, Kid Cup",,100,0,0,0,0,35,27,0,26,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Minute Maid Lemonade, Regular Cup",,110,0,0,0,0,35,31,0,29,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Minute Maid Lemonade, To-Go Cup",,200,0,0,0,0,65,55,0,52,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,Orange Juice,,110,0,0,0,0,10,27,0,24,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,Pineapple Juice,,130,0,0,0,0,0,30,0,28,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Shirley Temple, Kids",,140,0,0,0,0,25,34,0,31,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Spirte, Regular Cup",,120,0,0,0,0,25,30,0,27,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Sprite, Kid Cup",,110,0,0,0,0,25,27,0,24,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Sprite, To-Go Cup",,210,0,0,0,0,50,54,0,47,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Strawberry Lemonade, Kid Cup",,120,0,0,0,0,30,33,1,30,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Strawberry Lemonade, Regular Cup",,130,0,0,0,0,35,37,1,34,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Beverages,"Strawberry Lemonade, To-Go Cup",,240,0,0,0,0,60,65,1,61,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Boneless Wings - Buffalo,,2780,174,30,1,345,12030,165,11,7,,139,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Boneless Wings - Honey Chipotle,,3530,162,28,1,345,8930,390,11,174,,138,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Boneless Wings - House BBQ,,3340,161,28,0.5,345,8540,340,13,170,,141,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Boneless Wings - Nashville Hot,,3840,273,48,2,350,10900,202,9,18,,147,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Wings - Buffalo,,3050,204,35,2,1290,11840,13,2,7,,291,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Wings - Honey Chipotle,,3760,191,34,2,1290,8510,230,2,168,,291,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Wings - House BBQ,,3650,191,33,1.5,1290,8420,200,4,181,,294,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,32 Count Wings - Nashville Hot,,3850,279,49,2.5,1295,9460,40,0,15,,298,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Boneless Wings - Buffalo,,4400,285,49,1.5,535,18440,251,17,12,,209,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Boneless Wings - Honey Chipotle,,5520,266,46,1.5,535,13780,587,17,262,,209,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Boneless Wings - House BBQ,,5240,265,46,1.5,535,13200,512,20,257,,213,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Boneless Wings - Nashville Hot,,5990,433,75,3.5,545,16740,305,14,29,,223,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Wings - Buffalo,,4800,329,57,3,1955,18150,23,3,12,,438,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Wings - Honey Chipotle,,5870,310,54,3,1955,13150,348,3,254,,438,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Wings - House BBQ,,5700,310,54,3,1955,13020,302,6,273,,442,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,48 Count Wings - Nashville Hot,,6000,442,77,4.5,1965,14580,63,0,24,,448,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Add Fresh Guacamole,,240,22,3,0,0,790,14,10,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Add Skillet Queso,,440,32,18,0,80,2640,16,1,8,,22,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Add Southwest Queso,,460,38,24,0.5,125,2050,12,0,6,,20,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Avocado Ranch, 8 fl oz",,710,72,12,1,55,1400,14,5,6,,6,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"BBQ Sauce House, 4 fl oz",,280,0,0,0,0,1160,72,2,65,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Big Mouth Bites, 12 Count",,4370,296,93,8,590,8420,248,9,65,,188,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Blue Cheese, 4 fl oz",,650,71,13,1,35,700,3,0,2,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Blue Cheese, 8 fl oz",,1310,142,26,2,75,1400,7,1,4,,5,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Cajun Pasta with Chicken,,2600,116,44,2,290,7440,251,17,12,,135,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Citrus Balsamic Vinaigrette, 8 fl oz",,1310,134,20,1,0,1240,29,1,25,,1,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Crispy Style Crispers, 12 Count",,2370,153,26,0,280,7960,114,6,3,,136,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Fajitas Chicken,,910,29,6,0,280,3810,43,9,19,,124,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Fajitas Shrimp,,630,27,6,0,600,4820,41,6,19,,61,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Fajitas Steak,,1100,53,16,1.5,330,3150,48,6,21,,113,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Fajitas Trio,,1170,46,12,1,605,5500,47,7,21,,147,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Honey-Chipotle Crispers, 12 Count",,3130,153,26,0,280,10760,309,8,145,,136,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Honey Mustard, 4 fl oz",,550,49,8,0.5,50,890,27,1,25,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Honey Mustard, 8 fl oz",,1090,98,16,1.5,105,1770,54,1,51,,4,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,House Salad without Dressing,,1060,57,22,0,100,2360,98,11,22,,43,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Iced Tea, 1 gallon",,40,0,0,0,0,115,11,0,0,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Iced Tea - Blackberry, 1 gallon",,820,0,0,0,0,105,202,0,188,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Iced Tea - Mango, 1 gallon",,840,0,0,0,0,105,209,0,192,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Lemonade, 1 gallon",,1570,0,0,0,0,520,439,0,418,,0,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Lemonade - Strawberry, 1 gallon",,1910,0,0,0,0,460,522,9,485,,2,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Nashville Hot Crispers, 12 Count",,3420,249,43,1,285,12530,152,6,15,,144,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Quesadilla Explosion Salad,,5040,343,105,2,585,9410,266,23,64,,234,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Ranch, 8 fl oz",,910,94,17,1.5,85,1570,11,0,8,,7,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Ranch Dressing, 4 fl oz",,450,47,8,0.5,40,790,5,0,4,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Santa Fe, 8 fl oz",,1220,130,20,1,90,3120,14,2,9,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Side Cadi - Black Beans and Rice,,1080,20,3.5,0,0,3810,189,22,7,,37,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Side Fresh Fajita Toppings,,1060,81,48,0,245,2890,25,3,16,,61,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Southwestern Eggrolls, 12 Count",,3170,161,41,0.5,200,8750,324,32,33,,109,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Big Mouth Bites, 6 Count",,2410,172,50,4.5,315,4600,127,4,35,,96,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Bone-In Wings - Buffalo, 16 Count",,1750,125,22,1,665,6310,9,1,6,,147,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Bone-In Wings - Honey Chipotle, 16 Count",,2110,119,21,1.5,665,4650,118,1,86,,147,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Bone-In Wings - House BBQ, 16 Count",,2050,119,21,1,665,4600,103,2,92,,148,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Boneless Wings - Buffalo, 22 Count",,2050,134,23,1,250,8520,115,8,6,,96,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Boneless Wings - Honey Chipotle, 22 Count",,2570,126,22,1,250,6380,270,8,121,,96,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Boneless Wings - House BBQ, 22 Count",,2440,126,22,0.5,250,6120,235,9,118,,98,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Crispy Style Crispers, 12 Count",,2370,153,26,0,280,7960,114,6,3,,136,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Fried Mozzarella, 6 Count",,1790,109,53,2.5,205,5260,108,10,10,,95,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Honey-Chipotle Crispers, 12 Count",,3580,200,35,1,320,11540,314,8,149,,140,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Nashville Hot Crispers, 12 Count",,3870,296,51,2,325,13320,157,6,19,,147,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"TD Southwestern Eggrolls, 6 Count",,1670,89,22,0,105,4550,164,17,17,,55,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Texas-Size Baby Back Ribs,,8490,580,223,2.5,2265,10870,288,6,262,,542,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Thousand Island, 8 fl oz",,1070,104,16,0.5,105,1960,34,1,32,,3,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Tortillas Corn, 12 Each",,710,11,11,0,0,135,133,14,3,,15,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,"Tortillas Flour, 12 Each",,1180,41,21,0,0,2750,172,5,9,,25,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27
+chilis,Party Platters,Tostada Chips with Salsa,,5320,270,44,0,0,7060,653,44,14,,72,,,https://www.nutritionix.com/chilis/menu/premium,2026-10-27

@@ -1,0 +1,391 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+tazikis,Appetizers,Falafel Appetizer,,580,36,10,0,10,1590,51,19,10,,17,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers,Hummus Dip,,350,24,2,0,0,1250,28,8,5,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers,Spicy Harissa Hummus Dip,,350,27,2.5,0,0,1250,23,7,5,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers,Spicy Pimento Cheese,,620,60,19,0,110,1150,4,<1,<1,,16,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers,Taziki Dip,,270,25,22,0,30,1070,8,1,4,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers,Whipped Feta,,550,47,19,0,100,1360,23,0,18,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers - Pita & Veggies Options,Pita Bread,,580,0,0,0,0,480,126,0,6,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers - Pita & Veggies Options,Pita Chips,,500,7,0.5,0,0,830,96,0,5,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers - Pita & Veggies Options,Pita Chips & Pita Bread,,540,3.5,0,0,0,650,111,0,5,,16,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Appetizers - Pita & Veggies Options,Veggies,,60,0.5,0,0,0,110,12,4,4,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Soups & More,Chicken Salad & Co.,,400,24,4.5,0,75,410,21,2,3,,25,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Soups & More,Greek Lemon Chicken Soup with Pita Bread,,390,18,6,0,90,1500,31,2,4,,27,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Soups & More,Tomato Basil Soup with Pita Chips,,260,11,4.5,0,20,1210,35,3,11,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kypelos Bowls,Pasta Bowl,,830,38,14,0,35,1740,95,7,7,,30,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kypelos Bowls,Quinoa Bowl,,570,28,10,0,20,1970,64,8,6,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kypelos Bowls,Rice Bowl,,500,34,16,0,45,1400,44,4,6,,11,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Greek Salads,Greek Salad,,160,7,2,0,10,850,20,4,6,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Greek Salads,"Greek Salad, Small",,110,5,1.5,0,5,630,14,2,3,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Mediterranean Salads,Mediterranean Salad,,370,22,3.5,0,10,840,35,7,11,,11,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Mediterranean Salads,"Mediterranean Salad, Small",,200,11,2,0,5,450,22,4,6,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Caesar Salads,Caesar Salad,,170,8,3.5,0,15,500,16,4,2,,12,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Caesar Salads,"Caesar Salad, Small",,80,3.5,1.5,0,5,230,8,2,<1,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Cobb Salads,Cobb Salad,,430,24,7,0,225,1350,30,6,8,,26,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Watermelon Spinach Salads,Watermelon Spinach Salad,,280,19,3,0,10,370,24,3,11,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Watermelon Spinach Salads,"Watermelon Spinach Salad, Small",,160,10,1.5,0,5,220,16,2,6,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Beef Kebob + Taziki Sauce,,320,20,11,0,100,570,5,<1,1,,32,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,"Beef Kebob, Grilled",,250,14,5,0,90,360,2,0,0,,29,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Chicken Kebob + Taziki Sauce,,360,17,10,0,135,620,5,<1,2,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,"Chicken Kebob, Grilled",,280,11,3.5,0,125,400,2,0,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Beef,,330,19,4.5,0,110,350,2,0,0,,37,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,"Grilled Chicken, Entree Salads",,250,7,1.5,0,120,190,2,0,0,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,"Grilled Chicken, Small Salads",,150,4,1,0,70,115,<1,0,0,,26,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Lamb,,380,20,6,0,145,190,1,0,0,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Pork,,560,37,8,0,165,180,3,<1,0,,51,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Salmon,,530,38,9,0,135,400,4,1,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Shrimp,,290,21,8,0,210,1100,5,1,0,,20,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Grilled Turkey,,220,11,0.5,0,60,1190,6,0,4,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,"Shrimp Kebob, Grilled",,230,13,8,0,185,1130,10,2,4,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Spicy Chicken,,300,11,2,0,120,420,4,<1,1,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Protein Options,Turkish Meatballs,,470,41,14,0,155,480,1,0,0,,27,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Dressing Options,Balsamic Vinaigrette,,360,38,2.5,0,0,90,10,0,8,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Dressing Options,Greek Dressing,,320,34,5,0,0,380,2,0,2,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Dressing Options,Homemade Caesar Dressing,,240,25,5,0,25,370,1,0,0,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Dressing Options,Olive Oil & Balsamic Vinegar Dressing,,280,28,2,0,0,0,10,0,8,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Salads - Dressing Options,Ranch Dressing,,170,17,4,0,20,220,2,0,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Beef Gyro,,790,41,13,0,95,1020,65,4,6,,42,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Beef Sandwich,,960,61,14,0,125,1110,57,3,5,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Basil-Pesto Pita,,790,38,7,0,105,1200,63,5,4,,51,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Chutney Sandwich,,830,44,8,0,120,1000,61,3,9,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Gyro,,710,29,10,0,105,1030,64,4,6,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Kebob Gyro,,790,35,12,0,135,1280,66,5,6,,56,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Roll-Ups,,720,26,8,0,110,1890,69,5,7,,50,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Chicken Salad Sandwich,,790,43,8,0,85,890,61,5,7,,37,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Falafel Gyro,,850,42,10,0,10,1600,99,18,11,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Fish Sandwich,,790,43,7,0,90,1210,58,4,4,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Greek Salad Chicken Gyro,,910,50,8,0,100,1450,68,5,8,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Greek Salad Gyro,,710,44,7,0,5,1290,67,4,8,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Grilled Veggie Pita,,810,54,9,0,25,1480,70,6,7,,16,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Lamb Gyro,,750,39,13,0,90,1020,65,4,6,,40,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Mediterranean Lamb Burger,,850,58,23,0,120,1540,46,2,6,,38,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Southern-Style Lamb Burger,,970,73,23,0,145,1260,43,2,4,,39,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Spicy Harissa Chicken Gyro,,760,33,11,0,105,1260,67,5,6,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Spicy Pimento Cheese Sandwich,,1070,76,23,0,110,1500,68,3,2,,28,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Street Gyro,,1060,73,22,0,75,2450,74,7,8,,35,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Tomato Basil Sandwich,,660,36,8,0,20,1240,63,5,7,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Turkey and Egg Sandwich,,1030,64,14,0,285,2090,70,3,6,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Turkey Club Pita,,1040,66,13,0,110,2360,68,5,8,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Turkish Meatball Gyro,,880,56,20,0,135,1260,64,4,5,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pitas & More,Whipped Feta Lamb Burger,,960,71,24,0,150,1570,46,2,6,,39,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sandwiches - Bread Options,Toasted Buttermilk Bread,,300,8,2,0,0,540,48,1,1,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sandwiches - Bread Options,Toasted Kaiser Bun,,220,5,1,0,0,390,37,1,2,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sandwiches - Bread Options,Toasted Wheat Bread,,280,8,2,0,0,460,42,2,4,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Beef Feast,,580,42,9,0,130,820,11,0,1,,39,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Chicken Feast,,390,16,10,0,130,550,13,<1,2,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Chicken Kebob Feast,,420,20,12,0,135,760,13,<1,2,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Falafel Feast,,600,33,10,0,10,1310,58,19,10,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Grilled Veggie Feast,,340,28,15,0,40,970,24,4,6,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Lamb Feast,,500,28,12,0,155,470,12,<1,2,,50,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Pork Feast,,960,74,20,0,220,840,22,2,7,,54,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Salmon Feast,,570,39,9,0,135,470,12,1,<1,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Shrimp Feast,,330,22,8,0,210,1170,13,1,<1,,21,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Spicy Harissa Chicken Feast,,440,20,11,0,130,770,15,1,3,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Tilapia Feast,,360,17,3,0,80,860,18,3,4,,38,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts,Turkish Meatball Feast,,610,50,23,0,170,830,13,<1,2,,31,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Basmati Rice,,210,10,6,0,25,170,28,0,<1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Chips,,160,10,1.5,0,0,140,15,1,<1,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Fresh-Cut Fruit,,50,0,0,0,0,10,14,<1,12,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Greek Lemon Chicken Soup,,230,12,3,0,75,1290,7,<1,3,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Quinoa,,130,2,0,0,0,350,23,2,0,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Roasted Red Potatoes,,190,11,1,0,0,330,23,2,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Grilled Asparagus,,120,12,7,0,30,270,5,2,2,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Grilled Veggies,,110,9,0.5,0,0,410,9,2,3,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Hummus with Pita Chips,,520,18,1.5,0,0,1350,79,4,6,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Hummus with Soft Pita,,480,14,1.5,0,0,1040,77,4,6,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Pasta,,270,15,2.5,0,<5,390,27,1,2,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Spicy Hummus with Pita Chips,,550,23,2,0,0,1410,77,4,6,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Spicy Hummus with Soft Pita,,510,18,1.5,0,0,1090,75,3,6,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Taziki with Pita Chips,,500,21,14,0,15,1340,70,1,5,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Taziki with Soft Pita,,460,16,14,0,15,1030,68,1,5,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Side of Tomato Cucumber Salad,,60,3.5,0.5,0,<5,550,5,<1,3,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Small Caesar Salad (without Dressing),,80,3.5,1.5,0,5,240,8,2,<1,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Small Greek Salad (without Dressing),,70,4.5,1.5,0,5,560,6,2,3,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Small Mediterranean Salad (without Dressing),,160,11,1.5,0,5,390,14,4,6,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Small Watermelon Spinach Salad (without Dressing),,120,9,1.5,0,5,150,8,2,5,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Side Options,Tomato Basil Soup,,150,8,3.5,0,15,940,19,3,11,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Dressing Options,Balsamic Vinaigrette,,360,38,2.5,0,0,90,10,0,8,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Dressing Options,Greek Dressing,,320,34,5,0,0,380,2,0,2,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Dressing Options,Homemade Caesar Dressing,,240,25,5,0,25,370,1,0,0,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Feasts - Dressing Options,Ranch Dressing,,170,17,4,0,20,220,2,0,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Friday-Sunday - Taziki's Signature Pasta,,1300,76,8,0,120,1270,101,6,17,,59,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,"Friday-Sunday - Taziki's Signature Pasta, Small",,670,38,4,0,60,670,54,3,9,,30,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Monday - Caesar Salad with Grilled Shrimp,,700,55,17,0,250,1970,23,5,3,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Monday - Chicken Portobello Sandwich,,930,50,15,0,170,1830,62,4,7,,61,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Thursday - Shrimp Taco,,810,53,15,0,235,1800,55,4,10,,28,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Thursday - Soup & Caesar Salad,,410,20,8,0,95,1610,28,3,4,,31,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Thursday - Soup & Greek Salad,,440,21,7,0,95,2000,34,4,7,,30,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Thursday - Soup & Mediterranean Salad,,530,28,8,0,95,1830,42,5,9,,32,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Tuesday - Roasted Pork Loin Sandwich,,1190,76,15,0,185,1040,63,4,9,,61,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Tuesday - Spicy Harissa Chicken Gyro,,760,33,11,0,105,1260,67,5,6,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Wednesday - Mediterranean Lamb Burger,,850,58,23,0,120,1540,46,2,6,,38,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Daily Features,Wednesday - Spanakopita Roll-Ups,,760,27,8,0,110,2040,75,8,6,,55,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Bottled Water,,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Coke,,270,0,0,0,0,65,67,0,67,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Coke Zero,,0,0,0,0,0,70,2,0,0,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Diet Coke,,0,0,0,0,0,85,<1,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Dr Pepper,,250,0.5,0,0,0,100,66,0,64,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Lemonade,,260,0,0,0,0,160,63,0,63,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Mountain Berry Blast Powerade,,140,0,0,0,0,250,48,0,34,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Mr. Pibb,,250,0.5,0,0,0,60,64,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Root Beer,,300,0,0,0,0,90,74,0,74,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Sparkling Water,,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Sprite,,250,0,0,0,0,115,64,0,61,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Sweet Tea,,200,0,0,0,0,0,52,0,50,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Drinks,Unsweet Tea,,5,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Asparagus,,120,12,7,0,30,270,5,2,2,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Basmati Rice,,210,10,6,0,25,170,28,0,<1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Chips,,160,10,1.5,0,0,140,15,1,<1,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Fresh-Cut Fruit,,50,0,0,0,0,10,14,<1,12,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Greek Lemon Chicken Soup,,330,16,6,0,90,1370,20,1,3,,25,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Grilled Veggies,,110,9,0.5,0,0,410,9,2,3,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Hummus with Pita Chips,,520,18,1.5,0,0,1350,79,4,6,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Hummus with Soft Pita,,480,14,1.5,0,0,1040,77,4,6,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Pasta Salad,,270,15,2.5,0,<5,390,27,1,2,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Roasted New Potato,,190,11,1,0,0,330,23,2,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Spicy Harissa Hummus with Pita Chips,,550,23,2,0,0,1410,77,4,6,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Spicy Harissa Hummus with Soft Pita,,510,18,1.5,0,0,1090,75,3,6,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Taziki with Pita Chips,,500,21,14,0,15,1340,70,1,5,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Taziki with Soft Pita,,460,16,14,0,15,1030,68,1,5,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Tomato Basil Soup,,150,8,3.5,0,15,940,19,3,11,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sides,Side of Tomato Cucumber Salad,,60,3.5,0.5,0,<5,550,5,<1,3,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis,Child Feast,,360,14,7,0,100,290,29,<1,<1,,30,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis,Grilled Cheese Pita,,430,21,9,0,45,810,45,2,2,,17,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis,Macaroni & Cheese,,300,17,10,0.5,50,870,20,1,2,,15,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis,Sneaky Taziki,,320,12,5,0,70,550,25,1,2,,26,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis,Turkey Melt,,480,22,6,0,60,1300,47,2,4,,25,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Basmati Rice,,210,10,6,0,25,170,28,0,<1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Fresh-Cut Fruit,,50,0,0,0,0,10,14,<1,12,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Quinoa,,130,2,0,0,0,350,23,2,0,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Roasted Red Potatoes,,190,11,1,0,0,330,23,2,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Side of Greek Lemon Chicken Soup,,330,16,6,0,90,1370,20,1,3,,25,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Side of Grilled Asparagus,,120,12,7,0,30,270,5,2,2,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Side of Grilled Veggies,,110,9,0.5,0,0,410,9,2,3,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Side of Pasta,,270,15,2.5,0,<5,390,27,1,2,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Side of Tomato Cucumber Salad,,60,3.5,0.5,0,<5,550,5,<1,3,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Small Caesar Salad,,200,16,4,0,20,420,9,2,1,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Small Greek Salad,,430,39,6,0,5,1010,16,2,5,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Small Mediterranean Salad,,570,49,4.5,0,5,550,32,4,14,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Small Watermelon Spinach Salad,,480,44,7,0,5,600,18,2,8,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Sides,Tomato Basil Soup,,150,8,3.5,0,15,940,19,3,11,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Bottled Water,,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Coke,,160,0,0,0,0,40,40,0,40,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Coke Zero,,0,0,0,0,0,40,1,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Diet Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Dr Pepper,,150,0,0,0,0,60,40,0,38,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Lemonade,,160,0,0,0,0,95,38,0,38,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Mountain Berry Blast Powerade,,80,0,0,0,0,150,29,0,20,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Mr. Pibb,,150,0,0,0,0,35,38,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Root Beer,,180,0,0,0,0,55,44,0,44,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Sparkling Water,,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Sprite,,150,0,0,0,0,70,39,0,37,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Sweet Tea,,120,0,0,0,0,0,31,0,30,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Kid'zikis Drinks,Unsweet Tea,,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Baklava,,350,14,3,2,0,160,52,1,21,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Baklava Cheesecake,,440,10,4,4,180,210,31,0,25,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Chocolate Chip Cookies,,320,16,8,0,20,240,46,1,30,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Dark Chocolate Cake,,450,20,5,0,15,740,70,3,47,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Ghirardelli Brownie,,520,21,6,0,30,350,77,3,53,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,Lemon White Chocolate Cookies,,380,18,10,0,20,210,52,0,32,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Sweets,White Chocolate Macadamia Nut Cookies,,280,14,7,0,20,210,36,0,24,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Beef,,330,19,4.5,0,110,350,2,0,0,,37,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Chicken,,250,7,1.5,0,120,190,2,0,0,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,"Side of Chicken Kebob, 1 Piece",,140,5,1.5,0,60,200,1,0,0,,21,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,"Side of Chicken Kebob, 2 Piece",,280,11,3.5,0,125,400,2,0,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Chicken Roll-Up,,220,7,2.5,0,35,620,24,1,2,,15,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Chicken Salad,,380,28,5,0,95,320,1,0,<1,,27,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Falafel,,460,24,1.5,0,0,960,47,18,8,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Grilled Gyro Slice,,460,38,13,0,65,1570,12,3,3,,23,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Lamb,,380,20,6,0,145,190,1,0,0,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Pork,,560,37,8,0,165,180,3,<1,0,,51,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Salmon,,530,38,9,0,135,400,4,1,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Shrimp,,290,21,8,0,210,1100,5,1,0,,20,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Spicy Harissa Chicken,,300,11,2,0,120,420,4,<1,1,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Tilapia,,240,12,2,0,75,220,3,1,0,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Turkey,,220,11,0.5,0,60,1190,6,0,4,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Proteins,Side of Turkish Meatballs,,470,41,14,0,155,480,1,0,0,,27,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Balsamic Vinaigrette,,270,28,2,0,0,70,8,0,6,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Basil Pesto,,210,21,3,0,5,380,3,1,<1,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Basil Pesto Aioli,,250,27,4.5,0,20,270,2,<1,0,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Caesar Dressing,,240,25,5,0,25,370,1,0,0,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Chili Oil Sauce,,250,28,2,0,0,430,3,0,2,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Feta,,80,5,3,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Garbanzo Beans,,80,3.5,0,0,0,125,9,3,2,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Greek Dressing,,320,34,5,0,0,380,2,0,2,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Horseradish Sauce,,210,22,4,0,20,390,<1,0,<1,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Hummus,,110,7,0.5,0,0,300,9,3,2,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Mayo,,300,33,6,0,30,170,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Olives,,70,8,1,0,0,600,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Parmesan,,110,7,4.5,0,20,390,<1,0,0,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Pecans,,180,18,1.5,0,0,0,6,2,4,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Pepperoncini,,0,0,0,0,0,450,2,<1,<1,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Pimento Cheese,,250,24,8,0,45,330,2,0,0,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Ranch,,170,17,4,0,20,220,2,0,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Roasted Red Peppers,,10,0,0,0,0,210,3,0,2,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Rustic Tomato Sauce,,70,6,0,0,0,450,4,1,2,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Salsa,,15,0,0,0,0,420,3,<1,2,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Spicy Harissa Sauce,,90,8,1,0,0,450,5,2,2,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Tartar Sauce,,150,17,3,0,15,450,<1,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Taziki Dip,,70,7,7,0,10,210,2,0,1,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Extra Sauces & Add-Ons,Side of Tomato Chutney,,240,24,4.5,0,20,320,6,0,5,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Beef for 4,,1340,77,18,1.5,430,1410,8,1,1,,148,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Beef for 6,,2010,116,27,2,645,2120,12,2,2,,222,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Chicken Kebob for 4,,1130,43,13,0,495,1610,9,2,2,,172,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Chicken Kebob for 6,,1700,64,20,0,745,2410,14,2,3,,258,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Falafel for 4,,1830,96,6,0,0,3820,189,74,33,,57,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Falafel for 6,,2750,144,9,0,0,5730,283,111,49,,86,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Family Pasta Pack for 6,,2470,133,14,0,225,3290,204,22,32,,122,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Grilled Chicken for 4,,1010,27,6,0,480,760,6,<1,2,,176,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Grilled Chicken for 6,,1520,41,9,0,725,1150,9,<1,3,,264,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Lamb for 4,,1540,81,24,0,580,1520,8,1,1,,188,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Lamb for 6,,2310,122,35,0,865,2280,12,2,2,,282,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Pork for 4,,2230,150,33,1,660,740,13,3,2,,203,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Pork for 6,,3340,225,49,1.5,990,1110,19,4,2,,305,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Salmon for 4,,2120,152,36,0,545,1600,16,5,2,,172,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Salmon for 6,,3180,228,53,0,820,2400,24,7,2,,257,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Shrimp for 4,,1150,86,33,0,840,4400,21,5,2,,79,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Shrimp for 6,,1720,129,50,0,1260,6600,31,7,2,,118,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Turkish Meatballs for 4,,2240,191,61,0,650,4220,23,6,11,,121,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Turkish Meatballs for 6,,3360,287,92,0,975,6340,35,9,16,,181,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Veggie Feast for 4,,310,16,1.5,0,0,1130,42,9,16,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Protein & Veggie Options,Veggie Feast for 6,,460,23,2,0,0,1690,64,13,24,,12,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Caesar Salad for 4,,330,15,6,0,25,940,32,7,4,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Caesar Salad for 6,,470,20,7,0,30,1370,53,7,4,,28,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Greek Salad for 4,,320,20,7,0,30,2380,24,9,10,,16,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Greek Salad for 6,,470,30,10,0,45,3750,35,11,15,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Mediterranean Salad for 4,,690,46,9,0,30,1800,55,14,22,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Mediterranean Salad for 6,,1010,68,13,0,45,2670,78,19,32,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Salad Options,Watermelon Spinach Salad for 4,,480,37,6,0,20,610,33,6,22,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Balsamic Vinaigrette for 4,,1090,113,8,0,0,270,30,0,25,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Balsamic Vinaigrette for 6,,2900,301,21,0,0,730,81,<1,68,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Caesar Dressing for 4,,730,76,16,0,80,1100,3,0,1,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Caesar Dressing for 6,,1960,202,43,0,215,2930,9,0,3,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Greek Dressing for 4,,960,102,15,0,0,1140,6,0,6,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Greek Dressing for 6,,2560,272,40,0,0,3040,16,0,16,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Ranch Dressing for 4,,520,51,13,0,65,670,7,0,4,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Dressing Options,Ranch Dressing for 6,,1370,136,33,0.5,175,1790,19,0,11,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Baked & Soft Pita for 4,,450,2.5,0,0,0,520,95,0,5,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Baked & Soft Pita for 6,,820,3.5,0,0,0,890,174,0,8,,25,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Baked Pita for 4,,330,4.5,0,0,0,550,64,0,3,,9,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Baked Pita for 6,,500,7,0.5,0,0,830,96,0,5,,14,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Soft Pita for 4,,580,0,0,0,0,480,126,0,6,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Pita Options,Soft Pita for 6,,860,0,0,0,0,720,189,0,9,,27,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Grilled Veggies for 4,,310,16,1.5,0,0,1130,42,9,16,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Grilled Veggies for 6,,460,23,2,0,0,1690,64,13,24,,12,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Potatoes for 4,,770,44,3.5,0,0,1330,91,9,4,,11,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Potatoes for 6,,1150,66,5,0,0,2000,137,14,7,,16,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Rice for 4,,850,40,25,0,100,680,112,2,2,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Add-Ons & Side Options,Rice for 6,,1270,59,37,0,150,1020,167,3,3,,19,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Horseradish Sauce for 4,,830,90,16,0,80,1580,3,0,3,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Horseradish Sauce for 6,,2210,239,43,0,215,4210,8,1,7,,5,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Taziki Sauce for 4,,290,27,26,0,35,860,9,1,4,,9,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Taziki Sauce for 6,,770,71,69,1,90,2290,25,4,11,,23,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Tomato Chutney for 4,,960,96,17,0,85,1260,23,0,20,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Family Feasts - Sauce Options,Tomato Chutney for 6,,2570,256,47,0,235,3360,62,0,53,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Chicken Salad, 1 Pint (Catering)",,2180,114,20,0,340,2540,165,2,10,,119,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Chicken Salad, 2 Pints (Catering)",,4360,227,40,0,685,5080,331,4,19,,239,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Hummus, 1 Pint (Catering)",,1710,70,6,0,0,3780,234,22,21,,49,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Hummus, 2 Pints (Catering)",,3410,140,11,0,0,7570,468,43,41,,98,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Pimento Cheese, 1 Pint (Catering)",,2740,195,62,0,345,3940,172,2,9,,72,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Pimento Cheese, 2 Pints (Catering)",,5480,389,124,0,690,7870,345,3,18,,144,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Spicy Hummus, 1 Pint (Catering)",,1730,77,7,0,0,3970,228,20,21,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Spicy Hummus, 2 Pints (Catering)",,3460,153,13,0,0,7940,456,40,42,,91,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Taziki Dip, 1 Pint (Catering)",,1600,82,70,1,90,3670,186,5,19,,46,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Taziki Dip, 2 Pints (Catering)",,3200,165,140,2,180,7340,371,9,38,,92,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Whipped Feta, 1 Pint (Catering)",,2680,190,76,0,390,5410,183,1,14,,74,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Party Dips,"Whipped Feta, 2 Pints (Catering)",,5360,379,151,0,780,10830,366,3,28,,147,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Greek Lemon Chicken Soup, Quart (Catering)",,1220,55,20,0,245,4240,108,5,11,,77,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Greek Salad, Large (Catering)",,7720,638,112,0,160,19310,388,40,113,,105,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Greek Salad, Medium (Catering)",,7120,615,104,0,120,16090,309,30,93,,80,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Greek Salad, Small (Catering)",,3960,320,56,0,80,9830,214,20,58,,55,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Mediterranean Salad, Large (Catering)",,11080,929,93,0,160,12640,656,69,278,,145,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Mediterranean Salad, Medium (Catering)",,10420,908,86,0,120,9930,563,58,258,,116,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Mediterranean Salad, Small (Catering)",,5640,466,47,0,80,6490,348,35,140,,75,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Watermelon Spinach Salad, Large (Catering)",,9530,947,135,0,150,10060,199,41,140,,92,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Watermelon Spinach Salad, Medium (Catering)",,8120,816,118,0,115,9060,147,28,106,,67,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Soups & Salads,"Watermelon Spinach Salad, Small (Catering)",,4160,413,62,0,75,5030,79,15,55,,41,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Beef Feast (Catering),,330,19,4.5,0,110,350,2,0,0,,37,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Chicken Feast (Catering),,250,7,1.5,0,120,190,2,0,0,,44,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Chicken Kebob Feast (Catering),,280,11,3.5,0,125,400,2,0,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Chicken Roll-Up Feast (Catering),,550,16,6,0,110,1330,51,3,4,,48,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Lamb Feast (Catering),,380,20,6,0,145,190,1,0,0,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Pork Feast (Catering),,560,37,8,0,165,180,3,<1,0,,51,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Salmon Feast (Catering),,530,38,9,0,135,400,4,1,0,,43,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Shrimp Feast (Catering),,290,21,8,0,210,1100,5,1,0,,20,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feasts,Tilapia Feast (Catering),,240,12,2,0,75,220,3,1,0,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feast Salads,Greek Salad (Catering),,430,39,6,0,5,1010,16,2,5,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Feast Salads,Mediterranean Salad (Catering),,650,57,5,0,5,570,34,4,16,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Signature Pastas,"Signature Pasta, Large (Catering)",,12890,786,89,0,1035,13780,992,58,183,,521,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Signature Pastas,"Signature Pasta, Medium (Catering)",,10650,668,73,0,775,10950,814,44,156,,398,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Signature Pastas,"Signature Pasta, Small (Catering)",,8000,545,55,0,515,7430,557,29,126,,264,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Basil Pesto Pita, Boxed Lunch",,950,46,11,0,115,1320,86,5,19,,53,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Beef Sandwich, Boxed Lunch",,1190,78,19,0,135,1300,81,3,20,,47,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Chicken Gyro, Boxed Lunch",,870,37,14,0,115,1150,87,5,21,,50,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Chicken Roll-Up, Boxed Lunch",,880,34,12,0,120,2010,92,5,22,,52,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Chicken Salad Sandwich, Boxed Lunch",,950,51,12,0,95,1010,84,5,22,,39,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Greek Salad, Boxed Lunch",,560,40,10,0,20,1250,45,5,22,,9,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Mediterranean Salad, Boxed Lunch",,970,76,11,0,20,1070,71,8,37,,13,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Signature Pasta, Boxed Lunch",,1300,76,8,0,120,1270,101,6,17,,59,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Veggie Feast, Boxed Lunch",,420,32,16,0,45,1530,30,6,9,,9,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,"Veggie Pita, Boxed Lunch",,970,62,13,0,35,1600,93,6,22,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunches,White Chocolate Macadamia Cookies,,140,7,3.5,0,10,105,18,0,12,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Basmati Rice,,210,10,6,0,25,170,28,0,<1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Fresh-Cut Fruit,,50,0,0,0,0,10,14,<1,12,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Grilled Veggies,,110,9,0.5,0,0,410,9,2,3,,1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Pasta Salad,,270,15,2.5,0,<5,390,27,1,2,,6,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Roasted New Potato,,190,11,1,0,0,330,23,2,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Boxed Lunch Sides,Side of Tomato Cucumber Salad,,60,3.5,0.5,0,<5,550,5,<1,3,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,10 Slices Baked Pita & 20 Pieces Soft Pita,,1130,6,0,0,0,1290,238,0,11,,34,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Fresh-Cut Fruit, Large (Catering)",,1550,6,1,0,0,280,397,22,332,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Fresh-Cut Fruit, Medium (Catering)",,1160,4,1,0,0,210,298,16,249,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Fresh-Cut Fruit, Small (Catering)",,780,3,0.5,0,0,140,199,11,166,,12,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Gluten-Free Veggies, 1 Pint (Catering)",,180,2,0,0,0,300,38,12,13,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Gluten-Free Veggies, 2 Pint (Catering)",,360,4,1,0,0,590,75,25,25,,15,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Grilled Veggie, Large (Catering)",,1370,64,7,0,0,9910,211,36,70,,31,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Grilled Veggie, Medium (Catering)",,1180,63,6,0,0,7580,166,28,55,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Grilled Veggie, Small (Catering)",,1000,61,5,0,0,5250,121,21,41,,18,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Pasta Salad, Large (Catering)",,7300,410,72,0,120,11790,716,39,49,,176,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Pasta Salad, Medium (Catering)",,5440,305,52,0,80,8600,536,29,37,,129,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Pasta Salad, Small (Catering)",,3570,200,33,0,40,5400,357,20,25,,81,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Potatoes, Large (Catering)",,5520,318,24,0,0,9580,658,65,32,,78,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Potatoes, Medium (Catering)",,4140,239,18,0,0,7190,493,49,24,,59,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Potatoes, Small (Catering)",,2760,159,12,0,0,4790,329,32,16,,39,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Rice, Large (Catering)",,6100,285,177,0,730,4920,804,14,17,,91,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Rice, Medium (Catering)",,4570,214,133,0,550,3690,604,10,12,,68,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Rice, Small (Catering)",,3050,143,89,0,365,2460,402,7,8,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Soft Pita, 40 Pieces",,1650,23,1.5,0,0,2770,321,1,15,,45,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Tomato Cucumber Salad, Large (Catering)",,1800,116,26,0,120,16980,150,17,98,,61,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Tomato Cucumber Salad, Medium (Catering)",,1310,84,18,0,80,12490,112,13,73,,42,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sides,"Tomato Cucumber Salad, Small (Catering)",,820,53,10,0,40,8000,74,9,49,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sauces,Basil Pesto Sauce (Catering),,280,28,4,0,10,500,4,2,<1,,8,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sauces,Horseradish Sauce (Catering),,280,30,5,0,25,530,1,0,<1,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sauces,Salsa (Catering),,20,0,0,0,0,560,4,<1,2,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sauces,Taziki Sauce (Catering),,100,9,9,0,10,290,3,0,1,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Sauces,Tomato Chutney (Catering),,320,32,6,0,30,420,8,0,7,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Drinks,"Lemonade, Gallon",,1830,2.5,0,0,0,1050,492,39,403,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Drinks,"Sweet Tea, Gallon",,1280,0,0,0,0,0,331,0,319,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Drinks,"Unsweet Tea, Gallon",,40,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Drinks,"Water, Gallon",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,Baklava,,350,14,3,2,0,160,52,1,21,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,"Baklava, Half Slice",,180,7,1.5,1,0,80,26,<1,11,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,Chocolate Chip Cookies,,160,8,4,0,10,120,23,<1,15,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,"Chocolate Chip Cookies, Dozen",,1920,96,48,0,120,1440,276,6,180,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,"Dark Chocolate Cake, Whole",,5450,236,63,0,195,8820,843,39,564,,54,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,"Macadamia White Chocolate Cookies, Dozen",,1680,84,42,0,120,1260,216,0,144,,24,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Catering - Desserts,White Chocolate Macadamia Cookies,,140,7,3.5,0,10,105,18,0,12,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Balsamic Vinaigrette,,2900,301,21,0,0,730,81,<1,68,,<1,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Chicken Salad,,1350,102,19,0,340,1160,5,1,2,,97,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Fresh-Cut Fruit,,190,0.5,0,0,0,35,50,3,42,,3,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Greek Dressing,,2560,272,40,0,0,3040,16,0,16,,0,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Hummus,,880,58,5,0,0,2400,74,21,13,,26,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Pasta Salad,,870,49,7,0,5,1240,89,5,6,,19,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Pimento Cheese,,1910,183,61,0,345,2550,12,<1,1,,49,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Ranch Dressing,,1370,136,33,0.5,175,1790,19,0,11,,22,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Rustic Tomato Sauce,,540,46,3.5,0,0,3580,33,10,19,,10,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Salsa,,140,1,0,0,0,4450,36,7,19,,7,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Spicy Harissa Hummus,,1030,79,7,0,0,2800,69,19,14,,23,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Tartar Sauce,,1630,176,32,0,160,4780,6,2,0,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Taziki,,770,71,69,1,90,2290,25,4,11,,23,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Tomato Chutney,,2570,256,47,0,235,3360,62,0,53,,2,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Tomato Cucumber Salad,,190,12,1.5,0,5,1880,18,2,12,,4,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27
+tazikis,Pints,Pint of Whipped Feta,,1850,178,75,0,390,4030,22,<1,7,,51,,,https://www.nutritionix.com/tazikis-mediterranean-cafe/menu/premium,2026-10-27

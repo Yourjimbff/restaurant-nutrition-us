@@ -1,0 +1,593 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+outback,Aussie-Tizers,Aussie Cheese Fries,,2620,182,69,4.5,315,7490,153,16,1,,89,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Bloomin' Fried Shrimp,,990,66,22,1.5,385,5830,53,5,1,,45,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Bloomin' Onion,,1900,145,53,5,110,4930,131,17,24,,18,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Bloom Petals Appetizer (Regional),,590,43,20,3,40,1140,44,4,4,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Gold Coast Coconut Shrimp,,940,65,36,0,310,710,52,1,29,,34,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Grilled Shrimp on the Barbie,,760,57,16,0,265,1170,29,3,6,,34,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,"Kookaburra Wings Hot, 10 count",,2160,176,44,6,410,4650,54,6,6,,89,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,"Kookaburra Wings Medium, 10 count",,1730,130,35,3,375,4110,52,6,5,,87,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,"Kookaburra Wings Mild, 10 count",,1780,125,33,3,370,4170,73,7,5,,89,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Seared Peppered Ahi,,440,17,3,0,55,2210,30,3,15,,29,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Steakhouse Mac & Cheese Bites,,660,43,15,0,75,1230,39,2,1,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Sydney 'Shrooms,,1370,113,43,4.5,75,2580,64,10,3,,16,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Table Bread with Butter,,370,15,7,0,20,420,51,4,10,,10,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Aussie-Tizers,Three Cheese Steak Dip,,2050,119,44,2,215,3160,179,19,11,,69,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Baked Potato Soup (Bowl),,450,32,18,0.5,70,2770,33,2,4,,9,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Baked Potato Soup (Cup),,250,18,10,0,40,1450,17,1,2,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Blue Cheese Pecan Chopped Side Salad,,440,34,10,0,40,710,22,4,9,,12,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Blue Cheese Vinaigrette for Side Salads,,150,16,3.5,0,20,170,1,0,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Blue Cheese Wedge & 6 oz Sirloin (Regional),,800,64,16,0,130,2100,14,4,7,,45,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Broccoli Soup (Bowl),,320,23,13,0,30,1680,21,3,6,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Broccoli Soup (Cup),,160,12,6,0,15,840,10,1,3,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Caesar Dressing for Side Salad,,220,23,4.5,0,45,470,2,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Caesar Side Salad with Dressing,,260,20,4,0,35,560,14,3,2,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Creamy Blue Cheese for Side Salads,,220,23,4.5,1.5,20,310,1,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Creamy Onion Soup (Bowl),,420,34,19,0,45,1790,23,2,8,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Creamy Onion Soup (Cup),,220,18,10,0,25,920,11,1,4,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,French Onion Soup,,570,36,18,0,55,4120,42,4,18,,19,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Honey Mustard for Side Salads,,220,19,2.5,0,10,330,12,0,12,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,House Side Salad (no dressing),,180,10,4.5,0,20,340,16,2,4,,8,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Light Balsamic Vinaigrette for Side Salads,,70,4.5,0.5,0,0,300,7,0,7,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Mustard Vinaigrette for Side Salads,,230,24,3.5,0,0,120,4,0,4,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Ranch Dressing for Side Salad,,200,21,3.5,0,10,290,1,0,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Tangy Tomato Dressing for Side Salads,,60,0,0,0,0,230,14,0,13,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Tasmanian Chili Crock,,370,25,10,0,75,1470,13,3,6,,23,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Tasmanian Chili Cup,,200,14,6,0,40,760,7,2,3,,12,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Thousand Island for Side Salads,,200,20,3,0,25,360,6,0,60,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soups & Side Salads,Wedge Salad with Dressing,,530,46,12,8,60,1250,21,4,14,,12,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Aussie Cobb Salad with Crispy Chicken (No Dressing),,940,54,22,1.5,275,2100,62,6,8,,56,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Aussie Cobb Salad with Grilled Chicken (No Dressing),,800,48,15,0.5,295,1400,29,4,5,,66,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Aussie Cobb Salad with Grilled Salmon (No Dressing),,1010,68,19,0.5,315,1440,29,4,6,,72,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Blue Cheese Vinaigrette for Entree Salads,,300,32,7,0,35,340,2,0,1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Brisbane Caesar Salad with Crispy Chicken (5oz),,1140,81,21,1.5,185,2460,62,8,7,,44,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Brisbane Caesar Salad with Dressing and Grilled Salmon,,1200,95,19,0.5,225,1810,29,6,5,,60,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Brisbane Caesar Salad with Grilled Chicken (5oz),,990,74,15,0.5,205,1770,29,6,5,,54,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Brisbane Caesar Salad with Grilled Shrimp,,900,70,14,0.5,305,1950,29,6,5,,42,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Caesar Dressing for Entree Salad,,450,46,9,0,90,940,4,1,1,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Creamy Blue Cheese for Entree Salads,,440,47,9,3,35,610,2,0,1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Honey Mustard for Entree Salads,,430,37,5,0,20,660,25,0,24,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Light Balsamic Vinaigrette for Entree Salads,,140,9,1.5,0,0,610,14,0,13,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Mustard Vinaigrette for Entree Salads,,470,47,7,0.5,0,240,9,0,8,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Ranch Dressing for Entree Salad,,390,42,7,0,25,570,2,0,2,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Steakhouse Salad with Dressing,,1230,86,25,16,210,2710,47,10,17,,69,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Tangy Tomato Dressing for Entree Salads,,120,0,0,0,0,460,29,1,25,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Big Bowl Salads,Thousand Island for Entree Salads,,510,51,8,0,45,660,12,0,6,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Bone In NY Strip 16 oz,,850,43,15,1.5,315,2070,3,1,1,,107,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Bone In Ribeye 18 oz,,1070,87,33,5,260,2030,3,1,1,,65,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Chimichurri Filet,,1070,97,21,0,115,1360,11,1,2,,37,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Classic Prime Rib 10 oz (Regional),,950,82,34,0,195,820,2,1,0,,47,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Classic Prime Rib 12 oz,,1140,98,41,0,235,920,3,1,0,,57,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Classic Prime Rib 16 oz,,1520,131,54,0,315,1130,4,1,0,,76,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Melbourne Porterhouse 22 oz,,980,60,20,0,315,2150,3,1,1,,102,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center-Cut Sirloin 6 oz,,340,21,6,0,80,1280,3,2,0,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center-Cut Sirloin 11 oz,,500,24,9,0,150,2070,6,4,1,,65,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center Cut Sirloin 5 oz (Regional),,290,18,5,0,65,410,2,1,0,,29,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center Cut Sirloin 8 oz,,400,22,7,0,105,1320,4,3,0,,47,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center Cut Sirloin 9 oz (Regional),,430,23,7,0,120,1340,4,3,0,,53,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Center Cut Sirloin 12 oz (Regional),,520,24,9,0,160,1420,5,4,0,,70,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Style Prime Prime 10 oz (Regional),,1130,99,44,0,245,1060,8,2,3,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Style Prime Rib 12 oz,,1320,116,51,0,285,1160,8,2,3,,58,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Outback Style Prime Rib 16 oz,,1700,148,64,0,360,1360,9,2,3,,77,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Prime Filet 11 oz (Regional),,740,42,14,1.5,265,1330,2,1,0,,85,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Prime NY Strip 20 oz,,1730,129,50,0,405,2170,3,1,1,,131,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Ribeye 12 oz,,870,72,27,0,210,680,1,0,0,,52,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Ribeye 13 oz,,950,78,29,0,225,2010,3,1,1,,57,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Ribeye 14 oz,,1010,83,31,0,245,2020,3,1,1,,61,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Ribeye 15 oz,,1050,85,32,0,260,710,1,0,0,,65,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Victoria's Filet Mignon 6 oz,,480,31,9,1,145,1250,2,1,0,,47,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Victoria's Filet Mignon 8 oz,,580,35,11,1,190,1280,2,1,0,,62,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Victoria's Filet Mignon 9 oz (Regional),,630,36,12,1,220,1280,2,1,0,,70,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,So Many Ways to Steak,Victoria's Filet Mignon 11 oz (Regional),,740,42,14,1.5,265,830,1,0,0,,85,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Add 4 oz Lobster Tail,,360,24,15,0,210,650,3,1,1,,30,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Bloomin' Carrot Crunch,,50,2,1,0,0,200,9,1,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Burgundy Mushrooms,,180,13,7,0,0,600,10,2,5,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Chimichurri Sauce (Eureka),,280,30,2.5,0,0,180,1,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Grilled Onions,,100,4,0.5,0,0,450,15,3,7,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Grilled Shrimp on the Barbie Add On,,540,39,9,0,135,830,28,3,5,,20,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Peppercorn Sauce,,80,7,3.5,0,15,250,3,0,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,"Plus It Up, Gold Coast Coconut Shrimp",,440,30,16,0,125,270,32,0,22,,13,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Roasted Garlic Butter Topping (Large),,160,16,6,0,20,220,2,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Roasted Garlic Butter Topping (Small),,80,8,3,0,10,110,1,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Sauteed Shrooms,,240,21,10,0,25,890,14,2,2,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Plus It Up,Toowoomba Topping,,200,14,7,0,130,370,3,0,2,,17,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,From the Sea,Grilled Salmon with Remoulade,,660,52,10,0,135,540,1,0,0,,45,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,From the Sea,Grilled Shrimp on the Barbie Entree,,610,41,7,0,465,1290,3,1,1,,58,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,From the Sea,Lobster Tails Entree,,490,25,15,0,360,1420,0,0,0,,60,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,From the Sea,Toowoomba Salmon,,740,53,15,0,260,750,4,1,2,,62,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,5 oz Sirloin & 5 oz Alice Springs Chicken (Regional),,930,65,19,0.5,235,1400,14,2,10,,77,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,6 oz Filet & Lobster,,840,55,24,1,360,1900,5,1,1,,78,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,6 oz Sirloin & 5 oz Alice Springs Chicken,,980,68,19,0.5,250,2280,16,2,11,,83,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,6 oz Sirloin & 5 oz Bloomin Chicken (Regional),,820,56,15,1,165,2370,19,5,1,,62,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,6 oz Sirloin & 5 oz Grilled Chicken,,700,39,10,0,205,1870,15,2,10,,73,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,8 oz Filet & Lobster,,940,59,26,1,405,1930,5,1,1,,92,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,8 oz Sirloin & 5 oz Alice Springs Chicken,,1040,69,20,0.5,275,2320,16,3,11,,94,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,8 oz Sirloin & 5 oz Bloomin Chicken (Regional),,880,57,16,1,190,2410,20,6,1,,73,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,8 oz Sirloin & 5 oz Grilled Chicken,,760,41,11,0,230,1910,16,3,10,,84,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,9 oz Filet & Lobster (Regional),,980,60,26,1,430,1930,5,1,1,,101,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,9 oz Sirloin & 5 oz Alice Springs Chicken (Regional),,1070,70,21,0.5,285,2340,16,3,11,,100,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,9 oz Sirloin & 5 oz Grilled Chicken on the Barbie (Regional),,790,41,11,0,245,1940,16,3,10,,90,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,12 oz Ribeye & 4 Coconut Shrimp,,1290,98,41,0,335,960,33,1,22,,66,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,12 oz Ribeye & Grilled Shrimp on the Barbie,,1400,110,35,0.5,345,1500,29,3,6,,72,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Ribeye 13 oz and Coconut Shrimp,,1370,104,43,0,350,2290,35,1,22,,70,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Ribeye 13 oz and Grilled Shrimp on the Barbie,,1490,117,38,0.5,360,2830,31,3,6,,77,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Ribeye 15 oz and 4 Coconut Shrimp,,1470,111,47,0,385,990,33,1,22,,79,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Ribeye 15 oz and 4 Grilled Shrimp on the Barbie,,1580,124,41,0.5,395,1540,29,3,6,,85,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Sirloin 5 oz & 5 oz Grilled Chicken (Regional),,640,37,9,0,195,1000,13,2,9,,67,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 5 oz Sirloin & 1/2 Rack Ribs (Regional),,1000,64,22,0.5,240,1560,28,2,21,,77,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 5 oz Sirloin & 1/3 Rack Ribs (Regional),,770,49,16,0,180,1180,19,2,14,,61,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 5 oz Sirloin & Coconut Shrimp (Regional),,700,44,20,0,190,690,34,2,22,,43,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 5 oz Sirloin & Grilled Shrimp on the Barbie (Regional),,820,57,14,0.5,200,1230,30,4,5,,49,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 6 oz Sirloin & 1/2 Rack Ribs,,1060,67,22,0.5,250,2440,30,3,21,,83,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 6 oz Sirloin & 1/3 Rack Ribs,,820,52,17,0,195,2060,21,3,14,,67,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 6 oz Sirloin & Coconut Shrimp,,760,47,21,0,205,1570,36,3,22,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 6 oz Sirloin & Grilled Shrimp on the Barbie,,870,60,15,0.5,215,2110,31,5,6,,55,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 8 oz Sirloin & 1/2 Rack Ribs,,1120,68,23,0.5,275,2480,30,3,21,,95,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 8 oz Sirloin & 1/3 Rack Ribs,,880,53,18,0,220,2100,21,3,14,,79,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 8 oz Sirloin & Coconut Shrimp,,820,48,21,0,230,1610,36,3,22,,60,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 8 oz Sirloin & Grilled Shrimp on the Barbie,,940,61,16,0.5,240,2150,32,5,6,,67,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 9 oz Sirloin & 1/2 Rack Ribs (Regional),,1150,69,24,0.5,290,2500,30,4,21,,101,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 9 oz Sirloin & 1/3 Rack Ribs (Regional),,910,53,18,0,235,2120,22,3,14,,85,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 9 oz Sirloin & Coconut Shrimp (Regional),,850,49,22,0,240,1630,36,3,22,,66,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 9 oz Sirloin & Grilled Shrimp on the Barbie (Regional),,970,62,16,0.5,250,2170,32,5,6,,73,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & 1/2 Rack Ribs (Regional),,1230,72,25,0.5,320,3240,32,4,22,,113,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & 1/3 Rack Ribs (Regional),,990,56,20,0,265,2860,23,4,15,,97,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & 5 oz Alice Springs Chicken (Regional),,1160,73,22,0.5,320,3080,18,4,11,,113,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & 5 oz Grilled Chicken (Regional),,870,44,13,0,275,2680,18,4,10,,103,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & Coconut Shrimp (Regional),,930,52,24,0,275,2370,38,4,22,,79,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 11 oz Sirloin & Grilled Shrimp on the Barbie (Regional),,1050,65,18,0.5,285,2920,34,6,6,,85,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 12 oz Sirloin & 1/2 Rack Ribs (Regional),,1240,70,25,0.5,330,2570,31,4,21,,118,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 12 oz Sirloin & 1/3 Rack Ribs (Regional),,1000,55,20,0,275,2190,22,4,14,,102,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 12 oz Sirloin & Coconut Shrimp (Regional),,940,50,23,0,285,1700,37,4,22,,84,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steak 'N Mate Combos,Steak & Mate Combos 12 oz Sirloin & Grilled Shrimp on the Barbie (Regional),,1050,63,18,0.5,295,2250,33,6,6,,90,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Asparagus,,60,3,0,0,0,470,7,4,3,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Aussie Fries,,500,23,10,1,20,1940,67,7,0,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Broccoli,,140,11,6,0,0,230,7,3,2,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Broccoli and Cheese Side (Regional),,350,30,16,0.5,45,750,11,3,4,,13,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Fresh Mixed Veggies,,120,9,4.5,0,0,190,9,2,5,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Green Beans,,140,11,6,0,0,350,10,4,4,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Homestyle Mashed Potatoes,,230,11,4,0,15,540,28,3,1,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Loaded Baked Potato,,340,14,8,0,35,160,47,3,3,,9,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Loaded Sweet Potato,,250,7,3.5,0,0,115,45,6,20,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Over The Top Brussels Sprouts,,1010,89,28,0,80,1250,40,8,21,,17,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Seasoned Rice,,320,6,3,0,15,1390,57,2,4,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Steakhouse Potatoes & Sides,Steakhouse Mac & Cheese,,720,37,18,1,75,1010,74,3,7,,25,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Alice Springs Chicken Entree,,910,61,19,0.5,275,1290,14,2,12,,79,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Bloomin' Fried Chicken,,970,70,18,1.5,175,2170,32,6,2,,53,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Caramel Mustard Glaze Pork Chop,,900,54,23,0.5,320,1570,15,1,12,,83,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Drover's Ribs & Chicken Platter (Regional),,1310,68,21,0.5,380,2530,63,2,50,,111,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Grilled Chicken on the Barbie 8 oz,,520,21,5,0,210,880,22,1,17,,62,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Hand-Breaded Chicken Tenders,,1000,59,20,2,155,2040,67,4,15,,49,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Kingsland Sirloin & Shrimp Pasta,,1560,86,28,0,340,1820,122,7,9,,68,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Outback Ribs 1/3 Rack (Regional),,480,30,11,0,115,780,18,1,14,,32,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Outback Ribs Full Rack,,1430,91,32,1,345,2310,53,2,42,,96,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Outback Ribs Half Rack,,720,46,16,0,170,1160,26,1,21,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Queensland Chicken & Shrimp Pasta,,1510,73,23,0,335,1810,122,7,9,,82,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Queensland Chicken Pasta (Regional),,1390,62,21,0,185,1630,135,7,20,,63,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,More Down Under Faves,Spicy Jammin' Meatloaf,,1010,79,38,0,255,3140,39,1,15,,42,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,Add Bacon,,770,48,23,2,155,1510,47,2,12,,36,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,Bloomin' Fried Chicken Sandwich,,670,33,14,1,110,1300,61,5,11,,33,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,Bloomin' Grilled Chicken Sandwich,,720,38,12,0,140,960,47,2,12,,47,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,Prime Rib Sandwich,,1240,91,41,1,190,2750,52,5,9,,40,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,Sweet Chook O' Mine Sandwich (Regional),,870,47,14,0,155,1460,63,2,27,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,The Bloomin' Burger,,850,48,14,1,110,1570,66,6,13,,40,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sammies & Burgers,The Outbacker Burger with American Cheese,,1110,78,32,3,175,2080,62,4,13,,39,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Butter Cake,,940,53,32,2,200,500,110,1,76,,9,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Cheesecake with Chocolate Sauce,,1090,74,45,3,340,730,88,3,71,,17,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Cheesecake with Raspberry Sauce,,1040,64,38,3,315,690,98,2,83,,16,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Chocolate Thunder from Down Under,,800,53,29,0,185,210,79,4,68,,9,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Chocolate Tower (Regional),,1650,84,40,1,195,1350,233,13,170,,25,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Salted Caramel Cookie Skillet,,910,40,28,0,100,1440,129,1,82,,10,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Tim Tam Brownie Cake,,1500,85,49,0,275,790,174,6,130,,18,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Sweet Finish,Triple Layer Carrot Cake,,1070,61,23,1,125,640,131,2,99,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,5 oz Alice Springs Chicken,,640,47,13,0.5,170,1000,12,0,10,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,6 Gold Coast Coconut Shrimp,,680,50,27,0,190,400,38,1,24,,19,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,6 Grilled Shrimp on the Barbie,,730,56,15,0,210,1140,29,3,6,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,Grilled Chicken on the Barbie 5 oz,,360,18,4,0,125,590,12,0,9,,38,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,Lunch Bloomin' Fried Chicken,,480,35,9,0.5,85,1080,16,3,1,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,Lunch Outback Center-Cut Sirloin 6 oz,,340,21,6,0,80,1280,3,2,0,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,What's For Lunch?,Spicy Jammin' Meatloaf Lunch Size,,550,45,23,0,140,1040,18,0,7,,21,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Add Chocolate Sauce 1 Oz,,150,11,7,0,25,35,15,<1,13,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Boomerang Cheeseburger,,590,36,17,1.5,115,920,40,1,6,,26,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Fresh Fruit,,25,0,0,0,0,0,6,1,4,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,"Grilled Cheese- A, Roo",,540,32,19,0,85,1140,47,0,7,,13,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Joey Sirloin,,290,15,4,0,100,310,0,0,0,,38,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Kid Apple Juice,,90,0,0,0,0,25,23,0,22,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Kid Ice Cream 1 Scoop,,120,6,4,0,25,35,13,0,10,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Kid Orange Juice,,90,0,0,0,0,0,21,0,21,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Kids Fries,,500,23,10,1,20,1550,67,7,0,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,"Kid Sundae, No Topping",,120,6,4,0,25,35,14,0,11,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,Mac-A-Roo 'N Cheese,,550,19,12,1,65,1040,73,4,12,,21,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Joey Menu,OBS Kids Chicken Tenders,,480,25,10,1,85,1040,33,2,3,,29,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,8 Gold Coast Coconut Shrimp,,730,49,27,0,235,540,44,1,26,,26,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,8 Grilled Shrimp on the Barbie,,630,42,10,0,255,1120,29,3,6,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Add On 3 Chicken Tenders,,480,25,10,1,85,1040,33,2,3,,29,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Add on 6 Grilled Shrimp,,80,0,0,0,155,540,1,0,0,,20,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Add On Grilled Chicken 5 oz,,330,18,4,0,105,340,0,0,0,,39,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Alice Springs Chicken,,530,33,11,0,170,940,11,2,10,,48,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Alice Springs Chicken, Serves 5",,3360,246,67,2.5,855,5200,66,5,59,,239,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Alice Springs Chicken, Serves 10",,6720,492,135,5,1710,10390,132,11,118,,478,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Aussie Fries, Serves 5",,2990,114,49,6,90,14300,448,43,93,,40,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Aussie Fries, Serves 10",,5970,229,99,11,185,28600,896,87,186,,81,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Baked Potato Bar, Serves 5",,3000,185,95,3.5,430,13900,262,19,18,,90,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Blue Cheese Vinaigrette Catering, Serves 5",,610,65,13,0.5,70,670,4,0,2,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Blue Cheese Vinaigrette Catering, Serves 10",,1220,129,27,1,140,1350,7,0,5,,11,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Build Your Own Burger, Serves 5",,4200,265,102,10,700,9630,264,12,82,,183,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Butter Cake, Serves 5",,3760,193,114,9,790,2450,481,0,324,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Butter Cake, Serves 10",,7530,385,228,18,1575,4900,963,0,648,,70,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Caesar Dressing Catering, Serves 5",,890,92,17,0.5,180,1880,7,2,1,,14,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Caesar Dressing Catering, Serves 10",,1790,183,34,1.5,365,3750,15,4,2,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Caesar Entree Salad No Protein with Dressing,,260,20,4,0,35,560,14,3,2,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Caesar Salad with Dressing, Serves 5",,1220,107,21,1,195,2610,45,9,7,,26,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Caesar Salad with Dressing, Serves 10",,2440,215,42,1.5,390,5210,89,17,15,,52,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Catering, Outback Center, Cut Sirloin 6 oz",,340,21,6,0,80,1280,3,2,0,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Chicken Tenders 4 each,,850,52,17,1.5,125,1710,57,3,15,,39,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Coconut Shriimp, Serves 10",,5210,197,126,0,2335,6860,538,9,331,,299,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Coconut Shrimp, Serves 5",,2610,99,63,0,1165,3430,269,4,166,,149,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Creamy Blue Cheese, Serves 5",,870,94,18,6,70,1230,3,1,2,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Creamy Blue Cheese, Serves 10",,1750,187,37,12,145,2460,6,1,3,,11,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Crispy Chicken Tenders, Serves 5",,4030,242,80,8,615,8240,271,16,64,,197,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Crispy Chicken Tenders, Serves 10",,8060,483,160,15,1225,16480,542,32,129,,394,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Dessert Platter, Serves 5",,2860,153,88,4,585,2470,355,6,242,,30,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Dessert Platter, Serves 10",,5720,306,176,8,1175,4940,710,11,484,,61,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Filet 6 oz, Serves 5",,2410,155,47,4.5,730,6250,9,3,2,,235,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Filet 6 oz, Serves 10",,4820,310,94,9,1465,12500,18,5,4,,470,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Fresh Brewed Iced Tea Sweet, Gallon",,820,0,0,0,0,115,213,0,201,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Fresh Brewed Iced Tea Unsweetened, Gallon",,0,0,0,0,0,480,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Grilled Chicken on the Barbie, Serves 5",,2040,96,20,1,535,3830,88,3,69,,199,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Grilled Chicken on the Barbie, Serves 10",,2680,52,13,0,1035,5820,148,5,116,,383,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Grilled Chicken Sandwich,,820,46,17,0.5,145,1460,47,2,12,,52,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Grilled Chicken Sandwich Bar, Serves 5",,4830,301,81,3,790,8580,264,12,85,,261,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Grilled Salmon 8 oz with Remoulade,,550,39,8,0,135,430,1,0,0,,45,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Grilled Shrimp on the Barbie, Serves 5",,3230,220,51,2.5,1260,5550,147,14,28,,174,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Grilled Shrimp on the Barbie, Serves 10",,6470,440,101,5,2520,11090,294,28,56,,347,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Half Rack Ribs, Serves 5",,3980,233,82,2,860,7880,219,7,174,,243,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Half Rack Ribs, Serves 10",,7960,466,163,4,1720,15770,437,13,348,,485,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Homestyle Mashed Potatoes, Serves 5",,910,43,16,0,55,2150,113,11,5,,16,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Homestyle Mashed Potatoes, Serves 10",,1370,64,24,0,80,3220,169,16,8,,24,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Honey Mustard Dressing Catering, Serves 5",,860,75,11,0,35,1320,50,1,48,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Honey Mustard Dressing Catering, Serves 10",,1720,149,22,0,75,2640,99,1,95,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,House Entree Salad (No Dressing),,170,10,4,0,20,330,15,2,4,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"House Salad with No Dressing, Serves 5",,460,25,9,0.5,40,890,45,5,12,,19,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"House Salad with No Dressing, Serves 10",,910,50,18,1.5,80,1780,90,11,23,,38,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Individual Grilled Chicken,,440,21,5,0,110,890,22,1,17,,40,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Aussie Fries",,500,23,10,1,20,1940,67,7,0,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Blue Cheese Vinaigrette for Side Salads",,150,16,3.5,0,20,170,1,0,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Broccoli",,140,11,6,0,0,230,7,3,2,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Butter Cake",,430,22,13,1,90,280,55,0,37,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Caesar Dressing for Side Salad",,220,23,4.5,0,45,470,2,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Creamy Blue Cheese for Side Salads",,220,23,4.5,1.5,20,310,1,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Green Beans",,140,11,6,0,0,350,10,4,4,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Homestyle Mashed Potatoes",,230,11,4,0,15,540,28,3,1,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Honey Mustard for Side Salads",,220,19,2.5,0,10,330,12,0,12,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Light Balsamic Vinaigrette for Side Salads",,70,4.5,0.5,0,0,300,7,0,7,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Loaded Baked Potato",,340,14,8,0,35,160,47,3,3,,9,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Loaded Sweet Potato",,250,7,3.5,0,0,115,45,6,20,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Mustard Vinaigrette for Side Salads",,230,24,3.5,0,0,120,4,0,4,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Ranch Dressing for Side Salad",,200,21,3.5,0,10,290,1,0,1,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Seasoned Rice",,320,6,3,0,15,1390,57,2,4,,7,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Tangy Tomato Dressing for Side Salads",,60,0,0,0,0,230,14,0,13,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, The Outbacker Burger with American Cheese",,770,48,23,2,155,1510,47,2,12,,36,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Thousand Island for Side Salads",,200,20,3,0,25,360,6,0,60,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Individual Meals, Victoria's Filet Mignon 6 oz",,480,31,9,1,145,1250,2,1,0,,47,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Kookaburra Wings, Serves 5",,4160,300,95,7,630,14120,205,13,3,,155,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Kookaburra Wings, Serves 10",,8340,600,190,14,1265,28150,405,27,13,,317,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Lemonade Gallon,,1600,0,0,0,0,0,416,0,400,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Light Balsamic Vinaigrette Catering, Serves 5",,290,18,2.5,0,0,1220,28,1,26,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Light Balsamic Vinaigrette Catering, Serves 10",,570,36,5,0.5,0,2440,57,2,53,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Loaded Mashed Potato, Serves 5",,1260,72,31,1,150,2900,116,11,8,,36,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Loaded Mashed Potato, Serves 10",,2510,144,61,1.5,300,5800,232,22,15,,72,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Mustard Vinaigrette Catering Serve 5,,930,95,14,1,0,470,18,1,15,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Mustard Vinaigrette Catering Serve 10,,1870,189,27,2.5,0,950,36,1,31,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Outback Center Cut Sirloin 5 oz,,320,19,10,0,135,330,0,0,0,,38,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Perfectly Grilled Salmon, Serves 5",,2360,196,35,0,420,2110,10,3,3,,135,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Perfectly Grilled Salmon, Serves 10",,4720,391,69,1,840,4220,20,6,6,,271,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Ranch Dressing Catering, Serves 5",,790,84,13,0,45,1150,4,0,4,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Ranch Dressing Catering, Serves 10",,1570,169,27,0,95,2290,9,0,7,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Salted Caramel Cookie,,380,17,12,0,40,660,54,0,33,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Salted Caramel Cookie, Serves 5",,1910,86,62,0,195,3310,268,2,163,,19,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Salted Caramel Cookie, Serves 10",,3810,173,124,0,390,6620,536,5,326,,39,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Seasoned Rice, Serves 5",,1270,25,13,0,50,5560,228,6,18,,30,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Seasoned Rice, Serves 10",,2540,49,25,0.5,105,11110,457,13,36,,59,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Sirloin 6 oz, Serves 5",,1700,105,31,1,395,6420,17,10,2,,174,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Sirloin 6 oz, Serves 10",,3390,211,63,2,790,12830,33,20,4,,349,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Steakhouse Mac & Cheese, Serves 5",,2870,149,72,4.5,305,4060,296,13,29,,101,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Steakhouse Mac & Cheese, Serves 10",,5740,298,143,9,610,8110,591,25,58,,201,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Strawberry Lemonade Gallon,,1960,0,0,0,0,0,512,0,454,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Tangy Tomato Dressing Catering, Serves 5",,240,0,0,0,0,910,57,2,51,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Tangy Tomato Dressing Catering, Serves 10",,470,1,0,0,0,1820,115,4,101,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Thousand Island Dressing, Serves 5",,780,78,12,0,90,1440,24,0,24,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Thousand Island Dressing, Serves 10",,1560,156,24,0,180,2880,48,0,48,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Thunder Brownie,,290,21,9,0,95,85,27,2,23,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Thunder Brownie, Serves 5",,1460,103,44,0.5,485,420,134,10,115,,21,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Thunder Brownie, Serves 10",,2930,207,88,1,970,840,267,21,230,,43,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Walhalla Pasta, No Protein, Serves 5",,3660,171,70,0,260,4110,419,24,38,,94,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,"Walhalla Pasta, No Protein, Serves 10",,7360,351,145,0,505,8290,828,53,58,,196,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Whole Carrot Cake,,12850,732,276,12,1500,7680,1573,24,1189,,84,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Whole Cheesecake with Chocolate Sauce,,8430,575,345,25,2660,5750,673,21,545,,133,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Catering,Whole Cheesecake with Melba Sauce,,7980,512,304,24,2520,5520,699,17,559,,128,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Add 4 oz Center Cut Sirloin,,280,14,7,0,120,300,0,0,0,,39,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Albacore Tuna Salad Sandwich (Regional),,1400,79,23,2,140,3960,114,10,7,,56,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Alice Springs Omelet,,720,42,18,0.5,535,1610,37,3,5,,52,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Aussie Breakfast Wrap,,800,42,17,1,450,2110,76,4,4,,31,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Bacon Cheeseburger (Regional),,870,56,28,2.5,145,1680,42,2,11,,49,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Blue Cheese Bacon Burger (Regional),,1410,87,36,3.5,155,3280,105,9,8,,51,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Classic Cheeseburger (Regional),,660,39,20,2.5,105,790,41,2,10,,37,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Egg, Bacon & Cheese Omelet (American Cheese)",,570,36,18,0,490,1800,35,2,3,,28,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Egg, Bacon & Cheese Omelet (Mixed Cheese)",,540,34,17,0,475,1370,32,2,1,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Egg, Bacon & Cheese Omelet (Swiss Cheese)",,620,39,21,0.5,490,1290,32,3,1,,33,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Egg, Bacon & Cheese Sandwich",,640,23,10,0,250,1820,84,6,12,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Egg, Bacon & Cheese Wrap",,780,41,18,0,480,2550,67,3,33,,36,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,French Toast 2 slices,,840,39,19,0,295,1000,95,0,54,,22,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,French Toast 3 slices,,1020,43,20,0,410,1270,122,0,61,,29,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Honey-Lime Chicken Wrap (Regional),,640,21,5,0,75,1080,69,3,11,,34,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Mushroom Swiss Burger (Regional),,950,67,32,3,160,1210,40,3,8,,52,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Outback Breakfast,,570,16,4.5,0,380,1190,78,2,7,,27,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Side Item, 1 Egg",,70,5,1.5,0,185,260,0,0,0,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Side Item, Bacon",,90,7,2.5,0,15,360,0,0,0,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Side Item, Breakfast Potatoes",,140,1,0,0,0,420,30,2,0,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Side Item, Fresh Fruit",,50,0,0,0,0,0,13,3,9,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,"Side Item, White Toast",,380,17,9,0,25,470,46,0,6,,8,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Spinach and Mushroom Omelet,,870,71,41,0,560,1200,33,5,1,,25,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Steakhouse Salad Wrap (Regional),,910,45,16,1,110,2060,66,3,8,,55,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Airport,Yogurt Parfait,,390,10,3.5,0,10,100,59,6,35,,21,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Aussie Fries",,670,30,13,1.5,25,2610,90,10,<1,,10,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Bloom' Petals",,1200,98,35,4.5,80,2270,69,7,7,,10,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Bloomin' Burger",,1090,79,35,3.5,155,1820,51,3,8,,44,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Chicken Tenders with Fries and Honey Mustard Sauce",,1320,84,21,3.5,80,2920,107,10,15,,34,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Sauce: Bloom Sauce, 2 oz",,310,33,5,0,20,550,3,<1,2,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Sauce: Honey Mustard, 2 oz",,300,27,4.5,0,20,390,15,0,14,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Outback Steakhouse at Amalie Arena,"Amalie Arena, Steak and Mushroom Bowl",,570,32,13,0,100,1560,32,2,5,,35,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,Aussie Palmer,,60,0,0,0,0,5,17,0,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Coke-a-Cola, with Ice",,170,0,0,0,0,0,47,0,47,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Coke Zero, with Ice",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Diet Coke, with Ice",,0,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Dr Pepper, with Ice",,100,0,0,0,0,25,28,0,28,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,Fresh Strawberry Lemonade,,130,0,0,0,0,5,33,2,30,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,Gold Peak Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Gold Peak Tea, Sweet, with Ice",,70,0,0,0,0,10,17,0,17,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Gold Peak Tea, Unsweet, with Ice",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Hi-C, with Ice",,110,0,0,0,0,45,30,0,30,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,Kiwi Strawberry Lemonade,,200,0,0,0,0,5,50,2,46,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Minute Maid Country Style Lemonade, with Ice",,140,0,0,0,0,10,35,0,34,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Soft Drinks & Spirit Free Beverages,"Sprite, with Ice",,110,0,0,0,0,25,29,0,29,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Waters,Bottled Water,,0,0,0,0,0,75,0,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Waters,"Water, San Pellegrino",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Angry Orchard Crisp Apple Hard Cider, Bottle, 12 oz",,200,0,0,0,0,10,29,0,23,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bloomin' Blonde, Big Bloke",,250,0,0,0,0,50,21,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bloomin' Blonde, Middy",,190,0,0,0,0,35,16,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bloomin' Blonde Ale, Big Bloke",,250,0,0,0,0,50,21,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bloomin' Blonde Ale, Middy",,190,0,0,0,0,35,16,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Blue Moon Belgian White, Bottle, 12 oz",,170,0,0,0,0,15,14,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bud Light, Big Bloke",,170,0,0,0,0,15,10,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bud Light, Bottle, 12 oz",,110,0,0,0,0,10,6,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Bud Light, Middy",,130,0,0,0,0,10,8,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Budweiser, Bottle, 12 oz",,140,0,0,0,0,10,10,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Coors Light, Bottle, 12 oz",,100,0,0,0,0,10,5,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Corona Extra, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Dos Equis Lager XX, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Foster's 25.4 oz, Oil Can",,290,0,0,0,0,25,24,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Foster's Lager, Big Bloke",,270,0,0,0,0,25,22,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Foster's Lager, Middy",,210,0,0,0,0,20,17,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Heineken, Bottle, 12 oz",,140,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,Heineken 0.0,,130,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Heineken Light, Bottle, 12 oz",,100,0,0,0,0,10,4,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Kentucky Bourbon Barrel, Bottle, 10 oz",,160,0,0,0,0,10,<1,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Kentucky Bourbon Barrel, Bottle, 11 oz",,180,0,0,0,0,10,<1,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Kona Island Lager, Big Bloke",,230,0,0,0,0,20,19,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Kona Island Lager, Bottle, 12 oz",,140,0,0,0,0,20,11,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Kona Island Lager, Middy",,180,0,0,0,0,15,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Lagunitas IPA, Bottle, 12 oz",,190,0,0,0,0,15,14,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Lindemans Framboise Lambic, Bottle, 12 oz",,230,0,0,0,0,15,34,0,33,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Magic Hat #9, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Michelob ULTRA, Bottle, 12 oz",,90,0,0,0,0,10,3,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Michelob ULTRA Pure Gold, Bottle",,90,0,0,0,0,10,3,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Miller Genuine Draft, Bottle, 12 oz",,140,0,0,0,0,5,13,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Miller Light, Bottle, 12 oz",,100,0,0,0,0,5,3,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Modelo Especial, Big Bloke",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Modelo Especial, Bottle, 12 oz",,180,0,0,0,0,15,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Modelo Especial, Middy",,230,0,0,0,0,20,19,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"New Belgium Fat Tire Amber Ale, Big Bloke",,230,0,0,0,0,20,19,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"New Belgium Fat Tire Amber Ale, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"New Belgium Fat Tire Amber Ale, Middy",,180,0,0,0,0,15,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Newcastle Brown Ale, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"O'Doul's, Bottle, 12 oz",,70,0,0,0,0,0,13,0,0,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"O'Doul's Amber, Bottle, 12 oz",,90,0,0,0,0,0,18,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Omission Lager, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Omission Pale Ale, Bottle, 12 oz",,170,0,0,0,0,20,13,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Rebel IPA, Can, 16 oz",,260,0,0,0,0,25,20,0,<1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Redbridge (Gluten-free), Bottle, 12 oz",,130,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Rogue Chocolate Stout, Bottle, 22 oz",,360,0,0,0,0,25,2,0,0,,6,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Rogue Hazelnut Brown Nectar, Big Bloke",,300,0,0,0,0,40,25,0,6,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Rogue Hazelnut Brown Nectar, Bottle, 12 oz",,190,0,0,0,0,25,16,0,4,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Rogue Hazelnut Brown Nectar, Middy",,230,0,0,0,0,30,19,0,5,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Sam Adams Nitro Coffee Stout, Bottle",,200,0,0,0,0,15,<1,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams 76, Can, 16 oz",,200,0,0,0,0,20,16,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Boston Lager, Big Bloke",,270,0,0,0,0,45,27,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Boston Lager, Bottle, 12 oz",,170,0,0,0,0,30,17,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Boston Lager, Middy",,210,0,0,0,0,35,21,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams New England IPA, Can, 16 oz",,260,0,0,0,0,25,20,0,<1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Nitro Coffee Stout, Can, 16 oz",,260,0,0,0,0,20,1,0,0,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Rebel IPA, Bottle, 12 oz",,200,0,0,0,0,15,15,0,<1,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Cold Snap), Big Bloke",,260,0,0,0,0,50,22,0,<1,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Cold Snap), Bottle, 12 oz",,170,0,0,0,0,30,14,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Cold Snap), Middy",,200,0,0,0,0,35,16,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Octoberfest), Big Bloke",,300,0,0,0,0,80,29,0,1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Octoberfest), Bottle, 12 oz",,230,0,0,0,0,60,22,0,<1,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Octoberfest), Middy",,190,0,0,0,0,50,19,0,<1,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Summer Ale), Big Bloke",,260,0,0,0,0,70,22,0,<1,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Summer Ale), Bottle, 12 oz",,170,0,0,0,0,45,14,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Summer Ale), Middy",,200,0,0,0,0,55,16,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Winter Lager), Big Bloke",,310,0,0,0,0,60,29,0,1,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Winter Lager), Bottle, 12 oz",,190,0,0,0,0,35,19,0,<1,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Samuel Adams Seasonal (Winter Lager), Middy",,230,0,0,0,0,45,22,0,1,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Shock Top Belgian White, Big Bloke",,260,0,0,0,0,0,23,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Shock Top Belgian White, Bottle, 12 oz",,170,0,0,0,0,0,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Shock Top Belgian White, Middy",,200,0,0,0,0,0,18,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Sierra Nevada Pale Ale, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Stella Artois, Big Bloke",,210,0,0,0,0,0,17,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Stella Artois, Bottle, 12 oz",,150,0,0,0,0,0,13,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Stella Artois, Middy Chalice, 15 oz",,160,0,0,0,0,0,13,0,0,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Summit EPA, Big Bloke",,230,0,0,0,0,20,19,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Summit EPA, Middy",,180,0,0,0,0,15,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Summit Saga IPA, Big Bloke",,310,0,0,0,0,20,1,0,0,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Summit Saga IPA, Middy",,240,0,0,0,0,15,1,0,0,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Surley Furious IRA, Big Bloke",,310,0,0,0,0,20,1,0,0,,5,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Surley Furious IRA, Middy",,240,0,0,0,0,15,1,0,0,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Sweetwater Pale Ale, Big Bloke",,230,0,0,0,0,20,19,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Sweetwater Pale Ale, Middy",,180,0,0,0,0,15,15,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Westmalle Trappist Triple, Bottle, 11.2 oz",,180,0,0,0,0,15,<1,0,0,,3,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,White Claw,,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Beer,"Yuengling, Bottle, 12 oz",,150,0,0,0,0,15,12,0,0,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Red Wine, 5 oz (Regional)",,130,0,0,0,0,5,4,0,<1,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Red Wine, 6 oz",,150,0,0,0,0,5,5,0,1,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Red Wine, 9 oz",,230,0,0,0,0,10,7,0,2,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Red Wine, Bottle",,640,0,0,0,0,25,20,0,5,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Rose Wine, 5 oz (Regional)",,130,0,0,0,0,5,4,0,1,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Sparkling Wine, 6 oz",,150,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"Sparkling Wine, Bottle",,600,0,0,0,0,0,20,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"White Wine, 5 oz (Regional)",,130,0,0,0,0,5,4,0,1,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"White Wine, 6 oz",,150,0,0,0,0,5,5,0,2,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"White Wine, 9 oz",,230,0,0,0,0,10,7,0,3,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Wine,"White Wine, Bottle",,650,0,0,0,0,25,19,0,7,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Black Cherry Peach Mojito,,210,0,0,0,0,25,27,<1,24,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Blood Orange 'Rita,,240,0,0,0,0,1180,26,1,22,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Boomarita 9 oz,,360,0,0,0,0,70,54,1,49,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Classic Lime 'Rita,,210,0,0,0,0,5,22,1,17,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Classic Mojito with Bacardi Superior Light Rum,,200,0,0,0,0,0,15,0,14,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Classic Mojito with Sailor Jerry Spiced Rum,,210,0,0,0,0,10,15,0,14,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Corona 'Rita,,210,0,0,0,0,2230,22,0,12,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"Down Under 'Rita, Frozen",,300,0,0,0,0,2230,40,0,36,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"Down Under 'Rita, Rocks/ Straight-Up",,230,0,0,0,0,2230,19,0,17,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Down Under Sauza Agave Margarita,,290,0,0,0,0,2230,32,0,29,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"Down Under Sauza Gold Coast 'Rita, Rocks",,130,0,0,0,0,290,9,0,7,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Hawaiian Style 'Rita,,220,0,0,0,0,10,10,0,7,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Lemon Mojito (Regional),,160,0,0,0,0,10,24,1,20,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mango Mojito (Regional),,190,0,0,0,0,0,31,1,26,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mango Passion Fruit 'Rita,,260,0,0,0,0,25,43,1,38,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Margarita Swirl (Regional),,140,0,0,0,0,2230,28,<1,24,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Limon with Blackberry,,220,0,0,0,0,0,24,2,20,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Limon with Classic Lime,,210,0,0,0,0,0,21,1,18,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Limon with Pineapple,,240,0,0,0,0,0,30,2,24,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Limon with Strawberry,,130,0,0,0,0,0,17,<1,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Superior Light Rum with Blackberry,,220,0,0,0,0,0,21,2,17,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Superior Light Rum with Classic Lime,,210,0,0,0,0,0,19,1,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Superior Light Rum with Pineapple,,240,0,0,0,0,0,27,2,22,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Bacardi Superior Light Rum with Strawberry,,220,0,0,0,0,0,21,2,16,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Sailor Jerry Spiced Rum with Blackberry,,230,0,0,0,0,10,21,2,17,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Sailor Jerry Spiced Rum with Classic Lime,,220,0,0,0,0,10,19,1,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Sailor Jerry Spiced Rum with Pineapple,,250,0,0,0,0,15,27,2,22,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Mojito Sailor Jerry Spiced Rum with Strawberry,,220,0,0,0,0,10,21,2,16,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Naturally Skinny 'Rita,,150,0,0,0,0,2220,20,1,17,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"No Rules 'Rita, Rocks",,230,0,0,0,0,2230,27,0,21,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Rita Trio,,290,0,0,0,0,2230,40,<1,35,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Sauza Agave Margarita,,180,0,0,0,0,2220,29,0,25,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"Sauza Gold Coast Rita, Rocks",,130,0,0,0,0,2220,9,0,7,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Strawberry Ginger Smash,,170,0,0,0,0,0,23,<1,20,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,Strawberry Kiwi Rita,,250,0,0,0,0,0,30,<1,28,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Gold Coast 'Rita, Frozen",,540,0,0,0,0,3370,109,0,97,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Gold Coast 'Rita, Frozen (Classic Lime) (Regional)",,360,0,0,0,0,2230,71,0,64,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Gold Coast 'Rita, Frozen (Strawberry)",,350,0,0,0,0,2230,72,0,64,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Gold Coast 'Rita, Rocks",,190,0,0,0,0,2230,24,0,21,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Gold Coast 'Rita, Rocks (Strawberry)",,250,0,0,0,0,2230,43,0,38,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"The Grand 'Rita, Rocks",,230,0,0,0,0,2230,28,0,21,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"Top Shelf 'Rita, Straight Up/ Rocks",,230,0,0,0,0,2230,25,<1,19,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Margaritas & Mojitos,"TOP SHELF HERRADURA RITA, OBS",,230,0,0,0,0,2230,25,<1,19,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Absolut Mango Crush,,130,0,0,0,0,0,22,<1,21,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Aussie Fresh Fruit Cooler, Individual",,280,0,0,0,0,0,35,2,31,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Aussie Rum Punch,,190,0,0,0,0,30,33,<1,30,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Bailey's on the Rocks (Regional),,190,0,4.5,0,0,0,14,0,12,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Black Barrel Irish Tea,,180,0,0,0,0,0,27,2,22,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Blackberry Bramble (Regional),,160,0,0,0,0,0,17,3,11,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Blackberry Sangria, Individual",,220,0,0,0,0,5,28,1,24,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Black Cherry Mule (Regional),,200,0,0,0,0,25,5,0,22,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Blueberry Desert Pear Burst (Regional),,200,0,0,0,0,25,0,0,21,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Blueberry Lavender Lemonade,,220,0,0,0,0,10,37,0,35,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Boozy Cherry Limeade Cocktail, OBS",,110,0,0,0,0,30,27,0,25,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Boozy Root Beer Float,,550,15,9,0,55,75,29,0,23,,4,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Captain's Mai Tai,,220,0,0,0,0,45,30,0,25,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Captain's Mai Tai with extra shot of Rum,,260,0,0,0,0,45,30,0,25,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Castaway Cocktail,,210,0,0,0,0,5,35,1,30,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Classic Moscow Mule (Regional),,100,0,0,0,0,0,6,0,5,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Classic Red Sangria (Regional),,210,0,0,0,0,0,29,3,23,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Classic Steakhouse Martini (Absolut), Rocks/ Straight-Up",,170,3,0,0,0,540,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Classic Steakhouse Martini (Grey Goose), Rocks/ Straight-Up",,170,3,0,0,0,540,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Classic Steakhouse Martini (Kettle One), Rocks/ Straight-Up",,170,3,0,0,0,540,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Classic Steakhouse Martini (Stoli), Rocks/ Straight-Up",,170,3,0,0,0,540,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Classic Steakhouse Martini (Tito's), Rocks/ Straight-Up",,170,3,0,0,0,540,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Cucumber Crush,,210,0,0,0,0,0,25,0,24,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Cucumber Infused Lemonade (Regional),,160,0,0,0,0,0,17,0,16,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Disaronno Amaretto on the Rocks (Regional),,170,0,0,0,0,15,19,0,19,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Dorothy's Ruby Red Cosmo (Regional),,210,0,0,0,0,10,30,0,25,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Down Under Mule,,110,0,0,0,0,0,7,<1,5,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Espresso Infused Vodka and White Chocolate Martini (Regional),,100,0,0,0,0,0,10,0,10,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Espresso Martini,,190,0,0,0,0,5,17,1,16,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Espresso Martini (Regional),,170,0,0,0,0,10,20,0,17,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Fair Dinkum Daiquiri,,170,0,0,0,0,0,24,0,21,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Fully Loaded Bloody Mary (Absolut),,150,3,0,0,0,2130,9,1,3,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Fully Loaded Bloody Mary (Tito's),,150,3,0,0,0,2130,9,1,3,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Grand Marnier Straight Up (Regional),,160,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Grapefruit Sage Martini (Regional),,220,1.5,1,0,0,0,24,5,14,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Great Barrier Punch,,180,0,0,0,0,0,21,<1,20,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,House-Made Margarita (Regional),,370,0,0,0,0,580,62,0,56,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,House-Made Margarita Top Shelf (Patron and Grand Marnier Float) (Regional),,410,0,0,0,0,580,66,0,56,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Huckleberry Hooch Moonshine Cocktail, Individual",,150,0,0,0,0,10,33,<1,131,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Hypnotic Breeze Martini,,200,6,3.5,0,20,55,22,0,19,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Incredible Hulk,,160,4.5,2.5,0,15,25,6,0,6,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Jack Dundee Tea,,380,0,0,0,0,5,59,0,54,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Jameson and Ginger,,130,0,0,0,0,0,12,0,12,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Kahlua and Coffee (Regional),,140,0,0,0,0,5,22,0,22,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Key Lime Pie Martini,,320,4.5,2.5,0,10,35,50,0,46,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Lava Flow,,740,20,19,0,0,180,131,0,124,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Lime in the Coconut (Regional),,280,4,4,0,0,35,43,3,33,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Lolly Sour Apple Martini,,360,0,0,0,0,0,56,0,51,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Lychee Martini,,180,12,6,0,0,5,24,0,13,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Mai Tai,,230,0,0,0,0,0,25,2,20,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Mango & Habanero Infused Margarita (Regional),,160,0,0,0,0,200,11,<1,9,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Maple Bourbon Sour (Regional),,300,2.5,1,0,<5,135,30,<1,28,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"New South Wales Sangria, Individual",,250,0,0,0,0,0,41,2,36,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Old & New Fashioned, Jack Daniel's Tennessee Honey Whiskey",,200,0,0,0,0,80,23,1,18,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Old & New Fashioned, Maker's Mark",,260,0,0,0,0,85,23,1,18,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Orange Bliss Martini,,180,0,0,0,0,0,18,<1,16,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Outback Manhattan,,180,0,0,0,0,0,4,<1,2,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Passionate Punch,,210,0,0,0,0,15,30,<1,24,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Passion Fruit Daiquiri (Regional),,160,0,0,0,0,15,25,0,23,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pina Colada (Bacardi Rock Coconut Rum),,490,12,11,0,0,105,78,0,73,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pina Colada (Malibu Coconut Rum),,480,12,11,0,0,105,81,0,76,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pina Colada (with extra shot of Sailor Jerry Rum),,500,12,11,0,0,105,80,0,76,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pina Colada with extra shot of Sailor Jerry Rum (Bacardi Rock Coconut Rum),,530,12,11,0,0,110,78,0,73,,2,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pina Koala,,230,1.5,1.5,0,0,20,25,0,23,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pineapple Ginger Collision,,170,0,0,0,0,15,18,2,12,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Pineapple Passion Fruit Fizz, Individual",,180,0,0,0,0,0,21,2,19,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Pineapple Vanilla Rum Cocktail (Regional),,130,0,0,0,0,10,18,<1,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Raspberry Lemon Drop (Regional),,230,0,0,0,0,25,0,0,25,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Root Beer Old Fashioned (Regional),,210,0,0,0,0,15,5,0,13,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Ruby Mango Lemonade Cocktail,,210,0,0,0,0,0,38,0,32,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Sassafras ""Rootbeer"" Old Fashioned (Regional)",,270,0,0,0,0,10,27,<1,26,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Shark Bite (Regional),,210,0,0,0,0,25,30,0,27,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Smoked Watermelon Paloma (Regional),,170,0,0,0,0,390,29,0,11,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Spicy Mango Rita,,450,0,0,0,0,25,89,0,80,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Spiked Red Bull with Absolut Mandrin,,150,0,0,0,0,100,16,<1,15,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Spiked Red Bull with Absolut Mandrin, with Sugar Free Red Bull",,100,0,0,0,0,100,4,<1,2,,<1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Spiked Red Bull with Finlandia Raspberry Vodka,,140,0,0,0,0,100,15,0,13,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Spiked Red Bull with Finlandia Raspberry Vodka, with Sugar Free Red Bull",,90,0,0,0,0,100,3,0,1,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Spiked Red Bull with Kettle One,,140,0,0,0,0,100,14,0,12,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Spiked Red Bull with Kettle One, with Sugar Free Red Bull",,90,0,0,0,0,100,2,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"Strawberry Peach Sangria, Individual",,270,0,0,0,0,20,41,<1,36,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Strawberry Rose Sangria,,90,0,0,0,0,5,19,<1,16,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Strawberry Smash-Tini,,240,0,0,0,0,0,32,<1,29,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Sydney's Cosmo,,260,0,0,0,0,5,30,<1,27,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Sydney's Cosmo with Skinnygirl Bare Naked Vodka,,240,0,0,0,0,5,30,<1,27,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,The Bee & The Barbie (Regional),,200,0,0,0,0,0,26,1,22,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"The Ultimate ""Dirty"" Martini",,190,6,0,0,0,1010,0,0,0,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,The Wallaby Darned,,220,0,0,0,0,5,49,<1,46,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"The Wallaby Darned, Aussie Style",,260,0,0,0,0,5,49,<1,46,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"The Wallaby Darned, Chambord Float",,250,0,0,0,0,5,53,<1,50,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,"The Wallaby Darned, Down Under Style",,230,0,0,0,0,5,49,<1,46,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Tiki Bandit,,240,0,0,0,0,10,35,<1,31,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Tito's Cucumber Lemonade,,160,0,0,0,0,0,17,0,15,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Top Shelf Long Island Iced Tea,,190,0,0,0,0,0,16,0,14,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Tropical Reef Martini,,390,0,0,0,0,0,62,0,57,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Tropical Relief Martini,,230,0,0,0,0,25,35,0,32,,0,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Watermelon Hunch Punch,,200,0,0,0,0,10,47,0,31,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27
+outback,Cocktails,Whiskey Apple,,300,0,0,0,0,25,58,0,54,,1,,,https://www.nutritionix.com/outback-steakhouse/menu/premium,2026-10-27

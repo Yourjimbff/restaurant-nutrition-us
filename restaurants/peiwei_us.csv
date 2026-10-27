@@ -1,0 +1,76 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+peiwei,Entrées,"Orange Chicken (per serving, 2 servings per portion)",,610,34,8,0,95,770,48,0,21,,24,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Firecracker Chicken (per serving, 2 servings per portion)",,620,34,8,0,95,1160,54,1,17,,25,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Honey-Seared Chicken (per serving, 2 servings per portion)",,640,38,9,0,95,630,48,0,19,,24,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Mongolian Steak (per serving, 2 servings per portion)",,470,34,6,0,80,1340,19,0,14,,20,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Spicy General Tso’s Chicken (per serving, 2 servings per portion)",,620,34,8,0,95,1330,51,2,21,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Kung Pao Chicken (per serving, 2 servings per portion)",,420,22,3.5,0,45,1440,35,2,17,,21,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Sesame Chicken (per serving, 2 servings per portion)",,640,37,9,0,95,850,55,2,25,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Spicy Korean BBQ Steak (per serving, 2 servings per portion)",,460,36,6,0,80,1180,17,1,10,,20,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Thai Coconut Curry Chicken (per serving, 2 servings per portion)",,310,21,11,0,15,900,24,4,12,,10,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Beef & Broccoli (per serving, 2 servings per portion)",,480,35,6,0,80,1360,21,2,14,,21,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Hot Honey Chicken (per serving, 2 servings per portion)",,600,35,8,0,95,630,44,0,19,,23,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Firecracker Shrimp (per serving, 2 servings per portion)",,340,14,1.5,0,52.5,1250,45,1.5,18.5,,8.5,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Teriyaki Chicken (per serving, 2 servings per portion)",,390,15,3,0,45,1500,45,1,23,,18,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Kung Pao Shrimp (per serving, 2 servings per portion)",,390,19,3,0,145,1190,34,2,21,,13.5,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Grilled Bourbon Chicken (per serving, 2 servings per portion)",,390,15,2.5,0,135,1930,32,0,28,,28,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Mongolian Chicken (per serving, 2 servings per portion)",,210,11,2,0,15,1170,18,0,14,,8,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Pei Wei Original Shrimp (per serving, 2 servings per portion)",,430,14,2.5,0,140,400,57,2,40,,17,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Firecracker Tofu (per serving, 2 servings per portion)",,330,12,1.5,0,0,880,48,0,17,,8,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Teriyaki Crispy Tofu (per serving, 2 servings per portion)",,340,12,1.5,0,0,1120,49,2,23,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Honey-Seared Crispy Tofu (per serving, 2 servings per portion)",,360,17,2,0,0,350,42,0.5,19,,7,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Chicken & Broccoli (per serving, 2 servings per portion)",,220,11,2,0,15,1190,21,2,15,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Spicy General Tso’s Crispy Tofu (per serving, 2 servings per portion)",,300,12,1.5,0,0,1050,46,2,19,,10,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Entrées,"Thai Coconut Crispy Tofu (per serving, 2 servings per portion)",,410,11,11,0,0,770,41,5,12,,11,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Rice + Noodle Bowls,"Spicy Drunken Chicken Noodles (per serving, 2 servings per portion)",,600,9,1.5,0,20,1540,109,2,15,,19,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Rice + Noodle Bowls,"Chicken Pad Thai (per serving, 2 servings per portion)",,720,18,3,0,120,1640,114,2,24,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Rice + Noodle Bowls,"Chicken Lo Mein (per serving, 2 servings per portion)",,430,13,2.5,0,15,1620,62,3,17,,16,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Rice + Noodle Bowls,"Dan Dan Chicken Noodles (per serving, 2 servings per portion)",,480,18,4,0,50,1620,62,3,17,,20,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Rice + Noodle Bowls,"Chicken Fried Rice (per serving, 2 servings per portion)",,470,12,3,0,120,1150,71,3,11,,17,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Soup + Salad,"Asian Chopped Chicken Salad (per serving, 2 servings per portion)",,420,26,4,0,40,880,28,2,16,,16,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Soup + Salad,Thai Wonton Soup (Bowl),,230,6,1,0,15,4070,17,0,15,,16,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Soup + Salad,Hot and Sour Soup,,410,21,4.5,0,240,4030,20,0,0,,36,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Wagyu Spring Rolls,,100,4,2,0,20,210,12,<1,3,,4,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Signature Chicken Lettuce Wraps,,670,36,6,0,110,4160,58,5,28,,28,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Chicken Egg Rolls (1 pc),,220,9,1,0,15,380,24,0,4,,10,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Pork Egg Rolls,,190,8,2,0,15,270,19,0,3,,6,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Chicken Dumplings,,30,1,0,0,5,80,4,0,0,,1,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Crab Wontons (1 pc),,100,6,2,0,10,125,9,0,0,,2,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Vegetable Spring Rolls (1 pc),,110,4.5,0.5,0,0,230,16,2,2,,3,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Appetizers,Edamame,,270,12,1.5,0,0,1180,20,12,5,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Asian Chopped Chicken Salad (per serving, 2 servings per portion)",,420,26,4,0,40,880,28,2,16,,16,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Mongolian Steak (per serving, 2 servings per portion)",,470,34,6,0,80,1340,19,0,14,,20,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Kung Pao Chicken (per serving, 2 servings per portion)",,420,22,3.5,0,45,1440,35,2,17,,21,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Thai Coconut Curry Chicken (per serving, 2 servings per portion)",,310,21,11,0,15,900,24,4,12,,10,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Beef & Broccoli (per serving, 2 servings per portion)",,480,35,6,0,80,1360,21,2,14,,21,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Kung Pao Shrimp (per serving, 2 servings per portion)",,390,19,3,0,145,1190,34,2,21,,13.5,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Grilled Bourbon Chicken (per serving, 2 servings per portion)",,390,15,2.5,0,135,1930,32,0,28,,28,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Mongolian Chicken (per serving, 2 servings per portion)",,210,11,2,0,15,1170,18,0,14,,8,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Pei Wei Original Shrimp (per serving, 2 servings per portion)",,430,14,2.5,0,140,400,57,2,40,,17,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Chicken & Broccoli (per serving, 2 servings per portion)",,220,11,2,0,15,1190,21,2,15,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Thai Coconut Crispy Tofu (per serving, 2 servings per portion)",,410,11,11,0,0,770,41,5,12,,11,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Chicken Pad Thai (per serving, 2 servings per portion)",,720,18,3,0,120,1640,114,2,24,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,"Chicken Fried Rice (per serving, 2 servings per portion)",,470,12,3,0,120,1150,71,3,11,,17,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Gluten-Free,Edamame,,270,12,1.5,0,0,1180,20,12,5,,27,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Firecracker Tofu (per serving, 2 servings per portion)",,330,12,1.5,0,0,880,48,0,17,,8,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Teriyaki Crispy Tofu (per serving, 2 servings per portion)",,340,12,1.5,0,0,1120,49,2,23,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Honey-Seared Crispy Tofu (per serving, 2 servings per portion)",,360,17,2,0,0,350,42,0.5,19,,7,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Spicy General Tso’s Crispy Tofu (per serving, 2 servings per portion)",,300,12,1.5,0,0,1050,46,2,19,,10,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Sesame Crispy Tofu (per serving, 2 servings per portion)",,330,14,2,0,0,570,47,2,25,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Tofu Entrées,"Thai Coconut Crispy Tofu (per serving, 2 servings per portion)",,410,11,11,0,0,770,41,5,12,,11,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Desserts,Thai Donuts (6 ct),,280,10,3,0,0,470,43,1,17,,9,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Desserts,Fudge Brownie,,310,17,9,0,60,115,36,3,25,,4,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Kids Menu,Kid’s Firecracker Chicken,,760,43,10,0,95,1590,69,1,25,,25,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Kids Menu,Kid’s Orange Chicken,,750,43,10,0,95,1000,61,0,32,,24,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Kids Menu,Kid’s Honey-Seared Chicken,,710,43,10,0,95,780,54,0,28,,23,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Kids Menu,Kid’s Teriyaki Chicken,,510,24,4,0,45,2040,54,0,31,,18,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Kids Menu,Kid’s Chicken Lo Mein,,490,20,3.5,0,15,1620,61,3,15,,16,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Beverages,Dasani Bottled Water,,0,0,0,0,0,0,0,0,0,,0,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Beverages,Mandarin Orange Tea,,0,0,0,0,0,0,0,0,0,,0,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Beverages,Honest Kid’s Apple Juice,,35,0,0,0,0,15,9,0,8,,0,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Grains,"Brown Rice - Regular (per serving, 2 servings per portion)",,190,1.5,0,0,0,0,40,3,0,,4,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Grains,"Fried Rice - Regular (per serving, 2 servings per portion)",,390,10,2,0,105,1180,64,3,12,,11,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Grains,"White Rice - Regular (per serving, 2 servings per portion)",,200,0,0,0,0,0,44,0,1,,4,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Greens,Lettuce Cups,,25,0,0,0,0,20,5,2,4,,2,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Greens,Mixes Salad Greens,,150,7,1,0,0,95,22,6,8,,5,,,https://www.peiwei.com/nutritional-information/,2026-10-27
+peiwei,Noodles,"Noodles - Regular (per serving, 2 servings per portion)",,230,4,1,0,0,430,42,2,1,,7,,,https://www.peiwei.com/nutritional-information/,2026-10-27

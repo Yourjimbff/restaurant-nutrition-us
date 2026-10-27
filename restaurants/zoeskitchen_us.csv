@@ -1,0 +1,127 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+zoeskitchen,Starters,Baked Feta with Cucumbers,,420,32,17,0,70,1280,15,2,3,,16,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Baked Feta with Pita Chips,,500,32,17,0,70,1430,31,2,2,,19,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Basil Pesto Hummus & Cucumbers,,410,32,4,0,<5,600,24,6,5,,11,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Basil Pesto Hummus & Pita,,680,39,5,0,<5,1110,69,8,7,,20,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Harissa Hummus & Cucumbers,,320,20,2.5,0,0,620,26,7,6,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Harissa Hummus & White Pita,,590,27,4,0,0,1130,72,9,7,,19,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Hummus & Cucumbers,,420,29,3.5,0,0,850,32,9,6,,12,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Hummus & Pita,,700,36,5,0,0,1360,78,10,8,,21,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,"Hummus, Half Pint",,510,36,4,0,0,1200,37,10,4,,14,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Hummus Trio,,610,33,4,0,0,1160,65,10,7,,18,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Starters,Mediterranean Lamb Meatballs,,350,25,11,0.5,85,960,8,4,22,,94,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Bowl of Chicken Orzo Soup,,130,3,0.5,0,25,1200,15,2,3,,12,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Bowl of Mediterranean Lentil Soup,,330,6,1,0,0,1150,52,9,5,,19,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Bowl of Tomato Bisque with Half Pita,,490,32,7,0,25,1570,40,6,18,,11,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Chicken Salad & Fruit Plate,,740,44,7,1,80,900,59,8,34,,31,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Cup of Chicken Orzo Soup,,70,1.5,0,0,15,640,8,1,1,,7,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Cup of Mediterranean Lentil Soup,,170,3.5,0,0,0,610,28,5,3,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Cup of Tomato Bisque with Pita Half,,320,19,4.5,0,15,930,29,4,11,,8,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Greek Salad with Chicken with Pasta Salad,,690,30,12,0.5,135,2140,50,8,7,,55,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Greek Salad with Chicken with Potato Salad,,700,36,11,0,125,2050,47,9,7,,51,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Greek Salad with Pasta Salad,,480,22,11,0.5,50,1560,49,8,7,,23,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Greek Salad with Potato Salad,,490,28,10,0,40,1470,46,8,7,,19,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Live Med Salad,,590,34,6,0,<5,1220,61,11,7,,19,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Quinoa Salad,,320,14,2.5,0,<5,850,42,8,7,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Soups & Salads,Tossed Greek Salad,,780,33,12,0.5,160,2540,58,8,10,,64,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Chicken Rollups,,560,20,6,0,95,1480,50,3,4,,40,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Chicken Salad Sandwich,,700,45,7,1,80,990,42,8,8,,35,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Greek Chicken Pita,,460,17,4.5,0,80,1190,44,4,8,,36,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Gruben,,570,26,10,0,105,2070,42,6,7,,43,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Half Chicken Salad Sandwich,,350,23,3.5,0,40,500,21,4,4,,18,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Harissa Salmon Pita,,450,19,5,0,65,1020,42,4,7,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Rosemary Ham & Mozzarella Piadina,,680,43,12,0.5,100,1440,41,3,3,,32,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Rustic Lamb Pita,,590,38,10,0.5,60,1260,42,4,6,,24,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Spinach and Mushroom Piadina,,620,41,12,0.5,55,1200,43,4,5,,22,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Steak Stack,,540,28,13,0,90,1310,42,4,8,,32,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sandwiches & Rollups,Turkey Stack,,450,17,9,0,90,1610,36,3,6,,37,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Falafel Pita,,460,17,4.5,0,10,1150,63,10,11,,17,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Greek Chicken Pita,,460,17,4.5,0,80,1190,44,4,8,,36,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Harissa Salmon Pita,,450,19,5,0,65,1020,42,4,7,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Rosemary Ham & Mozzarella Piadina,,680,43,12,0.5,100,1440,41,3,3,,32,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Rustic Lamb Pita,,590,38,10,0.5,60,1260,42,4,6,,24,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pitas & Piadinas,Spinach and Mushroom Piadina,,620,41,12,0.5,55,1200,43,4,5,,22,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Kabobs,Chicken Kabobs,,290,11,2,0,110,780,5,1,2,,41,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Kabobs,Salmon Kabobs,,330,17,2.5,0,105,420,3,1,1,,40,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Kabobs,Shrimp Kabobs,,170,7,1,0,165,630,4,1,1,,23,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Kabobs,Steak Kabobs,,490,27,7,0.5,95,540,18,1,14,,42,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Bowls & Classics,Cauliflower Rice Bowl,,270,22,6,0,20,1310,14,5,7,,8,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Bowls & Classics,Mediterranean Chicken,,260,10,1.5,0,90,790,7,1,3,,34,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Bowls & Classics,Mediterranean Salad Trio Bowl,,480,28,6,0,20,870,45,5,13,,32,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Bowls & Classics,Power Grain Bowl,,380,6,2,0,<5,1280,67,6,7,,13,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Chicken Kabob Dinner for 4 with Pasta Salad,,780,24,7,0,130,2030,84,6,6,,57,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Chicken Kabob Dinner for 4 with Potato Salad,,790,26,6,0,125,1990,83,6,6,,56,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Falafel Family Meal,,460,13,3,0,5,1160,64,12,12,,17,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Family Meal Moroccan Citrus Roasted Chicken,,360,21,5,0,120,980,3,1,1,,37,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Family Meal Salad,,680,25,9,0,30,2030,91,13,14,,28,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Family Meal Sorrentina Baked Ravioli,,610,36,15,0,95,1600,39,5,9,,28,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Grilled Chicken Breast Dinner for 4 with Pasta Salad,,750,23,6,0,110,2040,86,6,7,,50,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Mediterranean Family Dinners,Grilled Chicken Breast Dinner for 4 with Potato Salad,,760,25,6,0,105,2000,84,6,7,,49,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Add Chicken,,250,10,1.5,0,85,770,7,1,3,,33,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Balanced Bites Snack Box,,390,16,7,0,85,710,30,3,11,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Falafel Side,,170,4.5,1,0,5,510,25,7,5,,8,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Fresh Fruit,,70,0,0,0,0,5,19,2,15,,1,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Hummus Duo & Veggies Snack Box,,430,33,4,0,<5,740,29,7,5,,11,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Modern Mediterranean Snack Box,,400,24,7,0,75,830,17,4,4,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of Greek Salad,,190,8,3.5,0,15,620,23,3,3,,8,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of Kids Greek Salad,,35,2,1.5,0,<5,125,2,1,1,,2,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of Pasta Salad,,220,7,3.5,0,15,460,29,2,1,,9,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of Potato Salad,,240,16,1,0,0,310,23,2,2,,3,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of Roasted Vegetables,,110,8,0.5,0,0,280,10,4,3,,2,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Fresh Sides & Extras,Side of White Beans,,240,7,0.5,0,0,540,35,11,0,,14,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Chicken Salad Sandwich,,440,24,4,0,40,610,38,6,8,,22,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Grilled Chicken Fingers,,230,8,1.5,0,90,600,4,1,2,,34,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Ham and Cheese Piadina,,280,16,5,0,40,530,22,1,4,,13,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Pasta Bowl,,280,14,4,0,10,580,29,3,7,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Salmon Kabob,,170,9,1,0,55,45,4,1,3,,20,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Kids Shrimp Kabob,,90,3.5,0,0,85,150,2,1,1,,12,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Live Med Kids,Side of Kids Greek Salad,,35,2,1.5,0,<5,125,2,1,1,,2,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,Chicken Salad,,480,41,7,1,80,690,1,0,1,,24,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,Choice of Protein: Falafel,,180,3,0,0,0,560,30,9,5,,9,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,"Choice of Protein: Grilled Chicken Tenders, Sliced",,220,8,1.5,0,90,600,1,0,0,,33,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,Choice of Protein: Harissa Salmon,,200,10,1.5,0,70,90,1,0,0,,26,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,Choice of Protein: Lamb Meatballs,,290,21,9,0.5,75,720,3,1,1,,20,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Proteins,Mediterranean Lamb Meatballs,,350,25,11,0.5,85,960,8,4,22,,94,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sauces,Choice of Sauce: Harissa,,50,3.5,0,0,0,115,4,1,1,,2,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sauces,Choice of Sauce: Salsa Verde,,90,10,0.5,0,0,110,2,0,0,,0,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sauces,Choice of Sauce: Skhug,,40,4,0.5,0,0,80,2,1,1,,0,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Sauces,Choice of Sauce: Tzatziki,,35,2.5,1,0,<5,95,2,0,2,,1,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Desserts & Drinks,"Chocolate Cake, Slice",,580,23,14,1,90,310,92,2,73,,6,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Desserts & Drinks,"Chocolate Cake, Whole",,580,23,14,1,90,310,92,2,73,,6,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Desserts & Drinks,Chocolate Chip Cookie,,590,27,11,0,50,350,85,2,48,,6,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Snack Boxes,Balanced Bites Snack Box,,390,16,7,0,85,710,30,3,11,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Snack Boxes,Hummus Duo & Veggies Snack Box,,430,33,4,0,<5,740,29,7,5,,11,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Snack Boxes,Modern Mediterranean Snack Box,,400,24,7,0,75,830,17,4,4,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: All Chicken Build",,220,8,1.5,0,90,600,1,0,0,,33,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: All Falafel Build",,180,3,0,0,0,560,30,9,5,,9,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: All Lamb Kafta Build",,290,21,9,0.5,75,720,3,1,1,,20,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: All Salmon Build",,200,10,1.5,0,70,90,1,0,0,,26,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: Half Chicken Build",,110,4,0.5,0,45,300,0,0,0,,17,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: Half Falafel Build",,90,1.5,0,0,0,280,15,4,3,,5,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: Half Lamb Kafta Build",,140,10,4.5,0,35,350,1,1,0,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Medium: Half Salmon Build",,100,5,0.5,0,35,45,0,0,0,,13,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: All Chicken Build",,220,8,1.5,0,90,600,1,0,0,,33,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: All Falafel Build",,180,3,0,0,0,560,30,9,5,,9,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: All Lamb Kafta Build",,290,21,9,0.5,75,720,3,1,1,,20,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: All Salmon Build",,200,10,1.5,0,70,90,1,0,0,,26,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: Half Chicken Build",,110,4,0.5,0,45,300,0,0,0,,17,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: Half Falafel Build",,90,1.5,0,0,0,280,15,4,3,,5,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: Half Lamb Kafta Build",,140,10,4.5,0,40,360,2,1,0,,10,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Bowl Protein, Small: Half Salmon Build",,100,5,0.5,0,35,45,0,0,0,,13,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Falafel Pita, Medium",,500,21,5,0,15,1250,65,11,12,,18,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Catering,"Catering Falafel Pita, Small",,490,20,5,0,15,1220,64,11,12,,18,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Basil Pesto Hummus, Half Pint",,650,55,7,0,10,990,31,8,4,,16,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Basil Pesto Hummus, Pint",,1200,97,12,0,15,1910,62,16,7,,30,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Basil Pesto Hummus, Quart",,2290,182,22,0,25,3740,124,32,14,,59,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Chicken Salad, Half Pint",,760,66,10,1,125,1110,1,0,1,,39,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Chicken Salad, Pint",,1530,132,21,2.5,250,2210,3,1,2,,78,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Fruit, Pint",,120,0,0,0,0,10,31,4,25,,1,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Fruit, Quart",,240,0.5,0,0,0,15,61,7,49,,3,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Harissa Hummus, Half Pint",,450,30,3.5,0,0,970,35,9,5,,13,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Harissa Hummus, Pint",,880,58,7,0,0,1900,70,18,9,,26,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Harissa Hummus, Quart",,1730,113,13,0,0,3760,139,36,18,,53,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Hummus, Half Pint",,510,36,4,0,0,1200,37,10,4,,14,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Hummus, Pint",,960,65,7,0,0,2050,73,19,8,,28,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,"Hummus, Quart",,1850,123,14,0,0,3760,144,37,16,,56,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,Quart of Chicken Orzo Soup,,290,6,1,0,60,2570,32,5,6,,26,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27
+zoeskitchen,Pints & Quarts,Quart of Mediterranean Lentil Soup,,700,13,2,0,0,2450,110,20,11,,40,,,https://www.nutritionix.com/zoes-kitchen/menu/premium,2026-10-27

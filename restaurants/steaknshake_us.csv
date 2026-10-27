@@ -1,0 +1,112 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+steaknshake,Steakburgers,Bacon N Cheese Double,,600,38,16,1.5,105,1180,29,1,4,,34,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Bacon N Cheese Single,,460,26,11,1,70,1060,29,1,4,,25,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Butter Steakburger,,870,65,30,1.5,150,1150,34,2,9,,28,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Garlic Double,,730,50,17,1.5,90,1340,33,1,8,,28,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Single with Cheese,,390,20,9,1,50,1160,32,3,6,,19,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Single without Cheese,,320,130,5,1,35,820,32,3,6,,15,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Steakburger 7x7,,1660,128,62,6,355,3800,29,1,4,,95,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,The Original Double,,460,26,10,1.5,70,980,33,2,6,,23,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,The Original Double with Cheese,,530,32,14,1.5,85,1120,32,3,6,,27,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Triple with Cheese,,750,50,23,2.5,140,1600,32,3,6,,40,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Triple without Cheese,,610,38,15,2.5,110,920,32,3,6,,32,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steakburgers,Western BBQ N Bacon,,790,43,16,1.5,105,1440,54,1,23,,35,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Sandwiches,Grilled Cheese N Bacon,,590,35,13,0,50,1410,41,2,2,,24,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Chili,Chili 3-Way,,710,21,9,1,15,1380,98,13,10,,31,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Chili,"Chili Deluxe, Bowl",,1000,56,33,1,165,1960,71,14,5,,58,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Chili,"Chili Deluxe, Cup",,500,28,16,0.5,80,980,36,7,2,,29,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Chili,Chili Mac,,1200,61,26,3.5,130,2710,112,9,16,,46,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Sides,Applesauce,,90,0,0,0,0,10,22,2,18,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Sides,Chicken Fingers (3),,330,18,3,0,60,900,22,2,0,,21,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Sides,"Onion Rings, Large",,660,35,6,0,<5,1890,79,5,7,,8,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Sides,"Onion Rings, Medium",,330,17,3,0,0,940,39,2,3,,4,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Cheese French Fries, Large",,790,45,10,4,10,2390,88,7,3,,9,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Cheese French Fries, Medium",,590,35,8,4,10,1940,63,5,3,,8,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Cheese French Fries, Small",,320,18,4,2,<5,1050,34,3,1,,4,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Chili Cheese Fries, Large",,1070,53,14,1,40,2990,120,14,4,,26,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Chili Cheese Fries, Medium",,760,39,10,0.5,30,2280,83,9,3,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"Chili Cheese Fries, Small",,430,22,6,0,20,1290,47,5,2,,11,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"French Fries, Kids",,150,8,1.5,0,0,510,19,2,0,,1,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"French Fries, Large",,650,34,6,0,<5,1390,79,7,1,,6,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"French Fries, Medium",,450,24,4,0,0,930,54,5,1,,4,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,French Fries,"French Fries, Small",,240,13,2.5,0,0,550,30,3,0,,2,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Add-Ons,American Cheese,,70,6,4,0,15,340,0,0,0,,4,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Add-Ons,Bacon,,60,5,2,0,10,170,0,0,0,,4,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Add-Ons,Chili (for fries),,170,6,2.5,0,15,380,19,4,1,,9,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Add-Ons,Grilled Onions,,30,2.5,1,0,0,30,2,0,2,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Add-Ons,Steakburger Patty (1),,140,12,5,1,35,160,0,0,0,,9,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Kids,Chicken Fingers & Fries,,380,25,4.5,0,40,1140,25,2,0,,15,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Kids,Grilled Cheese & Fries,,780,56,16,0,30,1620,51,2,2,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Kids,Steakburger & Fries,,460,27,8,1,35,970,39,1,4,,15,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Kids,Steakburger with Cheese & Fries,,530,33,12,1,55,1310,39,1,4,,19,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Kids,Steak Frank & Fries,,540,36,11,1,45,1560,40,1,4,,13,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Steak Franks,"Steak Frank, Chili Cheese",,710,44,22,1.5,115,1620,46,4,5,,33,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Barq's Root Beer, 12 oz (with Ice)",,70,0,0,0,0,15,18,0,18,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Barq's Root Beer, 20 oz (with Ice)",,110,0,0,0,0,25,30,0,30,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Barq's Root Beer, 22 oz (with Ice)",,120,0,0,0,0,25,33,0,33,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Barq's Root Beer, 44 oz (with Ice)",,250,0,0,0,0,0,66,0,66,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,Chocolate Milk (7 fl oz bottle),,150,2.5,1.5,0,10,170,26,1,23,,7,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Classic, 12 oz (with Ice)",,60,0,0,0,0,0,16,0,16,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Classic, 20 oz (with Ice)",,100,0,0,0,0,0,27,0,27,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Classic, 22 oz (with Ice)",,110,0,0,0,0,0,30,0,30,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Classic, 44 oz (with Ice)",,220,0,0,0,0,5,59,0,59,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Zero Sugar, 12 oz (with Ice)",,0,0,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Zero Sugar, 20 oz (with Ice)",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Zero Sugar, 22 oz (with Ice)",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Coke Zero Sugar, 24 oz (with Ice)",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Diet Coke, 12 oz (with Ice)",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Diet Coke, 20 oz (with Ice)",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Diet Coke, 22 oz (with Ice)",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Diet Coke, 44 oz (with Ice)",,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,Milk (7 fl oz bottle),,90,2,1.5,0,10,105,10,0,10,,7,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Minute Maid Lemonade, 12 oz (with Ice)",,60,0,0,0,0,25,16,0,15,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Minute Maid Lemonade, 20 oz (with Ice)",,90,0,0,0,0,45,27,0,25,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Minute Maid Lemonade, 22 oz (with Ice)",,100,0,0,0,0,50,30,0,27,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Minute Maid Lemonade, 44 oz (with Ice)",,210,0,0,0,0,95,59,0,55,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Sprite, 12 oz (with Ice)",,60,0,0,0,0,15,16,0,16,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Sprite, 20 oz (with Ice)",,100,0,0,0,0,20,26,0,26,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Sprite, 22 oz (with Ice)",,110,0,0,0,0,25,29,0,29,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Sprite, 44 oz (with Ice)",,210,0,0,0,0,50,57,0,27,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Tea, Iced, 20 oz (with Ice)",,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Tea, Sweet, 20 oz (with Ice)",,110,0,0,0,0,10,28,0,27,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Tea, Sweet, 24 oz (with Ice)",,130,0,0,0,0,15,35,0,34,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Beverages,"Tea, Sweet, 44 oz (with Ice)",,250,0,0,0,0,25,64,0,61,,0,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Banana, Regular",,700,17,12,0,75,240,126,6,92,,40,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Birthday Cake Shake, Regular",,840,26,15,0,100,410,136,0,115,,39,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Birthday Cake Shake, Small / Kids",,500,15,9,0,50,260,82,0,70,,17,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Butterfinger, Regular",,760,22,14,0,75,320,128,1,107,,39,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Butterfinger, Small / Kids",,520,15,10,0,40,250,87,1,71,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Chocolate, Regular",,600,17,12,0,75,280,101,1,84,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Chocolate, Small / Kids",,380,10,7,0,40,200,66,1,55,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Cookie Dough, Regular",,760,22,14,0,75,320,127,1,107,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Cookie Dough, Small / Kids",,510,15,10,0,40,260,86,1,71,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Cotton Candy, Regular",,620,17,12,0,75,250,104,0,94,,37,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Cotton Candy, Small / Kids",,370,9,7,0,40,170,64,0,57,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Egg Nog, Regular",,630,17,12,0,75,260,106,0,97,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Egg Nog, Small / Kids",,380,10,7,0,40,180,64,0,58,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Kit Kat, Kids / Small",,460,14,10,0,40,190,76,0,66,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Kit Kat, Regular",,710,21,14,0,75,260,116,0,102,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"M&M's, Regular",,790,24,16,0,75,270,131,1,116,,39,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"M&M's, Small / Kids",,550,16,11,0,40,200,90,1,80,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Nutella, Regular",,820,36,18,0,75,260,110,2,98,,40,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Nutella, Small / Kids",,480,20,10,0,40,190,68,1,61,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Cookies 'n Cream, Regular",,730,22,13,0,75,350,122,0,102,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Cookies 'n Cream, Small / Kids",,490,14,8,0,40,280,82,0,67,,17,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Mint, Regular",,760,22,13,0,75,350,120,1,104,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Mint, Small / Kids",,510,14,8,0,40,280,87,0,74,,17,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Red Velvet Milk Shake, Regular",,960,30,16,0,100,550,157,1,130,,41,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Oreo Red Velvet Milk Shake, Small / Kids",,600,19,10,0,55,380,99,1,80,,19,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Peppermint Chocolate Chip, Regular",,850,21,15,0,75,260,127,0,115,,38,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Peppermint Chocolate Chip, Small / Kids",,500,14,11,0,40,200,86,0,77,,17,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Chocolate PB, Regular",,980,47,17,0,75,510,118,5,94,,48,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Chocolate PB, Small / Kids",,560,25,10,0,40,310,71,2,58,,22,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Peanut Butter, Regular",,900,47,17,0,75,460,98,3,83,,47,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Peanut Butter, Small / Kids",,550,24,9,0,40,290,69,2,59,,21,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Peanut Butter Cup, Regular",,780,25,16,0,75,280,125,1,111,,39,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Reese's Peanut Butter Cup, Small / Kids",,530,18,12,0,40,210,84,1,75,,18,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Strawberry, Regular",,610,17,12,0,75,250,103,0,94,,37,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Strawberry, Small / Kids",,400,9,7,0,40,170,71,0,65,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Vanilla, Regular",,620,17,12,0,75,240,105,0,93,,37,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"Vanilla, Small / Kids",,400,9,7,0,40,170,72,0,64,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"White Chocolate, Regular",,630,18,12,0,75,270,105,0,96,,37,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27
+steaknshake,Milkshakes,"White Chocolate, Small / Kids",,390,10,8,0,40,180,66,0,60,,16,,,https://www.nutritionix.com/steak-n-shake/menu/premium,2026-10-27

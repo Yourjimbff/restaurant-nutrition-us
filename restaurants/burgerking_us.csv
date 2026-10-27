@@ -1,0 +1,211 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+burgerking,Breakfast,3 Piece French Toast Sticks,,340,13,1.5,0,0,210,52,1,27,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,5 Piece French Toast Sticks,,500,21,2.5,0,0,340,71,2,33,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Bacon, Egg, & Cheese Biscuit",,420,26,12,0.5,230,1340,31,2,2,,16,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Bacon, Egg, & Cheese Croissan'wich",,360,21,10,1,245,810,28,3,4,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Bacon, Sausage, Egg & Cheese Biscuit",,650,46,20,1,270,1960,33,2,3,,25,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Bacon, Sausage, Egg, & Cheese Croissan'wich",,580,41,18,1,285,1420,29,3,5,,24,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Breakfast Burrito Jr.,,420,26,9,0.5,235,1090,29,1,2,,16,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Double Sausage, Egg, & Cheese Biscuit",,790,59,25,0.5,290,2190,33,3,3,,29,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Double Sausage, Egg, & Cheese Croissan'wich",,730,55,23,1,310,1660,30,3,5,,28,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Egg & Cheese Biscuit,,380,22,11,0.5,220,1180,31,2,2,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Egg & Cheese Croissan'wich,,310,17,9,1,240,640,28,3,4,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Egg-Normous Burrito,,800,44,16,1.5,445,2010,67,3,4,,35,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Fully Loaded Biscuit,,660,45,20,0.5,285,2290,34,2,4,,31,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Fully Loaded Croissan'wich,,620,43,19,1,300,1780,31,3,6,,30,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Ham, Egg, & Cheese Biscuit",,420,24,11,0.5,235,1530,32,2,3,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Ham, Egg, & Cheese Croissan'wich",,350,19,9,1,255,1000,29,3,5,,18,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Large Hash Browns,,700,42,10,0,0,1460,76,6,1,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Medium Hash Browns,,510,30,8,0,0,1060,55,5,0,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Pancake & Sausage Platter,,580,26,8,0,75,1090,75,1,35,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Pancake Platter,,400,9,2.5,0,45,690,74,1,34,,5,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Sausage, Egg, & Cheese Biscuit",,560,39,17,0.5,250,1580,32,2,2,,20,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,"Sausage, Egg, & Cheese Croissan'wich",,500,34,15,1,270,1040,28,3,4,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Sausage Biscuit,,440,30,13,0,35,1150,30,2,2,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Breakfast,Small Hash Browns,,270,16,4,0,0,570,29,3,0,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Bacon Cheeseburger,,350,17,7,0,50,980,30,2,7,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Bacon Double Cheeseburger,,500,29,13,0.5,95,1210,31,2,7,,30,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Bacon King,,1260,84,34,2,240,2330,58,4,14,,69,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Bacon Swiss BBQ Whopper,,920,55,19,1,125,1680,71,4,16,,44,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,BBQ Bacon Whopper Jr.,,390,23,7,0,45,770,32,2,9,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Cheeseburger,,300,14,6,0,45,810,30,2,7,,16,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Double Cheeseburger,,460,25,12,0.5,90,1040,31,2,7,,27,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Double Whopper,,980,62,21,1.5,180,1320,57,5,14,,56,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Double Whopper with Bacon,,1040,67,23,1.5,190,1570,57,5,14,,60,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Double Whopper with Bacon & Cheese,,1120,74,28,2,210,1890,59,5,15,,64,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Double Whopper with Cheese,,1060,69,25,2,200,1730,59,5,15,,60,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Hamburger,,260,10,4,0,35,600,29,2,6,,14,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Impossible Loaded Jalapeno Whopper,,810,44,13,0,30,1930,75,8,14,,37,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Impossible Whopper,,670,35,9,0,10,1490,64,8,14,,32,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Kid's Cheeseburger,,300,13,6,0,45,610,29,2,7,,16,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Kid's Hamburger,,260,10,4,0,35,400,29,2,6,,14,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Loaded Jalapeno Whopper,,820,49,16,1,115,1680,65,5,13,,38,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Loaded Jalapeno Whopper Jr.,,410,24,7,0,50,820,35,3,6,,18,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Rodeo Burger,,340,13,4.5,0,35,520,40,3,9,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Rodeo Cheeseburger,,380,17,7,0,45,720,41,3,9,,17,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Rodeo Double Cheeseburger,,530,29,12,0.5,90,900,41,4,10,,28,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Texas Double Whopper,,1120,74,28,2,210,2200,56,5,12,,64,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Triple Whopper,,1250,82,30,2.5,260,1380,57,5,14,,78,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Triple Whopper with Bacon,,1310,87,32,2.5,275,1640,58,5,14,,83,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Triple Whopper with Bacon & Cheese,,1390,94,36,2.5,295,2050,59,5,15,,87,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Triple Whopper with Cheese,,1330,89,34,2.5,280,1800,59,5,15,,82,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper,,710,42,12,1,95,1250,57,4,14,,34,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper Jr.,,340,19,5,0,40,630,30,2,7,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper Jr. with Bacon,,380,23,7,0,45,770,30,2,7,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper Jr. with Bacon & Cheese,,430,26,9,0,55,980,31,2,7,,20,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper Jr. with Cheese,,380,23,7,0,50,810,31,2,7,,17,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper with Bacon,,770,47,14,1,105,1500,57,4,14,,38,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper with Bacon & Cheese,,860,54,19,1,125,1920,58,4,15,,42,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Flame Grilled Burgers,Whopper with Cheese,,790,49,16,1,115,1660,58,4,15,,37,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,4 Piece Chicken Fries,,110,6,1.5,0,20,330,8,0,0,,7,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,4 Piece Crown Nuggets,,220,15,2.5,0,35,400,12,1,0,,9,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,8 Piece Chicken Fries,,220,12,2.5,0,40,680,16,1,0,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,8 Piece Crown Nuggets,,440,30,5,0,70,790,23,2,0,,18,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,12 Piece Chicken Fries,,340,18,4,0,60,1030,25,1,0,,20,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,16 Piece Crown Nuggets,,870,61,11,0.5,145,1590,46,4,1,,35,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Bacon and Swiss Royal Crispy Chicken,,740,43,11,0,110,1920,56,4,10,,39,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Big Fish,,570,30,5,0,50,1270,58,3,8,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Chicken Jr.,,440,27,5,0,40,700,39,2,5,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Honey Mustard Royal Crispy Wrap,,290,14,3,0,35,790,30,4,5,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Original Chicken Sandwich,,680,39,7,0,65,1380,63,3,7,,23,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Royal Crispy Chicken,,600,31,5,0,80,1330,54,4,9,,31,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Royal Crispy Wrap,,310,17,3,0,40,790,28,4,2,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Spicy Big Fish,,730,46,8,0,55,1530,61,3,11,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Spicy Royal Crispy Chicken,,760,47,8,0,80,1580,58,4,11,,31,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Chicken & Fish,Spicy Royal Crispy Wrap,,390,25,5,0,40,920,30,5,3,,15,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,4 Piece Cheddar Ranch Tots,,140,6,2,0,<5,510,17,1,1,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,4 Piece Jalapeno Cheddar Bites,,230,11,4.5,0,15,700,27,2,1,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,4 Piece Mozzarella Fries,,220,12,4,0,20,790,24,1,2,,10,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,8 Piece Cheddar Ranch Tots,,270,12,4,0,15,1020,34,2,1,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,8 Piece Mozzarella Fries,,440,24,8,1,40,1570,48,2,4,,19,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,12 Piece Mozzarella Fries,,660,36,13,1,60,2270,71,3,5,,29,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Kid's French Fries,,140,6,1,0,0,120,18,2,0,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Large French Fries,,440,20,4,0,0,400,60,5,1,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Large Have-sies,,490,23,4,0,0,700,67,6,4,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Large Onion Rings,,430,20,3,0,0,770,57,6,6,,5,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Medium French Fries,,370,17,3,0,0,330,50,4,1,,5,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Medium Have-sies,,350,16,3,0,0,490,47,4,3,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Medium Onion Rings,,290,13,2,0,0,530,39,4,4,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Mott's Applesauce,,50,0,0,0,0,0,13,1,11,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,"Side, 4 Piece Crown Nuggets",,220,15,2.5,0,35,400,12,1,0,,9,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,"Side, 8 Piece Crown Nuggets",,440,30,5,0,70,790,23,2,0,,18,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Small French Fries,,300,13,2.5,0,0,270,40,3,0,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Small Have-sies,,280,13,2.5,0,0,390,38,4,2,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Small Onion Rings,,230,11,1.5,0,0,410,31,3,3,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Value French Fries,,230,10,2,0,0,200,31,3,0,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Value Have-sies,,220,9,1.5,0,0,280,27,2,2,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sides,Value Onion Rings,,170,8,1,0,0,300,22,2,2,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Chocolate Oreo Shake,,670,17,10,0.5,55,470,116,2,91,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Chocolate Shake,,590,14,9,0.5,55,420,103,1,84,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Classic Oreo Shake,,640,17,10,0.5,55,460,109,1,86,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Extra Large Mocha Iced Coffee,,400,19,12,0.5,55,115,52,2,47,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Extra Large Plain Iced Coffee,,390,18,11,0.5,70,70,53,0,53,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Extra Large Vanilla Iced Coffee,,390,19,12,0.5,55,90,51,0,51,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Fat Free Milk,,100,0,0,0,<5,140,15,0,14,,10,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Honest Kids Apple Juice Drink,,35,0,0,0,0,10,9,0,8,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Kids Signature Strawberry Lemonade,,150,0,0,0,0,0,38,0,38,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Kids Signature Watermelon Lemonade,,160,0,0,0,0,0,39,0,39,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Barq's Root Beer,,350,0,0,0,0,80,96,0,96,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Coca-Cola,,320,0,0,0,0,80,88,0,88,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Coca-Cola Zero,,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Coke Freezee King,,160,0,0,0,0,65,44,0,44,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Diet Barq's Root Beer,,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Diet Coke,,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Dr Pepper,,310,0,0,0,0,85,82,0,82,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Fanta Blue Raspberry Freezee King,,160,0,0,0,0,75,43,0,43,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Fanta Orange,,330,0,0,0,0,85,88,0,88,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Fanta Strawberry Freezee King,,160,0,0,0,0,75,43,0,43,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Hi-C Fruit Punch,,370,0,0,0,0,80,94,0,92,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Hi-C Orange Freezee King,,230,0,0,0,0,135,63,0,63,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Hi-C Pink Lemonade,,300,0,0,0,0,220,82,1,78,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Mello Yello,,280,0,0,0,0,80,76,0,76,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Minute Maid Lemonade,,340,0,0,0,0,80,90,1,90,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Mocha Iced Coffee,,260,12,8,0,35,75,34,1,31,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Orange Dreamsicle Freezee King,,400,9,9,0,0,95,84,0,81,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Plain Iced Coffee,,260,12,7,0,35,60,35,0,35,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Powerade Zero,,15,0,0,0,0,250,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Signature Watermelon Lemonade,,380,0,0,0,0,0,96,0,95,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Sprite,,310,0,0,0,0,80,81,0,81,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Sprite Zero,,10,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Sweetened Iced Tea,,240,0,0,0,0,0,59,0,59,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Large Vanilla Iced Coffee,,250,12,7,0,35,60,34,0,33,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Barq's Root Beer,,300,0,0,0,0,70,81,0,81,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Coca-Cola,,270,0,0,0,0,65,70,0,70,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Coca-Cola Zero,,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Coke Freezee King,,130,0,0,0,0,50,35,0,35,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Diet Barq's Root Beer,,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Diet Coke,,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Dr Pepper,,260,0,0,0,0,70,70,0,69,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Fanta Blue Raspberry Freezee King,,130,0,0,0,0,60,34,0,34,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Fanta Orange,,280,0,0,0,0,70,74,0,74,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Fanta Strawberry Freezee King,,130,0,0,0,0,60,34,0,34,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Hi-C Fruit Punch,,310,0,0,0,0,65,79,0,78,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Hi-C Orange Freezee King,,190,0,0,0,0,110,50,0,50,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Hi-C Pink Lemonade,,250,0,0,0,0,180,69,1,66,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Mello Yello,,240,0,0,0,0,70,64,0,64,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Minute Maid Lemonade,,290,0,0,0,0,70,76,1,76,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Mocha Iced Coffee,,200,10,6,0,25,60,27,1,25,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Orange Dreamsicle Freezee King,,340,9,9,0,0,90,68,0,66,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Plain Iced Coffee,,200,9,6,0,25,45,27,0,26,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Powerade Zero,,10,0,0,0,0,210,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Signature Strawberry Lemonade,,250,0,0,0,0,0,63,0,63,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Signature Watermelon Lemonade,,260,0,0,0,0,0,66,0,65,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Sprite,,260,0,0,0,0,70,68,0,68,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Sprite Zero,,10,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Sweetened Iced Tea,,170,0,0,0,0,0,44,0,44,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Medium Vanilla Iced Coffee,,200,9,6,0,25,45,27,0,26,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Simply Orange Juice,,160,1.5,0,0,0,0,35,0,31,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Barqs Root Beer,,200,0,0,0,0,45,54,0,54,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Coca-Cola,,180,0,0,0,0,45,50,0,50,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Coca-Cola Zero,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Coke Freezee King,,100,0,0,0,0,40,26,0,26,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Diet Barqs Root Beer,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Diet Coke,,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Dr Pepper,,170,0,0,0,0,45,46,0,46,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Fanta Blue Raspberry Freezee King,,100,0,0,0,0,45,26,0,26,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Fanta Orange,,180,0,0,0,0,45,49,0,49,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Fanta Strawberry Freezee King,,100,0,0,0,0,45,26,0,26,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Hi-C Fruit Punch,,210,0,0,0,0,45,53,0,52,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Hi-C Orange Freezee King,,140,0,0,0,0,80,38,0,38,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Hi-C Pink Lemonade,,170,0,0,0,0,125,46,1,44,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Mello Yello,,160,0,0,0,0,45,43,0,43,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Minute Maid Lemonade,,190,0,0,0,0,45,50,1,50,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Mocha Iced Coffee,,160,7,4.5,0,20,45,21,0,19,,2,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Orange Dreamsicle Freezee King,,300,9,9,0,0,80,56,0,53,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Plain Iced Coffee,,150,7,4.5,0,20,35,21,0,21,,1,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Powerade Zero,,10,0,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Signature Strawberry Lemonade,,200,0,0,0,0,0,50,0,50,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Signature Watermelon Lemonade,,210,0,0,0,0,0,52,0,52,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Sprite,,170,0,0,0,0,45,45,0,45,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Sprite Zero,,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Sweetened Iced Tea,,130,0,0,0,0,0,32,0,32,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Small Vanilla Iced Coffee,,150,7,4.5,0,20,35,20,0,20,,1,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Strawberry Shake,,610,14,9,0,55,420,110,1,92,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Barqs Root Beer,,150,0,0,0,0,35,42,0,42,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Coca-Cola,,140,0,0,0,0,35,39,0,39,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Coca-Cola Zero,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Diet Barqs Root Beer,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Diet Coke,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Dr Pepper,,130,0,0,0,0,35,36,0,36,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Fanta Orange,,140,0,0,0,0,35,38,0,38,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Hi-C Fruit Punch,,160,0,0,0,0,35,41,0,40,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Hi-C Pink Lemonade,,130,0,0,0,0,95,36,1,34,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Mello Yello,,120,0,0,0,0,35,33,0,33,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Powerade Zero,,5,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Sprite,,130,0,0,0,0,35,35,0,35,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Sprite Zero,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Value Sweetened Iced Tea,,90,0,0,0,0,0,22,0,22,,0,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Drinks & Coffee,Vanilla Shake,,560,14,9,0.5,55,400,96,0,79,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,2 Chocolate Chip Cookies,,320,15,8,0,20,220,46,2,28,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,Cinnamon Apple Pie,,270,12,5,0,0,280,36,1,9,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,Firecracker Cookie Pie,,250,12,8,0,10,210,33,1,22,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,HERSHEY'S Sundae,,230,6,4,0,25,170,38,0,31,,5,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,HERSHEY'S Sundae Pie,,310,18,12,0,10,230,32,1,22,,3,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,OREO Sundae,,310,9,4.5,0,25,230,51,0,39,,6,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,Soft Serve Cone,,200,5,3.5,0,20,150,33,0,22,,5,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,Soft Serve Cup,,180,5,3.5,0,20,150,28,0,22,,4,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,"Sweets, Chocolate Oreo Shake",,670,17,10,0.5,55,470,116,2,91,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,"Sweets, Chocolate Shake",,590,14,9,0.5,55,420,103,1,84,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,"Sweets, Classic Oreo Shake",,640,17,10,0.5,55,460,109,1,86,,13,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,"Sweets, Strawberry Shake",,610,14,9,0,55,420,110,1,92,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27
+burgerking,Sweets,"Sweets, Vanilla Shake",,560,14,9,0.5,55,400,96,0,79,,12,,,https://www.nutritionix.com/burger-king/menu/premium,2026-10-27

@@ -1,0 +1,204 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+modpizza,Pizza,"Amelia/Layover Pizza, Mega Dough",,1580,59,26,0,330,4050,186,8,5,,69,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Amelia/Layover Pizza, Mini",,510,26,13,0,165,1270,43,2,4,,25,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Amelia/Layover Pizza, MOD",,1100,53,25,0,330,2740,98,4,5,,53,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Calexico Pizza, Mega Dough",,1350,34,15,1,110,4150,183,8,3,,66,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Calexico Pizza, Mini",,410,14,7,0,60,1560,42,2,1,,25,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Calexico Pizza, MOD",,860,28,14,1,110,3230,95,5,3,,50,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Caspian Pizza, Mega Dough",,1480,35,16,1,115,4150,213,8,26,,65,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Caspian Pizza, Mini",,430,14,7,0,60,1360,57,2,13,,24,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Caspian Pizza, MOD",,970,29,13,1,115,2840,125,5,26,,49,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Cheese (The Maddy) Pizza, Mega Dough",,1200,27,11,0.5,55,3270,182,7,3,,48,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Cheese (The Maddy) Pizza, Mini",,330,11,4.5,0,30,880,41,1,1,,16,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Cheese (The Maddy) Pizza, MOD",,710,21,9,0.5,55,1960,94,4,3,,32,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dillon James Pizza, Mega Dough",,1320,34,14,1,70,3470,190,9,7,,56,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dillon James Pizza, Mini",,390,14,7,0.5,40,1020,45,3,4,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dillon James Pizza, MOD",,830,28,13,1,70,2160,102,6,6,,40,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dominic Pizza, Mega Dough",,1190,26,8,0,35,3110,186,8,5,,43,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dominic Pizza, Mini",,320,10,3.5,0,15,830,44,2,3,,13,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Dominic Pizza, MOD",,700,20,7,0,35,1800,98,5,5,,27,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Jasper Pizza, Mega Dough",,1280,31,10,0.5,90,3700,184,8,3,,57,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Jasper Pizza, Mini",,370,13,6,0,40,1140,42,2,2,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Jasper Pizza, MOD",,790,25,8,0.5,90,2390,96,5,3,,41,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Lucy Sunshine Pizza, Mega Dough",,1310,32,14,1,65,3680,194,10,4,,55,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Lucy Sunshine Pizza, Mini",,380,13,5,0,35,1130,104,3,2,,19,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Lucy Sunshine Pizza, MOD",,820,26,11,1,65,2360,174,6,4,,39,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mad Dog Pizza, Mega Dough",,1470,47,18,1,110,4020,183,7,3,,65,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mad Dog Pizza, Mini",,470,22,9,0,60,1320,42,1,1,,24,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mad Dog Pizza, MOD",,980,43,17,1,110,2710,95,4,3,,49,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mike's Favorite Pizza Pizza, Mega Dough",,1480,39,19,0.5,155,4390,207,11,19,,65,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mike's Favorite Pizza Pizza, Mini",,460,16,9,0,75,1440,53,3,9,,24,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Mike's Favorite Pizza Pizza, MOD",,990,33,18,0.5,155,3080,119,8,19,,49,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Tristan Pizza, Mega Dough",,1380,43,16,1,75,3540,182,7,2,,56,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Tristan Pizza, Mini",,420,19,6,0.5,40,1060,41,2,1,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Tristan Pizza, MOD",,890,37,13,1,75,2230,94,4,2,,40,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Wilbur/Red Eye Pizza, Mega Dough",,1410,41,16,0,280,3690,191,7,2,,58,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Wilbur/Red Eye Pizza, Mini",,510,24,11,0.5,205,1130,42,1,2,,28,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Pizza,"Wilbur/Red Eye Pizza, MOD",,1050,47,24,1,330,2380,96,4,4,,56,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Crust,Cauliflower Crust,,590,14,9,0,50,1100,87,3,6,,18,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Crust,Gluten-Friendly Crust,,710,6,1,0,0,850,156,3,17,,6,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Crust,Mega Thick Crust (11-inch),,980,12,2,0,0,2620,176,6,0,,32,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Crust,Mini (6-inch Thin Crust),,210,2.5,0,0,0,560,38,0,0,,7,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Crust,MOD (11-inch Thin Crust),,490,6,1,0,0,1310,88,3,0,,16,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Creamy Alfredo Sauce,,15,1,0,0,<5,105,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Extra Virgin Olive Oil,,120,14,2,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Garlic Pesto,,45,4.5,0.5,0,<5,95,1,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Garlic Rub,,15,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Signature Tomato Sauce,,5,0,0,0,0,80,2,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Spicy Calabrian Chili Tomato Sauce,,10,0.5,0,0,0,60,1,0,1,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Sauce,Sweet BBQ Sauce,,30,0,0,0,0,110,8,0,8,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Asiago,,110,8,5,0,25,240,1,0,0,,8,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Cheddar,,110,9,6,0,30,190,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Feta,,70,6,3.5,0,20,330,2,0,0,,5,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Gorgonzola,,100,8,6,0,30,380,1,0,0,,6,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Mozzarella,,90,7,4,0,25,200,1,0,0,,7,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Parmesan,,130,9,6,0,30,540,2,0,0,,10,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Plant-Based Cheese,,80,5,2.5,0,0,220,8,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Cheese,Ricotta,,90,6,4.5,0,35,95,4,0,4,,5,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Anchovies,,30,1.5,0.5,0,10,790,0,0,0,,4,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Canadian Bacon,,50,1,0,0,25,480,2,0,0,,9,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Crispy Bacon,,140,11,4,0,25,550,1,0,0,,7,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Egg – Scrambled,,80,4.5,1.5,0,215,190,2,0,1,,7,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Grilled Chicken,,70,2.5,0.5,0,35,260,1,0,0,,12,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Mild Italian Sausage,,240,20,7,0,45,300,0,0,0,,13,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Pepperoni,,50,4.5,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Plant-Based Italian Sausage,,90,6,0,0,0,220,2,0,2,,6,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Salami,,90,8,3,0,25,340,1,0,0,,5,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Seasoned Ground Beef,,210,15,6,0,45,790,3,0,0,,18,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Meat,Spicy Chicken Sausage,,90,5,1.5,0,50,610,1,1,0,,11,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Artichokes,,30,0,0,0,0,150,88,2,1,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Arugula,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Banana Peppers,,5,0,0,0,0,370,1,1,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Basil, Fresh Chopped",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Black Olives,,50,5,0,0,0,250,2,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Broccoli, Roasted",,15,0.5,0,0,0,95,3,1,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Chickpeas,,50,0,0,0,0,120,9,3,2,,3,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Cilantro,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Corn, Roasted",,45,1,0,0,0,170,8,0,3,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Croutons,,60,2,0,0,0,160,10,0,0,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Cucumbers,,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Garlic, Chopped",,15,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Garlic, Roasted",,60,1.5,0,0,0,160,11,0,0,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Greek Olives,,70,7,0,0,0,500,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Green Bell Peppers,,5,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Jalapenos,,5,0,0,0,0,680,1,1,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Mama Lil's Sweet Hot Peppas,,50,0,0,0,0,70,10,2,8,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Mixed Spring Greens,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Mushrooms,,0,0,0,0,0,0,1,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Oregano,,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Pineapple,,40,0,0,0,0,5,10,0,9,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Red Onion,,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Red Peppers, Roasted",,15,0,0,0,0,150,3,0,2,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Romaine,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Rosemary, Fresh Chopped",,10,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Sea Salt,,0,0,0,0,0,1600,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Sea Salt & Pepper,,0,0,0,0,0,1040,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Serrano Peppers,,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,Spinach,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Vine-Ripened Tomatoes, Diced",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Veggies & Good Stuff,"Vine-Ripened Tomatoes, Sliced",,20,0,0,0,0,5,4,1,3,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Caesar Salad, Mega",,1350,105,32,1.5,150,3120,60,11,5,,52,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Caesar Salad, Mini/Side",,390,30,11,0,50,900,15,3,2,,17,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Caesar Salad, MOD",,660,52,16,0.5,75,1530,28,5,3,,26,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Garden Salad, Mega",,310,23,3.5,0,0,410,27,6,20,,4,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Garden Salad, Mini/Side",,140,11,1.5,0,0,200,11,2,9,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Garden Salad, MOD",,170,12,1.5,0,0,210,14,3,10,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Greek Salad, Mega",,810,54,12,0,40,1590,59,17,25,,22,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Greek Salad, Mini",,290,21,4,0,10,470,18,5,9,,6,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Greek Salad, MOD",,410,27,6,0,20,790,30,9,13,,11,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Italian Chop Salad, Mega",,1100,71,22,0.5,110,2260,46,10,23,,39,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Italian Chop Salad, Mini",,360,25,7,0,30,640,16,3,9,,10,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Italian Chop Salad, MOD",,560,36,11,0,55,1130,23,5,12,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Kinda Cobb Salad, Mega",,1270,104,29,0.5,195,3570,30,8,15,,2,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Kinda Cobb Salad, Mini",,320,26,7,0,50,890,8,2,4,,13,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Kinda Cobb Salad, MOD",,640,52,14,0,95,1780,15,4,8,,30,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Southwest BBQ Ranch Salad, Mega",,1090,61,15,0,175,2740,95,8,48,,53,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Southwest BBQ Ranch Salad, Mini",,280,17,4,0,35,740,22,2,10,,13,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad,"Southwest BBQ Ranch Salad, MOD",,560,34,8,0,70,1470,44,4,21,,25,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Balsamic Vinaigrette,,60,6,1,0,0,115,1,0,1,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Caesar Dressing,,100,10,1.5,0,10,180,1,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Extra Virgin Olive Oil Dressing,,120,14,2,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Greek Vinaigrette,,50,5,1,0,0,45,2,0,2,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Italian Dressing,,70,8,1,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Lemon Vinaigrette,,140,0,1,0,0,360,3,0,1,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Oil & Vinegar,,60,7,1,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Ranch Dressing,,50,6,1,0,<5,75,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Red Wine Vinegar,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Sherry Dijon Vinaigrette,,40,4,0.5,0,0,60,2,0,2,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Salad Dressing,Zesty Tomato Vinaigrette,,45,4,0.5,0,0,35,3,0,2,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Balsamic Fig Glaze,,30,0,0,0,0,95,8,0,7,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Garlic Pesto Drizzle,,45,4.5,0.5,0,<5,95,1,0,0,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Hot Buffalo Sauce,,0,0,0,0,0,460,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Mike’S Hot Honey,,70,0,0,0,0,0,18,0,14,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Ranch Finish,,50,6,1,0,<5,75,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Sriracha Ranch,,35,3,0,0,0,120,2,0,2,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Sweet BBQ Swirl,,30,0,0,0,0,110,8,0,8,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Finishing Sauce,Tomato Sauce Dollops,,5,0,0,0,0,60,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,6 Pc BBQ Hot Honey Wings,,320,16,4.5,0,135,870,23,0,17,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,6 Pc Buffalo Wings,,240,16,4.5,0,135,1690,3,0,0,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,6 Pc Original Wings,,240,16,4.5,0,135,640,3,0,0,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,6 Pc Parmesan Garlic Rosemary Wings,,530,45,11,0,165,1310,6,0,0,,26,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,6 Pc Sri-Rancha Wings,,330,25,6,0,140,930,7,0,4,,20,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,12 Pc BBQ Hot Honey Wings,,650,33,9,0,270,1740,46,0,33,,39,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,12 Pc Buffalo Wings,,480,33,9,0,270,3390,390,0,0,,39,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,12 Pc Original Wings,,480,33,9,0,270,1290,6,0,0,,39,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,12 Pc Parmesan Garlic Rosemary Wings,,1060,90,22,0,330,2630,12,2,0,,51,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,12 Pc Sri-Rancha Wings,,700,54,12,0,280,1970,390,17,9,,41,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Cheesy Garlic Bread,,1340,43,15,0.5,60,3230,179,7,0,,50,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Balsamic Fig Glaze",,90,0,0,0,0,280,24,0,21,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, BBQ Sauce",,90,0,0,0,0,330,23,0,23,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Garlic Pesto",,140,14,2,0,10,290,2,0,0,,3,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Hot Buffalo Sauce",,0,0,0,0,0,1380,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Mike's Hot Honey",,220,0,0,0,0,0,54,0,42,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Ranch",,160,18,3,0,<5,220,3,0,1,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Red Sauce",,20,0,0,0,0,250,5,1,3,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,"Dipping Sauce, Sri-Rancha",,100,9,1.5,0,<5,370,6,0,5,,1,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Garlic Strips,,350,15,5,0,15,860,40,2,0,,12,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Mediterranean Quinoa Bowl,,580,44,10,0,45,1550,31,8,8,,19,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Northwest Quinoa Bowl,,560,37,11,0,75,1630,26,6,8,,28,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Snack Plate,,660,38,8,0,70,2170,51,2,4,,26,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,More Stuff,Southwest Quinoa Bowl,,510,27,6,0,35,1120,54,10,25,,14,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Barq's Root Beer, 16 fl oz",,220,0,0,0,0,90,60,0,59,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Barq's Root Beer, 24 fl oz",,320,0,0,0,0,140,90,0,89,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Black Cherry, 16 fl oz",,210,0,0,0,0,30,48,0,48,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Black Cherry, 24 fl oz",,310,0,0,0,0,40,81,0,81,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Mango Orange, 16 fl oz",,210,0,0,0,0,30,54,0,54,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Mango Orange, 24 fl oz",,310,0,0,0,0,40,81,0,81,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Root Beer, 16 fl oz",,220,0,0,0,0,30,57,0,56,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Blue Sky Root Beer, 24 fl oz",,340,0,0,0,0,40,86,0,84,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Caramelized Pear Ice Tea, 16 fl oz",,80,0,0,0,0,15,21,0,18,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Caramelized Pear Ice Tea, 24 fl oz",,120,0,0,0,0,20,31,0,27,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Coca-Cola, 16 fl oz",,200,0,0,0,0,60,54,0,54,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Coca-Cola, 24 fl oz",,300,0,0,0,0,90,81,0,81,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Coke Zero, 16 fl oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Coke Zero, 24 fl oz",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Diet Coke, 16 fl oz",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Diet Coke, 24 fl oz",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Dr. Pepper, 16 fl oz",,190,0,0,0,0,60,52,0,51,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Dr. Pepper, 24 fl oz",,290,0,0,0,0,90,78,0,77,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Fanta Orange, 16 fl oz",,220,0,0,0,0,70,59,0,59,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Fanta Orange, 24 fl oz",,320,0,0,0,0,110,89,0,89,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Fuze Raspberry Tea, 16 fl oz",,180,0,0,0,0,0,46,0,44,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Fuze Raspberry Tea, 24 fl oz",,270,0,0,0,0,0,69,0,66,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Sweetened Black Tea, 16 fl oz",,160,0,0,0,0,45,41,0,41,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Sweetened Black Tea, 24 fl oz",,240,0,0,0,0,70,62,0,62,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Sweetened Green Tea, 16 fl oz",,120,0,0,0,0,35,32,0,31,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Sweetened Green Tea, 24 fl oz",,180,0,0,0,0,50,48,0,46,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Unsweetened Black Tea, 16 fl oz",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Gold Peak Unsweetened Black Tea, 24 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Marionberry Lemonade, 16 fl oz",,320,0,0,0,0,0,83,2,77,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Marionberry Lemonade, 24 fl oz",,480,0,0,0,0,0,123,3,115,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Minute Maid Lemonade, 16 fl oz",,220,0,0,0,0,30,58,0,56,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Minute Maid Lemonade, 24 fl oz",,330,0,0,0,0,45,87,0,84,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Powerade Mountain Blast, 16 fl oz",,110,0,0,0,0,200,28,0,28,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Powerade Mountain Blast, 24 fl oz",,160,0,0,0,0,300,42,0,42,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Sprite, 16 fl oz",,200,0,0,0,0,45,50,0,44,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Sprite, 24 fl oz",,300,0,0,0,0,65,75,0,66,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Unsweetened Tea, 16 fl oz",,0,0,0,0,0,15,1,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Unsweetened Tea, 24 fl oz",,5,0,0,0,0,20,2,0,0,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Vintage Lemonade, 16 fl oz",,250,0,0,0,0,0,67,0,61,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Beverage,"Vintage Lemonade, 24 fl oz",,380,0,0,0,0,0,100,0,92,,0,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Desserts,"Mega Cookie, Chocolate Chip",,1610,79,40,0.5,80,890,190,7,147,,19,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Desserts,No Name Cake,,300,15,9,0,15,150,42,2,32,,3,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Desserts,Red Velvet No Name Cake,,370,22,9,0,15,220,41,0,33,,3,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27
+modpizza,Desserts,Strawberry Lemonade No Name Cake,,330,17,10,0,15,220,41,0,33,,3,,,https://www.nutritionix.com/mod-pizza/menu/premium,2026-10-27

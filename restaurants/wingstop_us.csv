@@ -1,0 +1,95 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Atomic",,90,5,1.5,,45,220,1,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Cajun",,90,5,1.5,,45,310,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Garlic Parm",,120,8,2,,45,75,1,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Hawaiian",,100,5,1.5,,45,85,3,0,2,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Hickory Smoked BBQ",,100,5,1.5,,45,150,4,0,3,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Lemon Pepper",,120,8,2,,45,210,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Louisiana Rub",,110,7,2,,45,140,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Mango Habanero",,100,5,1.5,,45,80,4,0,3,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Mild",,120,8,2,,45,160,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Old Bay",,100,7,2,,45,110,0,0,1,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Original Hot",,90,5,1.5,,45,230,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Plain",,90,5,1.5,,45,30,0,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Classic (Bone-In) Wings,"Classic (Bone-In) Wings, Spicy Korean Q",,100,5,1.5,,45,135,3,0,3,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Atomic",,90,4.5,1,,10,380,7,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Cajun",,80,4.5,1,,10,450,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Garlic Parm",,110,7,1.5,,15,260,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Hawaiian",,90,4.5,1,,10,270,8,0,2,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Hickory Smoked BBQ",,90,4.5,1,,10,330,9,0,3,,5,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Lemon Pepper",,110,7,1.5,,10,290,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Louisiana Rub",,100,6,1,,10,260,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Mango Habanero",,90,4.5,1,,10,270,9,0,3,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Mild",,110,7,1.5,,10,330,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Old Bay",,100,6,1,,10,290,6,0,1,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Original Hot",,80,4.5,1,,10,390,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Plain",,80,4.5,1,,10,230,6,0,0,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Wings,"Boneless Wings, Spicy Korean Q",,90,4.5,1,,10,320,8,0,2,,5,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Atomic",,150,7,1,,30,850,12,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Cajun",,150,7,1,,30,1020,11,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Garlic Parm",,210,14,2.5,,30,550,11,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Hawaiian",,160,7,1,,30,580,16,0,5,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Hickory Smoked BBQ",,170,7,1,,30,710,17,0,6,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Lemon Pepper",,200,13,2.5,,30,620,10,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Louisiana Rub",,180,12,2,,30,540,10,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Mango Habanero",,170,7,1,,30,570,17,0,7,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Mild",,200,14,2.5,,30,730,10,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Old Bay",,170,11,2,,30,420,10,0,2,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Original Hot",,140,7,1,,30,870,10,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Plain",,140,7,1,,30,470,10,0,0,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Boneless Tenders,"Boneless Tenders, Spicy Korean Q",,170,7,1,,30,680,16,0,6,,10,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Atomic",,650,24,4.5,,80,3230,74,2,11,,33,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Cajun",,640,25,4.5,,80,3940,70,2,11,,33,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Garlic Parmesan",,890,52,10,,80,2060,71,2,11,,34,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Hawaiian",,710,24,4.5,,80,2150,90,2,30,,33,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Hickory Smoked BBQ",,730,24,4.5,,80,2680,96,2,36,,34,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Lemon Pepper",,850,50,9,,80,2320,67,2,10,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Louisiana Rub",,790,43,8,,80,2020,67,2,10,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Mango Habanero",,740,24,4.5,,80,2120,94,2,7,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Mild",,870,52,10,,80,2750,67,2,10,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Original Hot",,630,25,4.5,,80,3340,68,2,10,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Plain",,610,24,4.5,,80,1720,66,2,10,,32,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Chicken Sandwich,"Chicken Sandwich, Spicy Korean Q",,720,24,4.5,,80,2570,90,2,32,,34,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Blue Cheese Dip,,330,33,7,,40,570,4,0,2,,4,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Brownie,,430,24,10,,85,160,49,3,33,,6,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Buffalo Ranch Fries Large,,1070,55,9,,20,2710,129,0,8,,15,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Buffalo Ranch Fries Regular,,610,32,6,,10,1720,71,0,4,,8,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Cheddar Cheese Sauce Dip,,120,9,1.5,,0,850,8,0,2,,2,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Cheese Fries Large,,1020,47,8,,0,1910,134,0,8,,15,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Cheese Fries Regular,,580,27,5,,0,1190,75,0,4,,9,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Fried Corn Large,,400,18,3,,0,600,48,0,19,,12,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Fried Corn Regular,,200,9,1.5,,0,300,24,0,10,,6,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Honey Mustard Dip,,390,33,4.5,,30,660,18,0,18,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Louisiana Voodoo Fries Large,,1180,64,11,,20,1870,133,0,6,,16,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Louisiana Voodoo Fries Regular,,680,38,7,,10,1270,75,0,4,,9,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Ranch Dip,,320,34,5,,35,870,2,0,2,,1,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Seasoned Fries Large,,900,37,7,,0,1060,126,0,6,,14,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Seasoned Fries Regular,,500,21,3.5,,0,620,69,0,3,,8,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Veggie Stick Carrots,,25,0,0,,0,45,7,2,3,,1,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Sides,Veggie Stick Celery,,10,0,0,,0,45,2,1,<1,,1,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Coke, Large",,400,0,0,,0,10,108,0,108,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Coke, Regular",,250,0,0,,0,5,68,0,68,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Diet Coke, Large",,0,0,0,,0,40,2,0,2,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Diet Coke, Regular",,0,0,0,,0,25,1,0,1,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Dr. Pepper, Large",,360,0,0,,0,120,104,0,104,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Dr. Pepper, Regular",,230,0,0,,0,75,65,0,65,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Fanta Orange, Large",,440,0,0,,0,55,120,0,120,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Fanta Orange, Regular",,280,0,0,,0,35,75,0,75,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Fanta Strawberry, Large",,450,0,0,,0,35,124,0,124,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Fanta Strawberry, Regular",,280,0,0,,0,25,78,0,78,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Southern Tea, Large",,390,0,0,,0,30,105,0,104,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Southern Tea, Regular",,260,0,0,,0,20,66,0,65,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Sweet Green Tea, Large",,320,0,0,,0,30,88,0,88,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Sweet Green Tea, Regular",,200,0,0,,0,20,55,0,55,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Unsweetened Tea, Large",,0,0,0,,0,30,2,0,0,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Gold Peak Unsweetened Tea, Regular",,0,0,0,,0,20,1,0,0,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Lipton Tea - Sweet, Large",,280,0,0,,0,0,72,0,72,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Lipton Tea - Sweet, Regular",,180,0,0,,0,0,45,0,45,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Minute Maid Lemonade, Large",,390,0,0,,0,160,104,0,100,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Minute Maid Lemonade, Regular",,240,0,0,,0,105,65,0,63,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Nestea Peach Tea, Large",,310,0,0,,0,30,80,0,80,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Nestea Peach Tea, Regular",,200,0,0,,0,20,50,0,50,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Nestea Raspberry Tea, Large",,310,0,0,,0,30,84,0,84,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Nestea Raspberry Tea, Regular",,200,0,0,,0,20,52,0,52,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Sprite, Large",,390,0,0,,0,90,104,0,104,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27
+wingstop,Beverages,"Sprite, Regular",,240,0,0,,0,55,65,0,65,,0,,,https://www.nutritionix.com/wingstop/menu/premium,2026-10-27

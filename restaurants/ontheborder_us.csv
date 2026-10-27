@@ -1,0 +1,604 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+ontheborder,Specialty Rocks MARGARITAS,Barrel Aged ’Rita,,340,0,0,0,0,2840,39,1,34,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Borderita,,340,0,0,0,0,2840,43,0,39,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,House (Grande),,260,0,0,0,0,2860,26,0,23,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,House (Regular),,200,0,0,0,0,2860,20,0,17,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Mango Tango (Grande),,270,0,0,0,0,20,45,0,41,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Mango Tango (Regular),,210,0,0,0,0,15,34,0,32,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Marky Marg,,240,0,0,0,0,0,24,0,21,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Pineapple Margarita,,320,0.5,0,0,0,0,44,0,40,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Pineapple – Spicy,,320,0.5,0,0,0,0,45,1,40,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Skinny Manrita,,220,0,0,0,0,2840,33,0,28,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Strawbrrrita (Grande),,330,0,0,0,0,20,58,1,53,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Strawbrrrita (Regular),,250,0,0,0,0,15,43,1,39,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,Strawberry Shaker Margarita,,420,0,0,0,0,0,73,1,66,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Specialty Rocks MARGARITAS,The Perfect Patrón,,250,0,0,0,0,2840,34,0,30,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Blue Lagoon (Grande),,420,0,0,0,0,2900,53,0,44,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Blue Lagoon (Regular),,300,0,0,0,0,2870,37,0,30,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Coronarita,,390,0,0,0,0,2900,49,0,38,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,House (Grande),,340,0,0,0,0,2900,46,0,40,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,House (Regular),,220,0,0,0,0,2870,30,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Mangonada,,370,0,0,0,0,1100,61,1,52,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Mango Tango (Grande),,390,0,0,0,0,55,66,0,60,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Mango Tango (Regular),,260,0,0,0,0,35,45,0,41,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Sangria Swirl (Grande),,350,0,0,0,0,60,45,0,39,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Sangria Swirl (Regular),,230,0,0,0,0,40,29,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Strawbrrrita (Grande),,440,0,0,0,0,55,79,1,71,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Frozen MARGARITAS,Strawbrrrita (Regular),,300,0,0,0,0,35,54,1,49,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,1800 Reposado,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,1800 Silver,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Blue Curacao,,40,0,0,0,0,0,4,0,4,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Chambord,,45,0,,,,0,7,,2,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Cointreau,,70,0,0,0,,0,5,,5,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Cuervo Gold,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Fireball,,60,0,0,,,0,6,,6,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Grand Marnier,,40,0,,,,,3,,,,,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Herradura Silver,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Hornitos Black Barrel,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Midori,,60,0,0,0,0,0,8,0,,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Patron Silver,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Teremana Reposado,,50,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,CERVEZAS Draft Blue Moon (Grande),,260,0,0,0,0,25,22,0,17,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Blue Moon (Regular),,150,0,0,0,0,15,13,0,10,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Bud Light (Grande),,170,0,0,0,,,10,,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Bud Light (Regular),,100,0,0,0,,,6,,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Coors Light (Grande),,160,0,0,0,0,15,8,0,,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Coors Light (Regular),,90,0,0,0,0,10,5,0,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Corona Extra (Grande),,230,0,0,0,0,20,22,0,7,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Corona Extra (Regular),,140,0,0,0,0,15,13,0,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Corona Premier (Grande),,140,0,,,,,4,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Corona Premier (Regular),,80,0,,,,,2,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dogfish Head 60 Minute IPA (Grande),,290,0,0,0,0,15,26,0,3,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dogfish Head 60 Minute IPA (Regular),,170,0,0,0,0,10,16,0,2,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dos Equis Amber (Grande),,230,0,,,,,22,,,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dos Equis Amber (Regular),,130,0,,,,,13,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dos Equis Lager (Grande),,200,0,,,,,17,,,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Dos Equis Lager (Regular),,120,0,,,,,10,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Heineken (Grande),,220,0,0,0,0,0,19,0,0,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Heineken (Regular),,130,0,0,0,0,0,11,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Grapefruit (Grande),,230,0,0,0,0,10,24,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Grapefruit (Regular),,140,0,0,0,0,5,14,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Harvest Patch (Grande),,220,0,0,0,0,20,23,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Harvest Patch (Regular),,130,0,0,0,0,10,14,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Lemon Berry (Grande),,250,0,0,0,0,10,29,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Lemon Berry (Regular),,150,0,0,0,0,0,17,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Orange (Grande),,210,0,0,0,0,20,20,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Orange (Regular),,130,0,0,0,0,15,12,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Summer (Grande),,210,0,0,0,0,10,18,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Leinenkugel Shandy Summer (Regular),,120,0,0,0,0,0,11,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Michelob Ultra (Grande),,150,0,0,0,,,4,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD AN OTB MELTDOWN,Michelob Ultra (Regular),,90,0,0,0,,,2,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Miller Lite (Grande),,150,0,0,0,0,10,5,,,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Miller Lite (Regular),,90,0,0,0,0,0,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Modelo Especial (Grande),,220,0,,,,30,21,,,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Modelo Especial (Regular),,130,0,,,,20,13,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Sam Adams Boston Lager (Grande),,270,0,0,0,0,0,27,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Sam Adams Boston Lager (Regular),,160,0,0,0,0,0,16,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Shiner Bock (Grande),,220,0,0,0,0,25,19,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Shiner Bock (Regular),,130,0,0,0,0,15,11,0,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),VooDoo Ranger Juicy Haze IPA (Grande),,310,0,0,0,0,10,23,0,0,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),VooDoo Ranger Juicy Haze IPA (Regular),,180,0,0,0,0,0,14,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Yuengling Traditional Lager (Grande),,220,,,,,,,,,,,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Yuengling Traditional Lager (Regular),,130,,,,,,,,,,,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),CERVEZAS Bottle Angry Orchard Hard Cider,,190,0,0,0,0,,25,0,20,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Blue Moon,,170,0,0,0,0,15,14,0,11,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Blue Moon Light Sky,,100,,,,,,4,,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Bohemia,,150,0,0,0,0,0,14,,3,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Bud Light,,110,0,0,0,,,7,,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Budweiser,,150,0,0,0,,,11,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Coors Light,,100,0,0,0,0,10,5,0,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Corona Extra,,150,0,0,0,0,15,14,0,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Corona Light,,100,0,0,0,0,0,5,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Corona Premium,,90,0,,,,,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Dos Equis Ambar,,150,0,,,,,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Dos Equis Lager,,130,0,,,,,11,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Heineken,,140,0,0,0,0,0,12,,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Heineken 0.0 (Non-Alcoholic Beer),,70,0,,,,,16,,,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Michelob Ultra,,100,0,0,0,,,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Miller Lite,,100,0,0,0,0,5,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Modelo Especial,,140,0,,,,20,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Modelo Negra,,160,0,0,0,0,10,15,,13,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Pacifico,,140,0,0,0,0,10,14,,12,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Sol,,140,0,0,0,0,0,12,,12,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CERVEZAS Draft (cont’d.),Tecate,,140,0,,,,,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HAND-CRAFTED TEX-MEX COCKTAILS,Peach Vodka ’Rita,,340,0,0,0,0,0,59,0,53,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HAND-CRAFTED TEX-MEX COCKTAILS,Pineapple Rum Punch,,260,0,0,0,0,5,38,0,35,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HAND-CRAFTED TEX-MEX COCKTAILS,Primo Long Island,,260,0,0,0,0,5,29,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HAND-CRAFTED TEX-MEX COCKTAILS,Red Sangria (Glass),,160,0,0,0,0,5,14,1,11,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HAND-CRAFTED TEX-MEX COCKTAILS,Red Sangria (Pitcher),,760,0,0,0,0,35,66,2,49,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Border Sampler,,2070,141,55,2,305,4390,110,11,14,,89,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Chicken Flautas (4) with Queso,,990,65,21,1.5,205,2730,52,2,13,,49,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Chicken Flautas (2) with Queso,,530,35,12,1,110,1510,27,1,7,,26,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Chips & Salsa,,910,45,11,0,5,550,116,13,4,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Beef Empanadas with Queso,,1130,71,29,2,130,2260,80,0,8,,40,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Firecracker Stuffed Jalapeños with Ranch,,1030,77,31,1,139,3970,47,13,9,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Grande Fajita Nachos – Fajita Chicken,,1480,94,43,0,260,2690,75,13,4,,85,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Grande Fajita Nachos – Fajita Steak,,1600,108,49,0,255,2610,73,13,4,,81,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Grande Nachos – Bean & Cheese,,1340,89,42,0,175,2140,81,15,4,,56,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Guacamole without Chip Basket,,270,24,3.5,0,0,410,15,9,1,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Guacamole Live! without Chip Basket,,750,68,10,0,0,2360,42,32,4,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Guac/Queso Duo without Chip Basket,,560,46,17,1,65,1880,26,10,10,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Quesadillas – Brisket,,1310,88,36,1,165,3650,77,6,19,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Quesadillas – Fajita Chicken,,1200,85,34,1,164,2310,57,5,4,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Quesadillas – Fajita Steak,,1260,92,37,1,162,2270,56,5,3,,49,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Quesadillas – Veggie,,1170,87,34,1,117,2170,62,6,7,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Queso de Espinaca without Chip Basket,,590,48,29,2,140,2460,14,,9,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Signature Queso without Chip Basket,,480,35,22,1.5,105,2350,18,2,15,,25,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Border Style without Chip Basket,,260,17,10,0.5,50,1330,17,3,12,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Primo Style without Chip Basket,,590,43,25,1.5,130,2600,21,3,15,,31,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Stacked Nachos – Seasoned Ground Beef,,2050,128,53,1,225,3960,145,20,13,,77,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLD STARTERS listed as served,Texas Queso Fries,,1310,83,35,0,182,3890,92,10,11,,50,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLDER BORDER BOWLS listed as served,Grilled Chicken,,680,20,4.5,0,60,2210,92,18,8,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLDER BORDER BOWLS listed as served,Grilled Portobello,,580,15,3.5,0,10,1730,94,19,10,,20,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLDER BORDER BOWLS listed as served,Grilled Shrimp,,670,24,3.5,0,85,2510,91,18,8,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLDER BORDER BOWLS listed as served,Grilled Steak,,760,28,8,0,65,2400,92,18,8,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOLDER BORDER BOWLS listed as served,Guacamole,,640,22,4,0,10,1870,95,21,9,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Chicken Tortilla Soup* – Bowl,,560,27,10,0,85,2560,45,5,4,,31,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Chicken Tortilla Soup* – Cup,,340,19,7,0,55,1280,23,3,2,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Fajita Salad – Chicken,,410,21,3,0,80,1450,28,8,10,,34,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Fajita Salad – Steak,,500,31,8,0,75,1700,28,8,10,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Grande Taco Salad – Seasoned Ground Beef,,820,44,18,0,100,2230,68,8,8,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS & SOUP listed without dressing,Grande Taco Salad – Shredded Chicken Tinga,,750,38,15,0,100,2610,65,9,10,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DRESSINGS,House-Made Salsa,,20,0,0,0,0,450,4,1,3,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DRESSINGS,Lime Vinaigrette,,140,12,1,0,0,480,10,0,8,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DRESSINGS,Ranch,,230,24,3,0,25,400,2,0,2,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DRESSINGS,Smoked Jalapeño Vinaigrette,,120,10,1,0,0,630,9,0,7,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DRESSINGS,Spicy Avocado Ranch,,170,18,2,0,15,430,3,1,2,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SPECIALTY,Border Smart SM Chicken Fajitas listed as served,,630,18,3,0,80,2110,79,18,8,,44,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SPECIALTY,Monterey Ranch Chicken,,730,51,16,0,190,2370,15,2,5,,57,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SPECIALTY,The Ultimate Fajita,,1010,71,16,1,245,3530,35,5,16,,73,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,THE CLASSICS,Grilled Chicken,,370,19,3,0,105,1450,17,3,6,,39,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,THE CLASSICS,Grilled Shrimp,,540,47,12,0,115,1930,17,2,6,,24,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,THE CLASSICS,Grilled Steak,,530,35,11,0,110,1820,17,3,6,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,THE CLASSICS,Pork Carnitas,,710,51,10,1,135,2140,27,2,16,,44,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,THE CLASSICS,Portobello & Vegetables,,270,17,2,0,0,910,26,5,12,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,AMP UP YOUR FAJITAS,Add-on Shrimp Skewer,,50,4.5,0,0,40,390,1,0,0,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Corn Tortillas (1),,60,0.5,0,0,0,0,12,1,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Guacamole,,50,5,0.5,0,0,90,3,2,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Homemade Flour Tortillas (1),,100,3,1.5,0,0,250,15,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Mixed Cheese,,110,9,5,,25,170,1,0,0,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Pico de Gallo,,10,0.5,0,0,0,125,1,0,1,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Shredded Lettuce,,5,0,0,0,0,0,1,0,1,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Fajita Condiments,Sour Cream,,60,5,3.5,0,20,15,1,0,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Side – Mexican Rice*,,220,5,1,0,0,910,39,2,1,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Side – Black Beans,,210,1.5,0.5,0,0,690,36,12,1,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Side – Refried Beans,,220,7,2.5,0,0,540,30,7,1,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Carne Asada*,,1050,71,26,0,110,2830,57,5,6,,41,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Grilled Queso Chicken,,720,35,10,0.5,130,2350,59,8,9,,49,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Mexican Grilled Chicken,,490,18,3.5,0,80,1990,53,5,8,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Birria Quesa Tacos with Consommé (2),,490,22,11,0,63,2290,41,2,4,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Birria Quesa Tacos with Consommé (3),,730,34,16,0,95,3440,61,4,6,,44,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Brisket Tacos (2),,930,51,22,0,110,2560,72,2,23,,44,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Brisket Tacos (3),,1360,75,33,0,165,3580,101,3,28,,66,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Honey-Chipotle Shrimp Tacos (Grilled) (2),,470,27,5,0,110,2600,44,2,9,,25,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Honey-Chipotle Shrimp Tacos (Grilled) (3),,710,41,7,0,165,3090,65,3,13,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Dos XX Fish Tacos (2),,1040,76,20,0,105,2420,64,1,4,,26,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Dos XX Fish Tacos (3),,1440,101,28,0.5,145,3490,95,2,6,,39,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Southwest Chicken Tacos (2),,1200,92,25,0,155,2070,52,2,3,,41,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Southwest Chicken Tacos (3),,1670,124,36,0,220,2960,78,3,4,,61,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Tacos al Carbon – Fajita Chicken (2),,750,51,10,0,90,2770,44,5,4,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Tacos al Carbon – Fajita Chicken (3),,1120,74,15,0.5,135,3960,63,6,4,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Tacos al Carbon – Fajita Steak (2),,870,63,16,0,90,2700,43,5,4,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Tacos al Carbon – Fajita Steak (3),,1270,91,23,0,130,3860,60,6,4,,49,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Bean Burrito without Sauce,,940,38,19,0,60,2060,106,15,2,,41,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Burrito without Sauce – Fajita Chicken,,720,33,17,0,150,1840,51,2,1,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Burrito without Sauce – Fajita Steak,,850,48,23,0,150,1780,50,2,1,,50,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Burrito without Sauce – Seasoned Ground Beef,,850,44,22,0,145,2280,56,1,1,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Burrito without Sauce – Shredded Chicken Tinga,,730,33,17,0,145,2820,52,2,4,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Chimichanga without Sauce – Fajita Chicken,,840,47,19,0,150,1840,51,2,1,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Chimichanga without Sauce – Fajita Steak,,970,62,26,0,150,1780,50,2,1,,50,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Chimichanga without Sauce – Seasoned Ground Beef,,970,57,24,0,145,2280,56,1,1,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Classic Chimichanga without Sauce – Shredded Chicken Tinga,,850,47,19,0,145,2820,52,2,4,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,The Big Bordurrito – Fajita Chicken*,,1890,106,26,1.5,140,5330,168,16,13,,70,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,The Big Bordurrito – Fajita Steak*,,2010,120,33,1.5,140,5250,166,16,13,,66,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Veggie Burrito without Sauce with Cilantro Lime Rice & Black Beans,,990,36,17,0,55,2470,128,16,6,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FROM THE MESQUITE GRILL listed as served,Veggie Chimichanga without Sauce with Cilantro Lime Rice & Black Beans,,1130,52,20,0.5,55,2470,128,16,6,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD choice of sauce:,Chile con Carne,,110,5,2,0,15,630,8,2,1,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD choice of sauce:,Roasted Red Chile-Tomatillo Salsa,,30,0.5,0,0,0,330,6,2,3,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD choice of sauce:,Salsa Verde,,35,1,0,0,0,190,7,2,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD choice of sauce:,Signature Queso,,180,13,8,0.5,40,880,7,1,6,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD choice of sauce:,Sour Cream Sauce,,80,6,3.5,0,15,460,5,0,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Border Queso Beef Enchilada,,470,24,10,0,75,1270,36,4,5,,26,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Ranchiladas,,1070,70,32,0,220,2770,42,7,4,,68,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Tres Cheese Enchiladas with Roasted Red Chile-Tomatillo Salsa with Cilantro Lime Rice & Black Beans,,1340,65,36,0,175,2910,127,19,8,,64,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Gran Papi with Crispy Ground Seasoned Beef Taco and Mexican Rice*,,1900,114,45,2,250,4720,136,7,12,,74,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Choice of Beans,Gran Papi with Soft Seasoned Ground Beef Taco and Mexican Rice*,,1890,111,45,2,250,4960,139,6,12,,75,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SOUP OR SALAD,Chicken Tortilla Soup* – Cup,,340,19,7,0,55,1280,23,3,2,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SOUP OR SALAD,House Salad without Dressing,,210,11,3,0,5,190,23,4,3,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CLASSICS,Cheese Chile Relleno with Salsa Verde,,510,33,18,0.5,55,1080,31,10,6,,22,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CLASSICS,Chicken Flauta with Queso,,290,19,7,0.5,60,840,14,0,4,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,CLASSICS,Beef Empanadas with Queso,,490,31,14,1,60,1110,34,0,5,,18,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ENCHILADAS,Cheese with Chile con Carne,,320,21,11,0,55,620,17,2,1,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ENCHILADAS,Pork Carnitas with Salsa Verde,,270,16,4.5,0,40,560,19,3,5,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ENCHILADAS,Shredded Chicken Tinga with Salsa Verde,,190,8,3,0,35,710,17,3,3,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ENCHILADAS,Shredded Chicken Tinga with Sour Cream Sauce,,220,11,4.5,0,45,850,16,2,2,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ENCHILADAS,Seasoned Ground Beef with Chile con Carne,,270,14,5,0,45,740,19,2,1,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Shredded Chicken Tinga – Crispy,,210,11,3.5,0,35,620,15,2,2,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Shredded Chicken Tinga – Soft,,200,8,3.5,0,35,860,18,1,2,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Dos XX Fish with Creamy Red Chile Sauce,,400,25,8,0,40,1060,31,1,2,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Seasoned Ground Beef – Crispy,,250,14,5,0,35,430,16,2,1,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Seasoned Ground Beef – Soft,,240,11,5,0,35,680,19,0,1,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Veggie – Crispy,,180,11,3,0,5,135,17,2,3,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,TACOS,Veggie – Soft,,170,8,3.5,0,5,380,20,1,2,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Sauce,Chile con Carne,,110,5,2,0,15,630,8,2,1,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Sauce,Roasted Red Chile-Tomatillo Salsa,,30,0.5,0,0,0,330,6,2,3,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Sauce,Salsa Verde,,35,1,0,0,0,190,7,2,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Sauce,Signature Queso,,180,13,8,0.5,40,880,7,1,6,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Sauce,Sour Cream Sauce,,80,6,3.5,0,15,460,5,0,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,Chicken Tortilla Soup* – Cup,,340,19,7,0,55,1280,23,3,2,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,House Salad without Dressing,,210,11,3,0,5,190,23,4,3,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,Lunch Size Quesadilla – Brisket,,680,49,20,0.5,90,1670,33,4,4,,28,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,Lunch Size Quesadilla – Chicken,,680,49,19,0.5,100,1410,33,4,4,,29,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,Lunch Size Quesadilla – Steak,,720,54,21,0.5,100,1390,32,4,4,,28,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,Quesadilla Combo each item listed separately,Lunch Size Quesadilla – Veggie,,650,49,19,0.5,70,1280,35,5,5,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Avocado Slices (3),,60,6,1,0,0,0,3,3,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Black Beans,,210,1.5,0.5,0,0,690,36,12,1,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Cilantro Lime Rice,,180,2,0,0,0,570,37,2,1,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Corn Tortillas (1),,60,0.5,0,0,0,0,12,1,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Fries (5 oz) and Ketchup,,420,15,3,0,0,910,65,5,13,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Grilled Shrimp Skewer (3 Shrimp),,50,4.5,0,0,40,390,1,0,0,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Guacamole,,50,5,0.5,0,0,90,3,2,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Homemade Flour Tortillas (1),,100,3,1.5,0,0,250,15,0,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,House Salad without Dressing,,210,11,3,0,5,190,23,4,3,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Mixed Cheese,,110,9,5,,25,170,1,0,0,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Pico de Gallo,,10,0.5,0,0,0,125,1,0,1,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Refried Beans,,220,7,2.5,0,0,540,30,7,1,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Sautéed Vegetables,,100,7,1.5,0,0,220,9,2,5,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Sour Cream,,60,5,3.5,0,20,15,1,0,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,SAUCES TO SAVOR values based on 3 fl oz Chile con Carne,,110,5,2,0,15,630,8,2,1,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Honey-Chipotle Sauce,,45,0,0,0,0,440,12,1,10,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Jalapeño-BBQ Sauce,,140,2,1,0,0,1060,30,0,26,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Lime-Cilantro Chimichurri,,270,28,2,0,0,1750,6,1,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Roasted Red Chile-Tomatillo Salsa,,30,0.5,0,0,0,330,6,2,3,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Salsa Verde,,35,1,0,0,0,190,7,2,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Signature Queso,,180,13,8,0.5,40,880,7,1,6,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Sour Cream Sauce,,80,6,3.5,0,15,460,5,0,1,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIGNATURE SIDES & ADD-ONS,Spicy Avocado Ranch,,260,26,3,0,25,650,5,1,2,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Border Brownie Sundae,,890,49,24,0.5,145,300,111,4,81,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Mini Sopapillas with Honey and Chocolate Sauce,,1380,59,21,0,0,1080,206,7,116,,18,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Mini Sopapillas (half order) with Chocolate Sauce,,590,32,13,0,0,470,71,4,32,,9,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Mini Sopapillas (half order) with Honey,,620,18,5,0,0,410,113,2,79,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Strawberry Cheesecake Chimis,,1010,62,32,2.5,240,960,95,3,58,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS listed as served,Tres Leches Cake,,750,37,24,0,235,530,93,0,64,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Coca-Cola,,130,0,0,0,0,45,37,0,37,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Coffee,,0,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Coke Zero,,0,0,0,0,0,35,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Diet Coke,,0,0,0,0,0,35,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Diet Dr Pepper,,0,0,0,0,0,55,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Diet Pepsi,,0,0,0,0,0,35,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Dr Pepper,,140,0,0,0,0,55,36,0,35,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Fanta Orange,,150,0,0,0,0,50,40,,40,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Flavored Iced Tea – Mango,,70,0,0,0,0,10,18,0,17,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Flavored Iced Tea – Peach,,70,0,0,0,0,10,17,0,16,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Iced Tea – Sweet,,110,0,0,0,0,0,27,0,27,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Iced Tea – Unsweet,,5,0,0,0,0,10,1,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Apple,,70,0,0,0,0,5,18,0,15,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Cranberry,,90,0,0,0,0,0,21,0,19,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Grapefruit,,50,0,0,0,0,0,12,1,11,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Orange,,160,0,0,0,0,25,37,0,33,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Pineapple,,80,0,0,0,0,0,20,0,16,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Juice – Tomato,,30,0,0,0,0,430,6,1,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Milk 2%,,170,7,4,0,25,160,16,0,16,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Mtn Dew,,150,0,0,0,0,50,40,0,40,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Pepsi,,140,0,0,0,0,30,38,0,38,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Pepsi Zero Sugar,,0,0,0,0,0,35,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Sprite,,150,0,0,0,0,35,37,0,33,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Starry Lemon-Lime,,130,0,0,0,0,30,36,0,36,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Strawberry Lemonade,,220,0,0,0,0,20,56,1,53,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Tropicana Fruit Punch,,180,0,0,0,0,15,45,0,41,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Tropicana Lemonade,,140,0,0,0,0,140,37,0,36,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Big Kid Nachos – Fajita Chicken,,700,44,20,0,110,1390,43,6,4,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Big Kid Nachos – Seasoned Ground Beef,,740,47,22,0,105,1530,44,5,4,,35,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Border Chicken Strips with Fries & Ketchup,,930,41,7,0.5,90,3220,97,5,13,,42,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Cheese Quesadilla with Fries & Ketchup,,1280,82,31,1,100,2030,99,6,13,,35,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,"Cheese Quesadilla with Fajita Chicken, Fries & Ketchup",,1350,84,32,1,130,2270,100,7,13,,46,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Cheeseburger with Fries & Ketchup,,980,50,16,0,50,1480,106,6,17,,27,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served,Corn Dog with Fries & Ketchup,,650,29,7,0,15,1230,87,6,17,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Kid Enchilada Plates with Mexican Rice* & Refried Beans Cheese Enchilada with Chile con Carne,,760,33,14,0,55,2070,86,11,2,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Seasoned Ground Beef Enchilada with Chile con Carne,,700,25,8,0,45,2180,88,11,2,,29,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Shredded Chicken Tinga Enchilada with Sour Cream Sauce,,650,22,7,0,45,2280,85,10,3,,27,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Grilled Cheese Sandwich with Fries & Ketchup,,880,45,15,0,45,1810,95,7,18,,21,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Grilled Fajita Chicken Soft Taco with Mexican rice* & refried beans,,690,23,8,0,55,2140,87,9,2,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Kid Tacos with Mexican rice* & refried beans Seasoned Ground Beef,,930,40,13,0,70,2290,100,11,2,,39,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS listed as served (cont’d.),Shredded Chicken,,850,33,10,0,75,2670,97,12,4,,39,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS SIDES,Side – Fries & Ketchup,,420,15,3,0,0,910,65,5,13,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS SIDES,Side – Mexican Rice*,,220,5,1,0,0,910,39,2,1,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS SIDES,Side – Refried Beans without Garnish,,210,6,2,0,0,520,30,7,1,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS DESSERTS,Blue Raspberry Border Blast,,390,0,0,0,0,25,95,0,90,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS DESSERTS,Cherry Border Blast,,470,0,0,0,0,60,120,0,115,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS DESSERTS,Ice Cream Sundae with Chocolate Syrup,,290,16,9,0,35,80,36,2,26,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS DESSERTS,Ice Cream Sundae with Strawberry Purée,,220,9,5,0,35,55,34,1,26,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS DESSERTS,Mini Sopapillas with Honey,,310,9,2.5,0,0,210,57,1,39,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Juice – Apple,,100,0,0,0,0,10,25,0,21,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Juice – Cranberry,,120,0,0,0,0,0,30,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Juice – Orange,,140,0,0,0,0,20,33,0,30,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Milk 2%,,150,6,4,0,25,140,15,0,15,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Coke,,80,0,0,0,0,30,23,0,23,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Coke Zero,,0,0,0,0,0,25,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Diet Coke,,0,0,0,0,0,25,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Diet Dr Pepper,,0,0,0,0,0,35,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Diet Pepsi,,0,0,0,0,0,20,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Dr Pepper,,90,0,0,0,0,35,23,0,22,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Fanta Orange,,90,0,0,0,0,30,26,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Strawberry Lemonade,,140,0,0,0,0,15,37,0,35,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Mtn Dew,,100,0,0,0,0,30,26,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Pepsi,,90,0,0,0,0,20,24,0,24,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Pepsi Zero Sugar,,0,0,0,0,0,25,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink – Sprite,,90,0,0,0,0,20,23,0,21,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink - Starry Lemon-Lime,,90,0,0,0,0,20,23,0,23,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink - Tropicana Fruit Punch,,110,0,0,0,0,10,29,0,26,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,KIDS BEVERAGES,Soft Drink - Tropicana Lemonade,,90,0,0,0,0,90,23,0,23,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BORDER BOWLS listed as served,Grilled Chicken,,680,20,4.5,0,60,2210,92,18,8,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BORDER BOWLS listed as served,Grilled Portobello,,580,15,3.5,0,10,1730,94,19,10,,20,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BORDER BOWLS listed as served,Grilled Shrimp,,670,24,3.5,0,85,2510,91,18,8,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BORDER BOWLS listed as served,Grilled Steak,,760,28,8,0,65,2400,92,18,8,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BORDER BOWLS listed as served,Borderita,,340,0,0,0,0,2840,43,0,39,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Mexican Margarita Flight,,390,0,0,0,0,2870,60,1,54,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Texas Margarita Flight,,430,0,0,0,0,2840,61,0,54,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Ranchiladas with Mexican Rice* & Refried Beans,,1510,82,35,0,223,4220,111,15,5,,82,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,"The Ultimate Fajita with condiments, Mexican Rice* & Refried Beans",,1610,81,25,0.5,150,4680,157,13,14,,67,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Spicy Ghost ’Rita,,240,0,0,0,0,2840,31,0,27,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,The Perfect Patrón,,250,0,0,0,0,2840,34,0,30,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Cheese Quesadilla with Sour Cream & Roasted Red Chile-Tomatillo Salsa,,810,63,26,1,90,1170,35,2,3,,25,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Crispy Tacos (3) – Seasoned Ground Beef,,740,42,15,0,105,1290,47,4,2,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Crispy Tacos (3) – Shredded Chicken Tinga,,630,32,10,0,110,1850,43,5,4,,38,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Flautas (3) with Queso,,800,46,14,1,135,2500,52,5,9,,43,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Firecracker Jalapeños (4) with Ranch,,760,59,22,1,100,2780,32,9,7,,26,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Queso Sampler with Chips,,580,36,17,1,65,1590,49,6,12,,19,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Cantina Nachos – Seasoned Ground Beef,,830,54,24,0,110,2020,50,9,7,,36,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Cantina Nachos – Shredded Chicken Tinga,,800,51,22,0,115,2210,49,9,7,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Crispy Tacos – Chicken Tinga (5),,980,52,16,0,150,2450,73,9,8,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Crispy Tacos – Seasoned Ground Beef (5),,1240,71,25,0,175,2160,80,8,4,,64,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Primo Tacos – Brisket (5),,2010,101,39,0,205,5820,178,5,56,,90,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Primo Tacos – Southwest Chicken (5),,2620,198,47,1,300,4230,127,5,8,,84,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Soft Tacos – Chicken Tinga (5),,940,36,17,0,150,3680,88,4,7,,58,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Soft Tacos – Seasoned Ground Beef (5),,1200,55,25,0,175,3380,96,2,4,,68,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Carnitas with Salsa Verde (5),,1340,80,23,1,200,2900,92,13,20,,69,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Cheese with Chile con Carne (5),,1600,106,54,1,270,3120,84,12,4,,78,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Cheese with Red Chile-Tomatillo Sauce Vegetarian Version (5),,1600,102,59,0,290,2760,89,9,11,,83,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Seasoned Ground Beef with Chile con Carne (5),,1340,68,27,1,215,3720,95,12,4,,78,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Shredded Chicken Tinga with Salsa Verde (5),,890,37,14,0,145,2910,83,14,15,,55,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Shredded Chicken Tinga with Sour Cream Sauce (5),,1010,50,22,0,185,3590,79,9,8,,55,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Small – King Ranch Mexican Casserole only,,2300,122,61,1.5,440,7850,172,16,32,,130,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,Small – Veggie Mexican Casserole with Roasted Red Chile-Tomatillo Salsa only,,2090,104,49,2,220,4500,214,35,39,,89,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,"Carnitas with Onions, Peppers, Tortillas, Pico, Sour Cream",,2890,152,49,2.5,360,8620,249,9,37,,130,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,"Grilled Steak & Chicken Combo with Onions, Peppers, Tortillas, Pico, Sour Cream",,2690,120,49,0.5,440,7280,231,9,21,,162,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,"Grilled Chicken with Onions, Peppers, Tortillas, Pico, Sour Cream",,2450,92,35,0.5,445,7240,234,9,21,,169,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,FLIGHTS,"Grilled Steak with Onions, Peppers, Tortillas, Pico, Sour Cream",,2930,148,62,0,435,7330,227,9,21,,155,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Beans – Black,,600,5,1.5,0,5,2030,106,34,2,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Beans – Refried,,650,20,7,0,5,1580,87,20,2,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Chips & Salsa,,1660,77,19,0,5,3720,225,29,27,,24,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Guacamole for Fajitas,,360,33,4.5,0,0,610,18,13,1,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Mixed Cheese for Fajitas,,270,22,13,,65,430,1,0,0,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Signature Queso for Build Your Own Taco Kit and Primo Taco Kit,,480,35,22,1.5,105,2350,18,2,15,,25,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Rice – Cilantro Lime,,670,7,1.5,0,0,2130,137,6,2,,12,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,Rice – Mexican*,,840,21,3,0,5,3420,148,6,2,,15,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD SIDES,House Salad without Dressing,,430,23,6,0,10,520,48,9,7,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Lime Vinaigrette,,280,24,2,0,0,960,20,0,16,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Ranch,,460,48,6,0,45,790,5,0,4,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Salsa,,40,0,0,0,0,890,9,2,6,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Smoked Jalapeño Vinaigrette,,230,19,1.5,0,0,1260,18,0,14,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Spicy Avocado Ranch,,340,35,4.5,0,30,870,6,2,3,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),ADD Queso to any Meal,,1910,139,86,6,420,9420,73,7,59,,102,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),INDIVIDUAL BOXES includes chips & salsa Chilled Fajita Wrap – Chicken,,770,34,11,0,65,2110,87,7,10,,32,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Chilled Fajita Wrap – Steak,,940,54,17,0,80,1910,82,6,7,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Chilled Fajita Wrap – Veggie,,760,37,11,0,20,2050,92,8,13,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Chicken (2),,800,38,15,0,135,1820,66,4,4,,49,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Chicken (3),,1080,51,21,0,200,2500,84,5,5,,73,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Combo (2),,860,45,18,0,135,1740,65,4,4,,48,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Steak (2),,920,52,22,0,130,1660,64,4,4,,46,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Steak (3),,1260,72,31,0,200,2250,80,5,5,,67,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Veggie (2),,560,27,9,0,15,1250,68,6,7,,12,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Fajita Taco Box – Veggie (3),,730,35,13,0,20,1640,87,7,10,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Grande Burrito Box – Carnitas,,1130,45,15,0,80,3040,140,14,8,,42,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Grande Burrito Box – Chicken,,1010,33,12,0,75,2660,137,14,5,,42,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of Dressing (4 fl oz),Grande Burrito Box – Portobello,,940,29,12,0,25,2370,141,15,7,,29,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,INDIVIDUAL BOXES includes chips & salsa (cont’d.),Grande Burrito Box – Steak,,1070,40,16,0,75,2590,136,14,5,,40,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,INDIVIDUAL BOXES includes chips & salsa (cont’d.),Grande Burrito Box – Veggie,,1000,36,13,0,25,2600,142,15,9,,28,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Guacamole,,110,10,1.5,0,0,180,5,4,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Queso,,120,9,5,0,25,590,5,0,4,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Sour Cream,,110,10,7,0,40,30,2,0,2,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Fajita Salad – Chicken,,570,24,5,0,85,1740,57,11,13,,37,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Fajita Salad – Steak,,650,34,10,0,75,1770,56,11,13,,32,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Taco Salad – Seasoned Ground Beef,,920,56,19,0,95,2170,71,12,12,,34,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD-ON,Taco Salad – Shredded Chicken Tinga,,850,50,16,0,95,2550,68,13,13,,35,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Dressing (2 fl oz),House-made Salsa,,20,0,0,0,0,450,4,1,3,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Dressing (2 fl oz),Lime Vinaigrette,,140,12,1,0,0,480,10,0,8,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Dressing (2 fl oz),Ranch,,230,24,3,0,25,400,2,0,2,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Dressing (2 fl oz),Smoked Jalapeño Vinaigrette,,120,10,1,0,0,630,9,0,7,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Dressing (2 fl oz),Spicy Avocado Ranch,,170,18,2,0,15,430,3,1,2,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Chocolate & Walnut Brownie(1),,250,14,6,0,45,90,32,2,24,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Chocolate Chunk Cookie (1),,530,25,9,2,120,250,73,3,42,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Strawberry Cheesecake Chimi (1),,550,31,16,1,120,480,58,2,39,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grilled Chicken Bowl,,1260,46,11,0,95,3260,163,26,13,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grilled Combo Bowl,,1300,51,13,0,95,3280,162,26,13,,52,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grilled Portobello Bowl,,1110,38,9,0,15,2730,166,27,15,,29,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grilled Shrimp Bowl,,1190,47,9,0,95,3510,161,25,13,,41,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grilled Steak Bowl,,1340,56,16,0,90,3290,162,26,13,,50,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Add-on Shrimp Skewer,,50,4.5,0,0,40,390,1,0,0,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grande Fajita Fiesta,,1400,74,27,0.5,150,2890,127,11,24,,56,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Grande Traditional Fiesta,,1390,80,33,0.5,140,2460,119,11,22,,50,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Ultimate Taco Fiesta – Seasoned Ground Beef Crispy Taco,,1370,78,30,0.5,145,2400,116,10,22,,51,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Ultimate Taco Fiesta – Seasoned Ground Beef Soft Taco,,1360,71,30,0,145,2890,122,7,22,,53,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Ultimate Taco Fiesta – Shredded Chicken Tinga Crispy Taco,,1280,69,26,0.5,150,2870,113,10,25,,52,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD a Dessert,Ultimate Taco Fiesta – Shredded Chicken Tinga Soft Taco,,1270,63,26,0,150,3360,119,8,24,,53,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Side Beans – Black,,120,0.5,0,0,0,400,22,6,0,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Side Beans – Refried,,130,3.5,0,0,0,310,18,6,0,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Side Rice – Cilantro Lime,,130,1.5,0,0,0,430,27,6,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Side Rice – Mexican*,,170,4,0,0,0,680,30,6,0,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Carnitas,,1260,74,22,0.5,130,2810,104,10,12,,48,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Chicken,,1010,50,16,0,110,2040,97,10,7,,44,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Portobello & Veggie,,930,48,16,0,30,1690,104,12,11,,21,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Steak & Chicken,,1050,55,19,0,110,2050,97,10,7,,42,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Shrimp,,940,51,15,0,105,2280,96,9,7,,31,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Classic Fajita – Steak,,1090,60,21,0,105,2070,96,10,7,,40,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Grande Portion – Carnitas,,1460,86,25,1,165,3380,115,10,14,,59,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Grande Portion – Chicken,,1120,54,17,0,135,2330,106,10,7,,54,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Grande Portion – Steak & Chicken,,1200,62,22,0,140,2370,106,10,7,,53,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Grande Portion – Steak,,1280,70,26,0,140,2410,105,10,7,,53,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Grande Fajita Trio,,1370,76,23,0,215,3340,110,11,9,,69,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Smokehouse Fajitas,,2060,126,43,0.5,335,5200,135,11,30,,102,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,ADD Brisket to any Fajita,,180,9,3.5,0,60,690,1,0,0,,24,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,ADD Carnitas to any Fajita,,290,21,5,0,70,880,6,0,4,,21,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,ADD Chipotle Ribs to any Fajita,,290,19,7,0,95,540,5,0,5,,23,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,ADD Jalapeño Sausage,,300,28,11,0,70,760,2,0,0,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Fajita & Taco Bar,,1020,54,18,0,100,1810,94,10,6,,39,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Nacho Buffet – Fajita Chicken,,1040,58,22,1,135,3030,87,16,14,,47,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Nacho Buffet – Fajita Steak,,1110,67,26,1,135,3040,86,16,14,,45,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Nacho Buffet – Fajita Steak & Chicken Combo,,1080,62,24,1,135,3050,87,16,14,,46,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Nacho Buffet – Seasoned Ground Beef,,1110,63,25,1,130,3370,91,15,14,,45,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Nacho Buffet – Shredded Chicken Tinga,,1040,57,22,1,130,3750,88,16,16,,46,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Taco Buffet – Seasoned Ground Beef – Crispy,,610,32,9,0,35,810,62,7,3,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Taco Buffet – Seasoned Ground Beef – Soft,,600,28,9,0,35,1050,65,6,3,,18,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Taco Buffet – Shredded Chicken Tinga – Crispy,,570,28,8,0,40,1000,61,7,4,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Taco Buffet – Shredded Chicken Tinga – Soft,,560,25,8,0,40,1240,64,6,4,,18,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Taste of the Border,,1620,91,35,0.5,170,3220,133,16,10,,68,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Tex-Mex Combo,,930,53,20,0,90,1440,79,9,4,,33,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Traditional Fiesta – Seasoned Ground Beef – Crispy,,720,40,15,0,60,1400,67,7,7,,23,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Traditional Fiesta – Shredded Chicken Tinga – Crispy,,690,37,13,0,65,1580,65,7,8,,24,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Chicken Flauta (1),,170,10,1.5,0,35,350,10,0,1,,9,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Chicken Tenders (1),,160,10,2,0,10,410,10,1,0,,8,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Empanada – Seasoned Ground Beef (1),,200,12,5,0,20,330,15,0,1,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Carnitas with Salsa Verde (1),,270,16,4.5,0,40,580,18,3,4,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Cheese with Chile con Carne (1),,320,21,11,0,55,620,17,2,1,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Seasoned Ground Beef with Chile con Carne (1),,270,14,5,0,45,740,19,2,1,,16,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Shredded Chicken Tinga with Salsa Verde (1),,190,8,3,0,35,710,17,3,3,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Shredded Chicken Tinga with Sour Cream Sauce (1),,220,11,4.5,0,45,850,16,2,2,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Cheese with Queso (1),,360,25,14,0,65,750,16,2,3,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Enchiladas – Cheese & Onion with Roasted Red Chile-Tomatillo Salsa (1),,320,20,12,0,60,550,18,2,2,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Guacamole (1 oz),,50,4.5,0.5,0,0,80,2,2,0,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Burrito – Brisket with Jalapeño BBQ Sauce (1),,210,8,3.5,0,25,790,21,0,5,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Burrito – Brisket without Jalapeño BBQ (1),,190,7,3,0,25,620,16,0,0,,12,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Burrito – Seasoned Ground Beef (1),,230,12,6,0,35,620,17,0,0,,12,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Burrito – Shredded Chicken Tinga (1),,210,9,4.5,0,35,760,16,0,1,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Chimichanga – Seasoned Ground Beef (1),,240,14,6,0,15,590,18,2,2,,11,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Chimichanga – Shredded Chicken Tinga (1),,230,13,7,0,35,500,18,0,1,,12,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Quesadilla – Brisket (1),,240,18,8,0,30,450,9,0,0,,10,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Quesadilla – Cheese & Rajas (1),,230,18,7,0,25,290,9,0,1,,8,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Quesadilla – Fajita Chicken (1),,270,19,8,0,40,450,11,1,1,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Quesadilla – Fajita Steak (1),,290,22,9,0,40,420,10,1,1,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Mini Quesadilla – Veggie (1),,260,20,8,0,25,400,11,1,2,,8,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Signature Queso (2 fl),,120,9,5,0,25,590,5,0,4,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Stuffed Jalapeño (1),,130,9,4.5,0,20,600,7,2,1,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Tacos – Seasoned Ground Beef – Crispy,,250,14,5,0,35,430,16,2,1,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Tacos – Seasoned Ground Beef – Soft,,240,11,5,0,35,680,19,0,1,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Tacos – Shredded Chicken Tinga – Crispy,,210,11,3.5,0,35,620,15,2,2,,13,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Tacos – Shredded Chicken Tinga – Soft,,200,8,3.5,0,35,860,18,1,2,,14,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Veggie – Crispy,,180,11,3,0,5,150,16,2,2,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Rice & Beans,Veggie – Soft,,170,8,3.5,0,5,390,19,1,2,,5,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS,5-Layer Dip Platter with Tortilla Crisps – Large (Serves 15-20),,8160,570,215,2.5,720,14590,539,99,48,,226,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS,Beef Empanada Platter,,5340,332,137,9,615,10360,379,2,37,,186,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS,Fajita Wrap Platter­ – Chicken,,5370,257,84,0,705,16920,498,27,81,,287,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS,Fajita Wrap Platter­ – Steak,,7650,536,155,2,945,13940,428,25,36,,276,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS,Add-on Bacon & Avocado,,1630,133,41,0,405,5210,39,27,7,,89,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS (cont’d.),Mexican Sampler Platter with Queso,,3710,268,113,4,585,7770,144,9,29,,183,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,PARTY PLATTERS (cont’d.),ADD Beef Empanadas (6),,1220,74,29,2,125,2000,90,0,5,,40,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Seasoned Ground Beef (6),,1440,81,36,2.5,105,3520,111,14,12,,65,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Shredded Chicken Tinga (6),,1410,76,40,1,200,3020,109,0,4,,72,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Chimichanga Platter with Queso – Combination,,6160,350,173,8,715,15440,457,30,48,,301,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Chimichanga Platter with Queso – Seasoned Ground Beef,,6230,361,167,11,520,16440,462,59,63,,287,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Chimichanga Platter with Queso – Shredded Chicken Tinga,,6100,339,180,6,910,14440,452,2,33,,315,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Quesadilla Platter – Cheese,,6450,515,206,6,740,8890,251,24,29,,195,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Quesadilla Platter – Fajita Chicken,,7390,548,214,6,1115,12640,290,33,43,,329,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Mini Quesadilla Platter – Fajita Steak,,7870,605,240,6,1110,11980,281,32,43,,315,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Large – King Ranch Mexican Casserole only,,4840,252,125,3.5,980,17630,347,32,66,,291,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,Large – Veggie Mexican Casserole with Roasted Red Chile-Tomatillo Salsa only,,4180,207,99,4,440,9010,427,71,77,,177,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,ADD Beans – Black – Large,,1190,7,1.5,0,0,4040,216,69,3,,64,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,ADD Beans – Refried – Large,,1320,40,14,0,10,3230,178,41,4,,61,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Mini Chimichanga –,ADD Chips & Salsa – Large,,1720,78,19,0,5,5590,237,28,35,,23,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD House Salad (Serves 8-10),without Dressing – Large,,1000,52,14,0,30,1660,116,26,26,,27,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),House-made Salsa,,240,3,0,0,0,5870,52,8,35,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Lime Vinaigrette,,700,60,5,0,0,2400,50,0,40,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Ranch,,1150,121,15,0.5,115,1980,12,0,10,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Smoked Jalapeño Vinaigrette,,590,48,4,0,0,3150,46,1,35,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Spicy Avocado Ranch,,860,88,11,0,75,2160,16,4,8,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),ADD Rice – Cilantro Lime – Large,,1340,15,3,0,0,4250,275,12,4,,25,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),ADD Rice – Mexican* – Large,,1670,41,6,1,5,6840,295,12,4,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Campfire Queso with Chips,,9560,584,251,5,1000,15770,750,99,62,,329,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,ADD Choice of 2 Dressings (10 fl oz),Campfire Queso without Chips,,4800,344,193,4.5,980,15250,153,33,53,,274,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Grilled Shrimp Skewers,,660,55,2,0,460,4720,7,1,1,,88,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Corn Tortillas,,680,8,1.5,0,0,40,139,12,3,,15,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Flour Tortillas,,1200,36,18,0,0,3000,180,0,0,,24,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Mini Burritos – Brisket with Jalapeño BBQ Sauce,,2510,92,40,0.5,325,9520,255,3,57,,152,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Enchiladas – Cheese with Chile con Carne,,3910,258,133,2,655,7620,207,29,10,,192,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Enchiladas – Seasoned Ground Beef with Chile con Carne,,3210,164,64,2,520,8940,227,28,9,,187,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Enchiladas – Shredded Chicken Tinga with Sour Cream Sauce,,2600,127,54,0,520,10170,193,22,21,,158,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Mini Burritos – Brisket without Jalapeño BBQ Sauce,,2220,89,38,0.5,325,7400,194,2,5,,150,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Mini Burritos – Shredded Chicken Tinga,,2480,110,56,0,425,9150,197,3,8,,151,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN,Mini Burritos – Seasoned Ground Beef,,2810,140,70,0,410,7450,209,0,0,,150,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Brisket with Jalapeño BBQ Sauce,,5440,302,131,1,665,14300,404,12,114,,263,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Fajita Chicken,,3430,162,76,0,800,8090,215,6,9,,279,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Fajita Steak,,4160,247,116,0,790,7110,202,5,9,,258,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Seasoned Ground Beef – Crispy,,2970,169,60,0,415,5170,192,19,10,,153,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Seasoned Ground Beef – Soft,,2880,131,61,0,415,8110,229,5,9,,163,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Shredded Chicken Tinga – Crispy,,2540,130,41,0,435,7440,177,22,21,,156,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Shredded Chicken Tinga – Soft,,2440,92,42,0,435,10380,214,8,19,,165,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE DOZEN (cont’d.),Tacos – Southwest Chicken with Jalapeño BBQ Sauce,,5990,395,130,1,795,11920,363,13,65,,245,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE QUART,Border Queso,,920,60,36,2.5,170,4670,58,11,41,,46,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE QUART,Guacamole,,1530,142,19,0,0,2610,76,57,6,,17,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SIDES & ADD-ONS—BY THE QUART,House-made Salsa,,270,3.5,0.5,0,0,6780,61,9,40,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Confetti Rice Salad*,,5110,208,22,2.5,10,15870,730,69,71,,102,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Fajita Salad – Chicken ADD choice of dressings,,1500,74,14,0,330,3150,102,37,32,,133,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Fajita Salad – Steak ADD choice of dressings,,1840,115,35,0,310,3310,97,37,32,,117,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,House Salad – Large (Serves 8-10) without dressing,,1000,52,14,0,30,1660,116,26,26,,27,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,SALAD DRESSINGS ADD 2 Dressings (10 fl oz) House-made Salsa,,240,3,0,0,0,5870,52,8,35,,6,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Lime Vinaigrette,,700,60,5,0,0,2400,50,0,40,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Ranch,,1150,121,15,0.5,115,1980,12,0,10,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Smoked Jalapeño Vinaigrette,,590,48,4,0,0,3150,46,1,35,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,SALADS,Spicy Avocado Ranch,,860,88,11,0,75,2160,16,4,8,,7,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS,Dessert Bite Platter,,6130,305,113,0,545,3650,834,34,523,,73,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS,Chocolate Walnut Brownies – by the dozen,,3000,168,66,0,540,1080,378,18,282,,30,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS (cont’d.),Mini Sopapillas Platter (48 Pieces),,3130,137,47,0,5,2570,456,16,241,,43,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS (cont’d.),Strawberry Cheesecake Chimis (12),,5840,374,193,14,1440,5770,517,16,304,,85,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,DESSERTS (cont’d.),Tres Leches Cake,,7420,400,249,0,2145,4830,884,12,616,,137,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Bottled Water,,0,0,0,0,0,0,0,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Flavored Iced Tea – Mango (Gallon),,780,0,0,0,0,95,201,0,192,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Flavored Iced Tea – Peach (Gallon),,780,0,0,0,0,95,201,0,192,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Iced Tea – Unsweet (Gallon),,40,0,0,0,0,115,11,0,0,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Strawberry Lemonade (Gallon),,2530,1,0,0,0,210,651,11,612,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Minute Maid Lemonade (Gallon),,1770,0,0,0,0,230,464,0,448,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Mango Margarita Mix Canteen,,1890,1,0,0,0,440,496,1,454,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,OTB Margarita Mix Canteen,,1390,0,0,0,0,520,365,0,319,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Strawberry Margarita Mix Canteen,,1840,1,0,0,0,430,475,7,420,,3,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,BOTTLED BEER (12 fl oz) Angry Orchard Hard Cider,,190,0,0,0,0,,25,0,20,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Blue Moon,,170,0,0,0,0,15,14,0,11,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Bohemia,,150,0,0,0,0,0,14,0,3,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Bud Light,,110,0,0,0,,,7,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Budweiser,,150,0,0,0,,,11,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Coors Light,,100,0,0,0,0,10,5,0,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Corona Extra,,150,0,0,0,0,15,14,0,4,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Corona Light,,100,0,0,0,0,0,5,0,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Corona Premier,,90,0,,,,,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Dos Equis Amber,,150,0,,,,,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Dos Equis Lager,,130,0,,,,,11,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Heineken,,140,0,0,0,0,0,12,,0,,2,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Heineken 0.0 Non-Alcoholic Beer,,70,0,,,,,16,,,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Michelob Ultra,,100,0,0,0,,,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Miller Lite,,100,0,0,0,0,5,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BEVERAGES,Modelo Especial,,140,0,,,,20,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (12 fl oz) (cont’d.),Modelo Negra,,160,0,0,0,0,10,15,,13,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (12 fl oz) (cont’d.),Pacifico,,140,0,0,0,0,10,14,,12,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (12 fl oz) (cont’d.),Sol,,140,0,0,0,0,0,12,,12,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (12 fl oz) (cont’d.),Tecate,,140,0,,,,,14,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),Coors Light,,140,0,0,0,0,15,7,0,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),Michelob Ultra,,130,0,0,0,,,3,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),Miller Lite,,130,0,0,0,0,5,4,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),"WINE (750 ml Bottle) Kim Crawford, Sauvignon Blanc",,600,0,0,0,,,15,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),"Meiomi, Pinot Noir",,610,0,0,0,,,17,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),"Robert Mondavi Private Selection, Chardonnay",,630,0,0,0,,35,16,0,7,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),"Robert Mondavi, Cabernet",,620,0,0,0,,,19,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,BOTTLED BEER (16 fl),"Ruffino, Pinot Grigio",,620,0,0,0,,,15,,,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,Bottled On the Rocks – Jalapeño Pineapple Margarita (200 ml),,320,0,0,0,0,0,22,0,22,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,Bottled On the Rocks – House Margarita (200 ml),,320,0,0,0,0,0,22,0,22,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Mango Margarita Frozen (Gallon),,2710,0,0,0,0,400,444,0,401,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Mango Margarita Frozen (Grande),,340,0,0,0,0,50,55,0,50,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Mango Margarita Rocks (Gallon),,4020,0,0,0,0,380,501,0,457,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Mango Margarita Rocks (Grande),,240,0,0,0,0,20,37,0,34,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Margarita Frozen (Gallon),,2540,0,0,0,0,460,339,0,301,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Margarita Frozen (Grande),,320,0,0,0,0,55,42,0,38,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Margarita Rocks (Gallon),,4150,0,0,0,0,440,409,0,371,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS,House Margarita Rocks (Grande),,260,0,0,0,0,25,26,0,23,,0,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS (cont’d.),House Strawberry Margarita Frozen (Gallon),,3160,1,0,0,0,400,549,11,492,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS (cont’d.),House Strawberry Margarita Frozen (Grande),,390,0,0,0,0,50,69,1,62,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS (cont’d.),House Strawberry Margarita Rocks (Gallon),,4460,1,0,0,0,380,606,11,549,,4,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27
+ontheborder,HOUSE MARGARITAS (cont’d.),House Strawberry Margarita Rocks (Grande),,300,0,0,0,0,20,50,1,45,,1,,,https://www.ontheborder.com/app/uploads/2024/08/OTB-NUTRITIONAL-ALLERGEN_INFO_0224v2new.pdf,2026-10-27

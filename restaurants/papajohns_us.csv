@@ -1,0 +1,732 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Epic Stuffed Crust",,400,15,8,0,50,1090,45,2,10,,20,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Gluten Free",,340,12,4.5,0,30,950,42,2,9,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Original Crust, Extra Large",,360,11,5,0,40,1070,48,2,11,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Original Crust, Large",,340,11,5,0,40,1020,45,2,11,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Original Crust, Medium",,240,8,3.5,0,25,730,32,1,8,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Original Crust, Pizza for One",,240,8,3.5,0,30,740,30,1,8,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Original Crust, Small",,230,7,3.5,0,25,660,30,1,7,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"BBQ Chicken Bacon Pizza, Thin Crust",,270,12,5,0,40,800,27,1,8,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Epic Stuffed Crust",,370,10,7,0,45,930,39,0,5,,23,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Gluten Free",,130,3,3,0,15,280,14,1,2,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Original Crust, Extra Large",,310,5,4,0,30,780,41,1,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Original Crust, Large",,300,4,4,0,30,750,38,0,6,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Original Crust, Medium",,280,4,4,0,30,700,36,0,4,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Original Crust, Pizza for One",,210,4,3,0,25,520,26,0,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Original Crust, Small",,200,4,3,0,20,510,26,0,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Butter Chicken Pizza, Thin Crust",,220,6,4,0,30,540,20,1,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Epic Stuffed Crust",,360,14,8,0,35,900,40,2,4,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Gluten Free",,290,11,4.5,0,25,680,36,2,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Original Crust, Extra Large",,300,10,4.5,0,25,730,40,2,5,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Original Crust, Large",,290,10,4.5,0,25,710,38,2,5,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Original Crust, Medium",,210,7,3.5,0,20,520,27,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Original Crust, Pizza for One",,200,7,3.5,0,20,500,25,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Original Crust, Small",,180,6,2.5,0,15,440,25,1,3,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheese Pizza, Thin Crust",,210,11,4.5,0,25,490,20,1,2,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheesy Burger Pizza, Original Crust, Large",,360,17,6,0,30,900,39,2,5,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Cheesy Calzone Epic Stuffed Crust Pizza, Large",,350,14,7,0,35,910,41,0,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Create Your Own Crispy Parm Pizza, Crispy Parm Crust, Large",,140,6,2,0,<5,210,16,1,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Epic Stuffed Crust",,390,18,9,0.5,50,970,39,1,3,,18,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Gluten Free",,180,9,5,0,20,350,18,1,2,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Original Crust, Extra Large",,330,13,7,0,35,760,39,1,4,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Original Crust, Large",,320,13,7,0,35,750,37,1,3,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Original Crust, Medium",,230,10,5,0,25,550,26,1,2,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Original Crust, Pizza for One",,220,9,5,0,25,520,24,1,2,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Original Crust, Small",,210,9,4.5,0,25,500,25,1,2,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Extra Cheesy Alfredo Pizza, Thin Crust",,130,14,7,0,35,530,19,0,1,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Epic Stuffed Crust",,390,16,8,0,50,1320,40,2,4,,20,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Gluten Free",,160,8,3.5,0,25,540,16,1,1,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Original Crust, Extra Large",,350,13,5,0,40,1250,40,2,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Original Crust, Large",,330,12,5,0,40,1190,38,2,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Original Crust, Medium",,230,9,3.5,0,25,820,27,1,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Original Crust, Pizza for One",,230,9,4,0,30,840,26,1,3,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Original Crust, Small",,220,8,3.5,0,25,780,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fiery Buffalo Chicken Pizza, Thin Crust",,260,14,5,0,40,980,20,1,2,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Epic Stuffed Crust",,350,14,7,0,40,890,39,2,4,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Gluten Free",,280,10,4,0,25,0,37,2,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Original Crust, Extra Large",,300,10,4,0,25,440,41,2,6,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Original Crust, Large",,280,10,4,0,25,690,39,2,5,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Original Crust, Medium",,200,7,3,0,20,470,27,1,4,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Original Crust, Pizza for One",,190,7,3,0,20,470,26,1,4,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Original Crust, Small",,190,6,2.5,0,15,440,26,1,3,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Fresh Spinach & Tomato Alfredo Pizza, Thin Crust",,210,11,4,0,25,0,21,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Epic Stuffed Crust",,350,14,7,0,35,870,41,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Gluten Free",,280,10,4,0,20,640,37,2,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Original Crust, Extra Large",,300,9,4,0,20,710,41,2,6,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Original Crust, Large",,280,9,4,0,20,680,39,2,5,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Original Crust, Medium",,200,7,3,0,15,480,27,1,4,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Original Crust, Pizza for One",,190,6,3,0,15,470,26,1,4,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Original Crust, Small",,190,6,2.5,0,15,450,26,1,3,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garden Fresh Pizza, Thin Crust",,210,10,4,0,20,460,21,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Garlic Epic Stuffed Crust Pizza, Large",,370,16,8,0,35,990,39,0,4,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Epic Stuffed Crust",,430,20,10,0.5,55,1080,41,2,4,,19,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Gluten Free",,180,10,4.5,0,25,420,16,1,1,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Original Crust, Extra Large",,370,16,7,0,40,920,41,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Original Crust, Large",,360,15,7,0,40,880,38,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Original Crust, Medium",,240,10,4.5,0,25,600,27,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Original Crust, Pizza for One",,240,10,4.5,0,25,600,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Original Crust, Small",,230,10,4.5,0,25,580,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Meatball Pepperoni Pizza, Thin Crust",,280,17,4,0,40,660,20,1,2,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"NY Style Crispy Cuppy 'Roni Pizza, Large",,390,14,8,0,40,920,39,0,4,,17,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Epic Stuffed Crust",,480,26,12,0,60,1220,40,2,5,,20,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Original Crust, Extra Large",,410,21,9,0,45,960,38,1,3,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Original Crust, Large",,390,20,9,0,45,920,36,1,3,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Original Crust, Medium",,280,14,6,0,30,650,25,1,2,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Original Crust, Pizza for One",,280,15,6,0,35,670,24,1,2,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Original Crust, Small",,260,13,6,0,30,620,24,1,2,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni, Sausage & Six Cheese Pizza, Thin Crust",,320,22,9,0,45,700,18,0,1,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Epic Stuffed Crust",,390,17,8,0,45,980,40,2,4,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Gluten Free",,340,16,6,0,35,820,36,2,3,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Original Crust, Extra Large",,330,13,6,0,30,840,40,2,5,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Original Crust, Large",,320,13,6,0,30,810,38,2,5,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Original Crust, Medium",,230,9,4,0,20,570,26,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Original Crust, Pizza for One",,220,10,4,0,25,580,25,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Original Crust, Small",,210,8,3.5,0,20,530,25,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Pepperoni Pizza, Thin Crust",,250,14,5,0,30,590,20,1,2,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Epic Stuffed Crust",,430,21,9,0,45,1050,40,2,4,,19,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Gluten Free",,160,8,3.5,0,25,540,16,1,1,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Original Crust, Extra Large",,350,13,5,0,40,1250,40,2,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Original Crust, Large",,330,12,5,0,40,1190,38,2,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Original Crust, Medium",,230,9,3.5,0,25,820,27,1,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Original Crust, Pizza for One",,230,9,4,0,30,840,26,1,3,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Original Crust, Small",,220,8,3.5,0,25,780,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Philly Cheesesteak Pizza, Thin Crust",,260,14,5,0,40,980,20,1,2,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Epic Stuffed Crust",,400,19,9,0,45,1000,40,2,5,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Gluten Free",,340,16,6,0,30,780,36,2,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Original Crust, Extra Large",,340,15,6,0,30,840,40,2,5,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Original Crust, Large",,330,14,6,0,30,810,38,2,5,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Original Crust, Medium",,240,11,4.5,0,20,580,27,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Original Crust, Pizza for One",,230,10,4.5,0,20,580,25,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Original Crust, Small",,220,10,4,0,20,540,25,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Sausage Pizza, Thin Crust",,260,16,6,0,30,590,20,1,2,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Shaq-A-Roni Pizza, Original Crust, Large",,390,18,8,0,<5,1010,39,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Spicy Garlic Epic Stuffed Crust Pizza, Large",,370,16,8,0,35,980,39,0,4,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Epic Stuffed Crust",,400,17,8,0,50,1060,42,2,6,,19,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Gluten Free",,170,8,4,0,25,450,17,1,3,,8,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Original Crust, Extra Large",,360,13,6,0,35,970,42,2,4,,16,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Original Crust, Large",,340,13,6,0,35,920,40,2,7,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Original Crust, Medium",,230,9,4,0,25,630,28,1,5,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Original Crust, Pizza for One",,230,9,4,0,25,630,27,1,5,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Original Crust, Small",,230,8,3.5,0,25,610,27,1,4,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Super Hawaiian Pizza, Thin Crust",,260,14,5,0,35,700,22,1,4,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Epic Stuffed Crust",,440,22,10,0,55,1200,40,2,5,,20,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Gluten Free",,340,15,6,0,35,870,36,2,3,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Original Crust, Extra Large",,410,19,8,0,45,1130,41,2,5,,17,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Original Crust, Large",,380,17,7,0,45,1040,38,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Original Crust, Medium",,260,11,5,0,30,710,27,1,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Original Crust, Pizza for One",,260,12,5,0,30,720,26,1,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Original Crust, Small",,250,12,5,0,30,700,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Meats Pizza, Thin Crust",,300,19,7,0,45,820,20,1,2,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Epic Stuffed Crust",,410,19,9,0,45,1080,41,2,5,,18,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Gluten Free",,320,13,5,0,30,780,37,2,3,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Original Crust, Extra Large",,360,15,6,0,35,940,41,2,6,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Original Crust, Large",,340,14,6,0,35,890,39,2,5,,13,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Original Crust, Medium",,230,9,4,0,25,620,27,1,4,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Original Crust, Pizza for One",,230,10,4,0,25,610,26,1,4,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Original Crust, Small",,230,9,4,0,20,590,26,1,3,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"The Works Pizza, Thin Crust",,270,15,6,0,35,670,21,1,3,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Epic Stuffed Crust",,390,17,9,0,45,980,40,2,4,,18,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Gluten Free",,310,13,5,0,25,720,36,2,3,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Original Crust, Extra Large",,330,12,6,0,30,810,40,2,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Original Crust, Large",,320,12,6,0,30,780,38,2,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Original Crust, Medium",,230,9,4.5,0,20,560,27,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Original Crust, Pizza for One",,220,9,4,0,20,550,25,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Original Crust, Small",,220,8,4,0,20,530,26,1,3,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Tuscan Six Cheese Pizza, Thin Crust",,250,13,6,0,30,560,20,1,2,,11,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Epic Stuffed Crust",,410,20,9,0,50,1060,40,2,4,,17,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Gluten Free",,180,10,4.5,0,25,440,16,1,1,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Original Crust, Extra Large",,370,16,7,0,40,940,40,2,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Original Crust, Large",,360,16,7,0,40,930,38,2,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Original Crust, Medium",,250,11,5,0,25,650,27,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Original Crust, Pizza for One",,250,12,5,0,30,660,26,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Original Crust, Small",,240,10,4.5,0,25,600,26,1,3,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Ultimate Pepperoni Pizza, Thin Crust",,290,17,7,0,40,710,20,1,2,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Epic Stuffed Crust",,440,22,10,0,55,1230,41,2,5,,19,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Gluten Free",,180,11,5,0,25,500,16,1,1,,7,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Original Crust, Extra Large",,390,18,7,0,40,1070,40,2,5,,15,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Original Crust, Large",,370,17,7,0,40,1020,38,2,5,,14,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Original Crust, Medium",,260,12,5,0,30,710,27,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Original Crust, Pizza for One",,250,11,5,0,25,680,25,1,3,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Original Crust, Small",,240,11,4.5,0,25,660,25,1,3,,9,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Specialty Pizzas,"Zesty Italian Trio Pizza, Thin Crust",,300,19,7,0,40,810,20,1,2,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papa Bowls,Chicken Alfredo Papa Bowl,,570,31,12,1,180,2050,15,3,6,,62,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papa Bowls,Garden Veggie Papa Bowl,,380,24,11,1,55,1610,21,6,9,,22,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papa Bowls,Italian Meats Trio Papa Bowl,,880,68,26,1,185,2460,24,6,9,,46,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Cheesy Burger Papadia,,840,43,18,1.5,95,2350,79,4,9,,34,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Doritos Cool Ranch Beef Papadia,,870,45,18,2,90,2230,82,0,10,,35,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Doritos Cool Ranch Chicken Papadia,,840,32,13,1,140,2330,82,0,10,,55,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Doritos Cool Ranch Create Your Own Papadia,,490,15,3,0,<5,990,75,0,8,,12,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Doritos Cool Ranch Steak Papadia,,860,39,15,1,85,2280,84,0,11,,41,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Grilled BBQ Chicken & Bacon Papadia,,840,28,13,0.5,160,2410,85,4,26,,60,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Grilled Buffalo Chicken Papadia,,920,39,18,1,165,2860,80,4,9,,63,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Italian Papadia,,940,53,21,1,135,2670,76,4,8,,38,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Meatball Pepperoni Papadia,,940,49,21,1,140,2390,79,4,8,,42,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Parmesan Crusted BBQ Chicken Bacon Papadia,,960,38,18,1,180,2740,83,4,24,,71,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Parmesan Crusted Grilled Buffalo Chicken Papadia,,1050,48,22,2,190,3170,80,4,9,,74,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Parmesan Crusted Italian Papadia,,1070,62,26,2,155,3010,76,4,8,,49,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Parmesan Crusted Meatball Pepperoni Papadia,,1060,59,26,2,160,2700,79,4,8,,53,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Papadias,Philly Cheesesteak Papadia,,810,35,15,0.5,90,2090,80,4,11,,40,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Boneless Wings, 10 wings",,640,26,5,0,145,2190,54,1,27,,49,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Boneless Wings, 15 wings",,1130,44,9,0,250,2890,99,3,59,,85,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Boneless Wings, 30 wings",,1920,77,16,1,435,6530,160,5,78,,148,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Wings, 8 wings",,880,57,15,0,205,1940,20,1,14,,67,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Wings, 16 wings",,1750,114,29,0,415,3880,40,1,28,,134,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Wings, 24 wings",,2630,170,44,0,620,5830,60,2,43,,200,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Wings, 32 wings",,3500,227,59,0,825,7770,80,2,57,,267,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"BBQ Wings, 50 wings",,5470,355,92,0,1295,12140,125,4,89,,418,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Boneless Wings, 10 wings",,630,29,6,0,145,2840,44,2,3,,50,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Boneless Wings, 15 wings",,1110,50,10,1,255,4930,77,3,5,,87,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Boneless Wings, 30 wings",,1890,85,17,1,435,8520,132,1,8,,149,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Wings, 8 wings",,840,58,15,0,205,2920,8,1,3,,67,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Wings, 16 wings",,1670,115,30,0,415,5840,16,2,6,,133,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Wings, 24 wings",,2510,173,45,0,620,8770,24,3,9,,200,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Wings, 32 wings",,3340,231,60,0,825,11690,33,4,12,,267,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Buffalo Wings, 50 wings",,5220,360,93,0.5,1295,18260,51,6,18,,417,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Boneless Wings, 10 wings",,680,35,7,0,145,2250,42,2,1,,50,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Boneless Wings, 15 wings",,1070,58,12,1,220,3550,63,2,2,,76,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Boneless Wings, 30 wings",,2170,119,25,2,440,7230,126,5,3,,151,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Wings, 8 wings",,1040,81,20,0,210,2290,6,0,0,,68,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Wings, 16 wings",,2080,162,40,1,420,4580,11,1,1,,137,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Wings, 24 wings",,3120,243,60,1.5,630,6870,17,1,1,,205,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Wings, 32 wings",,4160,324,80,2,845,9160,23,1,1,,273,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Garlic Parmesan Wings, 50 wings",,6500,507,125,3,1320,14310,35,2,2,,427,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Boneless Wings, 10 wings",,630,26,5,0,145,2100,52,2,11,,49,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Boneless Wings, 15 wings",,990,38,8,0,220,3270,86,2,24,,74,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Boneless Wings, 30 wings",,1940,77,16,1,435,6410,164,5,40,,148,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Wings, 8 wings",,900,57,15,0,205,1810,27,1,21,,67,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Wings, 16 wings",,1800,113,29,0,415,3620,55,1,42,,133,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Wings, 24 wings",,2710,170,44,0,620,5430,82,2,64,,200,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Wings, 32 wings",,3610,227,59,0,825,7240,109,2,85,,267,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Honey Chipotle Wings, 50 wings",,5640,354,92,0,1295,11320,171,4,132,,417,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Boneless Wings, 10 wings",,600,27,6,0,140,2830,43,2,3,,47,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Boneless Wings, 15 wings",,950,43,9,0,220,4580,68,2,4,,75,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Boneless Wings, 30 wings",,1810,82,17,1,415,8540,128,5,8,,142,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Wings, 8 wings",,960,67,17,0,235,2680,8,0,2,,75,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Wings, 16 wings",,1910,134,35,0,470,5360,17,0,4,,151,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Wings, 24 wings",,2870,201,52,0,705,8040,25,0,6,,226,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Wings, 32 wings",,3830,268,69,1,935,10730,33,0,8,,302,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Hot Lemon Pepper Wings, 50 wings",,5980,419,108,1,1465,16760,52,0,12,,472,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Boneless Wings, 10 wings",,590,26,5,0,145,1930,41,2,1,,49,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Boneless Wings, 15 wings",,890,38,8,0,220,2900,62,2,2,,74,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Boneless Wings, 30 wings",,1910,83,17,1,470,6240,133,5,3,,159,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Roasted Wings, 8 wings",,810,57,15,0,205,1460,4,0,0,,66,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Roasted Wings, 16 wings",,1620,113,29,0,415,2920,8,0,1,,133,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Roasted Wings, 24 wings",,2430,170,44,0,620,4380,12,0,1,,199,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Roasted Wings, 32 wings",,3240,226,59,0,825,5830,16,0,1,,265,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Wings,"Unsauced Roasted Wings, 50 wings",,5060,353,92,0,1295,9120,25,0,2,,415,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Bacon Cheesesticks, 10""",,110,5,2,0,10,260,11,0,1,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Bacon Cheesesticks, 12""",,130,6,2.5,0,15,330,13,1,1,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Bacon Cheesy Burger Papa Bites, 8 Pieces",,100,5,2,0,10,290,10,0,1,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Breadsticks, 12""",,130,2,0,0,0,240,24,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Breadsticks, 14""",,150,2,0.5,0,0,270,27,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Calzones Papa Bites, 8 Pieces",,110,6,3,0,10,280,10,0,1,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Cheesesticks, 10""",,90,4,1.5,0,10,210,10,0,1,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Cheesesticks, 12""",,110,5,2,0,10,260,13,1,1,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Chicken Parmesan Papa Bites, 8 Pieces",,110,4.5,2,0,15,280,10,0,1,,6,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,Garlic Knots,,110,4.5,1,0,0,260,14,0,1,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Garlic Parmesan Breadsticks, 12""",,160,5,1,0,0,340,24,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Garlic Parmesan Breadsticks, 14""",,170,5,1,0,0,360,27,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Jalapeno Papa Bites, 8 Pieces",,80,3,1.5,0,10,220,10,0,1,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Tuscan 6-Cheese Cheesesticks, 10""",,110,5,2.5,0,10,250,11,0,1,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Sides,"Tuscan 6-Cheese Cheesesticks, 12""",,130,6,3,0,15,310,13,1,1,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Desserts,Chocolate Chip Cookie,,190,9,4.5,0,15,105,26,1,18,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Desserts,Cinnamon Pullaparts,,1960,94,36,1,60,1660,264,8,150,,19,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Desserts,Double Chocolate Chip Brownie,,240,12,3.5,0,15,70,34,1,23,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Desserts,Oreo Cookie Papa Bites,,80,2,1,0,0,110,13,0,4,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Desserts,Twix Papa Bites,,80,3,5,0,0,105,13,0,4,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, BBQ Sauce",,45,0,0,0,0,240,11,0,10,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Blue Cheese",,160,16,3.5,0,20,250,1,0,1,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Buffalo Sauce",,15,0.5,0,0,0,900,3,1,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Cheese Sauce",,40,3.5,1,0,0,160,2,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Cheesy Burger Sauce",,160,16,2.5,0,15,240,4,0,3,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Cream Cheese Icing",,150,2.5,1,0,0,85,32,0,31,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Doritos Cool Ranch Sauce",,180,18,1.5,0,0,560,5,0,1,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Honey Mustard",,150,15,2.5,0,10,120,5,0,4,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Pizza Sauce",,20,1,0,0,0,230,3,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Ranch Sauce",,100,10,1.5,0,10,240,2,0,1,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Special Garlic",,140,0,2.5,0,10,350,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Dipping Sauces,"Dipping Sauce, Special Zesty Sauce",,150,17,3,0,0,310,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Anchovies,,30,1.5,0,0,15,750,0,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Banana Peppers,,5,0,0,0,0,200,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Crushed Red Pepper,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Jalapeno Peppers,,5,0,0,0,0,105,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Parmesan Cheese,,190,9,4.5,0,15,105,26,1,18,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Pepperoncinis,,0,0,0,0,0,140,0,0,4,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Extras,Extra Special Seasonings,,5,0,0,0,0,420,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"A&W Cream Soda, 2 Liter",,1010,0,0,0,0,250,262,0,262,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"A&W Cream Soda, 20 Oz",,300,0,0,0,0,75,78,0,78,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"A&W Root Beer, 2 Liter",,1010,0,0,0,0,250,262,0,262,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"A&W Root Beer, 20 Oz",,300,0,0,0,0,75,78,0,78,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"AMP, 16 Oz",,220,0,0,0,0,130,58,0,58,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Aquafina Raspberry, 20 Oz",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Barq's Root Beer, 20 Oz",,270,0,0,0,0,115,75,0,75,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Blueberry Pomegranate, 16 Oz",,80,0,0,0,0,170,20,0,19,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Fruit Punch, 20 Oz",,180,0,0,0,0,140,48,0,48,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Lemonade, 2 Liter",,610,0,0,0,0,540,159,0,159,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Lemonade, 20 Oz",,180,0,0,0,0,160,47,0,47,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Pink Lemonade, 20 Oz",,180,0,0,0,0,160,45,0,45,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Strawberry Melon, 20 Oz",,120,0,0,0,0,90,32,0,32,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Sweet Tea Lemon, 2 Liter",,720,0,0,0,0,430,182,0,180,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Sweet Tea Lemon, 12 Oz",,130,0,0,0,0,75,32,0,32,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Sweet Tea Lemon, 20 Oz",,210,0,0,0,0,130,54,0,53,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Brisk Tea Raspberry, 20 Oz",,120,0,0,0,0,135,32,0,20,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Canada Dry, 2 Liter",,680,0,0,0,0,210,186,0,186,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Canada Dry, 20 Oz",,200,0,0,0,0,65,55,0,55,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cheerwine, 2 Liter",,850,0,0,0,0,140,237,0,237,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cheerwine, 12 Oz",,150,0,0,0,0,25,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cheerwine, 20 Oz",,250,0,0,0,0,45,70,0,70,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Coke, 20 Oz",,250,0,0,0,0,65,70,0,70,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Dr Pepper, 2 Liter",,880,0,0,0,0,340,240,0,233,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Dr Pepper, 20 Oz",,260,0,0,0,0,100,71,0,69,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Seven Up, 2 Liter",,850,0,0,0,0,420,220,0,220,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Seven Up, 20 Oz",,250,0,0,0,0,125,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Vanilla Dr Pepper, 2 Liter",,810,0,0,0,0,340,220,0,213,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Vanilla Dr Pepper, 20 Oz",,240,0,0,0,0,100,65,0,63,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Vanilla Pepsi, 2 Liter",,740,0,0,0,0,190,200,0,200,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Cherry Vanilla Pepsi, 20 Oz",,220,0,0,0,0,55,59,0,59,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coffee, 16 Oz",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coffee, 20 Oz",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coke, 2 Liter",,820,0,0,0,0,270,222,0,222,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coke, 20 Oz",,240,0,0,0,0,80,66,0,66,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coke Zero, 2 Liter",,0,0,0,0,0,230,222,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Coke Zero, 20 Oz",,0,0,0,0,0,65,66,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Countrytime Strawberry Lemonade, 2 Liter",,760,0,0,0,0,590,203,0,203,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Countrytime Strawberry Lemonade, 20 Oz",,230,0,0,0,0,180,60,0,60,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Cherry, 2 Liter",,980,0,0,0,0,390,264,0,254,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Cherry, 20 Oz",,290,0,0,0,0,115,78,0,75,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Cream Soda, 2 Liter",,950,0,0,0,0,360,254,0,250,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Cream Soda, 12 Oz",,170,0,0,0,0,65,45,0,44,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Cream Soda, 20 Oz",,280,0,0,0,0,105,75,0,74,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Grape, 2 Liter",,910,0,0,0,0,370,243,0,240,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Grape, 12 Oz",,160,0,0,0,0,65,43,0,43,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Grape, 20 Oz",,270,0,0,0,0,110,72,0,71,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Orange, 1.25 Liter",,630,0,0,0,0,160,180,0,180,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Orange, 2 Liter",,1010,0,0,0,0,250,287,0,287,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Orange, 12 Oz",,180,0,0,0,0,45,51,0,51,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Orange, 20 Oz",,300,0,0,0,0,75,85,0,85,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Peach, 2 Liter",,1050,0,0,0,0,360,281,0,274,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Peach, 20 Oz",,310,0,0,0,0,105,83,0,81,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Pineapple, 2 Liter",,1080,0,0,0,0,370,291,0,284,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Pineapple, 20 Oz",,320,0,0,0,0,110,86,0,84,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Strawberry, 2 Liter",,980,0,0,0,0,370,260,0,254,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Strawberry, 12 Oz",,170,0,0,0,0,65,46,0,45,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crush Strawberry, 20 Oz",,290,0,0,0,0,110,77,0,75,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crystal Pepsi, 2 Liter",,850,0,0,0,0,300,233,0,233,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Crystal Pepsi, 20 Oz",,250,0,0,0,0,90,69,0,69,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Coke, 2 Liter",,0,0,0,0,0,250,291,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Coke, 20 Oz",,0,0,0,0,0,75,86,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Dr Pepper, 2 Liter",,0,0,0,0,0,300,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Dr Pepper, 20 Oz",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mist Twst, 1.25 Liter",,530,0,0,0,0,105,137,0,137,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mist Twst, 2 Liter",,900,0,0,0,0,210,234,0,234,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mist Twst, 20 Oz",,240,0,0,0,0,55,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mountain Dew, 2 Liter",,35,0,0,0,0,290,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mountain Dew, 12 Oz",,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Mountain Dew, 20 Oz",,10,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Pepsi, 1.25 Liter",,0,0,0,0,0,130,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Pepsi, 2 Liter",,0,0,0,0,0,210,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Pepsi, 12 Oz",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Pepsi, 20 Oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Pepsi Max, 20 Oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Seven Up, 2 Liter",,0,0,0,0,0,300,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Seven Up, 20 Oz",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Wild Cherry Pepsi, 2 Liter",,0,0,0,0,0,210,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Diet Wild Cherry Pepsi, 20 Oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Doc X, 2 Liter",,850,0,0,0,0,310,225,0,225,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Doc X, 20 Oz",,250,0,0,0,0,90,67,0,67,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Pepper, 2 Liter",,850,0,0,0,0,300,228,0,228,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Pepper, 12 Oz",,150,0,0,0,0,55,41,0,41,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Pepper, 20 Oz",,250,0,0,0,0,90,68,0,68,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Pepper 10, 2 Liter",,70,0,0,0,0,340,17,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Pepper 10, 20 Oz",,20,0,0,0,0,100,5,0,4,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Wham, 2 Liter",,850,0,0,0,0,230,220,0,220,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Dr Wham, 20 Oz",,250,0,0,0,0,65,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Fanta Orange, 2 Liter",,930,0,0,0,0,300,254,0,254,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Cool Blue, 20 Oz",,160,0,0,0,0,240,39,0,32,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fierce Blue Cherry, 20 Oz",,140,0,0,0,0,270,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fierce Grape, 20 Oz",,500,0,0,0,0,550,125,0,115,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fierce Green Apple, 20 Oz",,140,0,0,0,0,270,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fierce Melon, 20 Oz",,130,0,0,0,0,270,35,0,35,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fruit Punch, 20 Oz",,140,0,0,0,0,270,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Fruit Punch, 64 Oz",,450,0,0,0,0,860,115,0,109,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade G2 Blueberry Pomegranate, 20 Oz",,50,0,0,0,0,270,12,0,12,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade G2 Fruit Punch, 20 Oz",,45,0,0,0,0,270,11,0,8,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade G2 Grape, 20 Oz",,160,0,0,0,0,240,39,0,32,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade G2 Orange, 20 Oz",,50,0,0,0,0,270,12,0,12,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Glacial Cherry, 20 Oz",,130,0,0,0,0,270,35,0,35,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Glacial Freeze, 20 Oz",,160,0,0,0,0,240,39,0,32,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Lemon Lime, 20 Oz",,130,0,0,0,0,500,35,0,35,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Lime Cucumber, 20 Oz",,130,0,0,0,0,270,34,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Mango Xtreme, 20 Oz",,140,0,0,0,0,270,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Orange, 20 Oz",,140,0,0,0,0,35,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Orange, 64 Oz",,450,0,0,0,0,110,115,0,109,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Raspberry, 20 Oz",,50,0,0,0,0,270,12,0,12,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Riptide Rush, 20 Oz",,130,0,0,0,0,270,34,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Gatorade Tropical Mango, 20 Oz",,140,0,0,0,0,270,36,0,34,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Grapico, 2 Liter",,790,0,0,0,0,170,197,0,197,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Grapico, 20 Oz",,230,0,0,0,0,50,58,0,58,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Hawaiian Fruit Punch, 12 Oz",,200,0,0,0,0,135,50,0,50,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Hawaiian Punch, 2 Liter",,1100,0,0,0,0,760,279,0,279,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Hawaiian Punch, 20 Oz",,330,0,0,0,0,230,83,0,83,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Green Tea Citrus, 20 Oz",,130,0,0,0,0,180,33,0,33,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Green Tea Honey, 20 Oz",,180,0,0,0,0,0,48,0,48,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Green Tea Passionfruit Mango, 20 Oz",,130,0,0,0,0,50,33,0,33,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Half & Half, 2 Liter",,410,0,0,0,0,880,105,0,101,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Half & Half, 20 Oz",,120,0,0,0,0,260,31,0,31,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Ice Tea Lemon, 20 Oz",,280,0,0,0,0,15,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Ice Tea Pomegranate Blueberry, 20 Oz",,130,0,0,0,0,125,33,0,33,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Diet Lemon Tea, 18.5 Oz",,10,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Extrasweet Tea, 18.5 Oz",,250,0,0,0,0,0,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Green Tea, 18.5 Oz",,100,0,0,0,0,0,25,0,25,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pure Leaf Half And Half, 18.5 Oz",,160,0,0,0,0,15,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Lemon, 18.5 Oz",,160,0,0,0,0,0,41,0,41,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Nts Peach Tea, 18.5 Oz",,100,0,0,0,0,0,26,0,26,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Peach Tea, 18.5 Oz",,110,0,0,0,0,0,29,0,29,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Raspberry Tea, 18.5 Oz",,180,0,0,0,0,0,46,0,46,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Pureleaf Sweet Tea, 18.5 Oz",,160,0,0,0,0,0,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Sparkling Iced Tea Peach, 12 Oz",,70,0,0,0,0,125,18,0,18,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Sparkling Iced Tea Peach, 20 Oz",,120,0,0,0,0,220,30,0,30,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Lipton Sparkling Tea Raspberry, 12 Oz",,70,0,0,0,0,125,18,0,18,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Manzanita Sol, 2 Liter",,890,0,0,0,0,200,235,0,235,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Manzanita Sol, 12 Oz",,160,0,0,0,0,35,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Manzanita Sol, 20 Oz",,260,0,0,0,0,60,70,0,70,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mist Twst, 2 Liter",,810,0,0,0,0,190,220,0,220,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mist Twst, 20 Oz",,240,0,0,0,0,55,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Montellier Sparkling Water, 17 Oz",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew, 1.25 Liter",,600,0,0,0,0,210,162,0,162,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew, 2 Liter",,930,0,0,0,0,340,262,0,262,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew, 12 Oz",,170,0,0,0,0,60,47,0,47,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew, 20 Oz",,280,0,0,0,0,100,78,0,78,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Baja Blast, 20 Oz",,280,0,0,0,0,75,73,0,73,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Code Red, 2 Liter",,950,0,0,0,0,570,260,0,260,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Code Red, 20 Oz",,280,0,0,0,0,170,78,0,78,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Game Fuel, 2 Liter",,570,0,0,0,0,360,156,0,156,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Game Fuel Citrus Cherry, 2 Liter",,570,0,0,0,0,360,156,0,156,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Game Fuel Citrus Cherry, 20 Oz",,170,0,0,0,0,105,46,0,46,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Black Cherry, 16 Oz",,80,0,0,0,0,170,20,0,19,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Blood Orange, 12 Oz",,60,0,0,0,0,125,15,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Blueberry Pomegranate, 12 Oz",,60,0,0,0,0,125,15,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Energizing Watermelon, 12 Oz",,60,0,0,0,0,130,16,0,15,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Fruit Punch, 16 Oz",,80,0,0,0,0,170,20,0,19,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Kiwi Strawberry, 12 Oz",,60,0,0,0,0,130,15,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Kiwi Strawberry, 16 Oz",,80,0,0,0,0,170,20,0,19,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Lime, 16 Oz",,80,0,0,0,0,250,20,0,19,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Orange Citrus, 16 Oz",,80,0,0,0,0,180,21,0,20,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Kickstart Pineapple Orange, 12 Oz",,60,0,0,0,0,130,15,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Livewire, 20 Oz",,290,0,0,0,0,105,77,0,77,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Voltage, 2 Liter",,980,0,0,0,0,360,257,0,257,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mountain Dew Voltage, 20 Oz",,290,0,0,0,0,105,76,0,76,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mtn Dew Kickstart Pineapple Orange Mango, 12 Oz",,60,0,0,0,0,130,15,0,14,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mtn Dew Throwback, 20 Oz",,280,0,0,0,0,105,73,0,73,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mug Cream Soda, 2 Liter",,1010,0,0,0,0,340,271,0,271,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mug Cream Soda, 20 Oz",,300,0,0,0,0,100,80,0,80,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mug Root Beer, 2 Liter",,850,0,0,0,0,340,245,0,245,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mug Root Beer, 12 Oz",,150,0,0,0,0,60,44,0,44,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Mug Root Beer, 20 Oz",,250,0,0,0,0,100,73,0,73,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi, 1.25 Liter",,530,0,0,0,0,115,146,0,146,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi, 2 Liter",,900,0,0,0,0,180,246,0,246,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi, 12 Oz",,150,0,0,0,0,30,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi, 20 Oz",,250,0,0,0,0,55,69,0,69,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Max, 12 Oz",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Mexico, 12 Oz",,220,0,0,0,0,50,58,0,58,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Next, 2 Liter",,560,0,0,0,0,30,152,0,147,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Next, 12 Oz",,100,0,0,0,0,5,27,0,26,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Next, 20 Oz",,170,0,0,0,0,10,45,0,43,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Real Sugar, 2 Liter",,850,0,0,0,0,190,223,0,223,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Real Sugar, 20 Oz",,250,0,0,0,0,55,66,0,66,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Throwback, 2 Liter",,880,0,0,0,0,220,227,0,227,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Zero Sugar, 2 Liter",,0,0,0,0,0,220,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pepsi Zero Sugar, 20 Oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Pibb Xtra, 20 Oz",,250,0,0,0,0,75,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Powerade Mountain Blast, 20 Oz",,130,0,0,0,0,250,35,0,33,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar, 16 Oz",,280,1,0,0,0,75,61,0,59,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar Fruit Punch, 16 Oz",,260,0,0,0,0,110,62,0,62,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar Lemonade, 16 Oz",,20,0,0,0,0,220,6,0,6,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar Recovery, 16 Oz",,20,0,0,0,0,220,6,0,6,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar Sugar Free, 16 Oz",,20,0,0,0,0,230,3,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Rockstar Xtra, 16 Oz",,280,0,0,0,0,80,64,0,62,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale, 1.25 Liter",,440,0,0,0,0,210,116,0,114,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale, 2 Liter",,680,0,0,0,0,210,186,0,186,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale, 12 Oz",,120,0,0,0,0,40,33,0,33,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale, 20 Oz",,200,0,0,0,0,65,55,0,55,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale Raspberry, 2 Liter",,790,0,0,0,0,340,214,0,209,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Schweppes Ginger Ale Raspberry, 20 Oz",,230,0,0,0,0,100,63,0,62,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Seven Up, 2 Liter",,850,0,0,0,0,420,220,0,220,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Seven Up, 12 Oz",,150,0,0,0,0,75,39,0,39,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Seven Up, 20 Oz",,250,0,0,0,0,125,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Blackberry Blueberry, 20 Oz",,0,0,0,0,0,60,8,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Energize Power Fruit Punch, 20 Oz",,250,0,0,0,0,60,65,0,63,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Energy Citrus, 20 Oz",,250,0,0,0,0,55,64,0,63,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Fuji Apple, 20 Oz",,0,0,0,0,0,60,8,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Pomegranate Cherry, 20 Oz",,100,0,0,0,0,55,26,0,25,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Strawberry Daquiri, 20 Oz",,250,1,0,0,0,70,63,0,62,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Strawberry Dragonfruit, 20 Oz",,0,0,0,0,0,60,8,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Strawberry Kiwi, 20 Oz",,100,0,0,0,0,55,26,0,26,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sobe Yumberry Pomegranate, 20 Oz",,0,0,0,0,0,60,8,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sprite, 2 Liter",,890,0,0,0,0,200,227,0,201,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sprite, 20 Oz",,260,0,0,0,0,60,67,0,59,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starbucks Doubleshot Energy Vanilla, 15 Oz",,210,2.5,1.5,0,15,180,34,0,25,,10,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starbucks Refreshers Strawberry Lemonade, 12 Oz",,90,0,0,0,0,5,27,0,20,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starry, 12 Oz",,150,0,0,0,0,35,39,0,39,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starry, 20 Oz",,240,0,0,0,0,55,65,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starry Zero Sugar, 12 Oz",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Starry Zero Sugar, 20 Oz",,10,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Grape, 2 Liter",,960,0,0,0,0,340,259,0,248,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Grape, 20 Oz",,280,0,0,0,0,100,77,0,73,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Orange, 2 Liter",,1100,0,0,0,0,250,296,0,296,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Orange, 20 Oz",,330,0,0,0,0,75,88,0,88,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Peach, 2 Liter",,960,0,0,0,0,370,265,0,254,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Peach, 20 Oz",,280,0,0,0,0,110,78,0,75,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Strawberry, 2 Liter",,960,0,0,0,0,370,259,0,248,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Sunkist Strawberry, 20 Oz",,280,0,0,0,0,110,77,0,73,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Tropicana Twst Orange, 2 Liter",,1100,0,0,0,0,0,279,0,254,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Tropicana Twst Orange, 20 Oz",,330,0,0,0,0,0,83,0,75,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Vanilla Pepsi, 20 Oz",,250,0,0,0,0,55,66,0,66,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Vanilla Pepsi Real Sugar, 20 Oz",,250,0,0,0,0,55,66,0,66,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Welch's Grape Soda, 2 Liter",,1100,0,0,0,0,340,287,0,287,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Welch's Grape Soda, 12 Oz",,200,0,0,0,0,60,51,0,51,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Welch's Grape Soda, 20 Oz",,330,0,0,0,0,100,85,0,85,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Wild Cherry Pepsi, 2 Liter",,850,0,0,0,0,170,237,0,237,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Wild Cherry Pepsi, 12 Oz",,150,0,0,0,0,30,42,0,42,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Wild Cherry Pepsi, 20 Oz",,250,0,0,0,0,50,70,0,70,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Wild Cherry Pepsi Real Sugar, 2 Liter",,850,0,0,0,0,190,223,0,220,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Drinks,"Wild Cherry Pepsi Real Sugar, 20 Oz",,250,0,0,0,0,55,66,0,65,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Alfredo Sauce for Gluten Free Crust,,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Alfredo Sauce for Original Crust, Extra Large",,15,1.5,1,0,<5,50,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Alfredo Sauce for Original Crust, Large",,15,1,0.5,0,<5,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Alfredo Sauce for Original Crust, Medium",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Alfredo Sauce for Original Crust, Pizza for One",,15,1,0.5,0,<5,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Alfredo Sauce for Original Crust, Small",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Alfredo Sauce for Thin Crust,,15,1,0.5,0,<5,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Anchovies for Gluten Free Crust,,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Anchovies for Original Crust, Extra Large",,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Anchovies for Original Crust, Large",,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Anchovies for Original Crust, Medium",,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Anchovies for Original Crust, Pizza for One",,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Anchovies for Original Crust, Small",,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Anchovies for Thin Crust,,10,0,0,0,<5,210,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Bacon for Gluten Free Crust,,35,2.5,1,0,10,120,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Bacon for Original Crust, Extra Large",,50,3.5,1.5,0,10,180,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Bacon for Original Crust, Large",,50,3.5,1.5,0,10,180,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Bacon for Original Crust, Medium",,35,3,1,0,10,140,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Bacon for Original Crust, Pizza for One",,35,2.5,1,0,10,130,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Bacon for Original Crust, Small",,35,2.5,1,0,10,120,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Bacon for Thin Crust,,50,3.5,1.5,0,10,180,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Banana Peppers for Gluten Free Crust,,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Banana Peppers for Original Crust, Extra Large",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Banana Peppers for Original Crust, Large",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Banana Peppers for Original Crust, Medium",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Banana Peppers for Original Crust, Pizza for One",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Banana Peppers for Original Crust, Small",,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Banana Peppers for Thin Crust,,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,BBQ Sauce-Extra for Gluten Free Crust,,35,0,0,0,0,240,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Extra for Original Crust, Extra Large",,45,0,0,0,0,320,11,0,9,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Extra for Original Crust, Large",,45,0,0,0,0,320,11,0,9,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Extra for Original Crust, Medium",,35,0,0,0,0,240,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Extra for Original Crust, Pizza for One",,30,0,0,0,0,230,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Extra for Original Crust, Small",,35,0,0,0,0,240,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,BBQ Sauce-Extra for Thin Crust,,45,0,0,0,0,320,11,0,9,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Light for Original Crust, Extra Large",,20,0,0,0,0,140,5,0,4,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Light for Original Crust, Large",,15,0,0,0,0,120,4,0,3,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Light for Original Crust, Medium",,10,0,0,0,0,80,3,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce-Light for Original Crust, Pizza for One",,10,0,0,0,0,85,3,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,BBQ Sauce-Light for Thin Crust,,15,0,0,0,0,120,4,0,3,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,BBQ Sauce for Gluten Free Crust,,25,0,0,0,0,160,5,0,5,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce for Original Crust, Extra Large",,35,0,0,0,0,260,9,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce for Original Crust, Large",,35,0,0,0,0,240,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce for Original Crust, Medium",,25,0,0,0,0,180,6,0,5,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce for Original Crust, Pizza for One",,25,0,0,0,0,170,6,0,5,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"BBQ Sauce for Original Crust, Small",,20,0,0,0,0,160,5,0,5,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,BBQ Sauce for Thin Crust,,35,0,0,0,0,240,8,0,7,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Beef for Gluten Free Crust,,30,2.5,1,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Beef for Original Crust, Extra Large",,40,3.5,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Beef for Original Crust, Large",,40,3.5,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Beef for Original Crust, Medium",,30,2.5,1,0,<5,105,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Beef for Original Crust, Pizza for One",,25,2,1,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Beef for Original Crust, Small",,30,2.5,1,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Beef for Thin Crust,,40,3.5,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Black Olives for Gluten Free Crust,,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Black Olives for Original Crust, Extra Large",,15,1.5,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Black Olives for Original Crust, Large",,15,1.5,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Black Olives for Original Crust, Medium",,10,1,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Black Olives for Original Crust, Pizza for One",,10,1,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Black Olives for Original Crust, Small",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Black Olives for Thin Crust,,15,1.5,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Canadian Bacon for Gluten Free Crust,,10,0.5,0,0,<5,110,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Canadian Bacon for Original Crust, Extra Large",,20,1,0,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Canadian Bacon for Original Crust, Large",,20,1,0,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Canadian Bacon for Original Crust, Medium",,15,0.5,0,0,<5,125,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Canadian Bacon for Original Crust, Pizza for One",,10,0,0,0,<5,105,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Canadian Bacon for Original Crust, Small",,10,0.5,0,0,<5,110,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Canadian Bacon for Thin Crust,,20,1,0,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Cheese for Gluten Free Crust,,45,3.5,2,0,15,150,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheese for Original Crust, Extra Large",,70,5,3,0,20,220,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheese for Original Crust, Large",,70,5,3,0,20,220,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheese for Original Crust, Medium",,50,4,2.5,0,15,160,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheese for Original Crust, Pizza for One",,50,4,2.5,0,15,170,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheese for Original Crust, Small",,45,3.5,2,0,15,150,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Cheese for Thin Crust,,70,5,3,0,20,220,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Cheesy Burger Sauce for Original Crust, Large",,60,6,0,0,<5,95,2,2,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Chicken for Gluten Free Crust,,15,0,0,0,10,70,0,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Chicken for Original Crust, Extra Large",,20,0,0,0,15,105,0,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Chicken for Original Crust, Large",,20,0,0,0,15,105,0,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Chicken for Original Crust, Medium",,15,0,0,0,10,80,0,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Chicken for Original Crust, Pizza for One",,20,0,0,0,10,95,0,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Chicken for Original Crust, Small",,15,0,0,0,10,70,0,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Chicken for Thin Crust,,20,0,0,0,15,105,0,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Extra Cheese for Gluten Free Crust,,60,4.5,2.5,0,15,180,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Extra Cheese for Original Crust, Extra Large",,80,6,4,0,25,260,2,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Extra Cheese for Original Crust, Large",,90,6,4,0,25,270,2,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Extra Cheese for Original Crust, Medium",,70,5,3,0,20,220,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Extra Cheese for Original Crust, Pizza for One",,70,5,3,0,20,210,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Extra Cheese for Original Crust, Small",,60,4.5,2.5,0,15,180,1,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Extra Cheese for Thin Crust,,90,6,4,0,25,270,2,0,0,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Gluten Free Crust (Crust Only),,90,2.5,1,0,0,100,17,1,1,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Green Olives for Gluten Free Crust,,5,0.5,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Green Olives for Original Crust, Extra Large",,10,1,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Green Olives for Original Crust, Large",,10,1,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Green Olives for Original Crust, Medium",,10,1,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Green Olives for Original Crust, Pizza for One",,10,1,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Green Olives for Original Crust, Small",,5,0.5,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Green Olives for Thin Crust,,10,1,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Italian Sausage for Gluten Free Crust,,35,3.5,1,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Italian Sausage for Original Crust, Extra Large",,50,5,1.5,0,10,125,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Italian Sausage for Original Crust, Large",,50,5,1.5,0,10,125,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Italian Sausage for Original Crust, Medium",,40,3.5,1.5,0,10,95,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Italian Sausage for Original Crust, Pizza for One",,40,3.5,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Italian Sausage for Original Crust, Small",,35,3.5,1,0,<5,85,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Italian Sausage for Thin Crust,,50,5,1.5,0,10,125,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Jalapeno for Gluten Free Crust,,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Jalapeno for Original Crust, Extra Large",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Jalapeno for Original Crust, Large",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Jalapeno for Original Crust, Medium",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Jalapeno for Original Crust, Pizza for One",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Jalapeno for Original Crust, Small",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Jalapeno for Thin Crust,,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Light Cheese for Gluten Free Crust,,35,2.5,1.5,0,10,110,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Light Cheese for Original Crust, Extra Large",,50,4,2.5,0,15,180,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Light Cheese for Original Crust, Large",,50,4,2.5,0,15,160,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Light Cheese for Original Crust, Medium",,35,2.5,1.5,0,10,110,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Light Cheese for Original Crust, Pizza for One",,40,3,2,0,10,125,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Light Cheese for Original Crust, Small",,35,2.5,1.5,0,10,110,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Light Cheese for Thin Crust,,50,4,2.5,0,15,160,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Meatball for Gluten Free Crust,,25,2,0,1,<5,70,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Meatball for Original Crust, Extra Large",,40,3,0,1,10,110,1,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Meatball for Original Crust, Large",,40,3,0,1,10,105,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Meatball for Original Crust, Medium",,25,2,0,1,<5,70,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Meatball for Original Crust, Pizza for One",,20,1.5,0,0.5,<5,50,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Meatball for Original Crust, Small",,25,2,0,1,<5,70,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Meatball for Thin Crust,,40,3,0,1,10,105,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Mushroom for Original Crust, Extra Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Mushroom for Original Crust, Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Mushroom for Thin Crust,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Onion for Gluten Free Crust,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Onion for Original Crust, Extra Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Onion for Original Crust, Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Onion for Original Crust, Medium",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Onion for Original Crust, Pizza for One",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Onion for Original Crust, Small",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Onion for Thin Crust,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Crust, Extra Large (Crust Only)",,200,3,0.5,0,0,360,36,1,3,,6,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Crust, Large (Crust Only)",,190,2.5,0.5,0,0,340,34,1,3,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Crust, Medium (Crust Only)",,130,2,0,0,0,240,24,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Crust, Pizza for One (Crust Only)",,120,2,0,0,0,230,23,1,2,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Crust, Small (Crust Only)",,130,2,0,0,0,230,23,1,2,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce-Extra for Gluten Free Crust,,15,0,0,0,0,80,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Extra for Original Crust, Extra Large",,20,0.5,0,0,0,125,3,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Extra for Original Crust, Large",,20,0.5,0,0,0,125,3,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Extra for Original Crust, Medium",,15,0.5,0,0,0,95,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Extra for Original Crust, Pizza for One",,15,0.5,0,0,0,90,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Extra for Original Crust, Small",,15,0,0,0,0,80,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce-Extra for Thin Crust,,20,0.5,0,0,0,125,3,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce-Light for Gluten Free Crust,,5,0,0,0,0,30,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Light for Original Crust, Extra Large",,10,0,0,0,0,50,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Light for Original Crust, Large",,10,0,0,0,0,45,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Light for Original Crust, Medium",,5,0,0,0,0,30,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Light for Original Crust, Pizza for One",,5,0,0,0,0,35,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce-Light for Original Crust, Small",,5,0,0,0,0,30,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce-Light for Thin Crust,,10,0,0,0,0,45,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce for Gluten Free Crust,,10,0,0,0,0,60,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce for Original Crust, Extra Large",,15,0.5,0,0,0,100,2,0,2,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce for Original Crust, Large",,15,0.5,0,0,0,95,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce for Original Crust, Medium",,10,0,0,0,0,60,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce for Original Crust, Pizza for One",,10,0,0,0,0,65,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Original Sauce for Original Crust, Small",,10,0,0,0,0,60,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Original Sauce for Thin Crust,,15,0.5,0,0,0,95,2,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Parmesan Romano for Gluten Free Crust,,15,1,0,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Parmesan Romano for Original Crust, Extra Large",,20,1.5,0.5,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Parmesan Romano for Original Crust, Large",,20,1.5,0.5,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Parmesan Romano for Original Crust, Medium",,15,1,0.5,0,<5,40,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Parmesan Romano for Original Crust, Pizza for One",,15,1,0,0,<5,30,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Parmesan Romano for Original Crust, Small",,15,1,0,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Parmesan Romano for Thin Crust,,20,1.5,0.5,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Pepperoni for Gluten Free Crust,,30,3,1,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pepperoni for Original Crust, Extra Large",,50,4.5,1.5,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pepperoni for Original Crust, Large",,50,4.5,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pepperoni for Original Crust, Medium",,35,3,1,0,10,100,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pepperoni for Original Crust, Pizza for One",,40,3.5,1.5,0,10,115,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pepperoni for Original Crust, Small",,30,3,1,0,<5,95,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Pepperoni for Thin Crust,,50,4.5,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Pineapple for Gluten Free Crust,,5,0,0,0,0,0,2,0,2,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pineapple for Original Crust, Extra Large",,10,0,0,0,0,0,2,0,2,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pineapple for Original Crust, Large",,10,0,0,0,0,0,2,0,2,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pineapple for Original Crust, Medium",,5,0,0,0,0,0,2,0,2,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pineapple for Original Crust, Pizza for One",,5,0,0,0,0,0,2,0,2,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Pineapple for Original Crust, Small",,5,0,0,0,0,0,2,0,2,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Pineapple for Thin Crust,,10,0,0,0,0,0,2,0,2,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce-Extra for Gluten Free Crust,,45,4.5,0.5,0,<5,110,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Extra for Original Crust, Extra Large",,80,8,1.5,0,<5,200,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Extra for Original Crust, Large",,70,7,1,0,<5,160,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Extra for Original Crust, Medium",,50,5,1,0,<5,125,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Extra for Original Crust, Pizza for One",,80,7,1,0,<5,160,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Extra for Original Crust, Small",,45,4.5,0.5,0,<5,110,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce-Extra for Thin Crust,,70,7,1,0,<5,160,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce-Light for Gluten Free Crust,,15,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Light for Original Crust, Extra Large",,30,3,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Light for Original Crust, Large",,25,2.5,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Light for Original Crust, Medium",,15,1.5,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Light for Original Crust, Pizza for One",,25,2.5,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce-Light for Original Crust, Small",,15,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce-Light for Thin Crust,,25,2.5,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce for Gluten Free Crust,,35,3.5,0.5,0,<5,80,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce for Original Crust, Extra Large",,60,6,1,0,<5,130,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce for Original Crust, Large",,50,5,1,0,<5,125,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce for Original Crust, Medium",,35,3.5,0.5,0,<5,80,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce for Original Crust, Pizza for One",,35,3.5,0.5,0,<5,80,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Ranch Sauce for Original Crust, Small",,35,3.5,0.5,0,<5,80,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Ranch Sauce for Thin Crust,,50,5,1,0,<5,125,1,0,1,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Roma Tomatoes for Original Crust, Extra Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Roma Tomatoes for Original Crust, Large",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Roma Tomatoes for Thin Crust,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Salami for Gluten Free Crust,,25,2.5,1,0,10,120,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Salami for Original Crust, Extra Large",,45,4,1.5,0,10,190,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Salami for Original Crust, Large",,40,3.5,1.5,0,10,180,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Salami for Original Crust, Medium",,35,3,1,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Salami for Original Crust, Pizza for One",,25,2.5,1,0,10,120,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Salami for Original Crust, Small",,25,2.5,1,0,10,120,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Salami for Thin Crust,,40,3.5,1.5,0,10,180,1,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Sausage for Gluten Free Crust,,40,4,1.5,0,<5,105,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Sausage for Original Crust, Extra Large",,60,6,2,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Sausage for Original Crust, Large",,60,6,2,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Sausage for Original Crust, Medium",,45,4.5,1.5,0,10,120,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Sausage for Original Crust, Pizza for One",,45,4.5,1.5,0,10,115,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Sausage for Original Crust, Small",,40,4,1.5,0,<5,105,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Sausage for Thin Crust,,60,6,2,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Spinach for Original Crust, Extra Large",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Spinach for Original Crust, Large",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Spinach for Thin Crust,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Steak for Gluten Free Crust,,35,2,1,0,<5,135,0,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Steak for Original Crust, Extra Large",,50,3,1,0,10,200,1,0,1,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Steak for Original Crust, Large",,50,3,1,0,10,200,1,0,1,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Steak for Original Crust, Medium",,40,2,1,0,<5,150,0,0,0,,4,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Steak for Original Crust, Pizza for One",,25,1.5,0.5,0,<5,100,0,0,3,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Steak for Original Crust, Small",,35,2,1,0,<5,135,0,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Steak for Thin Crust,,50,3,1,0,10,200,1,0,1,,5,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Thin Crust (Crust Only),,110,4,0.5,0,0,125,16,0,0,,3,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Three Cheese Blend for Gluten Free Crust,,20,1.5,1,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Three Cheese Blend for Original Crust, Extra Large",,25,2,1.5,0,<5,55,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Three Cheese Blend for Original Crust, Large",,25,2,1.5,0,<5,55,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Three Cheese Blend for Original Crust, Medium",,20,1.5,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Three Cheese Blend for Original Crust, Pizza for One",,20,1.5,1,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,"Three Cheese Blend for Original Crust, Small",,20,1.5,1,0,<5,35,0,0,0,,1,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27
+papajohns,Individual Ingredients,Three Cheese Blend for Thin Crust,,25,2,1.5,0,<5,55,0,0,0,,2,,,https://www.nutritionix.com/papa-johns/menu/premium,2026-10-27

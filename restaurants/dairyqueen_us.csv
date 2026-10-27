@@ -1,0 +1,346 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+dairyqueen,Signature Stackburgers,"Backyard Bacon Ranch Burger, Double",,820,51,19,2,130,1900,53,2,15,,38,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Backyard Bacon Ranch Burger, Triple",,1020,67,27,2.5,180,2310,54,2,15,,50,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Bacon Two Cheese Deluxe Burger, Double",,720,47,19,2,130,1890,39,2,9,,37,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Bacon Two Cheese Deluxe Burger, Triple",,920,63,26,2.5,180,2300,40,2,9,,49,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Flamethrower Burger, Double",,720,49,19,2,125,1430,37,2,7,,34,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Flamethrower Burger, Triple",,910,65,27,2.5,170,1820,38,2,7,,46,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,Hamburger,,320,13,5,0.5,35,870,36,1,7,,15,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Hamburger, Double",,460,25,10,1.5,70,1030,36,1,7,,24,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Hamburger, Triple",,610,37,15,2,110,1190,36,1,7,,33,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Original Cheeseburger, Double",,570,34,15,1.5,100,1530,38,1,8,,29,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Original Cheeseburger, Single",,370,18,8,1,50,1120,37,1,8,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Original Cheeseburger, Triple",,760,50,23,2.5,150,1940,39,1,9,,40,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Two Cheese Deluxe Burger, Double",,620,39,16,2,105,1510,39,2,9,,29,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Signature Stackburgers,"Two Cheese Deluxe Burger, Triple",,820,55,24,2.5,155,1930,40,2,9,,41,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,"Chicken Strip Basket, 4 Piece",,1020,48,8,0,60,2120,111,6,3,,35,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,"Chicken Strip Basket, 6 Piece",,1300,61,11,0,85,2750,139,8,5,,48,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,"Chicken Strips, 3 Piece",,430,20,3.5,0,45,950,41,2,2,,19,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,Original Chicken Strip Sandwich,,550,26,4.5,0,40,990,62,3,6,,18,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,"Sauced & Tossed Honey BBQ Chicken Strip Basket, 4 Piece",,1140,48,8,0,60,2640,142,7,32,,35,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,"Sauced & Tossed Honey BBQ Chicken Strip Basket, 6 Piece",,1480,61,11,0,85,3570,186,9,48,,49,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,Side Salad,,20,0,0,0,0,10,4,1,3,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Chicken & Salads,Spicy Chicken Strip Sandwich,,530,23,4,0,40,1060,63,3,8,,18,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Cheese Dog,,390,24,10,1,50,990,27,1,3,,16,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Chili Cheese Dog,,420,26,11,1,55,1070,28,1,4,,18,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Chili Cheese Dogs (2),,850,53,22,2.5,110,2140,56,2,7,,36,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Chili Dog,,390,23,9,1,45,1050,28,1,4,,16,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Classic Dog,,340,20,8,1,35,970,28,1,5,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Hot Dogs,Hot Dog,,330,19,8,1,35,820,25,1,3,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,Kids Applesauce,,45,0,0,0,0,0,11,2,7,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,Kids Banana,,110,0,0,0,0,0,27,3,14,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,"Kids Chicken Strips, 2 Piece",,280,13,2.5,0,30,640,28,1,1,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,"Kids Fries, Kids'",,170,8,1,0,0,370,23,2,0,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,Kids Hamburger,,320,13,5,0.5,35,870,36,1,7,,15,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,Kids Hot Dog,,330,19,8,1,35,820,25,1,3,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Kids' Meals,Kids Milk,,110,2.5,1.5,0,10,130,12,0,12,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Cheese Curds, Large",,1000,67,38,0.5,165,1960,52,0,3,,49,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Cheese Curds, Regular",,500,34,19,0,85,990,26,0,1,,24,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,Doritos Nacho Cheese Tortilla Chips,,240,14,2,0,0,360,28,2,0,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Fries, Large",,450,21,3,0,0,950,59,4,0,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Fries, Regular",,280,13,2,0,0,590,36,3,0,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Fry-Rings, A La Carte",,400,18,2.5,0,0,890,53,3,2,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,Lay's BBQ Potato Chips,,230,15,2,0,0,230,23,2,3,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Lay's Potato Chips, Original",,240,16,2,0,0,250,23,2,1,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Onion Rings, Large",,450,20,3,0,0,1050,60,3,4,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,"Onion Rings, Regular",,290,13,2,0,0,680,39,2,3,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,Oven Baked Lay's Original Potato Crisps,,130,2,0,0,0,150,26,2,2,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Snacks & Sides,Soft Pretzel Sticks with Zesty Queso,,330,9,3,0,<5,2170,49,1,7,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",BBQ Dipping Sauce Cup,,90,0,0,0,0,430,21,1,16,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Country Gravy Dipping Sauce,,70,4.5,1.5,0,0,360,6,0,1,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Honey Mustard Dipping Sauce Cup,,240,20,3,0,15,450,15,0,14,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",House Made Hidden Valley Ranch Dipping Sauce Cup,,220,22,4,0,20,370,3,0,2,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Kraft Fat Free Italian Dressing,,25,0,0,0,0,380,4,0,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Kraft Honey Mustard Dressing,,130,9,1.5,0,10,330,12,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Marzetti Light Italian Dressing,,15,1,0,0,0,730,2,0,2,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Wild Buffalo Dipping Sauce Cup,,90,10,1,0,0,1000,1,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,"Dressing, Sauces & Dips",Zesty Queso Dipping Sauce,,130,11,4,0,15,710,6,0,0,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,BBQ Sandwich,,280,7,2.5,0,25,750,39,2,12,,14,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Chili Cheese Fries,,990,52,14,1,50,2280,107,9,4,,25,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Corn Dog,,240,13,3,0,25,390,25,2,7,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Mega Chili Cheese Dog,,760,49,20,2,100,1910,49,2,6,,32,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Pork Tenderloin Sandwich,,600,34,7,0,45,990,52,3,7,,21,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Steakfinger Basket,,940,51,13,0.5,50,2120,97,5,3,,23,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Local Favorites,Wild Alaskan Fish Sandwich,,420,16,3,0,30,960,50,1,7,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Caramel Shake, Large",,980,31,21,1.5,85,450,154,0,124,,22,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Caramel Shake, Medium",,750,25,17,1.5,65,330,115,0,93,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Caramel Shake, Small",,550,20,14,1,50,240,79,0,65,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Chocolate Shake, Large",,920,28,19,1.5,75,390,147,2,128,,21,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Chocolate Shake, Medium",,710,23,16,1,60,290,110,1,96,,16,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Chocolate Shake, Small",,530,19,14,1,45,220,77,1,67,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Hot Fudge Shake, Large",,990,38,29,1.5,75,440,140,1,112,,23,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Hot Fudge Shake, Medium",,750,30,23,1.5,60,330,105,1,85,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Hot Fudge Shake, Small",,550,22,17,1,45,240,75,0,61,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Make It A Malt Adds, Large",,110,1,1,0,<5,105,23,1,16,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Make It A Malt Adds, Medium",,80,1,0.5,0,<5,80,18,1,12,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Make It A Malt Adds, Small",,60,0.5,0,0,0,50,12,0,8,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Strawberry Shake, Large",,800,27,19,1.5,75,340,120,1,105,,21,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Strawberry Shake, Medium",,630,23,16,1,60,260,92,1,80,,16,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Strawberry Shake, Small",,490,19,14,1,45,200,68,0,59,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Vanilla Shake, Large",,860,29,20,1.5,80,340,127,0,112,,22,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Vanilla Shake, Medium",,660,23,16,1,60,260,97,0,85,,16,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Shakes,"Vanilla Shake, Small",,520,19,14,1,50,200,73,0,65,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Freeze, Large",,590,15,10,1,50,210,102,0,90,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Freeze, Medium",,450,12,8,0.5,40,160,77,0,68,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Freeze, Small",,360,10,6,0,30,130,62,0,55,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Slush, Large",,340,0,0,0,0,55,86,0,85,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Slush, Medium",,260,0,0,0,0,40,65,0,64,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Misty Slush,"Misty Slush, Small",,200,0,0,0,0,35,50,0,50,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Curl on Top Treats,Banana Split,,520,14,9,0.5,30,150,94,4,74,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Curl on Top Treats,Brownie and Oreo Cupfection,,720,23,9,0.5,55,330,122,2,96,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Curl on Top Treats,Heath Caramel Brownie Cupfection,,760,29,14,0.5,65,390,117,2,90,,11,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Curl on Top Treats,Peanut Buster Parfait,,710,31,18,0.5,35,340,95,3,68,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,Add DQ Sprinkles,,35,1.5,1,0,0,0,6,0,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Caramel Sundae, Large",,600,16,10,1,55,260,102,0,81,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Caramel Sundae, Medium",,430,11,7,0.5,35,190,73,0,58,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Caramel Sundae, Small",,300,8,5,0,25,130,50,0,40,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Cherry Sundae, Large",,510,14,9,0.5,45,200,86,1,73,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Cherry Sundae, Medium",,360,9,6,0,30,135,61,0,52,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Cherry Sundae, Small",,250,7,4.5,0,25,95,42,0,36,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Chocolate Sundae, Large",,560,14,9,0.5,45,220,97,1,84,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Chocolate Sundae, Medium",,400,10,6,0,30,160,70,1,60,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Chocolate Sundae, Small",,270,7,4.5,0,25,110,48,1,41,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Hot Fudge Sundae, Large",,610,21,16,1,50,260,93,1,73,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Hot Fudge Sundae, Medium",,430,15,11,0.5,35,190,66,1,52,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Hot Fudge Sundae, Small",,300,10,8,0,25,125,46,0,36,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Strawberry Sundae, Large",,490,14,9,0.5,45,190,80,1,69,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Strawberry Sundae, Medium",,340,10,6,0,30,135,56,1,49,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Sundaes,"Strawberry Sundae, Small",,240,7,4.5,0,25,95,39,0,34,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Chocolate Cone, Kids'",,160,5,3,0,15,60,25,0,17,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Chocolate Cone, Large",,480,15,9,0.5,45,190,73,0,50,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Chocolate Cone, Medium",,340,10,6,0,30,130,52,0,35,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Chocolate Cone, Small",,240,7,4.5,0,25,90,36,0,25,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Cherry, Kids'",,210,9,7,0,15,65,28,0,20,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Cherry, Large",,550,22,16,0.5,45,190,76,0,57,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Cherry, Medium",,460,22,18,0,30,140,58,0,44,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Cherry, Small",,320,15,12,0,25,95,40,0,31,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Chocolate, Kids'",,200,9,7,0,15,65,28,0,20,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Chocolate, Large",,640,30,23,0.5,45,200,81,1,60,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Chocolate, Medium",,460,22,17,0,30,140,58,1,43,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Dipped Cone, Chocolate, Small",,320,15,12,0,25,95,40,1,30,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Peanut Brittle Crunch Cone, Kids",,190,6,3.5,0,15,75,30,0,21,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Peanut Brittle Crunch Cone, Large",,560,19,11,0.5,45,220,85,1,63,,14,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Peanut Brittle Crunch Cone, Medium",,410,14,8,0,30,160,62,1,46,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Peanut Brittle Crunch Cone, Small",,280,9,5,0,25,105,42,0,32,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Vanilla Cone, Kids'",,160,4.5,3,0,15,65,25,0,18,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Vanilla Cone, Large",,450,14,9,0.5,45,180,71,0,52,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Vanilla Cone, Medium",,320,10,6,0,30,130,50,0,36,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Cones,"Vanilla Cone, Small",,220,7,4.5,0,25,90,34,0,26,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"8"" Dots Blue Orange Yellow Green Icing, RTD",,3920,161,123,3,300,2090,595,20,431,,78,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"8"" Dots Blue Orange Yellow Green Icing, Store Made",,3760,153,118,4,240,1610,549,8,415,,70,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"10"" Dots Blue Orange Yellow Green Icing, RTD",,5840,236,178,4.5,460,3150,885,30,646,,120,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"10"" Dots Blue Orange Yellow Green Icing, Store Made",,5570,223,169,6,365,2410,812,12,618,,106,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"Sheet Cake Multi Color Icing Quins and Streamers, RTD",,8850,354,265,6,625,4870,1311,49,969,,173,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,DQ Cakes,"Sheet Cake Multi Color Icing Quins and Streamers, Store Made",,8480,339,256,8,495,3820,1206,23,930,,154,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Novelties,"Buster Bar, 6 Pack, Manufactured",,2850,177,107,1,95,1090,274,18,223,,61,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Novelties,"Buster Bar, 6 Pack, Store Made",,2650,161,95,1.5,90,1160,255,18,201,,63,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Novelties,"Dilly Bar, 6 Pack, Manufactured",,1340,74,61,1,85,340,153,4,127,,20,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Novelties,"Dilly Bar, 6 Pack, Store Made",,1210,71,59,1,75,300,128,3,108,,19,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Novelties,"DQ Sandwich, 6 Pack",,1100,31,18,1,65,780,182,3,104,,23,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Banana Chill Smoothie, Large",,390,0.5,0,0,0,240,91,5,63,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Banana Chill Smoothie, Medium",,260,0,0,0,0,160,60,3,42,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Banana Chill Smoothie, Small",,200,0,0,0,0,120,45,2,31,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Banana Chill Smoothie, X-Large",,460,0.5,0,0,0,280,106,5,73,,11,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Berry Peachy Smoothie, Extra Large",,560,0,0,10,150,135,3,112,5,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Berry Peachy Smoothie, Large",,390,0,0,10,115,95,2,76,4,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Berry Peachy Smoothie, Medium",,320,0,0,5,80,75,2,66,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Berry Peachy Smoothie, Small",,240,0,0,5,75,55,1,46,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Julius, Large",,630,0,0,0,0,70,155,3,147,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Julius, Medium",,430,0,0,0,0,45,105,2,99,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Julius, Small",,300,0,0,0,0,35,75,1,70,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Smoothie, Large",,590,0,0,0,0,180,138,3,130,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Smoothie, Medium",,460,0,0,0,0,135,109,2,102,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Smoothie, Small",,340,0,0,0,0,90,79,2,74,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Coconana Berry Smoothie, X-Large",,800,0,0,0,0,230,188,4,176,,11,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Mango Pineapple Smoothie, Large",,420,0,0,0,0,180,96,1,92,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Mango Pineapple Smoothie, Medium",,330,0,0,0,0,135,77,1,74,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Mango Pineapple Smoothie, Small",,250,0,0,0,0,90,59,1,56,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Mango Pineapple Smoothie, X-Large",,590,0,0,0,0,230,136,1,130,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orange Berry Banana Smoothie Super +, Extra Large",,400,0,0,0,20,100,13,64,4,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orange Berry Banana Smoothie Super +, Large",,300,0,0,0,15,75,10,49,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orange Berry Banana Smoothie Super +, Medium",,240,0,0,0,15,60,7,38,3,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orange Berry Banana Smoothie Super +, Small",,160,0,0,0,10,40,5,26,2,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orangeberry Xtreme Smoothie, Large",,430,0,0,0,0,180,100,1,89,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orangeberry Xtreme Smoothie, Medium",,350,0,0,0,0,135,81,1,72,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orangeberry Xtreme Smoothie, Small",,260,0,0,0,0,90,61,1,54,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Orangeberry Xtreme Smoothie, X-Large",,600,0,0,0,0,220,141,2,126,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Pomegranate Berry Blast Smoothie, Large",,470,0,0,0,0,170,110,1,100,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Pomegranate Berry Blast Smoothie, Medium",,380,0,0,0,0,130,89,1,81,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Pomegranate Berry Blast Smoothie, Small",,290,0,0,0,0,85,68,1,62,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Pomegranate Berry Blast Smoothie, X-Large",,660,0,0,0,0,220,157,2,143,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Banana Smoothie, Large",,440,0,0,0,0,190,103,3,93,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Banana Smoothie, Medium",,350,0,0,0,0,140,83,3,75,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Banana Smoothie, Small",,260,0,0,0,0,100,62,2,56,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Banana Smoothie, X-Large",,620,0.5,0,0,0,240,144,5,131,,11,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Mango Rush Premium Fruit Smoothie, Extra Large",,640,0.5,0,0,0,200,152,4,138,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Mango Rush Premium Fruit Smoothie, Large",,460,0,0,0,0,150,109,3,98,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Mango Rush Premium Fruit Smoothie, Medium",,370,0,0,0,0,100,88,3,80,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Mango Rush Premium Fruit Smoothie, Small",,270,0,0,0,0,95,63,2,58,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Smoothie, Large",,400,0,0,0,0,180,93,2,83,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Smoothie, Medium",,320,0,0,0,0,135,75,2,67,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Smoothie, Small",,240,0,0,0,0,95,56,1,51,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Smoothie, X-Large",,560,0,0,0,0,230,131,3,118,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Flavored Sensation Smoothie, Large",,410,0,0,0,0,200,93,2,88,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Flavored Sensation Smoothie, Medium",,370,0,0,0,0,170,86,1,83,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Flavored Sensation Smoothie, Small",,260,0,0,0,0,115,61,1,59,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Flavored Sensation Smoothie, X-Large",,630,0,0,0,0,290,147,2,143,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Sensation Smoothie, Large",,420,0,0,0,0,200,99,1,88,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Sensation Smoothie, Medium",,340,0,0,0,0,150,80,1,71,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Sensation Smoothie, Small",,250,0,0,0,0,105,60,1,54,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Strawberry Watermelon Sensation Smoothie, X-Large",,590,0,0,0,0,260,140,2,125,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Sunshine Orange Smoothie, Large",,460,0,0,0,0,180,108,0,97,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Sunshine Orange Smoothie, Medium",,360,0,0,0,0,140,84,0,76,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Sunshine Orange Smoothie, Small",,260,0,0,0,0,95,60,0,54,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Sunshine Orange Smoothie, X-Large",,620,0,0,0,0,230,144,0,130,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tripleberry Smoothie, Large",,460,0,0,0,0,180,107,2,104,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tripleberry Smoothie, Medium",,370,0,0,0,0,135,87,2,84,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tripleberry Smoothie, Small",,280,0,0,0,0,90,66,1,65,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tripleberry Smoothie, X-Large",,660,0,0,0,0,220,153,3,149,,10,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropi-Colada Smoothie, Large",,460,0,0,0,0,140,109,2,101,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropi-Colada Smoothie, Medium",,350,0,0,0,0,115,83,2,77,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropi-Colada Smoothie, Small",,250,0,0,0,0,90,58,1,53,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropi-Colada Smoothie, X-Large",,600,0,0,0,0,210,141,3,130,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropical Tango Smoothie, Large",,430,0,0,0,0,170,100,3,84,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropical Tango Smoothie, Medium",,350,0,0,0,0,130,82,3,69,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropical Tango Smoothie, Small",,250,0,0,0,0,90,58,2,50,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Premium Fruit Smoothies,"Tropical Tango Smoothie, X-Large",,590,0,0,0,0,220,140,4,118,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Orange Julius, Large",,400,0,0,0,0,70,99,0,95,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Orange Julius, Medium",,260,0,0,0,0,45,65,0,62,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Orange Julius, Small",,200,0,0,0,0,35,50,0,48,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Banana Julius, Large",,670,9,9,0,0,150,146,4,129,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Banana Julius, Medium",,460,7,7,0,0,105,99,3,86,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Banana Julius, Small",,330,4.5,4.5,0,0,75,71,2,64,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Mango Rush Julius Original, Large",,690,0.5,0,0,0,75,171,4,159,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Mango Rush Julius Original, Medium",,480,0,0,0,0,50,119,3,109,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Strawberry Mango Rush Julius Original, Small",,340,0,0,0,0,35,85,2,79,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Tripleberry Julius, Large",,680,9,9,0,0,140,147,2,136,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Tripleberry Julius, Medium",,470,7,7,0,0,100,101,2,92,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Julius Originals,"Tripleberry Julius, Small",,340,4.5,4.5,0,0,70,74,1,68,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Applewood Smoked Bacon,,50,3.5,1,0,10,190,0,0,0,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,BBQ Sauce,,30,0,0,0,0,110,7,0,6,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Brownie Pieces, Medium & Large Blizzard",,120,6,3,0,<5,95,17,1,9,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Brownie Pieces, Mini & Small Blizzard",,60,3,1.5,0,0,50,8,1,5,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Burger Patty,,150,12,5,0.5,35,160,0,0,0,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Butterfinger Pieces, Medium & Large Blizzard",,170,7,3.5,0,0,90,24,1,14,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Butterfinger Pieces, Mini & Small Blizzard",,80,3.5,1.5,0,0,45,12,1,7,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Caramel Topping, Mini & Small Blizzard",,45,0.5,0,0,0,25,10,0,7,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Caramel Topping, Sundae, Shake, Malt, Moolatte, Medium & Large Blizzard",,90,1,0.5,0,<5,45,20,0,14,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Cheesecake Pieces, Medium & Large Blizzard",,100,6,3.5,0,25,85,9,0,6,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Cheesecake Pieces, Mini & Small Blizzard",,50,3,2,0,15,40,5,0,3,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Chili Dog Sauce,,40,2.5,1,0,<5,160,2,0,1,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Choco Chunks, Medium & Large Blizzard",,70,4.5,4,0,0,0,9,1,7,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Choco Chunks, Mini & Small Blizzard",,35,2.5,2,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Chocolate Topping, Mini & Small Blizzard",,50,0,0,0,0,15,12,0,11,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Chocolatetopping, Mini & Small Blizzard",,50,0,0,0,0,15,12,0,11,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Chocolate Topping, Sundae, Shake, Malt, Medium & Large Blizzard",,90,0,0,0,0,30,22,1,20,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Chocolatetopping, Sundae, Shake, Malt, Medium & Large Blizzard",,90,0,0,0,0,30,22,1,20,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Cookie Dough Pieces, Medium & Large Blizzard",,290,14,6,0,<5,210,42,1,24,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Cookie Dough Pieces, Mini & Small Blizzard",,150,7,3,0,0,105,21,0,12,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Diced Tomato,,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Dilly Bar Chocolate, 6 Pack, Manufactured",,220,12,10,0,15,55,25,1,21,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Fudge, Medium & Large Blizzard",,100,4,4,0,0,50,15,1,13,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Fudge, Mini & Small Blizzard",,50,2,2,0,0,25,7,0,7,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Jalapeno Bacon,,20,2,0.5,0,<5,50,0,0,0,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Ketchup, Better Burger",,10,0,0,0,0,85,3,0,2,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Lettuce,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"M&M's Candies, Medium & Large Blizzard",,180,7,4.5,0,<5,25,27,1,24,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"M&M's Candies, Mini & Small Blizzard",,90,3.5,2,0,0,15,14,0,12,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Mayo,,110,12,2,0,10,65,0,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Oreo Cookie Pieces, Medium & Large Blizzard",,180,9,3,0,0,115,27,1,17,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Oreo Cookie Pieces, Mini & Small Blizzard",,120,6,2,0,0,75,18,0,11,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Peanut Butter Topping, Mini & Small Blizzard",,45,4,0.5,0,0,45,2,0,1,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Peanut Butter Topping, Sundae, Shake, Malt, Medium & Large Blizzard",,120,10,1.5,0,0,115,6,1,2,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Pineapple Topping, Sundae",,30,0,0,0,0,0,7,0,7,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Ranch,,50,5,1,0,<5,95,1,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Reese's Peanut Butter Cup Pieces, Medium & Large Blizzard",,180,10,3.5,0,<5,125,20,1,18,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Reese's Peanut Butter Cup Pieces, Mini & Small Blizzard",,90,5,2,0,0,60,10,1,9,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Strawberry Topping, Mini & Small Blizzard",,25,0,0,0,0,10,7,0,6,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Strawberry Topping, Sundae, Shake, Malt, Medium & Large Blizzard",,60,0,0,0,0,15,14,1,13,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,"Vanilla Syrup, Shake, Malt, Moolatte",,25,0,0,0,0,0,6,0,6,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Mobile Add Ons,Yellow Mustard,,5,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,"Add a Banana, Large",,50,0,0,0,0,0,13,2,7,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,"Add a Banana, Medium",,40,0,0,0,0,0,10,1,5,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,"Add a Banana, Small",,25,0,0,0,0,0,7,1,4,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,"Add a Banana, X-Large",,70,0,0,0,0,0,17,2,9,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,Antioxidant Boost,,20,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,Energy Boost,,20,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,Protein Boost,,50,0,0,0,0,90,0,0,0,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Supplemental Facts,Vitamin C Boost,,20,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,American Cheese,,50,4,2.5,0,15,240,1,0,1,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Bacon (3),,390,35,12,0,60,1280,1,0,1,,20,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Biscuit Sandwich with Bacon,,420,26,9,0,190,940,19,1,1,,14,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Biscuit Sandwich with Ham,,350,18,6,0,185,980,19,1,1,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Biscuit Sandwich with Sausage,,410,25,9,0,190,750,18,1,1,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Breakfast Bowl – Gravy,,830,59,19,4,360,1690,42,4,2,,30,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Chicken and Gravy Burrito,,320,15,5,1,95,840,31,2,1,,15,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Chicken Strips (2),,240,12,2,0,30,660,19,1,0,,15,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,"Coffee, 12 oz",,5,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,"Coffee, 16 oz",,5,0,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Country Platter with Ham,,860,42,13,0.5,365,2350,60,3,2,,28,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Eggs (2),,150,9,3,0,340,340,2,0,0,,12,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Ham (2),,60,2,1,0,20,720,2,0,1,,9,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Hash Browns,,180,12,2,0,0,360,18,2,0,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Lil' Donuts,,290,14,7,0,15,300,37,1,17,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,"Milk, 12 oz",,220,9,6,0,35,210,21,0,21,,15,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,"Milk, 16 oz",,280,11,7,0,45,260,27,0,27,,18,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Orange Juice Bottle,,190,0,0,0,0,25,44,0,40,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Pancake Platter with Bacon,,730,42,14,0,120,1970,60,3,11,,29,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Pancake Platter with Ham,,390,9,3,0,80,1410,61,3,11,,18,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Pancake Platter with Sausage,,520,24,8,0,100,980,60,4,11,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Pancakes (3),,260,5,1.5,0,45,530,46,3,8,,7,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Pepper Jack Cheese,,50,4.5,3,0,15,250,0,0,0,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Sausage Biscuit Twin Pak,,690,42,14,0,40,1160,34,1,2,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Sausages (2),,190,17,6,0,40,290,0,0,0,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Shredded Cheese,,60,4.5,2.5,0,15,85,1,0,0,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Steak Fingers (2),,230,15,4.5,0,25,430,15,1,0,,8,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Breakfast,Swiss Cheese,,60,4.5,3,0,15,30,0,0,0,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Banana Chill Light, Large",,280,0.5,0,0,0,130,66,5,42,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Banana Chill Light, Medium",,210,0,0,0,0,125,52,3,35,,5,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Banana Chill Light, Small",,160,0,0,0,0,85,37,2,24,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Banana Chill Light, X-Large",,300,0.5,0,0,0,135,72,5,46,,6,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Mango Pineapple Light, Large",,270,0,0,0,0,20,66,1,62,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Mango Pineapple Light, Medium",,220,0,0,0,0,15,54,1,51,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Mango Pineapple Light, Small",,180,0,0,0,0,10,44,1,41,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Mango Pineapple Light, X-Large",,390,0,0,0,0,25,97,1,92,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Orangeberry Xtreme Light, Large",,270,0,0,0,0,35,71,1,67,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Orangeberry Xtreme Light, Medium",,220,0,0,0,0,25,54,1,51,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Orangeberry Xtreme Light, Small",,180,0,0,0,0,20,44,1,42,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Orangeberry Xtreme Light, X-Large",,400,0,0,0,0,45,98,2,93,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Pomegranate Berry Blast Light, Large",,260,0,0,0,0,25,64,1,60,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Pomegranate Berry Blast Light, Medium",,210,0,0,0,0,15,51,1,49,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Pomegranate Berry Blast Light, Small",,160,0,0,0,0,10,39,1,37,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Pomegranate Berry Blast Light, X-Large",,360,0,0,0,0,30,90,2,85,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Banana Light, Large",,270,0,0,0,0,30,67,3,60,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Banana Light, Medium",,220,0,0,0,0,25,55,2,50,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Banana Light, Small",,170,0,0,0,0,20,43,2,39,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Banana Light, X-Large",,390,0,0,0,0,45,98,4,89,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Light, Large",,270,0,0,0,0,35,67,2,64,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Light, Medium",,210,0,0,0,0,25,53,1,51,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Light, Small",,170,0,0,0,0,20,43,1,42,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Light, X-Large",,390,0,0,0,0,45,97,3,93,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Watermelon Sensation Light, Large",,270,0,0,0,0,50,66,1,61,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Watermelon Sensation Light, Medium",,220,0,0,0,0,40,55,1,50,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Watermelon Sensation Light, Small",,180,0,0,0,0,30,43,1,40,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Strawberry Watermelon Sensation Light, X-Large",,400,0,0,0,0,70,98,2,91,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Sunshine Orange Light, Large",,230,0,0,0,0,30,56,0,52,,3,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Sunshine Orange Light, Medium",,170,0,0,0,0,20,41,0,38,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Sunshine Orange Light, Small",,140,0,0,0,0,15,35,0,32,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Sunshine Orange Light, X-Large",,310,0,0,0,0,35,76,0,70,,4,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tripleberry Light, Large",,260,0,0,0,0,20,64,2,62,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tripleberry Light, Medium",,210,0,0,0,0,15,51,1,49,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tripleberry Light, Small",,160,0,0,0,0,10,39,1,37,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tripleberry Light, X-Large",,360,0,0,0,0,25,90,2,87,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropi-Colada Light, Large",,270,0,0,0,0,25,66,2,63,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropi-Colada Light, Medium",,210,0,0,0,0,20,53,2,50,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropi-Colada Light, Small",,170,0,0,0,0,15,41,1,40,,0,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropi-Colada Light, X-Large",,380,0,0,0,0,35,94,3,90,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropical Tango Light, Large",,280,0,0,0,0,30,70,2,66,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropical Tango Light, Medium",,220,0,0,0,0,20,54,2,48,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropical Tango Light, Small",,160,0,0,0,0,15,40,1,37,,1,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Light Smoothies,"Tropical Tango Light, X-Large",,380,0,0,0,0,40,94,3,85,,2,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Bacon Cheese Dog, 5:1 Dog",,490,32,13,1.5,75,1410,28,1,3,,23,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Bacon Cheese Dog, 8:1 Dog",,420,26,11,1,60,1140,27,1,3,,19,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Cheese Dog, 5:1 Dog",,460,30,13,1.5,65,1270,27,1,3,,20,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Chili Cheese Dog, 5:1 Dog",,500,33,14,1.5,75,1340,29,1,4,,22,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Relish Dog, 5:1 Dog",,430,26,10,1,55,1330,32,1,8,,17,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
+dairyqueen,Orange Julius Hot Dogs,"Relish Dog, 8:1 Dog",,350,20,8,1,35,1060,31,1,8,,13,,,https://www.nutritionix.com/dairy-queen/menu/premium,2026-10-27
