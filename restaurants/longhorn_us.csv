@@ -1,0 +1,261 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+longhorn,Beverages — Margaritas,Texas Margarita,,200,0,0,0,,990,28,,,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Watermelon Margarita,,460,0,0,0,0,15,89,0,87,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Watermelon Margarita Long Pour,,680,0,0,0,0,20,131,0,129,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,The Perfect,,290,,,,,10,46,,45,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,The Perfect Long Pour,,410,0,0,0,0,15,64,0,64,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Strawberry,,310,0,0,0,0,10,52,0,51,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Strawberry Long Pour,,460,0,0,0,0,10,76,0,75,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Mango,,410,0,0,0,0,10,74,0,74,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Mango Long Pour,,630,0,0,0,0,20,118,0,117,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Patrón Dragon Fruit Margarita,,370,0,0,0,0,10,61,1,54,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Margaritas,Patrón Dragon Fruit Margarita Long Pour,,370,0,0,0,0,10,61,1,54,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Smoked LongHorn® Old Fashioned (with Small Batch 9 yr. Bourbon by Knob Creek),,270,0,0,0,0,0,27,0,26,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Lemondrop Martini,,250,0,0,0,,5,36,,30,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Hurricane (where available),,280,0,0,0,0,10,26,0,24,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Blazing Berry Sangria,,240,0,0,0,0,130,34,0,29,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Texas Tea,,240,0,0,0,0,15,35,0,35,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Spiked Strawberry Lemonade,,200,0,0,0,0,10,27,0,25,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Hand-Crafted Cocktails,Jack & Coke,,130,0,0,0,0,15,13,0,13,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Regular Bottle Beer 12 oz.,,150,0,0,0,0,15,12,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Light Draft/Bottle Beer 12 oz.,,100,0,0,0,0,15,6,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Michelob Ultra 16 oz.,,130,0,0,0,0,15,3,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Michelob Ultra 20 oz.,,160,0,0,0,0,20,4,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Regular Draft Beer 16 oz.,,200,0,0,0,0,20,16,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Regular Draft Beer 20 oz.,,250,0,0,0,0,25,20,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Light Draft Beer 16 oz.,,140,0,0,0,0,20,8,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Light Draft Beer 20 oz.,,170,0,0,0,0,25,10,0,<1,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Cider Draft 16 oz.,,270,,,,,,,,,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Cider Draft 20 oz.,,330,,,,,,,,,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Cider Bottle,,200,0,0,0,0,15,21,0,21,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,IPA Draft 16 oz.,,270,,,,,20,1,,,,4,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,IPA Draft 20 oz.,,340,,,,,25,2,,,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,IPA Bottle (where available),,210,,,,,15,<1,,,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Beer,Non-Alcoholic Beer,,130,0,0,0,0,45,29,0,29,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,White - Glass,,150,0,0,0,0,10,4,0,2,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,White - Long Pour,,220,0,0,0,0,15,6,0,3,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,White - Bottle,,630,0,0,0,0,35,16,0,7,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,Red - Glass,,160,0,0,0,0,0,5,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,Red - Long Pour,,230,0,0,0,0,0,8,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beverages — Wine,Red - Bottle,,660,0,0,0,0,0,21,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Raspberry Iced Tea,,50,0,0,0,0,10,13,0,12,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Peach Iced Tea,,50,0,0,0,0,10,14,0,12,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Half Lemonade & Half Tea (Sweetened),,120,0,0,0,0,15,32,0,31,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Half Lemonade & Half Tea (Unsweetened),,70,0,0,0,0,15,19,0,18,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Sweet Tea,,130,0,0,0,0,10,33,0,32,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Unsweetened Tea,,0,0,0,0,0,10,1,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Strawberry Lemonade,,200,0,0,0,0,15,50,<1,46,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Raspberry Lemonade,,170,0,0,0,0,0,41,0,39,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Mango Lemonade,,240,0,0,0,0,0,60,0,59,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Watermelon Lemonade,,210,0,0,0,0,0,55,0,54,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Coke,,140,0,,,,45,39,,39,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Diet Coke/Coke Zero Sugar,,0,0,0,0,0,45,0,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Sprite,,140,,,,,65,38,,38,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Pibb Xtra,,140,,,,,40,39,,39,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Dr Pepper (where available),,100,0,0,0,0,35,27,0,27,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,"Juices (Orange, Apple)",,110,0,0,0,0,15,27,0,24,,2,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Juices (Cranberry),,120,0,0,0,0,35,30,0,30,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Milk,,150,6,4,0,25,140,15,0,15,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Chocolate Milk,,220,3.5,2,0,15,170,38,0,37,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Minute Maid Lemonade,,100,0,0,0,0,40,26,0,26,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Bottomless Beverages,Bottled Water,,0,0,0,0,0,0,0,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Spicy Chicken Bites (where available),,740,39,7,0,110,1420,53,0,17,,43,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Sweet Chili Ginger Sauce,,210,16,2.5,0,15,340,16,0,15,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Parmesan Crusted Fries .5,,2070,130,36,,195,5650,155,2,4,,72,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Texas Tonion,,1180,69,12,0,0,2720,126,9,9,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Dip,,500,52,8,1,30,700,9,0,8,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Parmesan Cheese Fries,,2340,167,46,2.5,175,3630,143,0,5,,65,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),White Cheddar Stuffed Mushrooms,,730,60,36,2,155,1570,14,1,4,,33,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Firecracker Chicken Wraps,,720,42,15,0,70,2120,62,0,0,,28,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Avocado-Lime Sauce,,170,23,3.5,0,15,450,3,<1,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Wild West Shrimp,,970,62,17,0.5,290,3740,65,6,2,,39,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Ranch Dressing,,230,25,4,0,20,380,2,0,1,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Seasoned Steakhouse Wings,,460,28,7,0,245,1030,0,<1,0,,53,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Blue Cheese Dressing,,180,17,3.5,0,15,390,3,0,2,,2,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Buffalo Sauce,,90,8,1.5,0,10,1280,3,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Surf & Surf Dip (where available),,730,60,28,0.5,275,2430,12,1,1,,35,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Flatbread (where available) mg,,920,49,9,0,,1750,99,5,7,,19,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Texas Brisket Nachos (where available),,2040,130,45,0,240,4070,149,1,11,,64,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Parmesan Crusted Spinach Dip (where available),,770,62,33,0.5,150,1730,21,2,2,,28,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Flatbread Chips (where available) mg,,710,38,7,0,,1350,76,4,5,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Spicy Chicken Bites - Larger Portion (where available),,920,49,9,0,140,1780,66,0,21,,54,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Sweet Chili Ginger Sauce,,430,33,5,0,30,670,32,<1,30,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),Texas Brisket Queso (where available),,1070,89,49,3,20,2560,19,1,8,,50,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Epic Beginnings (Appetizers),+ Chips (where available),,600,30,5,0,0,560,76,7,1,,8,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Loaded Potato Soup - Cup,,270,19,9,0,45,670,16,2,2,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Loaded Potato Soup - Bowl,,380,27,13,0.5,65,970,21,2,2,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Shrimp & Lobster Chowder - Cup,,190,11,6,0,65,570,17,2,4,,8,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Shrimp & Lobster Chowder - Bowl,,250,15,8,0,90,760,23,3,5,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,French Onion Soup - Cup,,170,10,4.5,0,25,880,13,1,4,,8,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,French Onion Soup - Bowl,,480,31,18,0,100,1830,20,0,7,,30,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Southwest Chicken Tortilla - Cup (where available),,250,14,1,0,25,1070,17,<1,0,,12,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Soups,Southwest Chicken Tortilla - Bowl (where available),,330,18,1.5,0,30,1420,22,1,0,,16,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Side Salads,Mixed Greens Salad,,140,8,3,0,15,270,13,3,3,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Side Salads,Caesar Side Salad with Caesar Dressing,,250,19,5,0,15,600,12,2,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Side Salads,Strawberry & Pecan Salad with dressing,,190,8,2,0,10,300,28,4,22,,4,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Salads,Grilled Chicken & Strawberry Salad with Vinaigrette,,530,19,7,0,125,1310,52,7,41,,43,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Salads,Farm Fresh Field Greens with Crispy Chicken Tenders,,650,35,10,1,105,1090,41,7,6,,46,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Salads,Farm Fresh Field Greens with Salmon,,530,29,9,1,115,710,23,5,7,,43,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Salads,7-Pepper Sirloin Salad,,490,26,12,1,135,1120,22,5,5,,45,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Blue Cheese 1.5 oz.,,180,17,3.5,0,15,390,3,0,2,,2,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Blue Cheese 3 oz.,,350,34,7,0,35,770,6,0,3,,4,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Honey Mustard 1.5 oz.,,240,23,3,0,25,200,8,0,6,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Honey Mustard 3 oz.,,480,45,6,0,45,410,15,0,12,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Ranch 1.5 oz.,,230,25,4,0,20,380,2,0,1,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Ranch 3 oz.,,460,49,8,0.5,40,750,4,0,3,,2,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Raspberry Vinaigrette 1.5 oz.,,60,0.5,0,0,0,220,14,0,12,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Raspberry Vinaigrette 3 oz.,,120,1,0,0,0,440,27,0,25,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Thousand Island 1.5 oz.,,190,19,3,0,10,300,5,0,4,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,Thousand Island 3 oz.,,390,39,6,0,20,610,11,0,9,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,White Balsamic Vinaigrette 1.5 oz.,,200,20,1.5,0,0,240,6,0,5,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dressings & Dipping Sauces,White Balsamic Vinaigrette 3 oz.,,390,39,3,0,0,480,12,0,9,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Blackened Chicken Sandwich 6 oz,,810,48,12,1,45,1710,47,3,7,,48,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Crispy Buttermilk Chicken Sandwich 6 oz,,1080,72,12.5,0,140,2325,67,5,9,,44,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Half-Pound Steakhouse Cheeseburger,,850,51,15,2,165,1150,45,3,5,,48,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Grilled Chicken & Strawberry Lunch Salad with Vinaigrette,,280,11,2.5,0,55,580,28,4,22,,20,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,7-Pepper Sirloin Lunch Salad,,250,13,6,0.5,65,560,11,2,2,,23,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Loaded Potato Soup (bowl),,380,27,13,0.5,65,970,21,2,2,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Lunch Plates,Shrimp & Lobster Chowder (bowl),,250,15,8,0,90,760,23,3,5,,10,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Grilled Lamb Chops,,1120,79,39,3.5,260,1670,42,6,3,,63,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Hand-Breaded Chicken Tenders (6 tenders),,420,22,4,0,80,680,19,2,<1,,36,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Honey Mustard,,240,23,3,0,25,200,8,0,6,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Seasoned French Fries,,500,23,2,0,0,1280,67,0,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Hand-Breaded Chicken Tenders (9 tenders),,620,33,6,0,120,1030,28,4,<1,,53,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Honey Mustard,,240,23,3,0,25,200,8,0,6,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Seasoned French Fries,,500,23,2,0,0,1280,67,0,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Parmesan Crusted Chicken 6 oz,,560,34,14,0.5,160,1580,12,2,2,,51,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Parmesan Crusted Chicken 9 oz,,650,36,15,0.5,205,1860,12,2,2,,68,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Parmesan Crusted Chicken 12 oz,,1120,69,28,1.5,320,3160,24,4,3,,102,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Redrock Grilled Shrimp 8 ct.,,160,3,1.5,0,225,960,2,<1,<1,,30,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Baby Back Ribs Half-Rack,,820,56,21,0,255,740,16,1,15,,62,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ BBQ Sauce,,110,0,0,0,0,470,26,0,23,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Baby Back Ribs Full-Rack,,1270,87,33,0,395,1150,25,2,24,,96,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ BBQ Sauce,,110,0,0,0,0,470,26,0,23,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,LongHorn® Salmon 7 oz.,,300,16,3,0,90,310,2,0,1,,33,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,LongHorn® Salmon 10 oz.,,430,23,4,0,130,440,3,0,2,,47,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Chop Steak,,640,46,21,2.5,145,1240,13,3,6,,44,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Chicken Fried Chicken (where available),,400,20,4,0,100,1170,21,2,1,,35,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Mashed Potatoes,,340,19,10,0,40,790,37,4,2,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Gravy,,160,9,5,0,10,660,18,0,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Cowboy Pork Chops (where available),,400,25,9,0,100,2460,2,0,1,,44,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Lemon Garlic Chicken 6 oz.,,240,10,4,0,105,840,2,0,<1,,36,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Lemon Garlic Chicken 9 oz.,,330,12,4.5,0,150,1120,2,0,<1,,53,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Lemon Garlic Chicken 12 oz.,,420,15,5,0,195,1400,2,0,<1,,70,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,7-Pepper Crusted New York Strip 14oz.,,780,30,27,2,270,1110,30,2,<1,,70,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Flo's Filet 6 oz.,,330,15,5,0.5,115,330,2,0,<1,,37,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Flo's Filet 9 oz.,,450,19,7,1,170,480,3,0,1,,56,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Outlaw Ribeye 20 oz.,,1250,87,38,4.5,310,1670,2,0,0,,94,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Renegade Sirloin 6 oz.,,320,15,5,0.5,95,530,2,0,0,,36,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Renegade Sirloin 8 oz.,,390,16,6,1,125,670,2,0,0,,51,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Ribeye 12 oz.,,810,54,22,3,205,670,4,0,0,,66,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,New York Strip/Kansas City Strip 12 oz.,,630,33,13,2,175,1740,1,1,<1,,72,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Fire-Grilled T-Bone 18 oz.,,1130,62,24,4.5,285,2030,1,2,1,,123,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,The LongHorn® 22 oz.,,1280,67,27,5,365,2450,1,2,1,,150,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,Chicken Fried Steak (where available),,730,26,6,0,75,760,24,0,2,,30,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,+ Mashed Potatoes,,340,19,10,0,40,790,37,4,2,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,+ Gravy,,160,9,5,0,10,660,18,0,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,LongHorn® Steak Tips (where available),,610,29,10,1,195,2490,14,0,12,,74,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak — Legendary Steaks,LongHorn® Churrasco Steak w/ Plantains (where available),,840,52,12,1,150,670,47,5,31,,49,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Flo's Filet 6 oz.,,330,15,5,0.5,115,330,2,0,<1,,37,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Flo's Filet 9 oz.,,450,19,7,1,170,480,3,0,1,,56,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Outlaw Ribeye 20 oz.,,1250,87,38,4.5,310,1670,2,0,0,,94,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Renegade Sirloin 6 oz.,,320,15,5,0.5,95,530,2,0,0,,36,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Renegade Sirloin 8 oz.,,390,16,6,1,125,670,2,0,0,,51,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Ribeye 12 oz.,,810,54,22,3,205,670,4,0,0,,66,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,New York Strip/Kansas City Strip 12 oz.,,630,33,13,2,175,1740,1,1,<1,,72,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Fire-Grilled T-Bone 18 oz.,,1130,62,24,4.5,285,2030,1,2,1,,123,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,The LongHorn® 22 oz.,,1280,67,27,5,365,2450,1,2,1,,150,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,Chicken Fried Steak (where available),,730,51,11,0.5,150,1530,48,0,3,,60,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,+ Mashed Potatoes,,340,19,10,0,40,790,37,4,2,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,+ Gravy,,160,9,5,0,10,660,18,0,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,LongHorn® Steak Tips (where available),,610,29,10,1,195,2490,14,0,12,,74,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Legendary Steaks,LongHorn® Churrasco Steak w/ Plantains (where available),,840,52,12,1,150,670,47,5,31,,49,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,Renegade Sirloin 6 oz. with Redrock Grilled Shrimp,,480,18,7,1,320,1490,4,<1,<1,,66,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,9 oz. Parmesan Crusted Chicken with Half-Rack Baby Back Ribs,,1470,92,36,0.5,460,2600,28,3,17,,130,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,Flo's Filet 6 oz. with Lobster Tail,,420,18,7,0.5,225,920,2,0,<1,,51,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Butter Sauce,,210,22,14,1,,260,2,,,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,7 oz. Longhorn® Salmon* with 8 ct. Redrock Grilled Shrimp,,460,19,4.5,0,320,1270,4,<1,2,,63,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Grill Master Combos,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,Parmesan Cheese Crust,,390,30,13,0.5,65,1020,12,2,2,,17,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,Grilled Mushrooms Only,,150,12,8,0,30,480,9,3,6,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,Redrock Grilled Shrimp,,80,1.5,1,0,115,480,1,0,0,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,Lobster Tail (where available),,90,3,1.5,0,110,590,0,0,0,,14,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,+ Butter Sauce,,210,22,14,1,,260,2,,,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Dinner Entrees — Great Steak Additions,Grilled Jalapeños (where available),,15,3,1.5,0,110,590,0,0,0,,14,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Grilled Lamb Chops,,1120,79,39,3.5,260,1670,42,6,3,,63,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Hand-Breaded Chicken Tenders 6 Tenders,,420,22,4,0,80,680,19,2,<1,,36,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Honey Mustard,,240,23,3,0,25,200,8,0,6,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Hand-Breaded Chicken Tenders 9 Tenders,,620,33,6,0,120,1030,28,4,<1,,53,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Honey Mustard,,240,23,3,0,25,200,8,0,6,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Parmesan Crusted Chicken 9 oz.,,650,36,15,0.5,205,1860,12,2,2,,68,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Parmesan Crusted Chicken 12 oz.,,1120,69,28,1.5,320,3160,24,4,3,,102,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Baby Back Ribs - Half-Rack,,820,56,21,0,255,740,16,1,15,,62,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ BBQ Sauce,,110,0,0,0,0,470,26,0,23,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Baby Back Ribs - Full-Rack,,1270,87,33,0,395,1150,25,2,24,,96,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ BBQ Sauce,,110,0,0,0,0,470,26,0,23,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Half-Pound Steakhouse Cheeseburger,,850,51,15,2,165,1150,45,3,5,,48,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Seasoned French Fries,,500,23,2,0,0,1280,67,0,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Bacon (Strip),,130,12,4.5,0,25,250,0,0,0,,7,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,LongHorn® Salmon 7 oz.,,300,16,3,0,90,310,2,0,1,,33,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,LongHorn® Salmon 10 oz.,,430,23,4,0,130,440,3,0,2,,47,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Lemon Garlic Chicken 9 oz.,,330,12,4.5,0,150,1120,2,0,<1,,53,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Lemon Garlic Chicken 12 oz.,,420,15,5,0,195,1440,2,0,<1,,70,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Chop Steak,,640,46,21,2.5,145,1240,13,3,6,,44,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Redrock Grilled Shrimp 8 ct.,,160,3,1.5,0,225,960,2,<1,<1,,30,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Redrock Grilled Shrimp 12 ct.,,240,4.5,2.5,0,340,1440,3,1,<1,,46,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Rice,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Garlic Butter,,230,26,13,1,55,230,2,0,0,,<1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Cowboy Pork Chops (where available) 3g,,810,49,18,0,205,2660,,0,0,,87,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,Chicken Fried Chicken (where available),,800,39,8,0,195,2330,42,4,3,,70,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Mashed Potatoes,,340,19,10,0,40,790,37,4,2,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Beyond Steak,+ Gravy,,160,9,5,0,10,660,18,0,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Honey Glazed Carrots .5,,290,14,9,,35,790,39,6,29,,2,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Fresh Steamed Asparagus mg,,130,7,1.5,0,,15,9,5,3,,8,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Steakhouse Mac & Cheese,,610,37,22,1,120,1210,43,5,3,,26,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Crispy Brussels Sprouts,,310,23,9,0,35,590,27,5,17,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Plain Idaho® Baked Potato,,290,2,0,0,0,2370,64,6,3,,8,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Loaded Idaho® Baked Potato,,470,20,12,0,55,2570,65,6,4,,11,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Plain Sweet Potato,,240,0,0,0,0,95,55,9,17,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Sweet Potato with Cinnamon Sugar & Butter,,380,14,9,0,35,170,62,9,24,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Mashed Potatoes,,340,19,10,0,40,790,37,4,2,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,+ Gravy,,160,9,5,0,10,660,18,0,2,,1,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Seasoned Rice Pilaf,,230,6,2,0,0,1120,41,<1,4,,3,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Fresh Steamed Broccoli,,90,4,1,0,0,125,7,4,3,,4,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Seasoned French Fries,,500,23,2,0,0,1280,67,0,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Crispy Texas Okra (where available),,310,19,3.5,0,0,690,28,5,4,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Fried Okra (where available),,310,19,3.5,0,0,690,28,5,4,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Honey Wheat Bread (Full Loaf),,480,7,1,0,0,920,88,2,8,,16,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,+ Add Butter,,120,13,8,0,35,80,0,0,0,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Cheese (Slice),,80,6,4,0,20,140,<1,0,0,,5,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Steakhouse Sides,Bacon (Strip),,130,12,4.5,0,25,250,0,0,0,,7,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Desserts,Chocolate Stampede,,2460,132,74,3.5,325,1040,289,12,191,,28,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Desserts,Molten Lava Cake,,1150,53,21,0.5,145,690,157,0,111,,15,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Desserts,Strawberries & Cream Shortcake,,640,37,14,0.5,150,630,74,2,49,,7,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Desserts,THE Cheesecake with Pecans,,1370,82,37,0,180,970,117,4,79,,18,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Desserts,THE Cheesecake with Strawberry,,1090,70,34,2,160,860,94,2,72,,18,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Grilled Chicken Tenders,,140,3.5,1,0,75,440,0,0,0,,26,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Kid's Sirloin Steak,,240,16,3,0,65,390,1,,0,,24,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Kraft Macaroni & Cheese,,310,9,2.5,0,15,550,45,2,8,,11,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Cheeseburger,,490,24,10,1,80,780,41,0,3,,29,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Chicken Tenders,,270,14,2.5,0,50,450,12,2,0,,23,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Fresh Fruit - Oranges,,20,0,0,0,0,0,5,1,4,,0,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,1% Milk Chug,,110,2.5,1.5,0,15,130,13,0,12,,9,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Kid's Fountain Drink,,110,0,,,,35,29,,29,,,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
+longhorn,Children's Menu,Seasoned French Fries,,500,23,2,0,0,1280,67,0,1,,6,,,https://media.longhornsteakhouse.com/en_us/pdf/nutrition_allergen_guide.pdf,2026-10-27
