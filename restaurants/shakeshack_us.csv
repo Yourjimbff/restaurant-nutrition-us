@@ -1,0 +1,284 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+shakeshack,Burgers,Big Shack,,900,56,22,1.5,195,2860,42,4,9,,56,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Single ShackBurger®,,500,30,12,1,105,1250,26,0,6,,29,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Double ShackBurger®,,760,48,20,2,185,2280,27,0,6,,51,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Triple ShackBurger®,,1020,67,28,2.5,265,3310,27,2,6,,74,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Single Hamburger,,370,18,8,1,75,850,24,0,5,,25,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Double Hamburger,,560,30,12,1.5,140,1540,24,0,5,,44,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Triple Hamburger,,750,43,17,2,205,2220,24,2,5,,63,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Single Cheeseburger,,440,24,11,1,95,1200,25,0,5,,29,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Double Cheeseburger,,700,42,20,2,175,2220,25,0,5,,51,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Triple Cheeseburger,,950,60,28,2.5,255,3250,26,2,6,,73,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Single SmokeShack™,,600,38,15,1,120,1880,28,2,7,,36,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Double SmokeShack™,,860,56,23,1.5,205,2910,28,2,8,,58,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Triple SmokeShack™,,1120,74,31,2.5,285,3930,29,2,8,,80,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Bacon Cheeseburger, Single",,530,32,14,1,110,1350,25,2,5,,35,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Bacon Cheeseburger, Double",,790,50,23,1.5,195,2380,26,2,6,,58,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Bacon Cheeseburger, Triple",,1050,68,31,2.5,275,3410,26,2,6,,80,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Avocado Bacon Burger, Single",,670,45,16,1,120,1410,30,5,6,,37,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Avocado Bacon Burger, Double",,920,63,24,1.5,200,2440,31,5,6,,59,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Avocado Bacon Burger, Triple",,1180,81,32,2.5,285,2840,31,5,6,,81,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,‘Shroom Burger,,510,27,10,0.5,45,670,49,0,7,,18,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Shack Stack®,,770,45,18,1.5,125,1700,50,0,7,,40,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Veggie Shack, Single",,630,31,16,0,40,1630,53,2,8,,20,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,"Veggie Shack, Double",,910,41,27,0.5,55,2730,73,3,10,,31,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Grilled Cheese,,320,18,10,0.5,45,850,25,0,5,,14,"Contains: Milk, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,BLT,,500,34,10,0,65,610,28,3,7,,20,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Potato Roll,,180,6,3,0,10,170,24,0,5,,7,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Gluten Free Bun,,160,3.0,0,0,0,350,31,2,5,,3,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Lettuce Wrap,,5,0,0,0,0,15,1,1,0,,1,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Burger Patty,,190,12,4.5,0.5,65,690,0,0,0,,19,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Veggie Patty,,210,7,4,0.0,0,760,20,2,2,,8,"Contains: Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,American Cheese,,70,6,3.5,0,15,340,1,0,0,,4,"Contains: Milk, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Avocado,,60,5,0.5,0,0,0,3,2,0,,1,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Lettuce,,1,0,0,0,0,0,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Tomato,,5,0,0,0,0,0,1,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Pickle,,1,0,0,0,0,140,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Onion,,5,0,0,0,0,0,1,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Bacon (2 Slices),,90,7,3,0,20,160,0,0,0,,6,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Cherry Peppers,,10,0,0,0,0,470,2,0,2,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Pickled Jalapenos,,5,0,0,0,0,300,1,1,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Burgers,Crispy Onions,,110,8,1.5,0,0,95,7,0,0,,1,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,Chicken Shack™,,550,31,7,0,110,1170,34,0,6,,33,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,Chicken Bites (6 piece),,350,18,3.5,0,45,980,28,2,1,,18,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,Chicken Bites (10 piece),,580,30,6,0,75,1640,47,3,2,,31,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,"Chicken Bites (Catering Box, 12 servings)",,420,22,4,0,55,1170,34,2,1,,22,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,Avocado Bacon Chicken,,670,41,10,0,130,1350,35,3,6,,40,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Chicken,Buttermilk Chicken Breast,,280,16,3.5,0,90,650,9,0,0,,26,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Egg and Cheese Sandwich,,340,19,9,0,215,850,25,0,5,,17,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Egg and Cheese Sandwich (Dbl Egg*),,430,25,11,0,400,1190,26,2,5,,23,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Bacon Egg and Cheese Sandwich,,430,26,12,0,230,1010,26,2,6,,23,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Bacon Egg and Cheese Sandwich (Dbl Egg),,520,33,14,0,415,1350,26,2,6,,29,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Sausage Breakfast Sandwich,,530,32,14,0,260,1220,28,0,8,,30,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Sausage Breakfast Sandwich (Dbl Egg),,620,39,16,0,445,1310,28,0,8,,36,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Wake up Shack,,670,47,14,0,255,1420,38,3,10,,24,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Wake up Shack (Dbl Egg),,760,53,16,0,440,1760,38,3,10,,31,"Contains: Milk, Egg, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Egg White Light,,320,18,8,0,40,440,26,0,6,,15,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Egg White Light (Dbl Egg),,340,18,8,0,40,500,26,0,6,,19,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Hashbrowns with Sauce,,740,54,8,0,25,990,58,5,3,,6,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Crossiant,,420,26,15,0,75,480,39,1,6,,7,"Contains: Egg, Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Chocolate Crossiant,,390,24,14,0,60,390,38,2,11,,6,"Contains: Egg, Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Blueberry Cheese Danish,,340,19,11,0,75,260,37,1,12,,6,"Contains: Egg, Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Monkey Bread,,380,18,11,0,55,280,48,2,21,,6,"Contains: Egg, Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Extras Egg,,90,7,2,0,185,340,0,0,0,,6,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Egg White,,35,0,0,0,0,360,0,0,0,,7,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Hashbrowns,,80,5,1,0,0,100,7,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Breakfast*,Sausage Patty,,190,14,5,0,50,610,3,0,2,,13,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Hot Dog,,350,22,10,0,50,800,25,0,6,,16,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Shack-Cago Dog,,390,22,10,0,50,1490,32,0,12,,17,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Garden Dog,,180,3,0,0,10,1060,27,1,7,,8,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Cheese Dog,,450,31,15,0,85,910,25,2,6,,19,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Bacon Cheese Dog,,540,38,18,0,105,1070,26,2,7,,25,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Flat -Top Dogs,Crispy Onion Cheese Dog,,560,39,17,0,85,1010,32,3,7,,20,"Contains: Milk, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Regular Fries,,470,22,4.5,0,15,740,63,7,1,,6,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Cheese Fries,,710,44,19,0,95,1020,64,7,1,,12,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Bacon Cheese Fries,,850,55,23,0.5,125,1260,65,6,1,,21,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Double Down Fries,,1920,120,51,1,265,3700,164,16,6,,39,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Beer Battered Onion Rings,,570,33,6,0,0,670,64,4,7,,6,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,"Beer Battered Onion Rings (Catering Box, 6 servings)",,640,36,7,0,0,740,71,4,8,,7,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Mac & Cheese with Panko Breadcrumbs,,550,41,24,0,145,1150,28,1,2,,18,"Contains: Milk, Egg, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Add Grilled/Caramelized Onions,,40,3,2,0,10,250,4,1,0,,0,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Fries & Sides,Add Panko Breadcrumbs,,15,0.5,0,0,0,30,3,0,0,,0,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Shack Sauce,,60,6,1,0,10,60,0,0,0,,0,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Secret Sauce,,120,12,2,0,20,340,2,0,1,,1,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Herb Mayonnaise,,90,10,0.5,0,10,140,0,0,0,,0,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Ranch,,140,14,1.5,0,5,250,1,0,1,,1,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,BBQ Sauce,,70,0,0,0,0,380,16,0,14,,1,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Honey Mustard,,180,19,2.5,0,15,230,4,0,4,,1,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Breakfast Sauce,,150,15,1.5,0,25,250,4,0,3,,0,Contains: Egg,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Sauces,Add Cheese Sauce,,80,7,5,0,30,95,1,0,0,,2,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Vanilla Shake,,680,36,22,0,235,430,72,0,71,,18,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Chocolate Shake,,750,45,27,1.5,255,310,76,0,69,,16,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Vanilla & Chocolate Shake,,720,41,25,0.5,245,380,74,2,71,,18,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Black & White Shake,,770,42,26,0,245,460,80,0,76,,19,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Strawberry Shake,,690,35,21,0,230,430,77,0,75,,17,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Cookies & Cream Shake,,850,44,24,0,235,580,98,0,86,,19,"Contains: Milk, Egg, Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Orange County Dreamsicle Shake,,740,38,23,0,240,420,86,0,85,,16,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Coffee Shake,,700,36,22,0,240,430,76,0,72,,19,"Contains: Milk, Egg Caffeine per serving: 211.1 mg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Whipped Cream,,70,5,3.5,0,20,20,5,0,4,,1,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Malt,,90,1,0.5,0,5,70,19,0,16,,2,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Shakes,Oreo Cookie Crumbs,,210,9,2.5,0,0,170,33,0,18,,2,"Contains: Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Floats,Root Beer Float,,470,15,9,0,105,250,75,0,75,,7,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Floats,Creamsicle® Float,,440,15,9,0,100,240,75,0,74,,7,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Single Chocolate Cup,,310,19,11,0.5,110,120,32,0,29,,6,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Double Chocolate Cup,,490,30,18,1,175,190,51,0,47,,9,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Single Vanilla Cup,,280,15,9,0,100,180,30,0,30,,7,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Double Vanilla Cup,,450,24,14,0,165,280,49,0,48,,11,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Single Vanilla & Chocolate Cup,,290,17,10,0,105,150,31,0,29,,6,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Double Vanilla & Chocolate Cup,,470,27,16,0,170,230,50,0,47,,10,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Cups & Sundaes,Whipped Cream,,35,2.5,1.5,0,10,10,2,0,2,,1,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Lemonade Small,,160,0,0,0,0,10,43,0,40,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Lemonade Large,,270,0,0,0,0,15,70,0,66,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Lemonade (Gallon),,1480,0,0,0,0,180,369,0,345,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Fifty-Fifty Small,,80,0,0,0,0,10,22,0,20,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Fifty-Fifty Large,,140,0,0,0,0,15,36,0,33,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Strawberry Lemonade Small,,140,0,0,0,0,20,36,0,33,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Strawberry Lemonade Large,,230,0,0,0,0,30,58,0,54,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Unsweetened Iced Tea Small,,5,0,0,0,0,10,1,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Unsweetened Iced Tea Large,,5,0,0,0,0,15,2,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Unsweetened Iced (Gallon),,40,0,0,0,0,115,11,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Sweetened Iced Tea Small,,110,0,0,0,0,10,28,0,27,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Sweetened Iced Tea Large,,170,0,0,0,0,15,45,0,44,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Sweetened Iced (Gallon),,1190,0,0,0,0,105,309,0,298,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Coke Small,,140,0,0,0,0,45,39,0,39,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Coke Large,,210,0,0,0,0,65,58,0,58,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Coke Small,,0,0,0,0,0,40,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Coke Large,,0,0,0,0,0,60,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Coke Zero Small,,0,0,0,0,0,40,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Coke Zero Large,,0,0,0,0,0,60,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Sprite Small,,140,0,0,0,0,30,36,0,32,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Sprite Large,,240,0,0,0,0,55,60,0,53,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Fanta Orange Small,,160,0,0,0,0,60,45,0,44,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Fanta Orange Large,,240,0,0,0,0,90,67,0,66,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Gingerale Small,,120,0,0,0,0,35,31,0,30,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Gingerale Large,,190,0,0,0,0,60,51,0,49,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Dr. Pepper Small,,150,0,0,0,0,60,40,0,38,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Dr. Pepper Large,,220,0,0,0,0,90,59,0,58,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Dr. Pepper Small,,0,0,0,0,0,60,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Dr. Pepper Large,,0,0,0,0,0,90,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Crush Small,,160,0,0,0,0,70,43,0,43,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Crush Large,,240,0,0,0,0,110,65,0,64,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Pepsi Small,,0,0,0,0,0,35,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Pepsi Large,,0,0,0,0,0,55,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Starry Small,,140,0,0,0,0,35,39,0,39,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Starry Large,,220,0,0,0,0,50,58,0,58,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Mountain Dew Small,,170,0,0,0,0,65,46,0,46,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Mountain Dew Large,,260,0,0,0,0,95,69,0,69,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Mountain Dew Small,,5,0,0,0,0,50,1,0,1,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Diet Mountain Dew Large,,10,0,0,0,0,75,1,0,1,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Pepsi Small,,150,0,0,0,0,35,41,0,41,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Pepsi Large,,220,0,0,0,0,50,62,0,62,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Pepsi Zero Sugar Small,,0,0,0,0,0,40,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Pepsi Zero Sugar Large,,0,0,0,0,0,60,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Root Beer Small,,160,0,0,0,0,60,39,0,39,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Root Beer Large,,260,0,0,0,0,95,65,0,65,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Root Beer (20oz Bottle),,270,0,0,0,0,105,74,0,74,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Orange Juice (8 fl.oz),,110,0,0,0,0,0,26,0,21,,2,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,ShackBlend Drip Coffee (12oz or 16oz),,5,0,0,0,0,5,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Joe’s Coffee Cold Brew (16oz & 24oz)- Draft,,5,0,0,0,0,5,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Joe’s Coffee Nitro Cold Brew (10oz & 16oz)- Draft,,5,0,0,0,0,5,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Joe Coffee Cold Brew (7.5oz can),,5,0,0,0,0,5,1,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,Honest Kids Apple Juice,,40,0,0,0,0,0,10,0,9,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,SHACK2O Sparkling,,0,0,0,0,0,23,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Drinks,SHACK2O,,0,0,0,0,0,0,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Caeser Salad,,660,53,16,1,75,1380,30,2,8,,17,"Contains: Milk, Wheat, Egg, Fish",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Caesar Salad with Grilled Chicken,,780,55,16,1,120,1810,32,2,8,,38,"Contains: Milk, Wheat, Egg, Fish",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Caesar Salad with Chicken Bites (6pc),,1010,71,20,1,145,2360,59,4,9,,35,"Contains: Milk, Wheat, Egg, Fish",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Balsamic Vinegar Salad,,670,52,14,0,35,1750,36,0,16,,11,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Balsamic Vinegar Salad with Grilled Chicken,,790,54,14,0,80,2180,37,0,16,,32,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Balsamic Vinegar with Chicken Bites (6pc),,930,62,16,0,105,2420,61,2,15,,29,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Parmesan Cheese,,130,9,6,0,30,280,1,0,0,,10,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Sweety Drop Peppers,,20,0,0,0,0,45,5,0,2,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Monterey Jack Croutons,,170,12,5,0,20,270,13,0,3,,2,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Ceaser Dressing,,310,31,5,0,30,750,6,1,2,,3,"Contains: Milk, Egg, Fish",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Balsamic Dressing,,260,24,4,0,0,930,8,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Grilled Chicken,,120,2.5,0,65,430,1,0,0,0,,22,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,"Black Truffle Burger, Single",,570,34,14,0,95,1330,32,3,7,,32,"Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,"Black Truffle Burger, Double",,840,53,22,1.5,180,2150,32,3,7,,55,"Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,"Black Truffle Burger, Triple",,1110,71,31,2,265,2960,32,3,7,,79,"Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Black Truffle Shroom Burger,,450,21,9,0,35,620,48,5,6,,18,"Contains: Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Black Truffle Shack Stack,,720,39,18,1,120,1430,48,5,6,,41,"Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Black Truffle Honey Chicken Sandwich,,650,38,8,0,130,1120,43,3,13,,34,"Contains: Milk , Eggs, Wheat, Soy, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Black Truffle Parmesan Fries,,800,52,10,0,75,1340,65,6,1,,13,"Contains: Milk, Eggs, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Mac & Cheese Bites,,360,19,8,0,25,1170,38,2,3,,10,"Contains: Milk, Eggs, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Fontina Cheese,,80,6,4,0,20,130,0,0,0,,5,Contains: Milk,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Black Truffle Mayo,,260,26,3,0,45,380,3,0,1,,2,"Contains: Milk , Eggs, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Black Truffle Honey,,45,1.5,0,0,0,80,8,0,7,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,NYC Late Night- Chopped Cheese Loaded Fries,,910,57,25,1,135,2060,147,7,3,,23,"Contains: Milk, Eggs",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,"NYC Late Night - Fry/Onion Ring Combo, (Small)",,740,37,7,0,15,780,92,8,4,,9,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,"NYC Late Night - Fry/Onion Ring Combo, (Double Down Bucket)",,1470,74,14,0,30,1560,184,16,8,,17,"Contains: Milk, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,West Coast Chicken Sandwich,,570,32,9,0,120,960,36,3,6,,34,"Contains: Milk, Egg, Wheat, Sesame",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Sour Cream Onion Sauce,,100,9,2.5,0,15,140,2,0,1,,1,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Spicy Fries with Ranch,,610,37,6,0,30,970,64,7,2,,6,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Spicy Cheese Fries with Ranch,,850,58,20,0.5,115,1250,66,7,2,,12,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Spicy Seasoning,,0,0,0,0,0,20,1,0,1,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,NY Liberty Shake,,960,43,26,0,260,510,126,0,118,,20,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Tropical Mango Shake with Passionfruit Boba,,800,43,26,0,260,460,86,6,84,,20,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Toasted Marshmallow S'mores Shake,,1110,57,35,0,260,630,133,4,119,,22,"Contains: Milk, Egg, Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Biscoff Cookie Butter Tiramisu Shake,,1140,62,32,0,260,650,123,1,103,,23,"Contains: Milk, Egg, Wheat, Soy, Caffeine per serving: 105.55mg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Reese's Peanut Butter Shake,,1900,118,65,0,250,990,181,13,158,,44,"Contains: Milk, Egg, Peanut, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Ferrero Rocher Nutella Shake,,1470,88,56,0,255,570,147,6,135,,30,"Contains: Milk, Egg, Treenuts, Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Christmas Cookie Shake,,840,43,26,0,260,840,96,0,94,,20,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Butterscotch Crème Brulee Shake,,950,51,32,0,320,540,105,0,98,,19,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Featured Lemonade Small,,80,0,0,0,0,40,18,0,17,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Featured Lemonade Large,,100,0,0,0,0,60,24,0,22,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Limited Time Offerings,Add Passionfruit Boba,,30,0,0,0,0,10,7,0,6,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger, Single Lettuce Wrap®",,330,25,9,1,90,480,3,1,1,,23,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger, Double Lettuce Wrap®",,580,43,17,1.5,175,880,3,1,2,,45,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger, Triple Lettuce Wrap®",,840,61,25,2.5,255,1290,4,1,2,,67,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger Gluten Free Bun, Single®",,480,28,9,1,90,820,33,2,6,,25,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger Gluten Free Bun, Double®",,740,46,17,1.5,175,1220,34,1,6,,47,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"ShackBurger Gluten Free Bun, Triple®",,1000,64,26,2.5,255,1630,34,1,6,,69,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"SmokeShack, Single Lettuce Wrap™",,430,32,12,1,110,1110,5,1,3,,29,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"SmokeShack, Double Lettuce Wrap™",,690,50,20,1.5,190,1510,5,1,3,,52,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"SmokeShack, Triple Lettuce Wrap™",,950,68,28,2.5,275,1920,6,1,4,,74,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"Avocado Bacon Burger Lettuce Wrap, Single",,430,33,12,1,110,640,3,1,1,,29,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"Avocado Bacon Burger Lettuce Wrap, Double",,690,51,20,1.5,190,1040,4,1,2,,51,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"Avocado Bacon Burger Lettuce Wrap, Triple",,950,69,28,2.5,275,1450,4,1,2,,73,"Contains: Milk, Egg, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,Chicken Shack Lettuce Wrap™,,420,30,4.5,0,105,1080,11,1,1,,27,"Contains: Milk, Egg, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"Veggie Shack, Single Lettuce Wrap",,460,25,13,0,30,1480,30,3,3,,13,"Contains: Milk, Egg, Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,Lifestyle Offerings,"Veggie Shack, Double Lettuce Wrap",,740,35,24,0.5,45,2570,51,4,6,,25,"Contains: Milk, Egg, Wheat, Soy",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Brooklyn Brewery ShackMeister Ale (12oz. Draft),,160,0,0,0,0,0,17,0,0,,2,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Brooklyn Brewery ShackMeister Ale (16oz. Draft),,210,0,0,0,0,0,17,0,0,,2,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Brooklyn Brewery ShackMeister Ale (24oz. Draft),,310,0,0,0,0,0,25,0,0,,4,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Brooklyn Brewery ShackMeister Ale (32oz. Draft),,420,0,0,0,0,0,33,0,0,,5,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Brooklyn Brewery ShackMeister Ale (60oz. Draft),,780,0,0,0,0,0,62,0,0,,9,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Shack White (6oz),,140,0,0,0,0,0,4,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Shack Red (6oz),,150,0,0,0,0,0,5,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Shack Red Can (8.4oz),,210,0,0,0,0,10,6,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Shack White Can (8.4oz),,200,0,0,0,0,10,5,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Shack Rosé Can (8.4oz),,210,0,0,0,0,10,9,0,0,,1,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Gotham Project Red Wine Can (8.4oz),,210,0,0,0,0,10,6,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Gotham Project White Wine Can (8.4oz),,200,0,0,0,0,10,5,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Gotham Project Rosé Wine Can (8.4oz),,210,0,0,0,0,10,9,0,0,,1,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Margarita Can (100mL),,190,0,0,0,0,5,15,0,12,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Old Fashioned Can Tip Top or Straightaway (100mL),,230,0,0,0,0,0,4,0,4,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Negroni Can (100mL),,210,0,0,0,0,0,9,0,9,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Appico Spritz Can (250mL),,240,0,0,0,0,0,18,0,19,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Vodka White Tea Soda Can (250mL),,80,0,0,0,0,20,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Paloma Can (250mL),,170,0,0,0,0,10,7,0,6,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Tip Top Cosmopolitan - 100ml can,,180,0,0,0,0,0,4,0,4,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Truly Can (24oz),,210,0,0,0,0,30,3,0,1,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Surfside Iced Tea & Lemonade (12oz can),,100,0,0,0,0,50,3,0,2,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",White Claw Black Cherry (12oz can),,100,0,0,0,0,20,2,0,2,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",High Noon Pineapple (12oz can),,100,0,0,0,0,0,5,0,3,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Topo Chico Strawberry Guava Hard Seltzer (16oz),,140,0,0,0,0,54,3,0,3,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Angry Orchid Crisp Apple (12oz),,190,0,0,0,0,0,22,0,18,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Frozen Lemonade (16oz),,190,0,0,0,0,10,30,0,28,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks","Prosecco (La Marca, Mionetto), 187ml Bottle",,130,0,0,0,0,0,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks","Prosecco (Mionetto), 750ml Bottle",,600,0,0,0,0,0,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Vodka Soda,,100,0,0,0,0,20,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Rum and Coke,,130,0,0,0,0,10,10,0,10,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Gin and Tonic,,140,0,0,0,0,10,8,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Tequila Soda,,90,0,0,0,0,20,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Whiskey Ginger,,120,0,0,0,0,0,9,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Lemon Fizz,,150,0,0,0,0,15,9,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Gin Slam,,380,7,6,0,0,25,25,0,23,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Bourbon Peach Fifty/Fifty,,260,0,0,0,0,0,23,0,22,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Aperol Spritz,,310,0,0,0,0,15,12,0,9,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Patron Shackarita,,260,0,0,0,0,110,30,0,27,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Spicy Patron Shackarita,,260,0,0,0,0,160,32,3,15,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks","Frozen Patron Shackarita, Classic",,250,0,0,0,0,1370,26,0,24,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks","Frozen Patron Shackarita, Strawberry",,270,0,0,0,0,1380,32,0,29,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Boozy Frozen Lemonade,,290,0,0,0,0,10,30,0,28,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",RBI Mai Tai,,250,0,0,0,0,5,49,0,47,,1,Contains: Treenut,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Bourbon Peaches & Cream Shake,,880,34,21,0,205,360,104,0,101,,16,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Boozy Espresso Shake,,780,40,24,1,215,260,72,3,61,,15,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Negroni,,300,0,0,0,0,0,2,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Old Fashioned Cocktail,,390,0,0,0,0,15,53,0,45,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Manhattan,,380,0,0,0,0,15,42,0,35,,0,Contains: Wheat,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Martini (Gin or Vodka),,190,0,0,0,0,45,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Dirty Martini (Gin or Vodka),,170,0,0,0,0,680,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Long Island Iced Tea,,260,0,0,0,0,0,9,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Cosmopolitan Cocktail,,200,0,0,0,0,0,17,0,17,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Hugo Spritz,,280,0,0,0,0,15,26,0,24,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Desert Sunrise,,360,0,0,0,0,25,36,2,25,,2,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Bloody Mary,,260,1.5,0,0,0,2570,11,2,7,,2,"Contains: Soy, Wheat",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Manhattan Shake,,980,36,22,0,240,430,120,2,111,,16,"Contains: Milk, Egg",,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Fever-Tree Ginger Beer Mixer,,35,0,0,0,0,0,9,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Fever-Tree Tonic Water Mixer,,30,0,0,0,0,0,7,0,7,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Club Soda Mixer,,0,0,0,0,0,20,0,0,0,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Red Bull Mixer,,35,0,0,0,0,35,9,0,9,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Orange Juice Mixer,,45,0,0,0,0,0,11,0,8,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Cranberry Juice Mixer,,50,0,0,0,0,0,12,0,12,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
+shakeshack,"Beer, Wines, Cocktails & Non-Alcoholic Drinks",Pineapple Juice Mixer,,50,0,0,0,0,0,13,0,12,,0,,,https://shakeshack.widen.net/content/f0ckdbaukl/pdf/Master-Nut-Allergen.pdf,2026-10-27
