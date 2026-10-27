@@ -1,0 +1,209 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+andys,Frozen Custard,Chocolate Frozen Custard,,210,10,6,0,45,70,23,1,19,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen Custard,Vanilla Frozen Custard,,200,10,6,0,55,75,21,0,17,,4,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Chocolate Custom Sundae, Large",,610,29,17,0,130,200,66,3,55,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Chocolate Custom Sundae, Regular",,450,21,13,0,95,150,49,2,40,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,Andy's Chocolate Kids' Custom Sundae,,290,14,8,0,60,95,32,1,26,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Hot Fudge Sundae with Pecans, Large",,960,57,27,0,165,480,93,4,76,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Hot Fudge Sundae with Pecans, Regular",,810,50,22,0,125,420,77,3,63,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Ozark Turtle Sundae, Large",,1030,60,29,0,175,560,120,4,97,,17,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Ozark Turtle Sundae, Regular",,880,51,23,0,130,460,91,4,74,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Vanilla Custom Sundae, Large",,580,29,17,0,160,220,60,0,49,,12,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Andy's Vanilla Custom Sundae, Regular",,430,21,13,0,115,160,45,0,36,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,Andy's Vanilla Kids' Custom Sundae,,250,13,8,0,70,95,26,0,21,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,Lil' Digger Kids' Sundae,,400,15,9,0,70,180,56,0,40,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"Stolen Brownie Sundae, Regular",,870,56,23,0,160,500,89,5,74,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"The Original Straw-Ana Sundae, Large",,700,29,17,0,160,220,92,2,73,,12,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Sundaes,"The Original Straw-Ana Sundae, Regular",,530,21,13,0,115,160,72,2,56,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Chocolate Custom Concrete, Large",,1110,53,32,0,235,370,121,5,100,,26,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Chocolate Custom Concrete, Medium",,770,36,22,0,165,250,83,4,69,,18,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Chocolate Custom Concrete, Small",,560,26,16,0,120,180,60,3,50,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Vanilla Custom Concrete, Large",,1050,53,32,0,290,390,110,0,89,,21,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Vanilla Custom Concrete, Medium",,730,36,22,0,200,270,76,0,62,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Andy's Vanilla Custom Concrete, Small",,530,26,16,0,145,200,55,0,45,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Bootdaddy Concrete, Large",,1400,68,41,0,300,720,159,2,132,,24,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Bootdaddy Concrete, Medium",,1110,53,31,0,215,650,136,2,108,,18,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Bootdaddy Concrete, Small",,790,37,21,0,150,450,122,1,75,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Butter Pecan Concrete, Large",,1360,73,34,0,290,570,144,2,113,,24,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Butter Pecan Concrete, Medium",,1040,56,24,0,205,450,110,2,86,,17,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Butter Pecan Concrete, Small",,790,46,18,0,145,350,79,2,61,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Snowmonster Concrete, Large",,1290,61,38,0,290,400,156,2,130,,22,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Snowmonster Concrete, Medium",,970,45,28,0,200,280,122,2,103,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Snowmonster Concrete, Small",,690,33,20,0,145,200,85,2,72,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Triple Chocolate Concrete, Large",,1480,71,41,2,250,560,171,7,130,,30,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Triple Chocolate Concrete, Medium",,1130,54,31,2,180,440,134,5,99,,22,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Concretes,"Triple Chocolate Concrete, Small",,820,39,23,1,130,320,97,4,71,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"James Brownie Jackhammer, Large",,1730,104,46,0,330,950,161,9,129,,43,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"James Brownie Jackhammer, Medium",,1400,88,36,0,240,830,126,9,101,,36,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"James Brownie Jackhammer, Small",,1030,63,28,0,175,610,96,7,77,,26,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Chocolate, Large",,1110,53,32,0,235,370,121,5,100,,26,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Chocolate, Medium",,770,36,22,0,165,250,83,4,69,,18,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Chocolate, Small",,560,26,16,0,120,180,60,3,50,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Vanilla, Large",,1050,53,32,0,290,390,110,0,89,,21,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Vanilla, Medium",,730,36,22,0,200,270,76,0,62,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Jackhammers,"The Jackhammer, Vanilla, Small",,530,26,16,0,145,200,55,0,45,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Splits,Andy's Banana Split,,560,22,9,8,10,20,113,13,88,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Splits,Andy's Turtle Split,,570,37,18,8,20,310,83,14,62,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Coca-Cola, Large",,530,19,11,0,105,190,78,0,71,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Coca-Cola, Small",,400,14,8,0,75,140,61,0,56,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Cream Soda, Large",,570,19,23,0,115,180,115,0,44,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Cream Soda, Small",,440,14,8,0,75,135,68,0,62,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Diet Coke, Large",,380,19,11,0,105,190,39,0,32,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Diet Coke, Small",,280,14,8,0,75,140,29,0,23,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Dr. Pepper, Large",,530,19,11,0,105,190,80,0,72,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Dr. Pepper, Small",,400,14,8,0,75,150,63,0,57,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Orange Soda, Large",,530,19,11,0,150,190,75,0,65,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Orange Soda, Small",,400,14,8,0,115,140,59,0,51,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Root Beer, Large",,540,19,11,0,105,170,80,0,72,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Root Beer, Small",,410,14,8,0,75,130,63,0,57,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Sprite, Large",,520,19,11,0,105,200,78,0,75,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Floats,"Vanilla Float with Sprite, Small",,390,14,8,0,75,160,61,0,55,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Coca-Cola, Large",,740,33,20,0,180,270,91,0,78,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Coca-Cola, Small",,530,24,14,0,130,190,63,0,53,,10,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Cream Soda, Large",,760,33,20,0,180,270,95,0,82,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Cream Soda, Small",,490,21,13,0,115,170,60,0,52,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Diet Coke, Large",,650,33,20,0,180,270,68,0,55,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Diet Coke, Small",,430,24,13,0,115,170,45,0,36,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Dr. Pepper, Large",,740,33,20,0,180,270,92,0,79,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Dr. Pepper, Small",,480,21,13,0,115,180,58,0,50,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Orange Soda, Large",,740,33,20,0,205,270,89,0,75,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Orange Soda, Small",,480,21,13,0,130,170,57,0,47,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Root Beer, Large",,750,33,20,0,180,260,92,0,79,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Root Beer, Small",,480,21,13,0,115,170,58,0,50,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Sprite, Large",,730,33,20,0,180,280,91,0,78,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Freezes,"Vanilla Freeze with Sprite, Small",,470,21,13,0,115,180,57,0,49,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Cherry Old-Fashioned Soda, Large",,700,19,11,0,105,290,79,0,71,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Cherry Old-Fashioned Soda, Small",,490,14,8,0,75,200,55,0,50,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Chocolate Old-Fashioned Soda, Large",,660,20,12,0,105,340,110,4,87,,10,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Chocolate Old-Fashioned Soda, Small",,490,15,9,0,75,240,82,3,65,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Key Lime Old-Fashioned Soda, Large",,590,19,11,0,105,290,92,0,85,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Key Lime Old-Fashioned Soda, Small",,440,14,8,0,75,200,68,0,63,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Raspberry Old-Fashioned Soda, Large",,660,19,11,0,105,290,79,0,71,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Raspberry Old-Fashioned Soda, Small",,460,14,8,0,75,200,55,0,50,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Strawberry Old-Fashioned Soda, Large",,660,19,11,0,105,290,79,0,71,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Old-Fashioned Sodas,"Strawberry Old-Fashioned Soda, Small",,460,14,8,0,75,200,55,0,50,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cone, Jumbo",,730,33,20,0,145,240,85,3,62,,17,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cone, Large",,630,28,17,0,125,210,73,3,52,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cone, Medium",,420,19,11,0,85,140,48,2,36,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cone, Small",,320,14,8,0,60,105,37,1,26,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cup, Jumbo",,690,33,20,0,145,230,75,3,62,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cup, Large",,580,28,17,0,125,190,63,3,52,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cup, Medium",,400,19,11,0,85,130,43,2,36,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Chocolate Cup, Small",,290,14,8,0,60,95,32,1,26,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cone, Jumbo",,700,33,20,0,180,260,78,0,55,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cone, Large",,600,28,17,0,150,220,68,0,47,,12,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cone, Medium",,400,19,11,0,105,150,44,0,32,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cone, Small",,300,14,8,0,75,115,34,0,23,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cup, Jumbo",,650,33,20,0,180,240,68,0,55,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cup, Large",,550,28,17,0,150,210,58,0,47,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cup, Medium",,380,19,11,0,105,140,39,0,32,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Cones & Cups,"Vanilla Cup, Small",,280,14,8,0,75,105,29,0,23,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Bordeaux Cherry Chip, Pint",,990,3947,29,0,220,320,116,1,96,,17,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Butter Pecan, Pint",,1210,70,28,0,225,530,120,4,93,,20,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Chocolate, Pint",,850,40,24,0,180,280,92,4,76,,20,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Chocolate, Quart",,450,21,13,0,95,150,49,2,40,,11,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Chocolate-Chocolate Chip Cookie Dough, Pint",,1210,58,34,2,195,470,143,6,106,,23,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Hot Fudge Brownie, Pint",,1080,57,34,0,260,570,125,3,104,,20,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Mint Chocolate Chip, Pint",,1060,48,30,0,220,310,132,1,113,,17,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Vanilla, Pint",,800,40,24,0,220,300,84,0,68,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Pint & Quarts,"Vanilla, Quart",,430,21,13,0,115,160,45,0,36,,9,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Mini Cups,Chocolate Mini Cup,,320,15,9,0,70,105,35,2,29,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Mini Cups,Vanilla Mini Cup,,300,15,9,0,85,115,32,0,26,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Chocolate Malt, Large",,960,38,22,0,170,410,128,3,104,,22,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Chocolate Malt, Small",,650,27,16,0,120,260,82,0,67,,15,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Chocolate Shake, Large",,740,33,20,0,145,230,75,3,62,,16,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Chocolate Shake, Small",,540,24,14,0,105,170,55,2,45,,12,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Vanilla Malt, Large",,920,38,22,0,200,420,121,0,97,,19,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Vanilla Malt, Small",,620,27,16,0,145,270,77,0,62,,13,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Vanilla Shake, Large",,700,36,21,0,190,260,74,0,60,,14,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Malts & Shakes,"Vanilla Shake, Small",,510,26,15,0,140,190,54,0,44,,10,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Dark Chocolate Custard Bar, Chocolate",,350,20,14,0,45,60,40,2,32,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Dark Chocolate Custard Bar, Coffee",,320,20,13,0,45,60,31,2,24,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Dark Chocolate Custard Bar, Mint",,320,20,13,0,45,60,31,2,24,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Milk Chocolate Custard Bar, Salted Caramel",,350,20,13,0,45,250,46,0,37,,4,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Milk Chocolate Custard Bar, Vanilla",,320,19,13,0,50,80,32,0,28,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Zarlengo's Italian Ice, Lemon",,120,0,0,0,0,15,29,0,23,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Zarlengo's Italian Ice, Raspberry Lemonade",,120,0,0,0,0,15,29,0,23,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Frozen To Go,"Zarlengo's Italian Ice, Strawberry",,110,0,0,0,0,10,28,0,27,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Coca-Cola, Large",,290,0,0,0,0,90,78,0,78,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Coca-Cola, Medium",,190,0,0,0,0,60,52,0,52,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Coca-Cola, Small",,150,0,0,0,0,45,39,0,39,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Diet Coke, Large",,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Diet Coke, Medium",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Diet Coke, Small",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Dr. Pepper, Large",,300,0,0,0,0,105,81,0,81,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Dr. Pepper, Medium",,200,0,0,0,0,70,54,0,54,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Dr. Pepper, Small",,150,0,0,0,0,55,41,0,41,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Orange Soda, Large",,300,0,0,0,90,90,72,0,66,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Orange Soda, Medium",,200,0,0,0,60,60,48,0,44,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Orange Soda, Small",,150,0,0,0,45,45,36,0,33,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Raspberry Iced Tea, Large",,110,0,0,0,0,0,26,0,26,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Cream Soda on Tap, Large",,380,0,0,0,0,75,93,0,93,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Cream Soda on Tap, Medium",,250,0,0,0,0,50,62,0,62,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Cream Soda on Tap, Small",,200,0,0,0,0,40,47,0,47,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Root Beer on Tap, Large",,330,0,0,0,0,60,82,0,82,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Root Beer on Tap, Medium",,220,0,0,0,0,40,54,0,54,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprecher Root Beer on Tap, Small",,170,0,0,0,0,30,41,0,41,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprite, Large",,290,0,0,0,0,130,77,0,77,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprite, Medium",,190,0,0,0,0,85,51,0,51,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sprite, Small",,140,0,0,0,0,65,38,0,38,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Fountain Drinks,"Sweet Iced Tea, Large",,330,0,0,0,0,0,85,0,85,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,Almonds,,170,16,1,0,0,95,5,3,1,,6,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,Banana,,50,0,0,0,0,0,14,2,7,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Brownie, Medium & Large",,90,8,2,0,35,105,15,2,14,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Brownie, Small",,60,5,2,0,25,70,10,1,9,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Butterfinger, Medium & Large",,260,11,5,0,0,105,41,1,25,,3,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Butterfinger, Small",,180,7,4,0,0,75,29,1,18,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Butterscotch, Medium & Large",,140,1,1,0,<5,75,31,0,23,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Butterscotch, Small",,90,1,1,0,<5,50,21,0,15,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cheesecake, Medium & Large",,170,11,6,0,50,135,15,0,10,,3,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cheesecake, Small",,120,7,5,0,30,95,11,0,7,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cherries, Medium & Large",,170,0,0,0,0,0,42,3,38,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cherries, Small",,110,0,0,0,0,0,27,2,25,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Chocolate Syrup, Four Pumps",,290,1,0,0,0,50,71,4,55,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Chocolate Syrup, One Pump",,70,0,0,0,0,10,18,1,14,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Chocolate Syrup, Three Pumps",,220,1,0,0,0,35,53,3,42,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Chocolate Syrup, Two Pumps",,150,1,0,0,0,25,35,2,28,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cookie Dough, Medium & Large",,250,10,4,2,15,180,37,1,20,,3,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Cookie Dough, Small",,170,7,3,1,10,130,26,0,14,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Creme Caramel, Medium & Large",,210,4,3,0,15,125,40,0,21,,3,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Creme Caramel, Small",,140,3,2,0,10,85,27,0,21,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,Crushed Nuts,,170,14,2,0,0,0,6,4,1,,8,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Espresso, Medium & Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Espresso, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Heath Bar, Medium & Large",,270,17,9,0,15,180,32,1,31,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Heath Bar, Small",,210,13,7,0,10,140,25,1,24,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Hot Fudge, Medium & Large",,240,12,10,0,10,200,32,2,28,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Hot Fudge, Small",,160,8,6,0,5,135,21,1,19,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Key Lime Syrup, Large",,210,0,0,0,0,0,52,0,52,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Key Lime Syrup, Medium",,160,0,0,0,0,0,39,0,39,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Key Lime Syrup, Small",,110,0,0,0,0,0,26,0,26,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"M&M's, Medium & Large",,330,14,8,0,5,40,46,1,41,,3,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"M&M's, Small",,230,9,6,0,<5,30,32,1,28,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Marshmallow Creme, Medium & Large",,280,0,0,0,0,10,70,0,60,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Marshmallow Creme, Small",,180,0,0,0,0,10,47,0,40,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Melted Chocolate Chip, Medium & Large",,120,8,6,0,0,5,13,1,11,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Melted Chocolate Chip, Small",,90,6,5,0,0,5,10,1,8,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Mint Syrup, Large",,140,0,0,0,0,0,35,0,35,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Mint Syrup, Medium",,110,0,0,0,0,0,26,0,26,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Mint Syrup, Small",,70,0,0,0,0,0,17,0,17,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Oreo, Medium & Large",,160,7,2,0,0,190,25,1,14,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Oreo, Small",,120,5,2,0,0,140,19,1,11,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Peanut Butter, Medium & Large",,430,36,6,0,0,320,14,7,7,,18,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Peanut Butter, Small",,290,24,4,0,0,210,9,5,5,,12,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Peanut Butter Cups, Medium & Large",,310,18,6,0,5,210,34,3,31,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Peanut Butter Cups, Small",,220,13,5,0,<5,150,24,2,22,,5,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,Peanuts,,170,14,2,0,0,0,2,4,1,,7,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Pineapple, Medium & Large",,60,0,0,0,0,10,15,1,12,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Pineapple, Small",,40,0,0,0,0,5,10,1,9,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Pretzels, Medium & Large",,90,0,0,0,0,330,18,1,1,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Pretzels, Small",,70,0,0,0,0,250,14,1,1,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Raspberries, Medium & Large",,160,0,0,0,0,0,44,1,48,,1,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Raspberries, Small",,120,0,0,0,0,0,33,1,36,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Reese's Pieces, Medium & Large",,110,5,4,0,0,25,12,1,11,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Reese's Pieces, Small",,80,4,3,0,0,20,9,0,8,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,Roasted Pecans,,180,19,2,0,0,100,3,2,1,,2,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Sprinkles, Medium & Large",,270,10,9,1,0,0,46,0,43,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Sprinkles, Small",,210,7,7,0,0,0,35,0,33,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Strawberries, Medium & Large",,130,0,0,0,0,0,32,1,30,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27
+andys,Toppings,"Strawberries, Small",,80,0,0,0,0,0,20,1,19,,0,,,https://www.nutritionix.com/andys-frozen-custard/menu/premium,2026-10-27

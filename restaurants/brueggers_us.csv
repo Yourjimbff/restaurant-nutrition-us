@@ -1,0 +1,185 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+brueggers,Limited Time Offerings,"Egg Sandwich, Double-Stack",,820,46,17,1,430,1810,67,4,8,4,36,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Asiago Parmesan Bagel,,320,3,1.5,0,<5,720,59,2,4,2,14,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Blueberry Bagel,,310,1,0,0,0,520,65,2,11,9,10,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,"Bruegger Bites, 3 ea",,170,2.5,0.5,0,0,240,32,1,3,2,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Cheesy Hash Brown Gourmet Bagel,,390,11,4.5,0,10,650,59,3,5,4,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Ciabatta Roll,,230,2.5,0,0,0,610,44,2,1,0,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Cinnamon Raisin Bagel,,310,1,0,0,0,490,65,3,14,6,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Cinnamon Sugar Bagel,,380,1.5,0,0,0,610,83,3,27,24,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Cranberry Bagel,,320,1,0,0,0,510,65,2,10,7,10,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Egg Bagel,,300,1.5,0.5,0,25,610,61,2,8,6,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Everything Bagel,,330,3,0,0,0,790,64,3,5,2,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Everything Whole Wheat Bagel,,330,3,0,0,0,800,64,6,10,7,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Five Cheese Gourmet Bagel,,360,10,4.5,0,20,660,51,2,5,4,16,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Garlic Bagel,,310,1,0,0,0,610,64,3,4,2,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Italian Asiago Parmesan Bagel,,320,3,1,0,<5,710,60,2,4,2,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Jalapeno Bagel,,330,3,0,0,0,480,67,2,7,2,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Jalapeno Cheddar Bagel,,350,6,2.5,0,15,790,60,2,4,2,14,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Maple French Toast Gourmet Bagel,,350,4.5,1,0,0,480,68,4,20,18,10,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Onion Bagel,,310,1,0,0,0,610,63,2,6,2,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Plain Bagel,,290,1,0,0,0,610,59,2,4,2,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Poppy Seed Bagel,,330,4,0,0,0,610,61,3,4,2,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Pumpernickel Bagel,,300,1,0,0,0,580,62,3,7,5,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Rosemary Olive Oil Bagel,,340,5,1,0,0,480,63,2,6,4,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Salt Bagel,,290,1,0,0,0,20020,59,2,4,2,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Sesame Bagel,,380,9,1,0,0,620,61,4,4,2,14,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Sesame Whole Wheat Bagel,,380,9,1,0,0,630,61,7,9,7,15,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Bagels & Breads,Whole Wheat Bagel,,290,1,0,0,0,620,59,5,9,7,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Au Lait, 12 oz",,150,8,4.5,0,25,10,11,0,11,0,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Au Lait, 16 oz",,200,11,6,0,35,10,15,0,15,0,11,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Au Lait, 20 oz",,250,13,8,0,40,15,18,0,18,0,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Latte, 12 oz",,170,9,5,0,25,10,13,0,13,0,9,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Latte, 16 oz",,230,12,7,0,35,10,17,0,17,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Latte, 20 oz",,280,15,8,0,40,15,22,0,22,0,15,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Mocha, 12 oz",,210,9,5,0,25,10,23,0,21,5,9,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Mocha, 16 oz",,280,12,7,0,35,10,31,0,28,7,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cafe Mocha, 20 oz",,350,15,8,0,40,15,38,0,35,9,15,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cappuccino, 12 oz",,130,7,4,0,20,10,11,0,11,0,7,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cappuccino, 16 oz",,170,9,5,0,25,10,15,0,15,0,9,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Cappuccino, 20 oz",,220,12,7,0,35,15,18,0,18,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Coffee Cooler, 16 oz",,120,6,3.5,0,15,35,17,0,14,13,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Coffee Cooler, 24 oz",,150,7,4.5,0,20,45,21,0,17,16,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Espresso, 2 oz",,5,0,0,0,0,10,1,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Espresso, 3 oz",,10,0,0,0,0,15,2,0,2,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Espresso, 4 oz",,10,0,0,0,0,20,2,0,2,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Flavored Coffee, 12 oz",,0,0,0,0,0,10,0,0,0,5,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Flavored Coffee, 16 oz",,5,0,0,0,0,10,0,0,0,7,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Flavored Coffee, 20 oz",,5,0,0,0,0,15,0,0,0,9,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Hot Caramel Macchiato, 12 oz",,290,6,3.5,0,25,150,49,0,49,39,10,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Hot Caramel Macchiato, 16 oz",,370,7,4,0,30,190,64,0,64,52,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Hot Caramel Macchiato, 20 oz",,450,8,5,0,35,240,79,0,79,64,16,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Blend Coffee, 12 oz",,0,0,0,0,0,10,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Blend Coffee, 16 oz",,5,0,0,0,0,10,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Blend Coffee, 20 oz",,5,0,0,0,0,15,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Decaf Coffee, 12 oz",,0,0,0,0,0,10,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Decaf Coffee, 16 oz",,5,0,0,0,0,10,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"House Decaf Coffee, 20 oz",,5,0,0,0,0,15,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Iced Caramel Macchiato, 16 oz",,260,5,2.5,0,20,135,46,0,46,39,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Iced Caramel Macchiato, 24 oz",,420,7,4,0,30,220,76,0,76,64,14,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Iced Coffee, 16 oz",,5,0,0,0,0,10,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Coffee & Blended Beverages,"Iced Coffee, 24 oz",,5,0,0,0,0,15,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Caramel Cream Cold Brew, 16 oz",,220,7,4,0,20,85,38,0,33,33,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Caramel Cream Cold Brew, 24 oz",,380,12,7,0,35,140,63,0,55,55,7,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Chocolate Cream Cold Brew, 16 oz",,210,7,4.5,0,20,65,36,2,28,28,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Chocolate Cream Cold Brew, 24 oz",,350,13,8,0,35,110,59,3,47,47,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Cold Brew, 16 oz",,10,0,0,0,0,20,2,0,0,0,1,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Cold Brew, 24 oz",,20,0,0,0,0,30,3,0,0,0,1,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Vanilla Cream Cold Brew, 16 oz",,200,7,4,0,20,40,31,0,25,25,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cold Brews,"Vanilla Cream Cold Brew, 24 oz",,330,11,7,0,35,65,51,0,42,41,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Chai Tea, Bruegger's",,240,5,5,0,0,85,45,0,39,35,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Chai Tea, Oregon",,120,0,0,0,0,10,29,0,27,25,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Hot Chocolate, 12 oz",,140,1.5,1.5,0,<5,190,31,1,26,25,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Hot Tea, Black, 12 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Hot Tea, Black, 20 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Hot Tea, Herbal Earl Grey, 12 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Hot Tea, Herbal Earl Grey, 20 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Iced Tea, Brewed, 16 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Iced Tea, Brewed, 24 oz",,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Poured Orange Juice, 16 oz",,220,0,0,0,0,0,52,0,44,44,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Coke, 16 oz",,140,0,0,0,0,45,39,0,39,39,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Coke, 20 oz",,240,0,0,0,0,75,65,0,65,65,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Coke, 32 oz",,280,0,0,0,0,90,78,0,78,78,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Diet Coke, 16 oz",,0,0,0,0,0,60,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Diet Coke, 20 oz",,0,0,0,0,0,70,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Diet Coke, 32 oz",,0,0,0,0,0,120,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Sprite, 16 oz",,200,0,0,0,0,90,32,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Sprite, 20 oz",,250,0,0,0,0,115,65,0,65,65,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Other Beverages,"Soft Drinks, Sprite, 32 oz",,400,0,0,0,0,180,64,0,52,52,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Bacon Scallion Cream Cheese,,140,11,7,0,45,150,6,0,1,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Garden Veggie Cream Cheese,,130,11,6,0,35,135,4,0,3,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Honey Walnut Cream Cheese,,160,13,9,0,35,150,6,0,3,0,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Jalapeno Cream Cheese,,140,13,7,0,45,140,4,0,3,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Light Garden Veggie Cream Cheese,,90,6,3.5,0,20,105,3,0,1,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Light Herb Garlic Cream Cheese,,100,6,3.5,0,20,120,4,0,3,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Light Plain Cream Cheese,,100,6,4.5,0,20,135,7,0,6,0,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Onion & Chive Cream Cheese,,140,13,9,0,35,105,3,0,1,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Plain Cream Cheese,,140,13,9,0,50,160,6,0,3,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Strawberry Cream Cheese,,140,13,7,0,30,100,4,0,4,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Cream Cheese,Whipped Plain Cream Cheese (California Only),,120,10,7,0,30,90,3,0,1,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Balsamic Vinaigrette,,60,6,1,0,0,230,3,0,2,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Blue Apple Salad,,360,18,7,0,55,800,30,8,20,0,23,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Caesar Dressing,,80,7,1.5,0,10,310,2,0,1,0,1,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Champagne Vinaigrette,,130,14,2,0,0,410,1,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Chicken Caesar Salad,,200,8,3,0,40,630,14,3,2,0,17,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Feta Olive Oil Dressing,,160,18,2.5,0,0,220,1,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Salads & Dressings,Ranch Dressing,,90,10,1.5,0,10,250,1,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Bacon & Cheese",,530,19,8,0,225,1200,62,2,6,2,28,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Cheese",,430,11,4.5,0,200,840,60,2,4,2,21,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Farmhouse",,730,35,16,0,265,1770,66,3,9,4,37,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Ham & Cheese",,470,13,5,0,215,1330,62,2,6,2,26,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Pastrami & Swiss",,500,15,6,0,225,1280,63,3,7,5,29,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Pork Sausage & Cheese",,610,28,11,0,230,1120,60,2,4,2,27,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Smokehouse Brisket",,610,26,12,0,250,1350,64,2,6,2,30,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Sriracha Honey Sunrise",,660,28,12,0,245,1480,70,3,9,3,30,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Turkey Sausage & Cheese",,520,18,7,0,240,1120,60,2,4,2,28,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Vermonter",,830,41,17,0,255,1210,86,4,28,24,30,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg Sandwich, Western",,770,41,11,0,235,1620,72,4,9,2,30,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich, Bacon & Cheese",,490,14,6,0,35,1230,62,2,6,2,28,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich, Cheese",,380,7,3,0,15,870,60,2,4,2,20,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich, Ham & Cheese",,430,8,3.5,0,30,1350,62,2,6,2,26,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich, Pork Sausage & Cheese",,560,24,9,0,45,1150,60,2,4,2,26,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich, Turkey Sausage & Cheese",,470,14,5,0,55,1150,60,2,4,2,27,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,"Egg White Sandwich Thin, Bacon Avocado Tomato",,540,25,8,0,35,1080,54,4,8,1,24,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Breakfast Sandwiches,Smoked Salmon on Plain Bagel,,330,19,10,0,70,1030,23,1,5,0,18,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, BLT",,540,23,6,0,40,1140,64,3,7,2,22,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, Brisket",,490,14,5,0,45,1410,65,3,6,2,24,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, Garden Veggie",,360,2,0,0,0,550,72,5,13,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, Ham",,400,7,3,0,30,1200,65,3,8,2,21,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, Pastrami",,380,4,2,0,25,1220,63,3,6,2,19,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Deli Sandwiches,"Deli Sandwich, Turkey",,450,8,2.5,0,50,1360,71,3,7,4,30,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Lunch Sandwiches,"Lunch Sandwich, Herby Turkey on Sesame Bagel",,680,27,7,0,65,1440,82,4,10,4,35,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Lunch Sandwiches,"Lunch Sandwich, Hot Pastrami on Everything Bagel",,580,18,8,0,70,2230,65,3,5,2,34,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Lunch Sandwiches,"Lunch Sandwich, Leonardo Da Veggie on Asiago Parmesan Bagel",,520,16,9,0,45,870,67,3,9,2,26,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Lunch Sandwiches,"Lunch Sandwich, Turkey Chipotle Club on Everything Bagel",,720,33,6,0,70,2050,78,4,9,4,36,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Lunch Sandwiches,"Lunch Sandwich, Western Brisket, on 5 Cheese Bagel",,790,48,15,0,90,1650,59,3,8,4,32,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,"Blueberry (Bake N Joy) Boston, Vermont, Northern Connecticut",,430,21,4,0,80,270,55,0,30,0,5,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,Blueberry (Main Street Gourmet),,490,28,5,0,130,230,54,3,31,30,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,Blueberry Muffin,,440,25,5,0,85,530,48,1,27,23,5,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,Fruity Cereal Pop,,150,3,1,0,0,170,29,0,14,13,1,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,Heavenly Chocolate Chip,,470,23,14,0.5,45,230,62,2,38,37,5,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Sides & Desserts,Twice Baked Hash Brown,,170,11,6,0,35,260,11,1,1,0,7,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Cheese,American Cheese,,50,4.5,2.5,0,15,250,1,0,1,0,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Cheese,"Asiago Cheese, Shredded",,60,4,2.5,0,10,220,0,0,0,0,5,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Cheese,Cheddar Cheese,,60,5,2.5,0,15,95,0,0,0,0,3,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Cheese,Swiss Cheese,,60,4.5,2.5,0,15,25,0,0,0,0,4,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Add Syrup,,50,0,0,0,0,25,13,0,6,6,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Butter Blend,,110,12,5,0,0,85,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Chipotle Mayo,,90,10,1.5,0,<5,115,1,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Honey,,90,0,0,0,0,0,23,0,22,22,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,"Jelly/Jam, Grape",,70,0,0,0,0,0,18,0,13,13,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,"Jelly/Jam, Strawberry",,60,0,0,0,0,0,16,0,14,14,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Mayo,,100,12,2,0,10,40,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Mustard,,15,0,0,0,0,140,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Peanut Butter,,240,21,4.5,0,0,105,10,4,5,3,9,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Sriracha Sauce,,5,0,0,0,0,210,3,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Condiments,Sundried Tomato Spread,,140,11,3.5,0,10,80,9,0,2,0,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Eggs & Egg Patties,1 Egg White,,35,1,0,0,0,160,0,0,0,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Eggs & Egg Patties,1 Whole Egg,,80,6,2,0,185,140,1,0,0,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Eggs & Egg Patties,2 Egg White,,70,2,0.5,0,0,330,1,0,1,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Eggs & Egg Patties,2 Whole Eggs,,160,11,4,0,370,280,2,0,1,0,13,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Brisket Breakfast,,110,9,3.5,0,30,430,1,0,0,0,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Brisket Lunch,,170,13,5,0,45,650,2,0,0,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Ham,,45,1,0,0,15,480,2,0,2,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Pastrami,,50,3,1.5,0,25,460,0,0,0,0,7,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Peppered Bacon,,110,8,3,0,25,360,2,0,2,0,8,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Pork Sausage,,180,17,6,0,30,280,0,0,0,0,6,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Sliced Turkey,,90,2.5,0,0,40,650,9,0,2,2,15,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Smoked Salmon,,100,6,1,0,20,650,0,0,0,0,12,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Meat,Turkey Sausage,,90,7,2,0,40,280,0,0,0,0,7,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Nuts & Other Toppings,Croutons,,15,0,0,0,0,35,2,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Capers,,0,0,0,0,0,60,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Cucumbers,,5,0,0,0,0,0,1,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Green Bell Peppers,,5,0,0,0,0,0,1,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Lettuce,,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Pickle Spear,,0,0,0,0,0,260,0,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Red Bell Peppers,,10,0,0,0,0,0,2,1,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Red Onions,,5,0,0,0,0,0,1,0,0,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Toppings - Vegetables & Fruit,Tomatoes,,10,0,0,0,0,10,2,0,1,0,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Almond Flavored Syrup,,90,0,0,0,0,0,23,0,23,23,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Caramel Flavored Syrup,,100,0,0,0,0,0,24,0,24,24,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Chocolate Syrup,,70,0,0,0,0,60,17,1,14,14,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Hazelnut Flavored Syrup,,90,0,0,0,0,5,22,0,21,21,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Soy Milk,,25,1,0,0,0,35,3,0,2,0,2,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Vanilla Flavored Syrup,,100,0,0,0,0,0,25,0,25,25,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27
+brueggers,Beverages Syrup Flavors,Whipped Cream Topping,,20,1.5,0.5,0,<5,0,1,0,1,1,0,,,https://www.nutritionix.com/brueggers/menu/premium,2026-10-27

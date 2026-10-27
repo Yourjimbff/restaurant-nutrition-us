@@ -1,0 +1,555 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+tacobell,New,Beefy Crunch Burrito,,450,19,6,0,20,1050,59,5,3,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Caramel Apple Empanada,,290,14,4.5,0,<5,250,38,1,15,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Cheesy Gordita Crunch Sliders - Beef,,350,19,7,0,45,750,30,5,3,<1,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Cheesy Gordita Crunch Sliders - Chicken,,340,18,6,0,55,700,28,4,3,0,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Cheesy Gordita Crunch Sliders - Steak,,340,18,7,0,50,770,28,4,4,1,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Chicken Crunchadilla,,280,12,4.5,0,40,650,27,2,2,<1,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Creamy Sriracha Chicken Nacho Fries,,500,32,4.5,0,40,1170,40,5,3,<1,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,,320,12,3.5,0,30,860,36,3,2,<1,16,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Crunchwrap Slider - Diablo Ranch,,320,13,3.5,0,30,860,35,3,2,<1,16,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Nuggets - 5 Piece,,320,13,1.5,0,55,1080,25,3,0,0,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Nuggets - 10 Piece,,640,26,3,0,105,2140,50,5,0,0,51,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Strips - 2 piece,,230,11,1,0,35,710,19,3,0,0,14,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Strips - 4 piece,,460,22,2.5,0,75,1420,39,5,0,0,28,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Taco - Avocado Ranch,,260,12,3.5,0,25,680,27,3,2,<1,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Crispy Chicken Taco - Creamy Chipotle Sauce,,260,12,3.5,0,30,670,27,3,2,<1,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Double Dipping Burritos - Slow Roasted Chicken,,620,37,10,0,85,1250,45,5,4,1,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Double Dipping Burritos - Steak,,620,37,10,0,75,1380,44,4,5,3,27,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Dragonfruit Freeze (16 oz),,160,0,0,0,0,45,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Dragonfruit Freeze (20 oz),,200,0,0,0,0,60,52,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Dragonfruit Freeze with Dragonfruit Syrup (16 oz),,170,0,0,0,0,50,46,0,44,44,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Dragonfruit Freeze with Dragonfruit Syrup (20 oz),,210,0,0,0,0,60,56,0,55,55,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Naked Chicken Chalupa,,430,27,6,0,65,1180,28,5,<1,0,19,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Citrus Energy Freeze (16 oz),,150,0,0,0,0,55,39,0,38,38,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Citrus Energy Freeze (20 oz),,190,0,0,0,0,65,49,0,49,49,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Citrus Fuego Energy,,50,0,0,0,0,35,13,0,13,12,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Dragonfruit Dream Refresca,,330,1,0.5,0,<5,260,83,0,80,78,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Dragonfruit Dream Refresca Freeze (16 oz),,210,1,0.5,0,<5,55,52,0,49,47,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Dragonfruit Dream Refresca Freeze (20 oz),,250,1,0.5,0,<5,70,62,0,59,57,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Dream Refresca,,220,1,0.5,0,<5,170,55,0,53,52,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Freeze (16 oz),,160,0,0,0,0,50,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pineapple Freeze (20 oz),,190,0,0,0,0,65,52,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pink Passionfruit Freeze (16 oz),,160,0,0,0,0,75,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pink Passionfruit Freeze (20 oz),,200,0,0,0,0,95,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pink Passionfruit Refresca Freeze (16 oz),,160,0,0,0,0,75,42,0,42,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pink Passionfruit Refresca Freeze (20 oz),,200,0,0,0,0,95,53,0,52,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pretty Pink Baja Blast (16 oz),,250,0,0,0,0,65,65,0,64,64,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pretty Pink Baja Blast (20 oz),,310,0,0,0,0,80,80,0,78,78,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pretty Pink Baja Blast (30 oz),,470,0,0,0,0,120,123,0,120,120,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pretty Pink Baja Blast Freeze (16 oz),,180,0,0,0,0,45,48,0,46,46,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Pretty Pink Baja Blast Freeze (20 oz),,220,0,0,0,0,55,58,0,56,56,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Sriracha Chicken Crunchadilla,,280,13,4.5,0,45,660,27,2,2,<1,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Strawberry Dream Refresca,,320,1,0.5,0,<5,270,82,0,79,79,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Strawberry Tropics Fuego Energy,,50,0,0,0,0,35,13,0,13,13,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Tajín Cheesy Gordita Crunch,,460,22,9,0,50,1150,45,6,7,2,19,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Tajín Pineapple Strawberry Freeze (16 oz),,180,0,0,0,0,250,47,0,47,47,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,Tajín Pineapple Strawberry Freeze (20 oz),,220,0,0,0,0,270,58,0,57,57,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,New,TajínTaco,,210,12,4.5,0,25,690,16,4,3,2,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Avocado Salsa Verde Packet,,50,5,1,0,0,70,<1,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Cantina Chicken Bowl,,580,29,8,0,75,1320,55,11,4,0,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Cantina Chicken Burrito,,530,28,9,0,80,1190,44,5,4,1,24,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Cantina Chicken Crispy Taco,,270,15,6,0,50,520,19,4,<1,0,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Cantina Chicken Rolled Quesadilla,,570,28,13,0,105,1410,46,5,3,1,33,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Chicken Menu,Cantina Chicken Soft Taco,,210,10,3.5,0,35,530,19,3,2,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Black Bean Chalupa Supreme (V),,340,17,3.5,0,10,450,36,7,4,<1,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Chalupa Supreme - Beef,,350,20,5,0,25,570,32,4,3,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Chalupa Supreme - Chicken,,330,17,3.5,0,35,580,30,3,3,<1,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Chalupa Supreme - Steak,,340,18,4.5,0,30,590,30,3,4,2,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Cheesy Gordita Crunch,,480,26,10,0,50,830,44,6,4,<1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Crunchy Taco,,170,9,4,0,25,310,13,3,0,0,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Crunchy Taco Supreme,,190,10,4.5,0,25,320,16,3,1,0,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Doritos Cheesy Gordita Crunch - Nacho Cheese,,480,26,10,0,50,890,43,5,4,1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Double Stacked Taco,,320,16,5,0,25,610,34,4,2,<1,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Nacho Cheese Doritos Locos Taco,,170,10,4,0,25,370,13,3,<1,0,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Nacho Cheese Doritos Locos Taco Supreme,,190,11,4.5,0,30,380,15,3,2,0,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Soft Taco - Beef,,180,8,4,0,25,500,18,3,1,<1,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Soft Taco - Chicken,,160,5,2.5,0,35,510,16,1,1,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Soft Taco Supreme - Beef,,200,9,5,0,25,520,21,3,2,<1,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Soft Taco Supreme - Chicken,,180,6,3.5,0,35,520,19,2,2,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Tacos,Spicy Potato Soft Taco (V),,240,11,3,0,10,470,28,2,1,<1,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Bean Burrito (V),,360,10,4.5,0,5,1080,54,8,3,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Beefy 5-Layer Burrito,,490,18,8,0,30,1290,65,7,4,2,17,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Black Bean Grilled Cheese Burrito,,680,33,13,0,55,1360,72,9,5,2,23,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Burrito Supreme - Beef,,390,14,6,0,25,1160,52,8,4,2,16,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Burrito Supreme - Chicken,,370,11,5,0,35,1170,49,6,4,2,19,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Burrito Supreme - Steak,,380,12,6,0,30,1180,50,6,5,3,19,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Cheesy Bean & Rice Burrito (V),,400,16,3.5,0,<5,950,56,6,3,2,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Cheesy Double Beef Burrito,,560,25,9,0,50,1340,64,7,3,2,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Chicken Enchilada Burrito,,370,11,5,0,40,1150,50,4,3,2,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Chili Cheese Burrito (regional),,380,17,9,0,40,970,41,4,2,1,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Grilled Cheese Burrito,,690,36,15,0,70,1480,68,7,4,2,25,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Grilled Cheese Burrito - Chicken,,670,33,13,0,80,1490,66,6,4,2,28,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Burritos,Grilled Cheese Burrito - Steak,,680,34,14,0,75,1500,66,6,5,2,28,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Nachos,Chips and Nacho Cheese Sauce (V),,220,13,1.5,0,0,280,24,2,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Nachos,Loaded Beef Nachos,,440,24,5,0,20,910,45,9,2,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Nachos,Nachos BellGrande - Beef,,730,38,6,0,20,1180,81,13,4,<1,17,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Nachos,Nachos BellGrande - Chicken,,710,35,5,0,30,1190,79,12,4,<1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Nachos,Nachos BellGrande - Steak,,720,36,5,0,25,1200,79,12,5,1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Quesadillas,Quesadilla - Cheese (V),,440,22,11,0,50,980,43,4,3,1,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Quesadillas,Quesadilla - Chicken,,490,23,11,0,75,1240,44,4,3,1,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Quesadillas,Quesadilla - Steak,,500,24,12,0,70,1260,44,4,4,2,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,3-Cheese Chicken Flatbread Melt,,320,14,6,0,50,750,30,3,4,<1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Black Bean Crunchwrap Supreme (V),,520,17,5,0,<5,1090,78,8,6,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Cheesy Roll Up (V),,170,8,5,0,25,420,18,1,1,<1,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Crunchwrap Supreme,,530,20,7,0,20,1210,74,6,6,2,15,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Mexican Pizza,,530,27,8,0,40,1000,51,8,3,<1,19,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Stacker,,390,17,8,0,40,1060,43,4,3,2,17,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Specialties,Veggie Mexican Pizza (V),,460,23,6,0,25,740,48,7,3,<1,14,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Black Beans & Rice (V),,160,4.5,0,0,0,370,25,5,<1,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Black Beans (V),,50,1.5,0,0,0,140,7,4,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Cheesy Fiesta Potatoes (V),,240,12,1.5,0,<5,520,29,3,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Cinnabon Delights (2 Pk) (V),,170,11,3.5,0,5,70,15,<1,9,9,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Cinnabon Delights (12 Pk - Serves 4) (V),,1010,68,22,0,40,430,88,5,52,52,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Cinnamon Twists (V),,170,6,0,0,0,150,27,<1,11,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Diablo Sauce Packet (V),,0,0,0,0,0,35,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Fire Sauce Packet (V),,0,0,0,0,0,55,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Hot Sauce Packet (V),,0,0,0,0,0,45,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Large Nacho Fries,,500,29,2.5,0,0,1090,52,5,1,0,6,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Mild Sauce Packet (V),,0,0,0,0,0,30,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Nacho Fries,,350,21,2,0,0,790,36,3,1,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Sides & Sweets,Pintos N Cheese (V),,170,6,3,0,10,680,19,7,1,<1,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Blue Raspberry Freeze (16 oz),,120,0,0,0,0,35,30,0,30,30,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Blue Raspberry Freeze (20 oz),,150,0,0,0,0,40,38,0,38,38,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Cinnabon Delights Coffee - Hot,,160,2,1.5,0,5,75,34,0,22,13,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Cinnabon Delights Coffee - Iced,,160,2,1.5,0,5,85,34,0,22,13,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Hot Coffee with Creamer,,45,1,0.5,0,<5,10,8,0,7,7,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Iced Coffee with Creamer,,45,1,0.5,0,<5,15,8,0,7,7,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Lowfat Milk - CA (Regional),,100,2,1.5,0,10,130,13,0,12,0,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Lowfat Milk - Federal (Regional),,80,2,1.5,0,10,100,10,0,9,0,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Mtn Dew Baja Blast Freeze (16 oz),,150,0,0,0,0,45,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Mtn Dew Baja Blast Freeze (20 oz),,190,0,0,0,0,55,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Orange Juice,,140,0,0,0,0,20,33,<1,28,28,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Premium Roast Coffee - Hot,,0,0,0,0,0,5,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Premium Roast Coffee - Iced,,0,0,0,0,0,20,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Water,,0,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Wild Strawberry Freeze (16 oz),,150,0,0,0,0,40,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Drinks,Wild Strawberry Freeze (20 oz),,190,0,0,0,0,55,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Caramel Dulce Churro Chiller (16 oz),,560,22,14,0.5,<5,400,86,0,84,71,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Caramel Dulce Churro Chiller (20 oz),,760,29,18,1,10,530,116,0,113,96,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Caramel Dulce Cream Cold Brew (16 oz),,140,8,7,0,<5,50,18,0,14,14,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Caramel Dulce Cream Cold Brew (20 oz),,150,8,7,0,<5,50,18,0,14,14,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cinnabon Caramel Coffee - Hot,,200,2.5,1.5,0,10,85,42,0,25,15,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cinnabon Caramel Coffee - Iced (16 oz),,290,11,6,0,0,180,43,0,28,13,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cinnabon Caramel Coffee - Iced (20 oz),,290,11,6,0,0,180,44,0,28,13,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cinnabon Caramel Latte Chiller (16 oz),,480,18,11,0.5,<5,290,70,0,53,34,6,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cinnabon Caramel Latte Chiller (19 oz),,620,25,15,1,<5,400,89,0,71,48,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cold Brew - Black (16 oz),,10,0,0,0,0,0,2,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Cold Brew - Black (20 oz),,10,0,0,0,0,0,2,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Dragonfruit Berry Agua Refresca,,180,0,0,0,0,40,45,0,43,40,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Dragonfruit Berry Limonada,,220,0,0,0,0,190,57,0,56,54,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Dragonfruit Strawberry Limonada,,210,0,0,0,0,190,56,0,55,54,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mango Peach Agua Refresca,,170,0,0,0,0,40,43,0,42,40,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mango Peach Limonada,,210,0,0,0,0,190,56,0,56,54,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Chocolate Churro Chiller (16 oz),,500,21,13,0.5,0,380,71,0,66,53,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Chocolate Churro Chiller (20 oz),,660,28,18,1,0,500,94,0,86,68,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Mocha Coffee - Hot,,170,3,1.5,0,5,60,34,0,21,21,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Mocha Coffee - Iced (16 oz),,290,12,7,0,<5,150,41,0,30,25,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Mocha Coffee - Iced (20 oz),,310,12,7,0,<5,160,46,0,32,27,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Mocha Latte Chiller (16 oz),,480,19,12,0.5,5,260,68,0,55,46,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Mexican Mocha Latte Chiller (20 oz),,620,26,16,1,5,370,87,0,72,59,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Pineapple Lime Rockstar Refresca,,60,0,0,0,0,30,14,0,14,14,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Pink Lemonade Frost (16 oz),,190,1.5,1,0,0,140,48,0,47,46,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Pink Lemonade Frost (20 oz),,280,3.5,2,0,0,200,67,0,66,63,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Purple Velvet Cream Cold Brew (16 oz),,120,7,7,0,<5,25,13,0,10,10,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Purple Velvet Cream Cold Brew (20 oz),,120,7,7,0,<5,30,13,0,10,10,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Lime Refresca Freeze (16 oz),,190,0,0,0,0,40,51,0,49,49,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Lime Refresca Freeze (20 oz),,230,0,0,0,0,50,61,0,60,59,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Matcha Chiller (16 oz),,590,24,14,0.5,0,340,87,0,70,58,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Matcha Chiller (20 oz),,780,30,19,1,0,450,117,0,95,78,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Passionfruit Agua Refresca,,170,0,0,0,0,40,43,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Strawberry Passionfruit Limonada,,210,0,0,0,0,190,56,0,55,55,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Tropical Punch Rockstar Refresca,,80,0,0,0,0,65,20,0,19,19,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Cream Cold Brew (16 oz),,90,7,6,0,<5,25,7,0,4,4,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Cream Cold Brew (20 oz),,140,11,10,0,5,40,10,0,7,7,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Crema Coffee - Hot,,110,2,1,0,5,10,21,0,15,15,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Crema Coffee - Iced (16 oz),,240,11,7,0,<5,110,31,0,25,21,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Crema Coffee - Iced (20 oz),,250,11,7,0,<5,115,32,0,25,21,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Crema Latte Chiller (16 oz),,430,19,11,0.5,5,220,59,0,50,42,6,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Vanilla Crema Latte Chiller (20 oz),,580,26,16,1,5,330,77,0,68,55,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Wild Strawberry Churro Chiller (16 oz),,510,20,13,0.5,0,350,77,0,69,57,7,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Live Mas Cafe,Wild Strawberry Churro Chiller (20 oz),,680,27,17,1,0,470,102,0,91,74,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,3-Cheese Chicken Flatbread Melt - Value Menu,,320,14,6,0,50,750,30,3,4,<1,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Avocado Ranch Chicken Stacker,,350,15,4.5,0,35,890,40,3,3,1,16,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Beefy Potato Loaded Griller,,480,23,6,0,25,1120,56,5,3,2,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Cheesy Bean & Rice Burrito - Value Menu,,400,16,3.5,0,<5,950,56,6,3,2,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Cheesy Double Beef Burrito - Value Menu,,560,25,9,0,50,1340,64,7,3,2,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Cheesy Fiesta Potatoes - Value Menu,,240,12,1.5,0,<5,520,29,3,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Cheesy Roll Up - Value Menu,,170,8,5,0,25,420,18,1,1,<1,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Chicken Enchilada Burrito - Value Menu,,370,11,5,0,40,1150,50,4,3,2,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Chips and Nacho Supreme Dip,,360,19,4.5,0,20,720,37,7,3,0,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Double Stacked Taco - Value Menu,,320,16,5,0,25,610,34,4,2,<1,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Loaded Beef Nachos - Value Menu,,440,24,5,0,20,910,45,9,2,<1,12,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Mini Taco Salad,,280,15,4,0,20,490,27,6,2,0,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Luxe Value Menu,Spicy Potato Soft Taco - Value Menu,,240,11,3,0,10,470,28,2,1,<1,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Bean Burrito,,360,10,4.5,0,5,1080,54,8,3,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Black Bean Chalupa Supreme,,340,17,3.5,0,10,450,36,7,4,<1,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Black Bean Crunchwrap Supreme,,520,17,5,0,<5,1090,78,8,6,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Black Beans,,50,1.5,0,0,0,140,7,4,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Black Beans & Rice,,160,4.5,0,0,0,370,25,5,<1,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cheese Quesadilla,,440,22,11,0,50,980,43,4,3,1,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cheesy Bean & Rice Burrito,,400,16,3.5,0,<5,950,56,6,3,2,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cheesy Fiesta Potatoes,,240,12,1.5,0,<5,520,29,3,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cheesy Roll Up,,170,8,5,0,25,420,18,1,1,<1,8,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Chips and Nacho Cheese Sauce,,220,13,1.5,0,0,280,24,2,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cinnabon Delights (2 Pack),,170,11,3.5,0,5,70,15,<1,9,9,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cinnabon Delights (12 Pack - Serves 4),,1010,68,22,0,40,430,88,5,52,52,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Cinnamon Twists,,170,6,0,0,0,150,27,<1,11,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Hash Brown,,170,11,1,0,0,330,14,2,<1,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Pintos N Cheese,,170,6,3,0,10,680,19,7,1,<1,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Spicy Potato Soft Taco,,240,11,3,0,10,470,28,2,1,<1,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Veggie Bowl,,510,25,6,0,20,1040,60,13,4,0,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Veggie Cravings,Veggie Mexican Pizza,,460,23,6,0,25,740,48,7,3,<1,14,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast California Crunchwrap - Bacon,,640,37,12,0,135,1360,54,5,3,2,21,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast California Crunchwrap - Sausage,,700,44,15,0,140,1330,54,5,3,2,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Crunchwrap - Bacon,,660,40,13,0,140,1370,54,5,3,2,21,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Crunchwrap - Sausage Patty,,740,49,16,0,150,1270,55,5,4,2,21,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Crunchwrap - Steak,,650,38,12,0,145,1410,55,5,4,2,24,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Quesadilla - Bacon,,500,26,13,0,155,1240,42,3,3,2,25,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Quesadilla - Sausage,,500,27,13,0,150,1110,42,3,3,2,23,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Quesadilla - Steak,,500,23,12,0,160,1290,43,3,4,2,28,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Breakfast Salsa Packet (V),,0,0,0,0,0,50,<1,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cheesy Toasted Breakfast Burrito - Bacon,,350,16,5,0,110,900,38,2,3,2,13,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cheesy Toasted Breakfast Burrito - Fiesta Potato (V),,340,14,3.5,0,95,770,44,3,3,1,9,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cheesy Toasted Breakfast Burrito - Sausage,,350,17,6,0,105,770,38,2,3,2,10,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cinnabon Delights (2 Pack) (V),,170,11,3.5,0,5,70,15,<1,9,9,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cinnabon Delights (12 Pack - Serves 4) (V),,1010,68,22,0,40,430,88,5,52,52,11,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cinnabon Delights Coffee - Hot,,160,2,1.5,0,5,75,34,0,22,13,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Cinnabon Delights Coffee - Iced,,160,2,1.5,0,5,85,34,0,22,13,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Grande Toasted Breakfast Burrito - Bacon,,570,29,11,0,225,1310,52,4,3,2,23,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Grande Toasted Breakfast Burrito - Sausage,,570,30,11,0,220,1180,52,4,3,2,21,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Grande Toasted Breakfast Burrito - Steak,,560,27,10,0,230,1360,53,4,4,2,26,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Hash Brown (V),,170,11,1,0,0,330,14,2,<1,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Hash Brown Toasted Breakfast Burrito - Bacon,,580,31,10,0,130,1350,53,4,3,2,20,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Hash Brown Toasted Breakfast Burrito - Sausage,,580,32,10,0,125,1220,53,4,3,2,18,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Hash Brown Toasted Breakfast Burrito - Steak,,570,29,9,0,135,1400,54,4,4,2,24,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Hot Coffee with Creamer,,45,1,0.5,0,<5,10,8,0,7,7,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Iced Coffee with Creamer,,45,1,0.5,0,<5,15,8,0,7,7,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Orange Juice,,140,0,0,0,0,20,33,<1,28,28,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Premium Roast Coffee - Hot,,0,0,0,0,0,5,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Premium Roast Coffee - Iced,,0,0,0,0,0,20,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Breakfast (Regional),Vanilla Creamer,,20,0,0,0,0,0,4,0,3,3,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mad Tasty Grapefruit Sparkling Water,,5,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mad Tasty Unicorn Tears Sparkling Water,,5,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mad Tasty Watermelon Kiwi Sparkling Water,,15,0,0,0,0,0,2,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mad Tasty Yuzu Citrus Sparkling Water,,5,0,0,0,0,55,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mtn Dew Baja Blast Freeze (16 oz),,150,0,0,0,0,45,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Mtn Dew Baja Blast Freeze (20 oz),,190,0,0,0,0,55,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Prosecco Sparkling Wine (350 mL),,280,0,0,0,0,15,9,0,3,<1,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Red Wine (6.3 fl oz),,160,0,0,0,0,5,5,0,1,<1,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Rum (80 proof),,70,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Tequila (80 proof),,70,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Cantina Menu,Vodka (80 proof),,70,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Anchor Steam (16 oz),,200,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Angel Island IPA (12 oz),,190,0,0,0,0,0,14,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Angel Island IPA (16 oz),,250,0,0,0,0,0,19,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Angry Orchard (16 oz),,260,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Angry Orchard - Crisp Apple (12 oz),,200,0,0,0,0,0,25,0,20,20,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Angry Orchard - Crisp Apple (16 oz),,260,0,0,0,0,0,33,0,27,27,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Barrio Blonde (12 oz),,160,0,0,0,0,0,10,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Barrio Blonde (16 oz),,210,0,0,0,0,0,13,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Beach Bell Beer (12 oz),,180,0,0,0,0,0,14,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Beach Bell Beer (16 oz),,240,0,0,0,0,0,19,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Beer - General (12 oz),,150,0,0,0,0,15,13,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Beer - General (16 oz),,200,0,0,0,0,20,17,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bell's Two Hearted Ale (12 oz),,210,0,0,0,0,0,17,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bell's Two Hearted Ale (16 oz),,280,0,0,0,0,0,22,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bell Tower Cerveza (12 oz),,110,0,0,0,0,0,11,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bell Tower Cerveza (16 oz),,140,0,0,0,0,0,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Black Abbey - The Rose (12 oz),,160,0,0,0,0,0,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Black Abbey - The Rose (16 oz),,220,0,0,0,0,0,17,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Belgian White (12 oz),,170,0,0,0,0,15,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Belgian White (16 oz),,220,0,0,0,0,20,19,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Belgian White (24 oz),,340,0,0,0,0,30,28,0,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Belgian White Bottle (12 oz),,170,0,0,0,0,0,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Mango Wheat (12 oz),,180,0,0,0,0,0,16,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Moon Mango Wheat (16 oz),,230,0,0,0,0,0,21,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Big City Bells Pilsner (12 oz),,160,0,0,0,0,0,10,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Big City Bells Pilsner (16 oz),,210,0,0,0,0,0,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Hoptical Illusion IPA (12 oz),,220,0,0,0,0,20,18,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Hoptical Illusion IPA (16 oz),,290,0,0,0,0,25,24,0,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Toasted Lager (12 oz),,150,0,0,0,0,15,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Blue Point Toasted Lager (16 oz),,200,0,0,0,0,20,20,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Cherry Blossom and Lime (12 oz),,90,0,0,0,0,0,3,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Cherry Blossom and Lime (16 oz),,120,0,0,0,0,0,4,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Space Camper Cosmic IPA (12 oz),,180,0,0,0,0,0,14,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Space Camper Cosmic IPA (16 oz),,230,0,0,0,0,0,19,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Unfiltered Wheat Beer (12 oz),,150,0,0,0,0,0,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Unfiltered Wheat Beer (16 oz),,200,0,0,0,0,0,20,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Unfiltered Wheat Beer 100 (12 oz),,100,0,0,0,0,0,5,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Boulevard Unfiltered Wheat Beer 100 (16 oz),,130,0,0,0,0,0,7,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Breaking Bud (12 oz),,180,0,0,0,0,0,11,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Breaking Bud (16 oz),,240,0,0,0,0,0,15,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Brooklyn Lager (12 oz),,170,0,0,0,0,0,13,0,13,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Brooklyn Lager (16 oz),,230,0,0,0,0,0,18,0,18,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bud Light (12 oz),,110,0,0,0,0,0,7,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bud Light (16 oz),,150,0,0,0,0,0,9,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Bud Light Bottle (16 oz),,110,0,0,0,0,0,7,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Budweiser (12 oz),,150,0,0,0,0,0,11,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Budweiser (16 oz),,190,0,0,0,0,0,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Budweiser Bottle (16 oz),,180,0,0,0,0,15,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Busch Light (16 oz),,130,0,0,0,0,0,4,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Calicraft Coast (12 oz),,130,0,0,0,0,0,11,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Calicraft Coast (16 oz),,170,0,0,0,0,0,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Captain Lawrence Hop Commander (12 oz),,200,0,0,0,0,0,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Cool Kidz IPA (16 oz),,220,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Coors (Coors Banquet) (12 oz),,150,0,0,0,0,15,12,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Coors (Coors Banquet) (16 oz),,200,0,0,0,0,20,16,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Coors Light (12 oz),,100,0,0,0,0,10,5,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Coors Light (16 oz),,140,0,0,0,0,15,7,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Coors Light (24 oz),,200,0,0,0,0,20,10,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Copperhead Red (12 oz),,180,0,0,0,0,0,19,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Copperhead Red (16 oz),,240,0,0,0,0,0,25,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Extra (12 oz),,150,0,0,0,0,20,14,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Extra (16 oz),,200,0,0,0,0,25,19,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Light (12 oz),,100,0,0,0,0,0,5,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Light (16 oz),,130,0,0,0,0,0,7,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Premier (12 oz),,90,0,0,0,0,0,3,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Corona Premier (16 oz),,120,0,0,0,0,0,3,0,2,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Dos Equis Lager Especial (12 oz),,130,0,0,0,0,0,11,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Dos Equis Lager Especial (16 oz),,170,0,0,0,0,0,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Dos Equis Mexican Pale Ale (12 oz),,180,0,0,0,0,0,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Dos Equis Mexican Pale Ale (16 oz),,230,0,0,0,0,0,20,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Elysian Space Dust IPA (16 oz),,310,0,0,0,0,0,15,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Elysian Space Dust IPA (24 oz),,470,0,0,0,0,0,23,0,0,0,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Estrella Jalisco (12 oz),,190,0,0,0,0,70,14,0,1,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Estrella Jalisco (16 oz),,250,0,0,0,0,95,19,0,1,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Fair Winds Howling Gail (12 oz),,220,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Fair Winds Howling Gail (16 oz),,300,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Fat Tire Amber Ale (12 oz),,160,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Fat Tire Amber Ale (16 oz),,210,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Firestone 805 (12 oz),,150,0,0,0,0,5,14,0,7,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Firestone 805 (16 oz),,200,0,0,0,0,5,18,0,9,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Firestone 805 (24 oz),,300,0,0,0,0,10,27,0,14,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Lime Margarita,,190,0,0,0,0,0,15,0,13,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Lime Margarita (Can),,240,0,0,0,0,90,25,0,25,3,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Mangonada,,160,0,0,0,0,0,13,0,11,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Mojito,,190,0,0,0,0,70,16,0,16,2,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Pina Colada,,190,0,0,0,0,55,16,0,16,3,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Prickly Pear Margarita,,190,0,0,0,0,70,15,0,15,3,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Strawberry Margarita,,190,0,0,0,0,0,17,0,14,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Flybird Strawberry Margarita (Can),,250,0,0,0,0,115,27,0,27,3,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Four Peaks Kilt Lifter (12 oz),,180,0,0,0,0,10,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Four Peaks Kilt Lifter (16 oz),,240,0,0,0,0,15,19,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Goose Island IPA (12 oz),,190,0,0,0,0,0,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Goose Island IPA (16 oz),,250,0,0,0,0,0,20,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Baja Blast (12 oz),,100,0,0,0,0,0,2,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Baja Blast (24 oz),,200,0,0,0,0,0,4,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Black Cherry (12 oz),,100,0,0,0,0,0,2,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Black Cherry (24 oz),,200,0,0,0,0,0,4,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Original (12 oz),,100,0,0,0,0,0,2,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Original (24 oz),,200,0,0,0,0,0,4,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Watermelon (12 oz),,100,0,0,0,0,0,2,0,1,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hard Mtn Dew - Watermelon (24 oz),,200,0,0,0,0,0,4,0,2,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Harpoon IPA (12 oz),,180,0,0,0,0,0,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Harpoon IPA (16 oz),,240,0,0,0,0,0,18,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken (12 oz),,140,0,0,0,0,0,11,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken (16 oz),,190,0,0,0,0,0,15,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken 0.0 (12 oz),,70,0,0,0,0,0,17,0,5,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken 0.0 (16 oz),,100,0,0,0,0,0,23,0,6,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken Bottle (12 oz),,140,0,0,0,0,0,11,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken Light (12 oz),,100,0,0,0,0,0,7,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Heineken Light (16 oz),,130,0,0,0,0,0,9,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hop Commander IPA (12 oz),,210,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Hop Commander IPA (16 oz),,280,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kansas City Dunkel (12 oz),,180,0,0,0,0,0,13,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kansas City Dunkel (16 oz),,230,0,0,0,0,0,18,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kansas City Helles (12 oz),,180,0,0,0,0,0,12,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kansas City Helles (16 oz),,230,0,0,0,0,0,16,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kona Big Wave Golden Ale (12 oz),,130,0,0,0,0,10,10,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Kona Big Wave Golden Ale (16 oz),,180,0,0,0,0,10,13,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Lagunitas IPA (12 oz),,190,0,0,0,0,15,14,0,2,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Lagunitas IPA (16 oz),,250,0,0,0,0,20,19,0,3,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Landshark Lager (12 oz),,150,0,0,0,0,0,13,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Landshark Lager (16 oz),,200,0,0,0,0,0,18,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Loose Cannon IPA (12 oz),,220,0,0,0,0,10,19,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Loose Cannon IPA (16 oz),,290,0,0,0,0,15,25,0,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Michelob Original Lager (12 oz),,160,0,0,0,0,0,14,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Michelob Original Lager (16 oz),,210,0,0,0,0,0,19,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Michelob Ultra (12 oz),,100,0,0,0,0,0,3,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Michelob Ultra (16 oz),,130,0,0,0,0,0,3,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Michelob Ultra Bottle (16 oz),,100,0,0,0,0,0,3,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller Genuine Draft (12 oz),,140,0,0,0,0,10,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller Genuine Draft (16 oz),,190,0,0,0,0,15,16,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller High Life (12 oz),,140,0,0,0,0,10,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller High Life (16 oz),,190,0,0,0,0,15,16,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller Lite (12 oz),,100,0,0,0,0,5,3,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Miller Lite (16 oz),,130,0,0,0,0,5,4,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Chelada (16 oz),,190,0,0,0,0,590,24,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Especial (12 oz),,150,0,0,0,0,20,14,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Especial (16 oz),,200,0,0,0,0,25,19,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Especial (24 oz),,300,0,0,0,0,40,28,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Negra (12 oz),,180,0,0,0,0,15,16,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Modelo Negra (16 oz),,240,0,0,0,0,20,21,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Motorworks Intellectual Property IPA (12 oz),,220,0,0,0,0,0,18,0,11,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Motorworks Intellectual Property IPA (16 oz),,290,0,0,0,0,0,24,0,15,0,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Motorworks Pulp Fiction IPA (12 oz),,220,0,0,0,0,0,18,0,11,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Motorworks Pulp Fiction IPA (16 oz),,300,0,0,0,0,0,24,0,15,0,5,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Newcastle Brown Ale (12 oz),,130,0,0,0,0,0,10,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Newcastle Brown Ale (16 oz),,170,0,0,0,0,0,13,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Old Elephant IPA (12 oz),,180,0,0,0,0,10,17,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Old Elephant IPA (16 oz),,230,0,0,0,0,15,22,0,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Pabst Blue Ribbon Original (12 oz),,140,0,0,0,0,10,12,0,4,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Pabst Blue Ribbon Original (16 oz),,190,0,0,0,0,15,16,0,5,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Pacifico (12 oz),,140,0,0,0,0,0,14,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Pacifico (16 oz),,190,0,0,0,0,0,19,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Patriot Ale (12 oz),,170,0,0,0,0,0,14,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Patriot Ale (16 oz),,230,0,0,0,0,0,19,0,0,0,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Revolution Anti Hero (12 oz),,220,0,0,0,0,10,20,1,1,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Revolution Anti Hero (16 oz),,290,0,0,0,0,15,27,1,1,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Road 2 Ruin Double IPA (12 oz),,220,0,0,0,0,10,14,1,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Road 2 Ruin Double IPA (16 oz),,290,0,0,0,0,15,19,1,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Samuel Adams '76 (12 oz),,130,0,0,0,0,0,8,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Samuel Adams Winter Lager (12 oz),,190,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Samuel Adams Winter Lager (16 oz),,260,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sea Hag IPA (12 oz),,190,0,0,0,0,10,15,1,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sea Hag IPA (16 oz),,250,0,0,0,0,15,20,1,0,0,4,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Shock Top Belgian White (12 oz),,170,0,0,0,0,0,15,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Shock Top Belgian White (16 oz),,220,0,0,0,0,0,19,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sierra Nevada Hazy Little Thing IPA (12 oz),,210,0,0,0,0,0,21,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sierra Nevada Hazy Little Thing IPA (16 oz),,290,0,0,0,0,0,27,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sol Cervesa (12 oz),,140,0,0,0,0,0,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sol Cervesa (16 oz),,180,0,0,0,0,0,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",St. Archer (16 oz),,200,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Stella Artois (12 oz),,140,0,0,0,0,0,11,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Stella Artois (16 oz),,190,0,0,0,0,0,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Stella Artois (24 oz),,280,0,0,0,0,0,22,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sweetwater 420 Extra Pale Ale (12 oz),,170,0,0,0,0,0,13,0,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Sweetwater 420 Extra Pale Ale (16 oz),,220,0,0,0,0,0,17,0,0,0,3,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Tampa Bay Reef Donkey (16 oz),,240,0,0,0,0,15,14,1,0,0,2,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Tecate Light (12 oz),,110,0,0,0,0,0,7,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Tecate Light (16 oz),,140,0,0,0,0,0,9,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Tecate Original (12 oz),,140,0,0,0,0,0,14,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Tecate Original (16 oz),,190,0,0,0,0,0,19,0,0,0,1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Victoria (12 oz),,140,0,0,0,0,0,13,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Victoria (16 oz),,180,0,0,0,0,0,18,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Voodoo Ranger Juicy Haze IPA (12 oz),,230,0,0,0,0,0,16,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Voodoo Ranger Juicy Haze IPA (16 oz),,310,0,0,0,0,0,21,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",White Claw Hard Seltzer (12 oz),,100,0,0,0,0,0,2,0,2,2,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Black and Tan (12 oz),,150,0,0,0,0,15,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Black and Tan (16 oz),,200,0,0,0,0,20,20,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Golden Pilsner (12 oz),,140,0,0,0,0,0,9,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Golden Pilsner (16 oz),,180,0,0,0,0,0,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Lager (12 oz),,140,0,0,0,0,15,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Lager (16 oz),,190,0,0,0,0,20,16,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Light Lager (12 oz),,100,0,0,0,0,10,9,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Light Lager (16 oz),,130,0,0,0,0,15,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Porter (12 oz),,160,0,0,0,0,15,15,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Porter (16 oz),,220,0,0,0,0,25,20,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Premium (12 oz),,140,0,0,0,0,20,12,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Premium (16 oz),,190,0,0,0,0,25,16,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Premium Light (12 oz),,100,0,0,0,0,10,7,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,"Cantina Beer, Wine and Spirits",Yuengling - Premium Light (16 oz),,130,0,0,0,0,15,9,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Mtn Dew Baja Blast Freeze (16 oz),,150,0,0,0,0,45,41,0,41,41,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Mtn Dew Baja Blast Freeze (20 oz),,190,0,0,0,0,55,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Mtn Dew Baja Blast Freeze (32 oz),,310,0,0,0,0,85,82,0,82,82,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Red Sangria - LV,,330,0,0,0,0,35,28,0,24,24,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Rum (80 proof) - Double - LV,,250,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Rum (80 proof) - Single - LV,,120,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Tequila (80 proof) - Double - LV,,250,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Tequila (80 proof) - Single - LV,,120,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Vodka (80 proof) - Double - LV,,250,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Vodka (80 proof) - Single - LV,,120,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Whiskey (80 proof) - Double - LV,,250,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Las Vegas Cantina Menu,Whiskey (80 proof) - Single - LV,,120,0,0,0,0,0,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Brisk Mango Fiesta Dirty Iced Tea (16 oz),,140,1,0.5,0,<5,55,33,0,31,31,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Brisk Mango Fiesta Dirty Iced Tea (20 oz),,160,1,0.5,0,<5,65,39,0,37,37,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Brisk Mango Fiesta Dirty Iced Tea (30 oz),,210,1,0.5,0,<5,100,54,0,52,52,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Dr Pepper Dirty Soda (16 oz),,45,1,0.5,0,<5,100,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Dr Pepper Dirty Soda (20 oz),,50,1,0.5,0,<5,125,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Dr Pepper Dirty Soda (30 oz),,50,1,0.5,0,<5,180,10,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Pepsi Dirty Soda (16 oz),,45,1,0.5,0,<5,80,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Pepsi Dirty Soda (20 oz),,45,1,0.5,0,<5,100,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Diet Pepsi Dirty Soda (30 oz),,45,1,0.5,0,<5,140,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Dr Pepper Dirty Soda (16 oz),,240,1,0.5,0,<5,65,61,0,58,58,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Dr Pepper Dirty Soda (20 oz),,290,1,0.5,0,<5,80,74,0,71,71,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Dr Pepper Dirty Soda (30 oz),,400,1,0.5,0,<5,115,107,0,103,103,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Dirty Soda (16 oz),,270,1,0.5,0,<5,70,68,0,67,67,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Dirty Soda (20 oz),,320,1,0.5,0,<5,85,83,0,81,81,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Dirty Soda (30 oz),,460,1,0.5,0,<5,125,120,0,118,118,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Dirty Soda Freeze (16 oz),,190,1,0.5,0,<5,45,48,0,47,47,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Dirty Soda Freeze (20 oz),,230,1,0.5,0,<5,55,59,0,57,57,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Zero Sugar Dirty Soda (16 oz),,50,1,0.5,0,<5,70,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Zero Sugar Dirty Soda (20 oz),,60,1,0.5,0,<5,90,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Blast Zero Sugar Dirty Soda (30 oz),,60,1,0.5,0,<5,130,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Midnight Dirty Soda (16 oz),,270,1,0.5,0,<5,70,68,0,67,67,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Midnight Dirty Soda (20 oz),,330,1,0.5,0,<5,90,83,0,81,81,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Baja Midnight Dirty Soda (30 oz),,470,1,0.5,0,<5,130,120,0,118,118,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Dirty Soda (16 oz),,270,1,0.5,0,<5,75,68,0,66,66,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Dirty Soda (20 oz),,330,1,0.5,0,<5,90,82,0,80,80,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Dirty Soda (30 oz),,470,1,0.5,0,<5,135,119,0,117,117,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Zero Sugar Dirty Soda (16 oz),,50,1,0.5,0,<5,65,9,0,8,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Zero Sugar Dirty Soda (20 oz),,50,1,0.5,0,<5,85,10,0,8,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mtn Dew Zero Sugar Dirty Soda (30 oz),,50,1,0.5,0,<5,120,10,0,8,7,<1,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mug Root Beer Dirty Soda (16 oz),,240,1,0.5,0,<5,80,60,0,58,58,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mug Root Beer Dirty Soda (20 oz),,290,1,0.5,0,<5,100,73,0,71,71,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Mug Root Beer Dirty Soda (30 oz),,410,1,0.5,0,<5,150,105,0,103,103,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Dirty Soda (16 oz),,250,1,0.5,0,<5,45,64,0,62,62,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Dirty Soda (20 oz),,300,1,0.5,0,<5,55,78,0,76,76,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Dirty Soda (30 oz),,430,1,0.5,0,<5,85,113,0,111,111,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Wild Cherry Dirty Soda (16 oz),,250,1,0.5,0,<5,45,65,0,64,64,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Wild Cherry Dirty Soda (20 oz),,310,1,0.5,0,<5,60,80,0,78,78,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Wild Cherry Dirty Soda (30 oz),,440,1,0.5,0,<5,85,115,0,113,113,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Zero Sugar Dirty Soda (16 oz),,50,1,0.5,0,<5,90,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Zero Sugar Dirty Soda (20 oz),,50,1,0.5,0,<5,110,9,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Pepsi Zero Sugar Dirty Soda (30 oz),,50,1,0.5,0,<5,160,10,0,7,7,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Starry Dirty Soda (16 oz),,240,1,0.5,0,<5,50,61,0,59,59,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Starry Dirty Soda (20 oz),,290,1,0.5,0,<5,60,74,0,72,72,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Starry Dirty Soda (30 oz),,410,1,0.5,0,<5,90,106,0,105,105,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Tropicana Dirty Lemonade (16 oz),,110,1,0.5,0,<5,220,25,0,23,23,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Tropicana Dirty Lemonade (20 oz),,130,1,0.5,0,<5,270,30,0,27,27,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Dirty Sodas,Tropicana Dirty Lemonade (30 oz),,170,1,0.5,0,<5,400,40,0,37,37,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Brisk Mango Iced Tea (16 fl oz),,90,0,0,0,0,50,24,0,24,24,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Diet Dr Pepper (16 fl oz),,0,0,0,0,0,95,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Diet Pepsi (16 fl oz),,0,0,0,0,0,75,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Dr Pepper (16 fl oz),,190,0,0,0,0,60,52,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),G2 - Fruit Punch (16 fl oz),,45,0,0,0,0,220,10,0,9,9,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Lipton Unsweetened Iced Tea (16 fl oz),,0,0,0,0,0,140,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Midnight Mtn Dew Baja Blast (16 fl oz),,220,0,0,0,0,65,59,0,59,59,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mtn Dew (16 fl oz),,220,0,0,0,0,70,59,0,58,58,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mtn Dew Baja Blast (16 fl oz),,220,0,0,0,0,65,59,0,59,59,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mtn Dew Baja Blast&trade Midnight Zero Sugar (16 oz),,5,0,0,0,0,90,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mtn Dew Baja Blast Zero Sugar (16 fl oz),,5,0,0,0,0,70,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mtn Dew Zero Sugar (16 fl oz),,0,0,0,0,0,65,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Mug Root Beer (16 fl oz),,190,0,0,0,0,75,51,0,51,51,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Pepsi (16 fl oz),,200,0,0,0,0,40,55,0,55,55,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Pepsi Wild Cherry (16 fl oz),,210,0,0,0,0,45,56,0,56,56,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Pepsi Zero Sugar (16 fl oz),,0,0,0,0,0,85,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Starry (16 fl oz),,200,0,0,0,0,45,52,0,52,52,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (16 oz),Tropicana Original Lemonade (16 oz),,70,0,0,0,0,210,16,0,16,16,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Brisk Mango Iced Tea (20 fl oz),,110,0,0,0,0,65,30,0,30,30,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Diet Dr Pepper (20 fl oz),,0,0,0,0,0,120,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Diet Pepsi (20 fl oz),,0,0,0,0,0,95,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Dr Pepper (20 fl oz),,240,0,0,0,0,75,65,0,64,64,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),G2 - Fruit Punch (20 fl oz),,50,0,0,0,0,270,13,0,12,12,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Lipton Unsweetened Iced Tea (20 fl oz),,0,0,0,0,0,180,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Midnight Mtn Dew Baja Blast (20 fl oz),,280,0,0,0,0,85,74,0,74,74,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mtn Dew (20 fl oz),,280,0,0,0,0,85,73,0,73,73,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mtn Dew Baja Blast (20 fl oz),,280,0,0,0,0,80,74,0,74,74,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mtn Dew Baja Blast&trade Midnight Zero Sugar (20 oz),,10,0,0,0,0,110,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mtn Dew Baja Blast Zero Sugar (20 fl oz),,10,0,0,0,0,85,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mtn Dew Zero Sugar (20 fl oz),,0,0,0,0,0,80,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Mug Root Beer (20 fl oz),,240,0,0,0,0,95,64,0,63,63,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Pepsi (20 fl oz),,250,0,0,0,0,50,69,0,69,69,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Pepsi Wild Cherry (20 fl oz),,260,0,0,0,0,55,70,0,70,70,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Pepsi Zero Sugar (20 fl oz),,0,0,0,0,0,105,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Starry (20 fl oz),,240,0,0,0,0,55,65,0,65,65,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (20 oz),Tropicana Original Lemonade (20 oz),,80,0,0,0,0,270,21,0,20,20,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Brisk Mango Iced Tea (30 fl oz),,170,0,0,0,0,95,45,0,45,45,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Diet Dr Pepper (30 fl oz),,0,0,0,0,0,180,<1,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Diet Pepsi (30 fl oz),,0,0,0,0,0,140,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Dr Pepper (30 fl oz),,360,0,0,0,0,110,98,0,96,96,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),G2 - Fruit Punch (30 fl oz),,80,0,0,0,0,410,19,0,17,17,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Lipton Unsweetened Iced Tea (30 fl oz),,0,0,0,0,0,270,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Midnight Mtn Dew Baja Blast (30 fl oz),,420,0,0,0,0,125,111,0,111,111,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mtn Dew (30 fl oz),,420,0,0,0,0,130,110,0,110,110,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mtn Dew Baja Blast (30 fl oz),,420,0,0,0,0,120,111,0,111,111,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mtn Dew Baja Blast&trade Midnight Zero Sugar (30 oz),,10,0,0,0,0,170,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mtn Dew Baja Blast Zero Sugar (30 fl oz),,15,0,0,0,0,125,0,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mtn Dew Zero Sugar (30 fl oz),,5,0,0,0,0,115,<1,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Mug Root Beer (30 fl oz),,360,0,0,0,0,140,96,0,95,95,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Pepsi (30 fl oz),,380,0,0,0,0,80,103,0,103,103,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Pepsi Wild Cherry (30 fl oz),,390,0,0,0,0,80,106,0,105,105,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Pepsi Zero Sugar (30 fl oz),,0,0,0,0,0,160,<1,0,0,0,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Starry (30 fl oz),,370,0,0,0,0,85,97,0,97,97,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27
+tacobell,Fountain Beverages (30 oz),Tropicana Original Lemonade (30oz),,120,0,0,0,0,400,31,0,30,30,0,,,https://www.nutritionix.com/taco-bell/menu/premium,2026-10-27

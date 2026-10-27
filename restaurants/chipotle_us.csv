@@ -1,0 +1,117 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+chipotle,Tortilla,Crispy Taco Corn Tortilla,,70,3,0,0,0,0,10,1,0,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Tortilla,Flour Tortilla (Burrito),,320,9,0.5,0,0,600,50,3,0,,8,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Tortilla,Flour Tortilla (Taco),,80,2.5,0,0,0,160,13,<1,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Meat or Tofu,Barbacoa,,170,7,2.5,0,65,530,2,1,0,,24,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Meat or Tofu,Carnitas,,210,12,7,0,65,450,0,0,0,,23,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Meat or Tofu,Chicken,,180,7,3,0,125,310,0,0,0,,32,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Meat or Tofu,Sofritas,,150,10,1.5,0,0,560,9,3,5,,8,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Meat or Tofu,Steak,,150,6,2.5,0,80,330,1,1,0,,21,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Black Beans,,130,1.5,0,0,0,210,22,7,2,,8,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Cilantro-Lime Brown Rice,,210,6,1,0,0,190,36,2,0,,4,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Cilantro-Lime White Rice,,210,4,0.5,0,0,350,40,1,0,,4,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Fajita Vegetables,,20,0,0,0,0,150,5,1,2,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Pinto Beans,,130,1.5,0,0,0,210,21,8,1,,8,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Fillings,Supergreens Salad Mix,,15,0,0,0,0,15,3,2,1,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Cheese,,110,8,5,0,30,190,1,0,0,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Fresh Tomato Salsa,,25,0,0,0,0,550,4,1,1,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Guacamole,,230,22,3.5,0,0,370,8,6,1,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Queso,,120,9,6,0,30,250,4,0,1,,5,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Roasted Chili-Corn Salsa,,80,1.5,0,0,0,330,16,3,4,,3,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Romaine Lettuce,,5,0,0,0,0,0,1,1,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Sour Cream,,110,9,7,0,40,30,2,0,2,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Tomatillo-Green Chili Salsa,,15,0,0,0,0,260,4,0,2,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Toppings,Tomatillo-Red Chili Salsa,,30,0,0,0,0,500,4,1,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips,,540,25,3.5,0,0,390,73,7,1,,7,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips & Fresh Tomato Salsa,,570,25,3.5,0,0,940,74,8,2,,7,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips & Guacamole,,770,47,7,0,0,760,81,13,2,,9,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips & Roasted Chili-Corn Salsa,,620,27,3.5,0,0,720,89,10,5,,10,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips & Tomatillo-Green Chili Salsa,,560,25,3.5,0,0,650,77,7,3,,7,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Chips & Tomatillo-Red Chili Salsa,,570,25,3.5,0,0,890,77,8,1,,7,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Large Chips,,810,38,5,0,0,590,110,11,2,,11,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Large Chips & Large Queso,,1290,75,26,0.5,105,1390,124,14,7,,31,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Large Side of Guacamole,,460,44,7,0,0,740,16,12,2,,4,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Large Side of Queso,,480,37,23,1.5,120,980,14,<1,5,,20,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Side of Guacamole,,230,22,3.5,0,0,370,8,6,1,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Extras,Side of Queso,,240,18,12,1,60,490,7,0,2,,10,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Barbacoa",,80,3,1.5,0,30,260,1,1,0,,12,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Black Beans",,100,1,0,0,0,160,16,5,1,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Brown Rice",,110,3,0.5,0,0,95,18,1,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Carnitas",,110,6,3,0,30,220,0,0,0,,12,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Cheese",,110,8,5,0,30,190,1,0,0,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Chicken",,90,3,1.5,0,65,150,0,0,0,,15,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Cilantro-Lime White Rice",,100,2,0,0,0,170,20,0,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Flour Tortilla",,80,2.5,0,0,0,160,13,<1,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Guacamole",,110,11,1.5,0,0,190,3,3,0,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Pinto Beans",,100,1,0,0,0,160,15,6,1,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Sofritas",,70,5,1,0,0,280,5,2,2,,4,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Quesadilla, Steak",,70,3,1.5,0,40,160,<1,<1,0,,10,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, 2 Crispy Corn Tortillas",,130,6,1,0,0,0,19,2,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, 2 Soft Flour Tortillas",,170,5,0,0,0,320,27,1,0,,5,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Barbacoa",,80,3,1.5,0,30,260,1,1,0,,12,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Black Beans",,100,1,0,0,0,160,16,5,1,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Carnitas",,110,6,3,0,30,220,0,0,0,,12,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Cheese",,110,8,5,0,30,190,1,0,0,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Chicken",,90,3,1.5,0,65,150,0,0,0,,15,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Cilantro-Lime Brown Rice",,110,3,0.5,0,0,95,18,1,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Cilantro-Lime White Rice",,100,2,0,0,0,170,20,0,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Fajita Vegetables",,20,0,0,0,0,150,5,1,2,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Fresh Tomato Salsa",,15,0,0,0,0,310,1,0,<1,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Guacamole",,110,11,1.5,0,0,190,3,3,0,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Pinto Beans",,100,1,0,0,0,160,15,6,1,,6,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Queso",,60,4.5,3,0,15,125,2,0,<1,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Roasted Chili-Corn Salsa",,40,1,0,0,0,190,9,1,3,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Romaine Lettuce",,5,0,0,0,0,0,1,1,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Sofritas",,70,5,1,0,0,280,5,2,2,,4,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Sour Cream",,60,5,3.5,0,20,15,1,0,1,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Steak",,70,3,1.5,0,40,160,<1,<1,0,,10,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Tomatillo-Green Chili Salsa",,15,0,0,0,0,260,4,0,2,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids,"Kids Tacos, Tomatillo-Red Chili Salsa",,30,0,0,0,0,500,4,2,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Drinks,Organic Apple Juice,,100,0,0,0,0,10,25,0,22,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Drinks,Organic Chocolate Milk,,160,3,2,0,15,220,24,1,22,,9,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Drinks,Organic Milk,,110,2.5,1.5,0,15,125,12,0,12,,8,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Sides,Blueberries,,20,0,0,0,0,0,5,<1,3,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Sides,Kids Chips,,140,6,1,0,0,95,18,2,0,,2,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Kids Sides,Mandarin Orange,,35,0,0,0,0,0,9,1,7,,1,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Barq's Root Beer, 22 fl oz",,280,0,0,0,0,130,85,0,85,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Barq's Root Beer, 32 fl oz",,430,0,0,0,0,180,120,0,120,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Chipotle Iced Tea, 22 fl oz",,10,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Chipotle Iced Tea, 32 fl oz",,15,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Chipotle Sweet Iced Tea, 22 fl oz",,150,0,0,0,0,0,45,0,45,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Chipotle Sweet Iced Tea, 32 fl oz",,220,0,0,0,0,0,65,0,65,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca-Cola Classic, 22 fl oz",,260,0,0,0,0,85,70,0,70,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca-Cola Classic, 32 fl oz",,380,0,0,0,0,120,105,0,105,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca-Cola Zero, 22 fl oz",,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca-Cola Zero, 32 fl oz",,0,0,0,0,0,115,0,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca Cola Life, 22 fl oz",,170,0,0,0,0,70,44,0,44,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Coca Cola Life, 32 fl oz",,250,0,0,0,0,105,64,0,64,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Diet Coke, 22 fl oz",,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Diet Coke, 32 fl oz",,0,0,0,0,0,115,0,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Diet Coke, Caffeine Free, 22 fl oz",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Diet Coke, Caffeine Free, 32 fl oz",,0,0,0,0,0,130,<1,0,0,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Fanta Orange, 22 fl oz",,290,0,0,0,0,80,80,0,80,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Fanta Orange, 32 fl oz",,430,0,0,0,0,140,120,0,120,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Lemonade - Blue Sky, 22 fl oz",,300,0,0,0,0,95,78,0,74,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Lemonade - Blue Sky, 32 fl oz",,440,0,0,0,0,135,113,0,108,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Maine Root Root Beer, 22 fl oz",,170,0,0,0,0,45,62,0,62,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Maine Root Root Beer, 32 fl oz",,240,0,0,0,0,65,90,0,90,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Mango Orange - Blue Sky, 22 fl oz",,300,0,0,0,0,80,75,0,74,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Mango Orange - Blue Sky, 32 fl oz",,430,0,0,0,0,120,109,0,108,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Mello Yello, 22 fl oz",,290,0,0,0,0,100,80,0,100,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Mello Yello, 32 fl oz",,420,0,0,0,0,140,116,0,140,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Minute Maid Lemonade, 22 fl oz",,280,0,0,0,0,95,75,0,75,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Minute Maid Lemonade, 32 fl oz",,400,0,0,0,0,140,110,0,110,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Pibb Xtra, 22 fl oz",,260,0,0,0,0,75,70,0,70,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Pibb Xtra, 32 fl oz",,380,0,0,0,0,115,105,0,105,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Powerade Mountain Berry Blast, 22 fl oz",,280,0,0,0,0,95,75,0,75,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Powerade Mountain Berry Blast, 32 fl oz",,400,0,0,0,0,140,110,0,110,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Sprite, 22 fl oz",,260,0,0,0,0,120,70,0,70,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Sprite, 32 fl oz",,380,0,0,0,0,180,105,0,105,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Berry Agua Fresca, 22 fl oz",,200,0,0,0,0,10,50,0,49,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Berry Agua Fresca, 32 fl oz",,290,0,0,0,0,15,72,0,72,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Lemonade, 22 fl oz",,170,0,0,0,0,10,43,0,37,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Lemonade, 32 fl oz",,250,0,0,0,0,15,62,0,53,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Mandarin Agua Fresca, 22 fl oz",,190,0,0,0,0,0,47,0,47,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Mandarin Agua Fresca, 32 fl oz",,280,0,0,0,0,5,69,0,69,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Watermelon Limeade, 22 fl oz",,230,0,0,0,0,5,56,0,50,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27
+chipotle,Drinks,"Tractor Watermelon Limeade, 32 fl oz",,330,0,0,0,0,10,82,0,72,,0,,,https://www.nutritionix.com/chipotle/menu/premium,2026-10-27

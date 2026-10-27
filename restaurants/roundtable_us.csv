@@ -1,0 +1,651 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+roundtable,Original Crust Pizza,"BBQ Chicken Original Crust Pizza, Large",,270,11,5,0,30,710,28,2,6,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"BBQ Chicken Original Crust Pizza, Medium",,290,12,6,0,35,770,31,2,6,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"BBQ Chicken Original Crust Pizza, Personal",,160,6,3,0,20,460,19,1,5,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"BBQ Chicken Original Crust Pizza, Small",,240,10,4.5,0,25,650,26,1,6,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"BBQ Chicken Original Crust Pizza, XL",,260,11,5,0,30,700,27,2,6,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Cheese Original Crust Pizza, Large",,230,10,6,0,30,500,24,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Cheese Original Crust Pizza, Medium",,250,11,6,0,35,550,27,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Cheese Original Crust Pizza, Small",,210,9,5,0,25,460,22,1,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Cheese Original Crust Pizza, XL",,220,10,6,0,30,490,23,2,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Chicken & Garlic Gourmet Original Crust Pizza, Large",,240,10,5,0,30,570,24,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Chicken & Garlic Gourmet Original Crust Pizza, Medium",,260,11,5,0,30,630,27,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Chicken & Garlic Gourmet Original Crust Pizza, Personal",,140,6,3,0,15,340,16,1,1,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Chicken & Garlic Gourmet Original Crust Pizza, Small",,220,9,4.5,0,25,530,22,1,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Chicken & Garlic Gourmet Original Crust Pizza, XL",,230,10,5,0,30,560,23,1,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Double Play Pepperoni Original Crust Pizza, Large",,260,13,6,0,35,680,24,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Double Play Pepperoni Original Crust Pizza, Medium",,280,14,7,0,40,730,26,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Double Play Pepperoni Original Crust Pizza, Personal",,150,7,3.5,0,20,390,14,1,1,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Double Play Pepperoni Original Crust Pizza, Small",,240,12,6,0,35,640,22,1,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Double Play Pepperoni Original Crust Pizza, XL",,250,13,6,0,35,660,23,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Gourmet Veggie Original Crust Pizza, Large",,230,10,5,0,25,520,25,2,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Gourmet Veggie Original Crust Pizza, Medium",,250,11,5,0,30,560,27,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Gourmet Veggie Original Crust Pizza, Personal",,130,6,3,0,15,310,16,1,1,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Gourmet Veggie Original Crust Pizza, Small",,210,9,4.5,0,25,470,23,2,1,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Gourmet Veggie Original Crust Pizza, XL",,220,10,5,0,25,520,24,2,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Guinevere's Garden Delight Original Crust Pizza, Large",,220,8,4.5,0,25,510,26,2,3,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Guinevere's Garden Delight Original Crust Pizza, Medium",,240,9,5,0,25,550,28,2,3,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Guinevere's Garden Delight Original Crust Pizza, Personal",,120,4.5,2.5,0,15,290,17,1,2,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Guinevere's Garden Delight Original Crust Pizza, Small",,200,8,4,0,20,460,24,2,3,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Guinevere's Garden Delight Original Crust Pizza, XL",,210,8,4.5,0,25,490,25,2,3,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Hawaiian Original Crust Pizza, Large",,220,8,4.5,0,30,610,27,2,4,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Hawaiian Original Crust Pizza, Medium",,240,9,5,0,30,660,29,2,5,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Hawaiian Original Crust Pizza, Personal",,130,4.5,2.5,0,15,350,17,1,2,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Hawaiian Original Crust Pizza, Small",,200,7,4,0,25,560,24,2,4,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Hawaiian Original Crust Pizza, XL",,220,8,4.5,0,30,600,26,2,4,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Italian Garlic Supreme Original Crust Pizza, Large",,270,14,6,0,35,620,24,1,1,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Italian Garlic Supreme Original Crust Pizza, Medium",,290,15,7,0,40,690,26,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Italian Garlic Supreme Original Crust Pizza, Personal",,150,8,3.5,0,20,350,16,1,1,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Italian Garlic Supreme Original Crust Pizza, Small",,250,13,6,0,35,590,22,1,1,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Italian Garlic Supreme Original Crust Pizza, XL",,260,14,6,0,35,610,23,1,1,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"King Arthur's Supreme Original Crust Pizza, Large",,270,13,6,0,35,680,26,2,3,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"King Arthur's Supreme Original Crust Pizza, Medium",,290,14,7,0,40,740,28,2,3,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"King Arthur's Supreme Original Crust Pizza, Personal",,150,7,3.5,0,20,370,17,1,1,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"King Arthur's Supreme Original Crust Pizza, Small",,240,11,6,0,30,620,24,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"King Arthur's Supreme Original Crust Pizza, XL",,260,12,6,0,35,660,25,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Maui Zaui Original Crust Pizza, Large",,260,10,5,0,30,710,29,1,6,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Maui Zaui Original Crust Pizza, Medium",,280,11,5,0,35,770,30,1,6,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Maui Zaui Original Crust Pizza, Personal",,140,5,3,0,20,400,18,1,3,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Maui Zaui Original Crust Pizza, Small",,230,9,5,0,25,640,26,1,5,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Maui Zaui Original Crust Pizza, XL",,250,10,5,0,30,690,27,1,5,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Montague's All Meat Marvel Original Crust Pizza, Large",,290,15,7,0,45,770,24,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Montague's All Meat Marvel Original Crust Pizza, Medium",,320,17,8,0,50,860,27,2,2,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Montague's All Meat Marvel Original Crust Pizza, Personal",,170,9,4,0,25,460,16,1,1,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Montague's All Meat Marvel Original Crust Pizza, Small",,270,14,7,0,40,710,22,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Montague's All Meat Marvel Original Crust Pizza, XL",,280,15,7,0,45,760,24,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Pepperoni Original Crust Pizza, Large",,240,11,6,0,30,600,24,2,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Pepperoni Original Crust Pizza, Medium",,260,12,6,0,35,650,26,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Pepperoni Original Crust Pizza, Small",,230,11,5,0,30,560,22,1,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Original Crust Pizza,"Pepperoni Original Crust Pizza, XL",,240,11,6,0,30,580,23,2,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Anchovies Topping for Original Crust Pizza, Large",,10,0.5,0,0,0,190,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Anchovies Topping for Original Crust Pizza, Medium",,10,0.5,0,0,0,210,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Anchovies Topping for Original Crust Pizza, Personal",,10,0.5,0,0,0,140,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Anchovies Topping for Original Crust Pizza, Small",,10,0.5,0,0,0,190,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Anchovies Topping for Original Crust Pizza, XL",,10,0.5,0,0,0,180,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Artichoke Hearts Topping for Original Crust Pizza, Large",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Artichoke Hearts Topping for Original Crust Pizza, Medium",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Artichoke Hearts Topping for Original Crust Pizza, Personal",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Artichoke Hearts Topping for Original Crust Pizza, Small",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Artichoke Hearts Topping for Original Crust Pizza, XL",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Bacon, Armour Topping for Original Crust Pizza, Large",,50,3,1.5,0,<5,140,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Bacon, Armour Topping for Original Crust Pizza, Medium",,40,3.5,1.5,0,10,150,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Bacon, Armour Topping for Original Crust Pizza, Personal",,30,2,1,0,<5,90,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Bacon, Armour Topping for Original Crust Pizza, Small",,30,3,1.5,0,<5,140,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Bacon, Armour Topping for Original Crust Pizza, XL",,40,3,1.5,0,<5,140,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"BBQ Sauce for Original Crust Pizza, Large",,50,4,1,0,<5,100,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"BBQ Sauce for Original Crust Pizza, Medium",,40,4,1,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"BBQ Sauce for Original Crust Pizza, Personal",,20,2.5,0.5,0,0,60,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"BBQ Sauce for Original Crust Pizza, Small",,30,3,0.5,0,0,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"BBQ Sauce for Original Crust Pizza, XL",,40,4,1,0,<5,100,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Black Olives Topping for Original Crust Pizza, Large",,10,1,0,0,0,100,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Black Olives Topping for Original Crust Pizza, Medium",,20,1.5,0,0,0,110,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Black Olives Topping for Original Crust Pizza, Personal",,10,1,0,0,0,70,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Black Olives Topping for Original Crust Pizza, Small",,10,1,0,0,0,90,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Black Olives Topping for Original Crust Pizza, XL",,10,1,0,0,0,100,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Cheddar Cheese for Original Crust Pizza, Large",,390,32,18,0,90,630,4,0,0,,25,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Cheddar Cheese for Original Crust Pizza, Medium",,280,23,13,0,65,450,3,0,0,,18,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Cheddar Cheese for Original Crust Pizza, Personal",,110,9,5,0,25,180,1,0,0,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Cheddar Cheese for Original Crust Pizza, Small",,170,14,8,0,40,270,2,0,0,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Cheddar Cheese for Original Crust Pizza, XL",,500,41,23,0,115,810,5,0,0,,32,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chicken Topping for Original Crust Pizza, Large",,20,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chicken Topping for Original Crust Pizza, Medium",,10,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chicken Topping for Original Crust Pizza, Personal",,10,0,0,0,0,60,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chicken Topping for Original Crust Pizza, Small",,10,0,0,0,0,80,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chicken Topping for Original Crust Pizza, XL",,20,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chopped Garlic Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chopped Garlic Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chopped Garlic Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chopped Garlic Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Chopped Garlic Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Creamy Garlic Sauce for Original Crust Pizza, Large",,20,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Creamy Garlic Sauce for Original Crust Pizza, Medium",,20,2,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Creamy Garlic Sauce for Original Crust Pizza, Personal",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Creamy Garlic Sauce for Original Crust Pizza, Small",,20,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Creamy Garlic Sauce for Original Crust Pizza, XL",,20,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Onions Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Onions Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Onions Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Onions Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Onions Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Peppers Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Peppers Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Peppers Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Peppers Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Green Peppers Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Ham Topping for Original Crust Pizza, Large",,10,0,0,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Ham Topping for Original Crust Pizza, Medium",,10,0,0,0,<5,130,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Ham Topping for Original Crust Pizza, Personal",,10,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Ham Topping for Original Crust Pizza, Small",,10,0,0,0,<5,120,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Ham Topping for Original Crust Pizza, XL",,10,0,0,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Italian Sausage Topping for Original Crust Pizza, Large",,40,2.5,1,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Italian Sausage Topping for Original Crust Pizza, Medium",,30,2.5,1,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Italian Sausage Topping for Original Crust Pizza, Personal",,20,2,0.5,0,<5,60,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Italian Sausage Topping for Original Crust Pizza, Small",,30,2.5,1,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Italian Sausage Topping for Original Crust Pizza, XL",,30,2,1,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Jalapenos Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Jalapenos Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Jalapenos Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Jalapenos Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Jalapenos Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Linguica, Burke Topping for Original Crust Pizza, Large",,30,2.5,0.5,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Linguica, Burke Topping for Original Crust Pizza, Medium",,20,2.5,0.5,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Linguica, Burke Topping for Original Crust Pizza, Personal",,15,1,0.5,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Linguica, Burke Topping for Original Crust Pizza, Small",,20,2.5,0.5,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Linguica, Burke Topping for Original Crust Pizza, XL",,20,2,0.5,0,<5,100,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mini Pepperoni Topping for Original Crust Pizza, Large",,50,3.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mini Pepperoni Topping for Original Crust Pizza, Medium",,40,4,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mini Pepperoni Topping for Original Crust Pizza, Personal",,20,2.5,1,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mini Pepperoni Topping for Original Crust Pizza, Small",,40,3.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mini Pepperoni Topping for Original Crust Pizza, XL",,40,3.5,1.5,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mushrooms Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mushrooms Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mushrooms Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mushrooms Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Mushrooms Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Original Pizza Crust, Large",,200,8,4.5,0,25,450,24,2,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Original Pizza Crust, Medium",,220,8,5,0,25,490,26,2,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Original Pizza Crust, Personal",,120,4,2.5,0,15,260,14,1,1,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Original Pizza Crust, Small",,190,7,4,0,20,420,22,1,2,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Original Pizza Crust, XL",,200,7,4.5,0,25,440,23,2,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pepperoni Topping for Original Crust Pizza, Large",,50,4,1.5,0,10,150,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pepperoni Topping for Original Crust Pizza, Medium",,40,4,1.5,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pepperoni Topping for Original Crust Pizza, Personal",,30,2.5,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pepperoni Topping for Original Crust Pizza, Small",,40,4,1.5,0,10,150,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pepperoni Topping for Original Crust Pizza, XL",,40,3.5,1.5,0,10,140,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pineapple Topping for Original Crust Pizza, Large",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pineapple Topping for Original Crust Pizza, Medium",,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pineapple Topping for Original Crust Pizza, Personal",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pineapple Topping for Original Crust Pizza, Small",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Pineapple Topping for Original Crust Pizza, XL",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Polynesian Sauce for Original Crust Pizza, Large",,10,0,0,0,0,70,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Polynesian Sauce for Original Crust Pizza, Medium",,10,0,0,0,0,80,3,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Polynesian Sauce for Original Crust Pizza, Personal",,10,0,0,0,0,60,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Polynesian Sauce for Original Crust Pizza, Small",,10,0,0,0,0,70,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Polynesian Sauce for Original Crust Pizza, XL",,10,0,0,0,0,70,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Red Onions Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Red Onions Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Red Onions Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Red Onions Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Red Onions Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Roma Tomatoes Topping for Original Crust Pizza, Large",,20,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Roma Tomatoes Topping for Original Crust Pizza, Medium",,20,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Roma Tomatoes Topping for Original Crust Pizza, Personal",,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Roma Tomatoes Topping for Original Crust Pizza, Small",,10,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Roma Tomatoes Topping for Original Crust Pizza, XL",,20,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Salami Topping for Original Crust Pizza, Large",,40,3,1,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Salami Topping for Original Crust Pizza, Medium",,40,3,1,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Salami Topping for Original Crust Pizza, Personal",,20,2,0.5,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Salami Topping for Original Crust Pizza, Small",,30,3,1,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Salami Topping for Original Crust Pizza, XL",,40,3,1,0,<5,140,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Shredded Parmesan for Original Crust Pizza, Large",,30,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Shredded Parmesan for Original Crust Pizza, Medium",,30,2,1.5,0,10,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Shredded Parmesan for Original Crust Pizza, Personal",,20,1.5,1,0,<5,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Shredded Parmesan for Original Crust Pizza, Small",,20,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Shredded Parmesan for Original Crust Pizza, XL",,30,1.5,1,0,15,30,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Spinach Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Spinach Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Spinach Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Spinach Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Spinach Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Three Cheese Blend for Original Crust Pizza, Large",,40,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Three Cheese Blend for Original Crust Pizza, Medium",,30,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Three Cheese Blend for Original Crust Pizza, Personal",,20,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Three Cheese Blend for Original Crust Pizza, Small",,20,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Three Cheese Blend for Original Crust Pizza, XL",,40,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Yellow Onions Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Yellow Onions Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Yellow Onions Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Yellow Onions Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Yellow Onions Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zesty Red Sauce for Original Crust Pizza, Large",,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zesty Red Sauce for Original Crust Pizza, Medium",,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zesty Red Sauce for Original Crust Pizza, Personal",,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zesty Red Sauce for Original Crust Pizza, Small",,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zesty Red Sauce for Original Crust Pizza, XL",,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zucchini Topping for Original Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zucchini Topping for Original Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zucchini Topping for Original Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zucchini Topping for Original Crust Pizza, Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Original Crust Pizza,"Zucchini Topping for Original Crust Pizza, XL",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,BBQ Chicken Stuffed Crust Pizza,,300,12,6,0,30,760,33,2,5,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Cheese Stuffed Crust Pizza,,270,12,7,0,40,590,25,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Chicken & Garlic Gourmet Stuffed Crust Pizza,,280,11,6,0,30,660,30,1,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Double Play Pepperoni Stuffed Crust Pizza,,300,15,8,0,45,770,25,2,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Gourmet Veggie Stuffed Crust Pizza,,270,11,6,0,30,620,30,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Guinevere's Garden Delight Stuffed Crust Pizza,,260,10,5,0,25,610,31,2,3,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Hawaiian Stuffed Crust Pizza,,270,9,5,0,30,680,31,2,4,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Italian Garlic Supreme Stuffed Crust Pizza,,300,14,7,0,35,700,30,1,1,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,King Arthur's Supreme Stuffed Crust Pizza,,300,13,7,0,35,740,31,2,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Maui Zaui Stuffed Crust Pizza,,290,11,6,0,35,770,32,1,5,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Montague's All Meat Marvel Stuffed Crust Pizza,,320,15,7,0,40,810,30,2,2,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Stuffed Crust Pizza,Pepperoni Stuffed Crust Pizza,,280,12,6,0,30,670,30,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Anchovies Topping for Stuffed Crust Pizza,,10,0.5,0,0,0,190,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Artichoke Hearts Topping for Stuffed Crust Pizza,,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,"Bacon, Armour Topping for Stuffed Crust Pizza",,50,3,1.5,0,<5,140,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,BBQ Sauce for Stuffed Crust Pizza,,20,0,0,0,0,80,4,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Black Olives Topping for Stuffed Crust Pizza,,10,1,0,0,0,100,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Cheddar Cheese for Stuffed Crust Pizza,,390,32,18,0,90,630,4,0,0,,25,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Chicken Topping for Stuffed Crust Pizza,,20,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Chopped Garlic Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Creamy Garlic Sauce for Stuffed Crust Pizza,,20,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Green Onions Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Green Peppers Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Ham Topping for Stuffed Crust Pizza,,10,0,0,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Italian Sausage Topping for Stuffed Crust Pizza,,40,2.5,1,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Jalapenos Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,"Linguica, Burke Topping for Stuffed Crust Pizza",,30,2.5,0.5,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Mini Pepperoni Topping for Stuffed Crust Pizza,,50,3.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Mushrooms Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Pepperoni Topping for Stuffed Crust Pizza,,50,4,1.5,0,10,150,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Pineapple Topping for Stuffed Crust Pizza,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Polynesian Sauce for Stuffed Crust Pizza,,10,0,0,0,0,70,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Red Onions Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Roma Tomatoes Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Salami Topping for Stuffed Crust Pizza,,40,3,1,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Shredded Parmesan for Stuffed Crust Pizza,,10,0.5,0.5,0,0,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Spinach Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Stuffed Pizza Crust,,250,9,5,0,25,570,30,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Three Cheese Blend for Stuffed Crust Pizza,,40,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Yellow Onions Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Zesty Red Sauce for Stuffed Crust Pizza,,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Stuffed Crust Pizza,Zucchini Topping for Stuffed Crust Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,BBQ Chicken Gluten-Free Crust Pizza,,280,10,4.5,0,25,650,36,2,8,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Cheese Gluten-Free Crust Pizza,,250,9,5,0,25,460,32,2,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Chicken & Garlic Gourmet Gluten-Free Crust Pizza,,260,10,4.5,0,25,530,32,2,4,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Double Play Pepperoni Gluten-Free Crust Pizza,,290,13,6,0,35,660,32,2,4,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Gourmet Veggie Gluten-Free Crust Pizza,,250,10,4.5,0,25,470,32,2,4,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Guinevere's Garden Delight Gluten-Free Crust Pizza,,190,7,3,0,15,510,46,2,6,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Hawaiian Gluten-Free Crust Pizza,,290,7,3,0,20,590,47,2,7,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Italian Garlic Supreme Gluten-Free Crust Pizza,,300,14,6,0,35,590,31,2,4,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,King Arthur's Supreme Gluten-Free Crust Pizza,,290,12,5,0,30,620,33,2,5,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Maui Zaui Gluten-Free Crust Pizza,,280,10,4.5,0,30,680,35,2,8,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Montague's All Meat Marvel Gluten-Free Crust Pizza,,310,14,6,0,40,710,32,2,4,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Gluten-Free Crust Pizza,Pepperoni Gluten-Free Crust Pizza,,270,11,5,0,30,560,31,2,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Anchovies Topping for Gluten-Free Crust Pizza,,10,0.5,0,0,0,140,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Artichoke Hearts Topping for Gluten-Free Pizza,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,"Bacon, Armour Topping for Gluten-Free Pizza",,30,2,1,0,<5,90,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,BBQ Sauce for Gluten-Free Pizza,,10,0,0,0,0,120,5,0,4,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Black Olives Topping for Gluten-Free Pizza,,10,1,0,0,0,70,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Cheddar Cheese for Gluten-Free Crust Pizza,,170,14,8,0,40,270,2,0,0,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Chicken Topping for Gluten-Free Pizza,,10,0,0,0,0,60,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Chopped Garlic Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Creamy Garlic Sauce for Gluten-Free Pizza,,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Gluten-Free Pizza Crust,,230,8,4,0,20,420,31,2,4,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Green Onions Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Green Peppers Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Ham Topping for Gluten-Free Pizza,,10,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Italian Sausage Topping for Gluten-Free Pizza,,20,2,0.5,0,<5,60,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Jalapenos Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,"Linguica, Burke Topping for Gluten-Free Pizza",,15,1,0.5,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Mini Pepperoni Topping for Gluten-Free Pizza,,20,2.5,1,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Mushrooms Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Pepperoni Topping for Gluten-Free Pizza,,30,2.5,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Pineapple Topping for Gluten-Free Pizza,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Polynesian Sauce for Gluten-Free Pizza,,10,0,0,0,0,60,4,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Red Onions Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Roma Tomatoes Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Salami Topping for Gluten-Free Pizza,,20,2,0.5,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Shredded Parmesan for Gluten-Free Crust Pizza,,10,0.5,0.5,0,0,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Spinach Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Three Cheese Blend for Gluten-Free Pizza,,20,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Yellow Onions Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Zesty Red Sauce for Gluten-Free Pizza,,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Gluten-Free Crust Pizza,Zucchini Topping for Gluten-Free Pizza,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"BBQ Chicken Pan Crust Pizza, Large",,320,12,6,0,30,840,39,2,6,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"BBQ Chicken Pan Crust Pizza, Medium",,350,13,6,0,35,910,42,2,7,,17,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"BBQ Chicken Pan Crust Pizza, Personal",,220,7,3.5,0,20,570,28,1,5,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Cheese Pan Crust Pizza, Large",,280,10,6,0,30,630,35,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Cheese Pan Crust Pizza, Medium",,310,11,6,0,35,670,37,2,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Cheese Pan Crust Pizza, Personal",,200,7,4.5,0,20,440,24,1,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Chicken & Garlic Gourmet Pan Crust Pizza, Large",,290,10,5,0,30,700,35,2,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Chicken & Garlic Gourmet Pan Crust Pizza, Medium",,320,11,6,0,30,760,37,2,2,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Chicken & Garlic Gourmet Pan Crust Pizza, Personal",,200,7,3.5,0,20,480,24,1,1,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Double Play Pepperoni Pan Crust Pizza, Large",,310,13,7,0,35,800,34,2,2,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Gourmet Veggie Pan Crust Pizza, Large",,280,10,5,0,25,650,35,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Gourmet Veggie Pan Crust Pizza, Medium",,300,11,6,0,30,700,38,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Gourmet Veggie Pan Crust Pizza, Personal",,190,7,3.5,0,15,450,25,2,2,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Guinevere's Garden Delight Pan Crust Pizza, Large",,270,9,4.5,0,25,630,36,2,3,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Guinevere's Garden Delight Pan Crust Pizza, Medium",,290,9,5,0,25,680,39,3,3,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Guinevere's Garden Delight Pan Crust Pizza, Personal",,190,6,3,0,15,430,25,2,2,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Hawaiian Pan Crust Pizza, Large",,280,8,5,0,30,730,37,2,4,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Hawaiian Pan Crust Pizza, Medium",,300,9,5,0,30,790,40,2,5,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Hawaiian Pan Crust Pizza, Personal",,190,6,3.5,0,20,500,26,1,3,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Italian Garlic Supreme Pan Crust Pizza, Large",,320,14,7,0,35,750,35,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Italian Garlic Supreme Pan Crust Pizza, Medium",,350,16,7,0,40,820,37,2,2,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Italian Garlic Supreme Pan Crust Pizza, Personal",,220,10,4.5,0,25,530,24,1,1,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"King Arthur's Supreme Pan Crust Pizza, Large",,320,13,6,0,35,810,35,2,3,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"King Arthur's Supreme Pan Crust Pizza, Medium",,350,14,7,0,40,870,39,2,3,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"King Arthur's Supreme Pan Crust Pizza, Personal",,220,9,4.5,0,25,550,25,2,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Maui Zaui Pan Crust Pizza, Large",,340,12,6,0,35,900,41,2,6,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Maui Zaui Pan Crust Pizza, Medium",,360,13,7,0,40,980,44,2,7,,17,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Maui Zaui Pan Crust Pizza, Personal",,230,8,4,0,20,610,30,1,4,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Montague's All Meat Marvel Pan Crust Pizza, Large",,340,16,7,0,45,900,35,2,2,,16,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Montague's All Meat Marvel Pan Crust Pizza, Medium",,380,17,8,0,50,990,37,2,3,,18,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Montague's All Meat Marvel Pan Crust Pizza, Personal",,230,10,5,0,30,610,24,1,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Pepperoni Pan Crust Pizza, Large",,300,12,6,0,30,720,34,2,2,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Pepperoni Pan Crust Pizza, Medium",,320,13,7,0,35,780,37,2,2,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pan Crust Pizza,"Pepperoni Pan Crust Pizza, Personal",,180,6,3,0,15,400,24,1,1,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Anchovies Topping for Pan Crust Pizza, Large",,10,0.5,0,0,0,190,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Anchovies Topping for Pan Crust Pizza, Medium",,10,0.5,0,0,0,210,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Anchovies Topping for Pan Crust Pizza, Personal",,10,0.5,0,0,0,140,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Artichoke Hearts Topping for Pan Crust Pizza, Large",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Artichoke Hearts Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Artichoke Hearts Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Bacon, Armour Topping for Pan Crust Pizza, Large",,50,3,1.5,0,<5,140,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Bacon, Armour Topping for Pan Crust Pizza, Medium",,40,3.5,1.5,0,10,150,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Bacon, Armour Topping for Pan Crust Pizza, Personal",,30,2,1,0,<5,90,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"BBQ Sauce for Pan Crust Pizza, Large",,20,0,0,0,0,80,4,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"BBQ Sauce for Pan Crust Pizza, Medium",,20,0,0,0,0,90,4,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"BBQ Sauce for Pan Crust Pizza, Personal",,10,0,0,0,0,120,5,0,7,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Black Olives Topping for Pan Crust Pizza, Large",,10,1,0,0,0,100,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Black Olives Topping for Pan Crust Pizza, Medium",,20,1.5,0,0,0,110,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Black Olives Topping for Pan Crust Pizza, Personal",,10,1,0,0,0,70,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Cheddar Cheese for Pan Crust Pizza, Large",,390,32,18,0,90,630,4,0,0,,25,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Cheddar Cheese for Pan Crust Pizza, Medium",,280,23,13,0,65,450,3,0,0,,18,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chicken Topping for Pan Crust Pizza, Large",,20,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chicken Topping for Pan Crust Pizza, Medium",,10,0,0,0,0,90,0,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chicken Topping for Pan Crust Pizza, Personal",,10,0,0,0,0,60,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chopped Garlic Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chopped Garlic Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Chopped Garlic Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Creamy Garlic Sauce for Pan Crust Pizza, Large",,20,2,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Creamy Garlic Sauce for Pan Crust Pizza, Medium",,20,2,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Creamy Garlic Sauce for Pan Crust Pizza, Personal",,10,1,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Onions Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Onions Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Onions Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Peppers Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Peppers Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Green Peppers Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Ham Topping for Pan Crust Pizza, Large",,10,0,1,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Ham Topping for Pan Crust Pizza, Medium",,10,0,1,0,<5,130,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Ham Topping for Pan Crust Pizza, Personal",,10,0,0.5,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Italian Sausage Topping for Pan Crust Pizza, Large",,40,2.5,0.5,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Italian Sausage Topping for Pan Crust Pizza, Medium",,30,2.5,0.5,0,10,90,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Italian Sausage Topping for Pan Crust Pizza, Personal",,20,2,0.5,0,<5,60,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Jalapenos Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Jalapenos Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Jalapenos Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Linguica, Burke Topping for Pan Crust Pizza, Large",,30,2.5,1.5,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Linguica, Burke Topping for Pan Crust Pizza, Medium",,20,2.5,1.5,0,<5,120,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Linguica, Burke Topping for Pan Crust Pizza, Personal",,15,1,1,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mini Pepperoni Topping for Pan Crust Pizza, Large",,50,3.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mini Pepperoni Topping for Pan Crust Pizza, Medium",,40,4,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mini Pepperoni Topping for Pan Crust Pizza, Personal",,20,2.5,1,0,<5,110,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mushrooms Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mushrooms Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Mushrooms Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pan Pizza Crust, Large",,260,8,0,0,25,570,34,2,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pan Pizza Crust, Medium",,280,9,0,0,25,620,37,2,2,,12,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pan Pizza Crust, Personal",,180,5,0,0,15,400,14,1,1,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pepperoni Topping for Pan Crust Pizza, Large",,50,4,1.5,0,10,150,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pepperoni Topping for Pan Crust Pizza, Medium",,40,4,1.5,0,10,160,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pepperoni Topping for Pan Crust Pizza, Personal",,30,2.5,1,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pineapple Topping for Pan Crust Pizza, Large",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pineapple Topping for Pan Crust Pizza, Medium",,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Pineapple Topping for Pan Crust Pizza, Personal",,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Polynesian Sauce for Pan Crust Pizza, Large",,10,0,0,0,0,70,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Polynesian Sauce for Pan Crust Pizza, Medium",,10,0,0,0,0,80,3,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Polynesian Sauce for Pan Crust Pizza, Personal",,10,0,0,0,0,60,2,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Red Onions Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Red Onions Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Red Onions Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Roma Tomatoes Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Roma Tomatoes Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Roma Tomatoes Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Salami Topping for Pan Crust Pizza, Large",,40,3,1,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Salami Topping for Pan Crust Pizza, Medium",,40,3,1,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Salami Topping for Pan Crust Pizza, Personal",,20,2,0.5,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Shredded Parmesan for Pan Crust Pizza, Large",,10,0.5,0.5,0,0,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Shredded Parmesan for Pan Crust Pizza, Medium",,10,0.5,0.5,0,0,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Shredded Parmesan for Pan Crust Pizza, Personal",,10,0.5,0.5,0,0,30,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Spinach Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Spinach Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Spinach Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Three Cheese Blend for Pan Crust Pizza, Large",,40,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Three Cheese Blend for Pan Crust Pizza, Medium",,30,2,1,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Three Cheese Blend for Pan Crust Pizza, Personal",,20,2,1,0,<5,40,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Yellow Onions Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Yellow Onions Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Yellow Onions Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zesty Red Sauce for Pan Crust Pizza, Large",,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zesty Red Sauce for Pan Crust Pizza, Medium",,0,0,0,0,0,20,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zesty Red Sauce for Pan Crust Pizza, Personal",,0,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zucchini Topping for Pan Crust Pizza, Large",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zucchini Topping for Pan Crust Pizza, Medium",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Create Your Own Pan Crust Pizza,"Zucchini Topping for Pan Crust Pizza, Personal",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Twists,Garlic Parmesan Twists Topping for Gluten-Free Pizza,,170,5,2,0,10,460,25,1,1,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, BBQ",,150,9,1.5,0,15,350,10,0,4,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Garlic Parmesan",,150,12,2,0,15,250,5,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Hot Buffalo",,140,11,1.5,0,15,420,5,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Lemon Pepper",,140,10,1.5,0,15,250,5,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Mango Habanero",,150,10,1.5,0,15,330,9,0,4,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Mild Buffalo",,150,11,1.5,0,15,410,5,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Perfectly Plain (No Sauce)",,130,9,1.5,0,15,230,5,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Boneless Wings, Polynesian",,150,9,1.5,0,15,340,8,0,3,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, BBQ",,130,8,2,0,0,370,5,0,4,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Garlic Parmesan",,130,11,3,0,0,270,0,0,0,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Hot Buffalo",,120,10,2.5,0,0,440,0,0,8,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Lemon Pepper",,110,9,2,0,0,270,0,0,0,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Mango Habanero",,130,8,2,0,0,350,5,0,4,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Mild Buffalo",,130,10,2.5,0,0,430,0,0,0,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Perfectly Plain (No Sauce)",,110,8,2,0,0,250,0,0,0,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Fried Classic Wings, Polynesian",,120,8,2,0,0,360,4,0,3,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, BBQ",,100,2,0.5,0,15,390,13,<1,5,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Garlic Parmesan",,90,4.5,1,0,15,280,7,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Hot Buffalo",,90,3.5,0.5,0,15,450,8,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Lemon Pepper",,80,3,0.5,0,15,290,7,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Mango Habanero",,90,2.5,0.5,0,15,360,12,0,4,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Mild Buffalo",,90,4,0.5,0,15,440,7,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Perfectly Plain (No Sauce)",,70,2,0.5,0,15,270,7,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Boneless Wings, Polynesian",,90,2,0.5,0,15,370,11,0,4,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, BBQ",,110,5,1.5,0,50,390,5,0,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Garlic Parmesan",,110,8,2.5,0,50,290,0,0,0,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Hot Buffalo",,100,7,2,0,50,460,0,0,0,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Lemon Pepper",,90,6,1.5,0,50,300,0,0,0,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Mango Habanero",,100,5,1.5,0,50,370,5,0,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Mild Buffalo",,100,7,2,0,50,450,0,0,0,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Perfectly Plain (No Sauce)",,90,5,1.5,0,50,270,0,0,0,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Wings,"Oven-Roasted Classic Wings, Polynesian",,100,5,1.5,0,50,380,4,0,3,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Bleu Cheese Dipping Sauce, 2 oz",,290,31,7,0.5,30,400,1,0,<1,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Bleu Cheese Dipping Sauce, 5 oz",,730,78,17,0.5,80,980,6,0,5,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Creamy Ranch Dipping Sauce, 2 oz",,220,23,4,0,15,390,2,0,2,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Creamy Ranch Dipping Sauce, 5 oz",,560,58,10,0.5,40,980,6,0,5,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Mango Habanero Dipping Sauce, 2 oz",,80,0,0,0,0,440,20,<1,18,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Mango Habanero Dipping Sauce, 5 oz",,200,0.5,0,0,0,1110,51,1,45,,<1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Marinara Dipping Sauce, 2 oz",,30,0,0,0,0,220,6,1,4,,<1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Marinara Dipping Sauce, 5 oz",,70,0.5,0,0,0,560,15,4,9,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Parmesan Vinaigrette Dipping Sauce, 2 oz",,230,25,4,0,0,550,2,1,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Parmesan Vinaigrette Dipping Sauce, 5 oz",,600,60,10,0,0,1400,5,0,5,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Polynesian Sweet Chili Dipping Sauce, 2 oz",,90,0,0,0,0,590,21,<1,18,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Polynesian Sweet Chili Dipping Sauce, 5 oz",,220,0.5,0,0,0,1480,52,1,46,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table BBQ Dipping Sauce, 2 oz",,90,0,0,0,0,480,22,0,18,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table BBQ Dipping Sauce, 5 oz",,220,0.5,0,0,0,1210,53,2,45,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table Hot Buffalo Dipping Sauce, 2 oz",,100,10,1.5,0.5,0,1340,2,<1,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table Hot Buffalo Dipping Sauce, 5 oz",,250,26,3.5,1,0,3350,5,2,1,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table Mild Buffalo Dipping Sauce, 2 oz",,120,12,2,0.5,0,1240,2,<1,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Round Table Mild Buffalo Dipping Sauce, 5 oz",,290,31,4.5,1,0,3090,4,2,<1,,<1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Thousand Island Dipping Sauce, 2 oz",,280,28,4.5,0,20,390,7,0,6,,<1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Thousand Island Dipping Sauce, 5 oz",,700,70,11,0.5,55,980,18,0,16,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Zesty Red Dipping Sauce, 2 oz",,30,0,0,0,0,135,6,1,4,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Dipping Sauce,"Zesty Red Dipping Sauce, 5 oz",,70,0.5,0,0,0,330,15,4,9,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Caesar Salad, Family/Entree",,700,60,12,0.5,95,1450,30,6,6,,15,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Caesar Salad, Individual",,350,30,6,0.5,45,720,15,3,3,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Caesar Salad, Party Pack",,2100,179,35,1.5,280,4340,89,18,17,,45,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,Chicken Caesar Salad,,800,61,12,0.5,115,2130,30,6,6,,36,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Garden Salad, Family/Entree",,210,7,0.5,0,<5,320,33,6,9,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Garden Salad, Individual",,100,3.5,0.5,0,<5,150,16,3,5,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Garden Salad, Party Pack",,630,20,2,0.5,<5,970,99,19,28,,21,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Garden Salad, Side",,15,0,0,0,<5,15,3,1,2,,<1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Side of Grilled Chicken, 2 oz",,70,1,0,0,10,460,0,0,0,,14,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Side of Grilled Chicken, 4 oz",,140,2,0,0,20,920,0,0,0,,28,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Spinach Salad, Family/Entree",,160,8,2.5,0,10,310,14,5,5,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Spinach Salad, Individual",,80,4,1.5,0,<5,150,7,2,2,,5,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,"Spinach Salad, Party Pack",,470,42,8,0.5,30,930,41,15,14,,32,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad,Wedge Salad,,580,56,14,0.5,75,1000,11,3,6,,13,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,1% Reduced Fat Milk,,100,2,1.5,0,15,180,23,0,22,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,2% Reduced Fat Chocolate Milk,,220,5,3.5,0,25,230,32,<1,29,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk No Calorie Peach Green Tea, 12 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk No Calorie Peach Green Tea, 16 fl oz",,0,0,0,0,0,90,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk No Calorie Peach Green Tea, 22 fl oz",,0,0,0,0,0,130,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk No Calorie Peach Green Tea, 32 fl oz",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk Unsweetened No Lemon Iced Tea, 12 fl oz",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk Unsweetened No Lemon Iced Tea, 16 fl oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk Unsweetened No Lemon Iced Tea, 22 fl oz",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Brisk Unsweetened No Lemon Iced Tea, 32 fl oz",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Diet Pepsi, 12 fl oz",,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Diet Pepsi, 16 fl oz",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Diet Pepsi, 22 fl oz",,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Diet Pepsi, 32 fl oz",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Dr. Pepper, 12 fl oz",,150,0,0,0,0,60,40,0,38,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Dr. Pepper, 16 fl oz",,200,0,0,0,0,80,53,0,51,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Dr. Pepper, 22 fl oz",,280,0,0,0,0,110,73,0,70,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Dr. Pepper, 32 fl oz",,400,0,0,0,0,160,106,0,102,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,Izze Sparkling Blackberry Juice,,130,0,0,0,0,25,31,0,29,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,Izze Sparkling Clementine Juice,,120,0,0,0,0,25,30,0,27,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mist Twst, 12 fl oz",,140,0,0,0,0,35,39,0,39,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mist Twst, 16 fl oz",,190,0,0,0,0,45,52,0,52,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mist Twst, 22 fl oz",,260,0,0,0,0,60,72,0,72,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mist Twst, 32 fl oz",,380,0,0,0,0,90,104,0,104,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,Mott's Apple Juice,,100,0,0,0,0,10,24,0,23,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mountain Dew, 12 fl oz",,170,0,0,0,0,60,46,0,46,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mountain Dew, 16 fl oz",,220,0,0,0,0,85,62,0,61,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mountain Dew, 22 fl oz",,300,0,0,0,0,120,85,0,84,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mountain Dew, 32 fl oz",,440,0,0,0,0,170,124,0,122,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mug Root Beer, 12 fl oz",,150,0,0,0,0,60,38,0,38,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mug Root Beer, 16 fl oz",,200,0,0,0,0,80,50,0,50,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mug Root Beer, 22 fl oz",,280,0,0,0,0,110,69,0,69,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Mug Root Beer, 32 fl oz",,400,0,0,0,0,160,100,0,100,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi, 12 fl oz",,150,0,0,0,0,30,41,0,41,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi, 16 fl oz",,200,0,0,0,0,40,55,0,55,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi, 22 fl oz",,280,0,0,0,0,55,75,0,75,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi, 32 fl oz",,400,0,0,0,0,80,110,0,110,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi Wild Cherry, 12 fl oz",,160,0,0,0,0,30,42,0,42,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi Wild Cherry, 16 fl oz",,210,0,0,0,0,40,56,0,56,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi Wild Cherry, 22 fl oz",,290,0,0,0,0,55,77,0,77,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Pepsi Wild Cherry, 32 fl oz",,410,0,0,0,0,85,112,0,112,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Raspberry Brisk Iced Tea, 12 fl oz",,80,0,0,0,0,45,20,0,20,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Raspberry Brisk Iced Tea, 16 fl oz",,100,0,0,0,0,60,26,0,26,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Raspberry Brisk Iced Tea, 22 fl oz",,140,0,0,0,0,80,36,0,36,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Raspberry Brisk Iced Tea, 32 fl oz",,200,0,0,0,0,120,52,0,52,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Sobe Lifewater Yumberry Pomegranate, 12 fl oz",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Sobe Lifewater Yumberry Pomegranate, 16 fl oz",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Sobe Lifewater Yumberry Pomegranate, 22 fl oz",,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Sobe Lifewater Yumberry Pomegranate, 32 fl oz",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Fruit Punch, 12 fl oz",,170,0,0,0,0,40,45,0,45,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Fruit Punch, 16 fl oz",,220,0,0,0,0,50,60,0,60,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Fruit Punch, 22 fl oz",,300,0,0,0,0,70,83,0,82,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Fruit Punch, 32 fl oz",,440,0,0,0,0,100,120,0,120,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Pink Lemonade, 12 fl oz",,150,0,0,0,0,160,41,0,41,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Pink Lemonade, 16 fl oz",,200,0,0,0,0,210,54,0,54,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Pink Lemonade, 22 fl oz",,280,0,0,0,0,290,74,0,74,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Beverages,"Tropicana Pink Lemonade, 32 fl oz",,400,0,0,0,0,420,108,0,10,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"Fries, Large",,670,37,7,0,0,1240,76,8,0,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"Fries, Side",,330,19,3.5,0,0,620,38,4,0,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,Garlic Bread,,70,3.5,1.5,0,0,120,9,<1,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,Garlic Bread with Cheese,,110,6,3,0,10,180,9,<1,0,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,Garlic Fries,,840,53,10,0.5,<5,1350,79,8,0,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"House Chips, 4 oz",,300,21,4,0,5,900,25,2,2,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"House Chips, 12 oz",,890,62,12,0.5,20,2690,74,6,5,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,Lay's Potato Chips Original,,160,10,1.5,0,0,170,15,1,1,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"Onion Rings, 6 count",,350,23,4,0,10,720,32,2,5,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Miscellaneous,"Onion Rings, 12 count",,690,46,8,0,15,1430,63,4,10,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add American Cheese to Burger,,50,4.5,2.5,0,15,260,<1,0,0,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Applewood Smoked Bacon to Burger,,110,30,3.5,0,10,340,0,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Bleu Cheese to Burger,,80,6,4,0,15,290,1,<1,<1,,5,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Cheddar Cheese to Burger,,170,15,10,0,40,270,0,<1,0,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Grilled Onions to Burger,,60,6,0,1.5,0,40,2,0,2,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Jalapenos to Burger,,10,0,0,0,0,370,3,1,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Sauteed Mushrooms to Burger,,80,7,0,2,0,40,6,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Add Swiss Cheese to Burger,,90,6,4,0,20,45,<1,0,0,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Bleu Cheese Burger,,1220,81,26,3.5,185,2300,66,5,12,,52,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Bleu Cheese Sliders,,1300,86,27,3.5,185,2400,77,4,12,,53,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Classic Cheeseburger,,1280,91,28,3.5,200,2780,57,3,7,,54,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Classic Sliders,,1460,108,31,3.5,205,2680,64,3,5,,55,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Mushroom Swiss Burger,,1320,96,32,3.5,190,2470,56,3,6,,56,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Burgers & Sliders,Smokehouse Burger,,1420,89,33,3.5,255,3250,77,5,15,,73,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Sandwiches,Chicken Club Sandwich,,670,27,11,0.5,85,1860,58,3,3,,46,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Sandwiches,Ham Club Sandwich,,670,30,12,0.5,95,2430,59,3,4,,39,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Sandwiches,Italian Meats Sandwich,,840,49,18,1,135,3170,59,3,4,,41,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pasta,Chicken Bacon Alfredo,,170,9,3.5,0,20,380,13,1,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Pasta,Macaroni and Cheese,,230,14,6,0,30,350,16,1,2,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Baby Corn",,30,0,0,0,0,280,4,2,1,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Baby Spinach",,10,0,0,0,0,25,1,1,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Bacon Bits",,35,3,1,0,10,115,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Balsamic Vinaigrette",,60,5,0.5,0,0,190,4,0,4,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Balsamic Vinegar",,10,0,0,0,0,5,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Beets",,20,0,0,0,0,55,4,0,4,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Bell Peppers",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Black Olives",,45,4.5,0,0,0,200,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Bleu Cheese",,160,16,3.5,0,15,230,1,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Broccoli",,10,0,0,0,0,10,2,1,1,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Carrots",,5,0,0,0,0,10,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Cauliflower",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Cheddar Cheese",,110,9,5,0,25,180,1,<1,0,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Chow Mein Noodles",,70,2.5,0,0,0,85,10,<1,<1,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Croutons",,35,1.5,0,0,0,65,4,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Cucumbers",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Diced Ham",,60,1.5,0,0,25,660,3,0,2,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Egg (diced or sliced)",,15,1,0,0,0,10,0,0,0,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Egg (whole)",,80,5,2,0,20,60,1,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Fat Free Italian",,10,0,0,0,0,490,3,0,2,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Garbanzo Beans",,110,2,0,0,0,410,19,5,3,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Green Olives",,50,0.5,0,0,0,350,1,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Grilled Chicken",,50,1,0,0,10,340,0,0,0,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Honey Mustard",,130,11,1.5,0,15,180,7,0,6,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Jalapenos",,10,0,0,0,0,360,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Kidney Beans",,110,0,0,0,0,340,20,6,2,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Macaroni Elbow Salad",,310,21,3.5,0,15,810,26,2,7,,5,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Mushrooms",,5,0,0,0,0,0,1,0,1,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Olive Oil",,120,13,2,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Parmesan Italian",,120,13,2,0,0,320,2,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Peaches",,50,0,0,0,0,10,15,0,13,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Peas",,60,0,0,0,0,0,10,3,3,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Pepperoncinis",,50,0,0,0,0,600,2,1,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Pineapple Tidbits",,30,0,0,0,0,0,8,<1,8,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Potato Salad",,220,12,2,0,10,540,27,3,7,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Raisins",,110,0,0,0,0,5,29,1,21,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Ranch Dressing",,120,11,2,0,<5,135,1,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Red Onions",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Red Wine Vinegar",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Romaine Lettuce, chopped",,10,0,0,0,0,5,2,1,1,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Round Table Lettuce Blend",,5,0,0,0,<5,10,1,<1,<1,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Shredded Parmesan",,30,2,0,0,<5,110,0,0,0,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Spring Mix",,10,0,0,0,0,35,2,0,0,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Sunflower Seeds",,190,15,1.5,0,0,140,6,3,1,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Thousand Island",,150,15,2.5,0,10,210,4,0,3,,0,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Three Cheese Blend",,90,7,4,0,25,180,1,0,0,,6,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Salad Bar,"Salad Bar, Tropical Fruit Salad",,120,0,0,0,0,0,22,2,20,,1,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet BBQ Chicken Original Crust Pizza,,200,8,4,0,25,520,21,1,4,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Cheese Pizza Pizza,,170,7,4,0,20,370,18,1,1,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Chicken & Garlic Gourmet Pizza,,170,7,3.5,0,20,420,18,1,1,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Chicken & Jalapeno with Creamy Garlic Sauce Pizza,,150,6,3,0,20,480,17,1,1,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Chicken & Jalapeno with Zesty Red Sauce Pizza,,160,6,3,0,20,510,18,1,1,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Cinnamon Twists,,90,1.5,0,0,0,150,17,0,5,,2,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Classic Pepperoni & Italian Sausage Pizza,,190,9,4.5,0,25,470,17,1,1,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Classic Pepperoni & Mushroom Pizza,,170,8,4,0,25,450,18,1,2,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Classic Pepperoni Pizza,,180,8,4.5,0.5,25,430,17,1,1,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Dessert Pizza Pizza,,210,5,1,0,0,240,39,1,17,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Garlic Parmesan Twists,,80,2.5,1,0,<5,230,12,0,1,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Gourmet Veggie Pizza,,170,7,3.5,0,20,380,18,1,1,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Guinevere's Garden Delight Pizza,,160,6,3.5,0,15,370,19,2,2,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Hawaiian Pizza,,160,6,3.5,0,20,440,19,1,3,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Italian Garlic Supreme Pizza,,200,10,4.5,0.5,25,470,17,1,1,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Italian Sausage & Olive Pizza,,170,8,3.5,0,20,430,18,1,1,,8,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet King Arthur's Supreme Pizza,,190,9,4.5,0,25,500,19,1,2,,10,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Maui Zaui Pizza,,190,8,3.5,0,20,510,20,1,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Maui Zaui with Pepperoni Pizza,,200,9,4.5,0,25,530,20,<1,4,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Maui Zaui with Pepperoni with Zesty Red Sauce Pizza,,190,9,4.5,0,25,500,19,<1,3,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Maui Zaui with Zesty Red Sauce Pizza,,180,8,3.5,0,20,480,19,<1,3,,9,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Montague's All Meat Marvel Pizza,,210,11,5,0.5,30,580,18,1,2,,11,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Buffet,Buffet Mushroom & Olive Pizza,,150,6,3,0,15,410,18,1,2,,7,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,Chocolate Chip Cookie,,310,15,7,0,15,310,43,0,25,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,Chocolate Chip King Cookie,,340,16,8,0,15,310,47,0,29,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,Cinnamon Twists,,180,3.5,1,0,0,290,34,1,11,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, Gluten-Free",,320,8,1.5,0,0,320,59,0,24,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, Large",,290,7,1.5,0,0,340,53,1,24,,5,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, Medium",,310,7,1.5,0,0,360,58,1,26,,5,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, Personal",,170,5,1,0,0,200,31,1,13,,3,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, Small",,300,7,1.5,0,0,310,56,1,28,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,"Dessert Pizza, XL",,290,7,1.5,0,0,330,52,1,23,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27
+roundtable,Desserts,Double Fudge Cookie,,300,13,6,0,10,370,44,0,29,,4,,,https://www.nutritionix.com/round-table-pizza/menu/premium,2026-10-27

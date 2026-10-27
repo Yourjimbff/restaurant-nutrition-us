@@ -1,0 +1,360 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+villageinn,Brightside Breakfasts,1 Lb T-Bone & Eggs,,1310,90,33,4,725,1760,21,0,0,,97,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,"2 Eggs, any style except poached",,220,18,5,0,475,150,1,0,0,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,2 Poached Eggs,,140,10,3,0,370,140,1,0,0,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,2-2-2 Breakfast with Bacon,,600,38,11,0,555,1030,38,1,9,,24,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,2-2-2 Breakfast with Sausage,,700,47,14,0,585,1220,39,1,9,,29,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Bacon & Eggs,,860,55,15,0.5,565,1840,59,2,9,,31,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Biscuits & Gravy with Eggs,,1570,107,41,5,600,3990,103,3,8,,43,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Corned Beef Hash & Eggs,,1000,56,15,1.5,605,2650,76,5,11,,43,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Egg Whites (4 oz),,120,7,1.5,0,0,190,1,0,1,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Ham Steak & Eggs,,1140,76,23,0,675,3750,63,2,14,,55,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Low-Cholesterol Egg Substitute (4 oz),,140,9,2,0,95,320,1,0,1,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Reindeer Sausage & Eggs,,1300,74,23,0,695,2660,112,3,22,,44,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Sausage Links & Eggs,,1060,73,21,1,625,2220,60,2,10,,41,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Sausage Patties & Eggs,,1240,92,30,0.5,655,2560,61,2,10,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Smothered Breakfast Burrito with Pork Carnitas,,1400,86,25,0,570,2260,115,9,8,,53,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Smothered Breakfast Burrito with Roasted Chicken Breast,,1410,87,26,0.5,580,1830,116,25,10,,51,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,"Top Sirloin & Eggs, 6oz",,920,50,14,0,600,1870,59,2,9,,53,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Tres Huevos Rancheros with Pork Carnitas,,1390,68,24,0.5,805,2270,129,14,15,,65,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Tres Huevos Rancheros with Roasted Chicken Breast,,1100,69,25,1,810,2050,67,5,4,,55,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brightside Breakfasts,Ultimate Breakfast,,1190,83,24,0.5,665,3310,62,2,12,,52,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,California Skillet,,1350,91,26,0,605,1830,101,11,12,,49,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,Chicken-Fried Steak Skillet,,1640,103,34,4,610,2900,128,7,11,,48,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,Garden Fresh Skillet,,1190,81,26,0,590,1350,89,7,11,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,Reindeer Sausage Skillet,,1210,96,33,0,580,2290,62,9,2,,46,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,Rio Grande Skillet with Grilled Chicken,,1410,92,30,0,665,2450,101,9,17,,59,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Expert Skillets,Ultimate Skillet,,1490,103,32,1,680,2660,95,7,14,,63,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brilliant Benedicts,Classic Eggs Benedict,,900,53,14,0.5,540,3330,64,4,4,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Brilliant Benedicts,Philly Jack Benedict,,1250,91,33,0.5,625,2160,62,4,5,,45,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,Belgian Waffle Combo with Bacon,,610,34,11,0,355,1100,48,1,1,,19,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,Belgian Waffle Combo with Sausage,,710,43,14,0,385,1290,48,1,2,,24,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,French Toast Combo with Bacon,,710,35,10,0,575,960,65,1,17,,33,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,French Toast Combo with Sausage,,820,44,13,0,605,1150,66,1,17,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,Just the French Toast,,540,22,6,0,325,670,65,1,17,,22,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fantastic French Toast & Waffles,Strawberry-Banana Supreme French Toast,,850,33,13,0,375,690,114,4,57,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Buttermilk Pancake Combo with Bacon,,850,40,12,0,415,1850,92,2,22,,27,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Buttermilk Pancake Combo with Sausage,,950,49,15,0,445,2040,92,2,23,,32,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Double Blueberry Pancakes with Bacon,,1000,28,9,0,185,1810,162,5,86,,21,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Double Blueberry Pancakes with Sausage,,1100,37,12,0,215,2010,162,5,87,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Fruit & Nut Multigrain Pancakes,,720,16,6,0,0,1280,137,10,45,,19,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Just the Pancakes,,680,26,8,0,165,1560,91,2,22,,16,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Strawberry Crepes Combo with Bacon,,960,49,18,0.5,245,1130,106,4,49,,22,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Made-From-Scratch Pancakes & Crepes,Strawberry Crepes Combo with Sausage,,1060,58,21,1,275,1320,107,4,49,,27,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Blackberry Syrup,,180,0,0,0,0,40,45,0,42,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Blueberry Syrup,,60,0,0,0,0,20,15,1,14,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Blueberry Topping,,250,0.5,0,0,0,75,62,2,57,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Cinnamon Apple Topping,,150,0,0,0,0,120,36,2,33,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Maple-flavored Syrup,,110,0,0,0,0,45,27,0,17,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Strawberry Banana Topping,,190,0,0,0,0,35,48,4,33,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Strawberry Syrup,,170,0,0,0,0,10,44,0,42,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Strawberry Topping,,100,0,0,0,0,35,24,1,21,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Sugar-free Maple Flavored Syrup,,10,0,0,0,0,75,4,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Syrups & Toppings,Whipped Cream Topping,,20,1.5,0.5,0,<5,0,1,0,1,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,3 Eggs for Omelette,,300,24,7,0,710,220,2,0,0,,20,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Alaskan Omelette,,1410,82,28,0,945,2640,113,5,22,,53,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,California Omelette,,1310,75,23,0,910,2010,118,8,23,,48,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Country Music Star Omelette,,1210,84,30,2,885,2700,69,3,13,,51,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Denver Omelette,,950,62,20,0.5,820,2010,64,3,11,,41,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Egg Whites for Omelette,,150,7,1.5,0,0,280,1,0,1,,19,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Fresh Spinach & Bacon Omelette,,1030,66,21,0.5,820,2350,68,3,10,,44,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Garden Veggie Omelette,,740,25,9,0,155,1760,97,7,32,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Kitchen Sink Omelette,,1350,77,26,0,940,2630,118,5,25,,54,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,"Kitchen Sink Omelette, add Green Chili",,35,1.5,1,0,10,310,4,1,2,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,"Kitchen Sink Omelette, add Red Chili",,70,4.5,1.5,0,10,290,5,1,1,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Three-Egg Omelettes,Low-Cholesterol Egg Substitute for Omelette,,180,10,2.5,0,140,480,2,0,1,,19,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,Create Your Own Omelette (no add-ins),,900,60,20,0.5,805,1660,60,2,9,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Artichokes",,5,0,0,0,0,95,1,1,1,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Avocado",,80,7,1,0,0,0,4,3,0,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Bacon",,30,2,1,0,<5,105,0,0,0,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Broccoli",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Carnitas",,70,2.5,1.5,0,30,370,0,0,0,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Country Gravy",,60,4.5,1.5,0,<5,240,4,0,1,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Fresh Spinach",,5,0,0,0,0,10,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Green Peppers",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Ham Steak & Eggs",,35,1.5,0.5,0,15,340,2,0,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Hollandaise Sauce",,35,0,0,0,0,460,5,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Mushrooms",,5,0,0,0,0,0,1,0,0,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Onions",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Ranchero Sauce",,35,2,0,0,0,250,4,1,1,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Red Peppers",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Reindeer Sausage",,160,14,6,0,35,570,1,0,0,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Sausage Link",,80,7,2,0,20,200,0,0,0,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Create Your Own Omelette,"Create Your Own Omeltte, Add Tomatoes",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 1 Sausage Patty",,230,21,9,0,55,570,1,0,1,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 1 Strawberry Crepe",,350,16,7,0,120,150,44,1,25,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 1/2 Ham Steak",,230,19,6,0,65,1280,3,0,3,,16,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 1/2 Waffle",,260,13,4.5,0,60,460,26,0,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 1/4 lb Burger Patty",,240,21,9,0,60,50,0,0,0,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Bacon Strips",,60,4.5,1.5,0,15,210,0,0,0,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Banana Nut Multigrain Pancakes",,420,15,3.5,0,0,570,69,6,24,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Buttermilk Pancakes",,210,10,3.5,0,45,440,24,0,6,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Chocolate Chip Pancakes",,360,12,6,0,55,430,58,2,34,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Egg Cheese Omelette",,300,27,11,0,500,330,2,0,0,,20,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Eggs, any style except poached",,220,18,5,0,475,150,1,0,0,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Multigrain Pancakes",,270,4.5,2.5,0,0,570,53,3,16,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Pieces French Toast",,260,10,3,0,165,350,32,1,8,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Poached Eggs",,140,10,3,0,370,140,1,0,0,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Sausage Links",,160,14,4.5,0,45,410,1,0,1,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., 2 Slices of Canadian Bacon",,60,1.5,0,0,25,570,2,0,2,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Biscuit with Country Gravy",,330,16,8,0,<5,1120,38,1,2,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Chicken Strips with Country Sausage Gravy",,280,17,3,1,35,710,17,1,0,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Chicken Strips with Syrup",,350,14,2,0,30,630,41,1,18,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Cinnamon Apples",,100,0,0,0,0,80,24,1,22,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Country Potatoes",,420,25,3,0,0,180,45,5,0,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., English Muffin",,170,2.5,0,0,0,380,30,2,1,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Fresh Fruit",,30,0,0,0,0,0,7,1,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Golden Hash Browns",,140,7,1.5,0,0,35,19,3,0,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Grits",,180,7,2.5,0,0,180,26,2,0,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal Plain",,220,4.5,1,0,0,10,37,5,1,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal Plain (Instant)",,200,4,0,0,0,160,38,6,0,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Bananas",,490,12,4,0,10,105,83,7,40,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Bananas (Instant)",,460,11,3,0,10,250,84,8,40,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Blueberries",,460,12,4,0,10,105,77,6,38,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Blueberries (Instant)",,440,11,3,0,10,250,77,7,37,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Brown Sugar, Milk & Margarine",,430,12,4,0,10,105,70,5,33,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Brown Sugar,Milk and Margarine (Instant)",,410,11,3,0,10,250,70,6,32,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Strawberries",,440,12,4,0,10,105,72,6,35,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Quaker Oatmeal with Strawberries (Instant)",,420,11,3,0,10,250,73,7,34,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Small Chicken-Fried Steak with Country Sausage Gravy",,290,18,4.5,1,30,840,20,1,0,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Toast, Rye",,350,11,2.5,0,0,440,50,4,2,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Toast, Sourdough",,330,10,2.5,0,0,560,48,2,1,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Toast, Wheat",,350,11,2.5,0,0,540,50,4,6,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,V.I.B.,"V.I.B., Toast, White",,270,10,2.5,0,0,400,34,1,2,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,Celebrity Chef Salad (no dressing),,440,22,8,0,315,1270,24,3,7,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,"Celebrity Chef Salad (no dressing), lunch size",,270,14,5,0,275,680,13,2,4,,24,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,Classy Cobb Salad (no dressing),,500,35,11,0,320,750,13,6,5,,35,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,"Classy Cobb Salad (no dressing), lunch size",,370,25,7,0,300,430,7,3,3,,28,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,Southwest Salad,,810,53,3.5,0,120,740,47,10,15,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,"Southwest Salad, lunch size",,440,30,2.5,0,60,370,24,5,8,,19,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,Taco Salad with Greem Chili Chicken,,780,42,10,0,90,1830,67,9,9,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Fresh Garden Salads,Taco Salad with Green Chili and Seasoned Ground Beef,,940,60,19,0,100,2270,69,10,9,,32,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Blue Cheese Dressing, 1.5 oz",,250,25,5,0,20,340,1,0,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Blue Cheese Dressing, 3 oz",,510,51,10,0,45,690,3,0,3,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Chipotle Ranch Dressing, 1.5 oz",,160,16,0,0,15,280,2,0,2,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Chipotle Ranch Dressing, 3 oz.",,320,32,0,0,30,560,5,0,3,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"French Dressing, 1.5 oz",,190,18,3,0,0,310,10,0,9,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"French Dressing, 3 oz",,390,36,6,0,0,630,21,0,18,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Honey Mustard Dressing, 1.5 oz",,250,25,3.5,0,30,300,6,0,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Honey Mustard Dressing, 3 oz",,510,51,7,0,60,600,12,0,12,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Lite Olive Oil Vinaigrette, 1.5 oz",,90,9,1.5,0,0,390,4,0,3,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Lite Olive Oil Vinaigrette, 3 oz",,180,18,3,0,0,780,9,0,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Poppy Seed Dressing, 1.5 oz",,160,10,2,0,0,420,15,0,13,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Poppy Seed Dressing, 3 oz",,330,21,4.5,0,0,840,30,0,27,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Ranch Dressing, 1.5 oz",,180,18,0,0,15,250,1,0,1,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Ranch Dressing, 3 oz",,350,36,0,0,35,490,2,0,2,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Thousand Island, 1.5 oz",,190,19,3,0,15,330,6,0,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Salad Dressings,"Thousand Island, 3 oz",,390,39,6,0,30,660,12,0,12,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,All-American Cheeseburger without Cheese (no side),,710,43,17,0,95,830,48,2,9,,28,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,All-World Double Cheeseburger (no side),,1480,109,43,0,250,1830,63,3,15,,63,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,Bacon Cheeseburger (no side),,770,49,19,0,105,1090,48,2,9,,31,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add 2 Bacon Strips",,60,4.5,1.5,0,15,210,0,0,0,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add 2 Fried Onion Rings",,70,3,0,0,0,75,10,1,2,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add American Cheese",,70,6,3.5,0,15,240,0,0,0,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Bleu Cheese",,100,8,5,0,25,380,1,1,0,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Cheddar Cheese",,110,9,5,0,30,180,1,0,0,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Fried Egg",,110,9,2.5,0,235,75,1,0,0,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Mozzarella Cheese",,80,6,3.5,0,15,170,1,0,0,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Pepper Jack Cheese",,60,5,3,0,15,15,1,0,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Sliced Avocado",,80,7,1,0,0,0,4,3,0,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,"Burger, Add Swiss Cheese",,70,8,5,0,25,60,1,0,0,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,Patty Melt (no side),,930,63,26,0,135,1120,54,5,3,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Crush Burgers,Substitute Grilled Chicken Breast (breast only),,210,10,2,0,90,55,0,0,0,,28,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Sandwich & Burger Sides,"Sandwich & Burger Side, Fresh Coleslaw",,140,11,1.5,0,15,260,10,1,9,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Sandwich & Burger Sides,"Sandwich & Burger Side, Seasoned French Fries",,370,20,3,0,0,270,34,3,0,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Sandwich & Burger Sides,"Sandwich & Burger Side, Side Salad (no dressing)",,35,1,0,0,0,60,7,1,2,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,"1/2 lb. Bacon, Lettuce & Tomato Sandwich (no side)",,590,42,9,0,55,1560,36,2,3,,20,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Avocado Swiss Chicken Sandwich (no side),,760,45,13,0,115,760,51,5,8,,47,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Chicken Ranch Sandwich (no side),,110,77,16,0,110,2220,66,2,8,,43,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Classic French Dip SAndwich (no side),,770,38,16,0,140,3270,55,2,1,,64,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Double Decker Club Sandwich (no side),,760,39,7,0,100,1910,55,2,6,,41,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Grown-Up Grilled Cheese Sandwich (no side),,650,42,21,0,85,1700,38,2,3,,35,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Half Grown-Up Grilled Cheese Sandwich,,320,21,10,0,40,730,19,1,2,,17,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Half Paris Griller Sandwich,,420,25,13,0,80,1310,27,1,1,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Half Reuben Sandwich,,340,19,8,0,60,900,28,2,2,,23,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Marbled Rye Reuben Sandwich (no side),,690,38,15,0,120,2000,57,4,5,,46,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,"Sandwich Bread Choice, Marbled Eye",,140,2,0,0,0,190,25,2,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,"Sandwich Bread Choice, Sourdough",,130,1.5,0,0,0,250,24,1,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,"Sandwich Bread Choice, Wheat",,140,2,0,0,0,240,25,2,3,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,"Sandwich Bread Choice, White",,100,1.5,0,0,0,170,17,1,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Satisfying Sandwiches,Turkey Bacon Avocado Melt (no side),,860,49,12,0,95,1550,62,8,11,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Chicken Noodle Soup, Bowl",,90,0,0,0,30,1510,15,3,2,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Chicken Noodle Soup, Cup",,45,0,0,0,15,760,8,1,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Clam Chowder Soup, Bowl",,250,15,4.5,0,15,1380,22,0,3,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Clam Chowder Soup, Cup",,120,8,2.5,0,10,690,11,0,2,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Pork Green Chili Soup, Bowl",,170,7,3,0,25,1540,18,3,6,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Pork Green Chili Soup, Cup",,80,3.5,1.5,0,15,770,9,1,3,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,Saltine Crackers,,25,0.5,0,0,0,80,5,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Tomato Basil Soup, Bowl",,350,29,18,0,90,1180,18,3,9,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Soups & Chili,"Tomato Basil Soup, Cup",,180,15,9,0,45,590,9,1,4,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,1/2 lb Chicken-Fried Steak & Biscuit (no side),,1080,64,20,2,90,3020,85,2,3,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,1Lb T-Bone (no side),,1130,70,28,3.5,250,1890,27,1,2,,87,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,6 oz. Top Sirloin & Toast (no side),,360,11,2.5,0,80,890,27,1,2,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,"All-American Meatloaf, Mashed Potatoes,Gravy & Texas Toast (no side)",,890,48,18,0,190,3050,82,4,17,,31,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,"Chicken Pot Pie (with side salad, no dressing)",,1230,85,42,1,260,2920,82,5,11,,32,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,Chicken Tenders & Biscuit (no side),,1270,52,13,0,80,2300,68,2,2,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,"Fish & Chips, Texas Toast & French Fries",,1510,92,13,0,80,2860,122,14,7,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,"Pot Roast, Mashed Potatoes, Gravy & Texas Toast (no side)",,790,35,14,0,95,2310,64,3,4,,48,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Homestyle Dinners,"Slow Roasted Turkey, Mashed Potatoes, Gravy,Cranberry Sauce & Biscuit",,1000,35,15,0,80,3930,116,5,26,,44,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Add Brown Gravy to Mashed Potatoes",,50,3,1,0,0,300,4,0,0,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Add Country Sausage Gravy to Mashed Potatoes",,50,3,1.5,0,<5,370,5,0,1,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Add Turkey Gravy to Mashed Potatoes",,25,0.5,0,0,<5,400,4,0,1,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Corn",,200,0,2,0,0,110,28,4,9,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Cornbread Stuffing",,200,7,2,0,0,900,29,1,3,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Fresh Broccoli",,25,0,0,0,0,25,4,2,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Fresh Coleslaw",,140,11,1.5,0,15,260,10,1,9,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Fresh Fruit",,30,0,0,0,0,0,7,1,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Onion Rings",,220,9,1,0,0,220,30,2,5,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Red Skin Mashed Potatoes",,130,3,2.5,0,0,470,26,2,1,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Rice Pilaf",,100,3,2,0,10,320,16,1,0,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Seasoned French Fries",,330,19,3.5,0,0,640,35,5,0,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Dinner Sides,"Dinner Side, Side Garden Salad (no dressing)",,30,0.5,0,0,0,50,6,1,2,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Apple Juice, Large",,250,0,0,0,0,40,61,0,59,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Apple Juice, Small",,140,0,0,0,0,20,35,0,34,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Blueberry Pomegranate Limeade,,280,0,0,0,0,30,69,1,67,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,BRISK Raspberry Iced Tea,,170,0,0,0,0,10,39,0,39,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Chocolate Milk (1%), Large",,340,6,3.5,0,25,430,54,0,50,,18,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Chocolate Milk (1%), Small",,200,3.5,2,0,15,250,32,0,29,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Chocolate Milk (Whole), Large",,500,18,11,0,80,450,65,0,61,,18,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Chocolate Milk (Whole), Small",,290,11,7,0,45,260,38,0,35,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Chocolate Shake,,540,26,15,0,120,160,66,1,60,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Cookies ‘n’ Cream Shake,,530,29,16,0,120,220,57,0,48,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Cranberry Juice, Large",,310,0,0,0,0,5,77,0,74,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Cranberry Juice, Small",,180,0,0,0,0,0,45,0,43,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Diet Pepsi,,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Dr Pepper,,140,0,0,0,0,45,39,0,38,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Grapefruit Juice, Large",,210,0,0,0,0,0,52,0,50,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Grapefruit Juice, Small",,120,0,0,0,0,0,30,0,29,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Hot Chocolate,,230,3,1.5,0,<5,390,51,0,39,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Iced Tea,,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Iced Tea ‘n’ Lemonade,,80,0,0,0,0,0,21,0,18,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Lemonade,,150,0,0,0,0,0,39,0,36,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Milk (2%), Large",,290,11,7,0,45,290,27,0,27,,18,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Milk (2%), Small",,170,7,4,0,25,170,16,0,16,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Mist Twst,,150,0,0,0,0,30,41,0,41,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Mtn Dew,,170,0,0,0,0,60,47,0,47,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,MUG Root Beer,,150,0,0,0,0,60,44,0,44,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Orange Juice, Large",,250,0,0,0,0,5,61,0,54,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Orange Juice, Small",,150,0,0,0,0,0,35,0,32,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Pepsi,,150,0,0,0,0,30,42,0,42,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Premium Roast Coffee, Decaffeinated",,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Premium Roast Coffee, Regular",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Strawberry Lemonade,,180,0,0,0,0,20,46,0,42,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Strawberry Limeade,,390,0,0,0,0,45,102,1,97,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Strawberry Shake,,480,25,15,0,120,170,53,0,50,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Tomato Juice, Large",,170,0,0,0,0,2250,33,7,23,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,"Tomato Juice, Small",,100,0,0,0,0,1310,19,4,14,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Beverages,Vanilla Shake,,520,25,15,0,120,150,63,0,61,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Cafe Americano,,10,0,0,0,0,25,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Cappuccino,,110,4,2.5,0,15,110,12,0,10,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Caramel Macchiato,,350,6,3.5,0,20,140,66,0,63,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Chai Tea Latte,,120,2.5,1.5,0,10,75,22,0,20,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Espresso,,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Cafe Americano,,10,0,0,0,0,25,1,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Cappuccino,,130,5,3,0,20,125,13,0,12,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Caramel Macchiato,,500,3.5,2.5,0,15,120,110,0,108,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Chai Tea Latte,,150,5,3.5,0,20,135,17,0,17,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Espresso,,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Latte,,130,5,3,0,20,125,13,0,12,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced Mocha,,350,7,4.5,0,25,120,66,3,55,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Iced White Mocha,,340,7,4,0,25,105,63,0,61,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Latte,,180,7,4.5,0,30,170,18,0,17,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,Mocha,,410,9,6,0,35,200,73,3,62,,13,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Barista Beverages,White Mocha,,400,8,5,0,35,180,69,0,68,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Apple Juice,,120,0,0,0,0,20,30,0,29,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Banana Slices,,50,0,0,0,0,0,13,2,7,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Barq’s,,90,0,0,0,0,40,26,0,26,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Belgian Waffle,,460,13,4.5,0,55,520,78,0,36,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Brisk Raspberry Iced Tea,,40,0,0,0,0,45,11,0,11,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Bucky's Mini-Hotcakes,,470,9,2.5,0,65,710,91,1,44,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Chocolate Milk (1% Milk),,170,3,1.5,0,10,210,27,0,25,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Chocolate Milk (Whole Milk),,250,9,6,0,40,230,33,0,30,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Clucker Dunkers Crispy,,600,46,3.5,0,70,1210,24,1,2,,20,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Clucker Dunkers Grilled,,450,35,1.5,0,110,380,2,0,2,,29,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Diet Pepsi,,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Dr Pepper,,80,0,0,0,0,25,23,0,22,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids French Fries,,370,20,3,0,0,270,34,3,0,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Fresh Broccoli,,25,0,0,0,0,25,4,2,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Fresh Fruit,,30,0,0,0,0,0,7,1,6,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Grilled Cheese,,410,22,10,0,30,880,34,1,2,,14,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Grilled French Toast,,500,12,2.5,0,165,410,86,1,43,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Hash Browns,,160,7,1.5,0,0,390,20,1,0,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Hot Chocolate,,180,2.5,1.5,0,<5,290,39,0,29,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Junior Breakfast with Bacon,,270,16,4,0,245,370,18,1,1,,12,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Junior Breakfast with Sausage Link,,320,20,6,0,260,470,18,1,1,,14,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Kids’ Crush Cheeseburger,,640,39,16,0,75,990,43,1,7,,25,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Lemonade,,90,0,0,0,0,0,23,0,21,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Macaroni & Cheese,,310,9,2.5,0,15,550,45,2,8,,11,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Milk,,150,6,3.5,0,25,150,14,0,14,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Mist Twst,,90,0,0,0,0,20,23,0,23,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Mtn Dew,,100,0,0,0,0,35,27,0,27,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Natural Applesauce,,50,0,0,0,0,0,13,1,11,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Orange Fanta,,90,0,0,0,0,35,26,0,26,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Orange Juice,,130,0,0,0,0,0,30,0,27,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Pepsi,,90,0,0,0,0,15,24,0,24,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Rye Toast,,180,6,1.5,0,0,220,25,2,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Sourdough Toast,,170,5,1.5,0,0,280,24,1,1,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Strawberry Lemonade,,100,0,0,0,0,10,26,0,24,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,"Kids Sundae, Blueberry",,200,8,4.5,0,35,40,29,1,27,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,"Kids Sundae, Hot Fudge",,270,13,9,0,35,80,36,0,30,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,"Kids Sundae, Oreo Cookie pieces",,200,10,5,0,35,75,23,0,18,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,"Kids Sundae, Strawberry",,310,8,4.5,0,35,35,57,0,55,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Blueberry Pancakes with 2 Bacon Strips,,620,31,10,0,350,1240,61,2,18,,21,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Blueberry Pancakes with 2 Sausage Links,,720,40,12,0,380,1430,61,2,18,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Buttermilk Pancakes with 2 Bacon Strips,,600,31,10,0,350,1240,56,1,14,,21,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Buttermilk Pancakes with 2 Sausage Links,,700,40,12,0,380,1430,56,1,14,,25,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Chocolate Chip Pancakes with 2 Bacon Strips,,660,35,12,0,355,1250,64,2,21,,22,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids The Vill-Inn with Chocolate Chip Pancakes with 2 Sausage Links,,770,44,15,0,385,1440,64,2,21,,27,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids Wheat Toast,,180,6,1.5,0,0,270,25,2,3,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Kids' Menu Items,Kids White Toast,,140,5,1.5,0,0,200,17,1,1,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Banana Cream Pie, Slice",,560,32,12,0,80,330,58,3,34,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Banana Cream Pie, Whole",,3330,192,74,0,490,1980,347,16,207,,39,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Caramel Pecan Silk Supreme Pie, Slice",,790,54,25,1,145,370,66,1,47,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Caramel Pecan Silk Supreme Pie, Whole",,4740,325,153,6,880,2250,398,7,280,,38,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Cherry Pie, Slice",,520,24,10,0,10,290,71,2,34,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Cherry Pie, Whole",,3130,145,60,0,65,1760,428,12,206,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Chocolate Peanut Butter Cup Pie, Slice",,810,54,27,0.5,160,400,76,2,63,,9,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Chocolate Peanut Butter Cup Pie, Whole",,4890,322,161,3,960,2400,454,12,377,,54,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Coconut Cream Pie, Slice",,580,34,16,0,95,440,58,2,36,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Coconut Cream Pie, Whole",,3480,202,98,0,570,2620,350,11,213,,41,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Country Apple Pie, Slice",,530,25,11,0,10,440,72,3,41,,3,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Country Apple Pie, Whole",,3200,152,67,0,65,2660,434,18,248,,20,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Dessert Topping, Blueberry",,250,0.5,0,0,0,75,62,2,57,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Dessert Topping, Hot Fudge",,130,5,5,0,0,60,23,0,17,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Dessert Topping, Ice Cream",,90,5,3,0,25,25,9,0,8,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Dessert Topping, Strawberry",,100,0,0,0,0,35,24,1,21,,1,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Dessert Topping, Whipped Cream",,20,1.5,0.5,0,<5,0,1,0,1,,0,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"European Truffle Pie, Slice",,770,51,27,1,155,380,73,2,53,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"European Truffle Pie, Whole",,4610,305,162,6,930,2270,437,12,317,,48,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"French Silk Pie, Slice",,660,43,22,1,165,330,56,1,41,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"French Silk Pie, Whole",,3950,259,131,5,1000,1960,337,9,244,,32,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Key Lime Pie, Slice",,560,23,11,0,65,190,75,0,61,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Key Lime Pie, Whole",,3350,141,67,0,400,1140,449,0,363,,42,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Lemon Meringue Pie, Slice",,450,13,6,0,15,320,77,0,55,,2,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Lemon Meringue Pie, Whole",,2710,80,35,0,100,1900,461,0,331,,10,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Lemon Supreme Pie, Slice",,820,53,29,1,160,380,78,1,58,,5,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Lemon Supreme Pie, Whole",,4950,318,177,6,965,2280,468,6,349,,30,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Mint Brownie Blast Pie, Slice",,720,47,24,1,125,460,70,2,46,,6,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Mint Brownie Blast Pie, Whole",,4320,282,144,6,750,2760,420,12,276,,36,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"No-Sugar Added Apple Pie, Slice",,500,30,12,0,10,420,55,3,20,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"No-Sugar Added Apple Pie, Whole",,2980,177,72,0,65,2500,328,16,120,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Peach Lattice Pie, Slice",,450,23,10,0,10,390,56,2,27,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Peach Lattice Pie, Whole",,2720,140,61,0,65,2360,338,12,164,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Pecan Pie, Slice",,670,33,11,0,125,450,85,3,68,,7,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Pecan Pie, Whole",,4000,200,64,0,760,2720,512,16,408,,40,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Strawberry Rhubarb Pie, Slice",,490,26,11,0,10,430,64,3,29,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Strawberry Rhubarb Pie, Whole",,2960,154,65,0,65,2590,383,16,174,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Triple Berry Pie, Slice",,500,24,10,0,10,440,68,4,30,,4,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Pies,"Triple Berry Pie, Whole",,3010,145,60,0,65,2660,410,24,182,,26,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Carrot Cake, Slice",,1320,64,23,1,170,720,170,5,136,,15,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Carrot Cake, Whole",,10560,612,184,8,1360,5760,1360,40,1088,,120,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Cheesecake, Slice",,500,34,20,1,155,580,40,1,29,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Cheesecake, Whole",,6010,409,240,12,1860,6970,481,12,348,,96,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Cheesecake with Blueberry Topping, Slice",,560,34,20,1,155,600,55,2,43,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Cheesecake with Caramel Pecan Sauce, Slice",,650,43,25,1,175,640,56,1,45,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Cakes,"Cheesecake with Strawberry Topping, Slice",,540,34,20,1,155,600,50,1,38,,8,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Featured,Chicken-Fried Steak & Eggs,,1480,91,23,1,630,3560,110,3,9,,54,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Featured,Strawberry Banana Supreme French Toast Combo with Bacon,,630,34,11,0,435,630,58,2,29,,24,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Featured,Strawberry Banana Supreme French Toast Combo with Sausage Links,,730,43,14,0,465,830,58,2,29,,29,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Featured,Strawberry Banana Supreme French Toast Combo with Sausage Patty,,810,51,19,0,480,990,59,2,29,,27,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27
+villageinn,Featured,Tomato Florentine Omelette,,1150,81,29,1,845,2140,69,4,12,,55,,,https://www.nutritionix.com/village-inn/menu/premium,2026-10-27

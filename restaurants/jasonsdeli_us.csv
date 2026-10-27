@@ -1,0 +1,189 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+jasonsdeli,Handcrafted Bowls,Burnt Ends Mac & Cheese Bowl,,1080,60,28,0.5,205,2230,75,3,16,,61,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Handcrafted Bowls,Great Southwest Bowl,,780,41,10,0,145,1330,60,9,7,,38,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Handcrafted Bowls,Modern Med Bowl,,660,39,9,0,135,1820,44,9,8,,42,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Handcrafted Bowls,Ultimate BLT Bowl,,840,52,10,0,255,860,62,10,28,,33,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Amy's Turkey-O, Half",,210,8,2.5,0,30,680,21,3,4,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Amy's Turkey-O, Regular",,420,17,5,0,60,1370,42,6,7,,29,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,Avocado Toast,,380,28,5,0,10,640,31,8,0,,7,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Bigger Better BLT, Half",,360,21,4.5,0,205,510,29,5,5,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Bigger Better BLT, Regular",,640,36,8,0,225,960,57,10,10,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,Everything Burnt Ends Sandwich,,800,43,16,0,175,1940,57,4,17,,45,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,Grilled Cheese & Tomato Soup Combo,,980,63,21,0,90,2310,77,10,23,,34,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Italian Cruz Po'boy, Half",,280,12,5,0,40,1110,26,1,2,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Italian Cruz Po'boy, Regular",,550,24,10,0,80,2230,52,3,4,,34,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"MeataBalla Sandwich, Half",,560,33,13,0,120,1090,33,1,3,,29,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"MeataBalla Sandwich, Regular",,1120,66,27,0,240,2190,65,3,5,,58,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Ranchero, Half",,340,17,7,0,85,910,24,4,4,,23,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Ranchero, Regular",,670,33,13,0,170,1820,48,8,8,,45,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Santa Fe Chicken, Half",,360,16,6,0,80,730,27,4,6,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Santa Fe Chicken, Regular",,710,32,12,0,160,1470,53,8,12,,54,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Shelley's Deli Chick, Half",,300,18,5,0,35,430,27,1,8,,11,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Shelley's Deli Chick, Regular",,600,35,10,0,75,840,54,2,16,,21,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Spicy Sicilian Sub, Half",,400,26,6,0,45,1140,25,1,3,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Spicy Sicilian Sub, Regular",,810,53,12,0,85,2280,51,3,5,,34,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Spinach Veggie Wrap, Half",,220,10,4,0,20,510,26,5,3,,10,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Spinach Veggie Wrap, Regular",,430,19,8,0,35,1010,51,10,6,,20,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"The Carmela, Half",,380,21,7,0,70,1600,23,<1,2,,24,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"The Carmela, Regular",,730,39,13,0,135,3100,47,1,3,,46,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"The Papa Joe, Half",,290,16,3,0,30,720,24,2,3,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"The Papa Joe, Regular",,590,31,6,0,60,1430,49,4,6,,30,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Turkey Wrap, Half",,190,8,1.5,0,20,520,21,4,1,,12,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Specialty Sandwiches,"Turkey Wrap, Regular",,380,16,2.5,0,45,1040,42,8,2,,23,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Beefeater, Half",,400,16,5,0,80,1990,24,1,2,,40,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Beefeater, Light",,670,28,10,0,105,3400,51,2,4,,54,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Beefeater, Regular",,820,32,11,0,165,4040,51,2,4,,82,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"New York Yankee, Half",,540,42,8,0,105,1620,22,2,<1,,35,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"New York Yankee, Light",,740,50,12,0,125,1940,43,3,1,,45,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"New York Yankee, Regular",,1070,83,15,0,215,3230,44,3,1,,70,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great, Half",,470,36,5,0,80,1650,25,3,2,,28,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great, Light",,700,48,10,0,100,2030,47,5,4,,38,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great, Regular",,940,73,11,0,160,3320,50,6,4,,55,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great Pastrami, Half",,470,29,10,0,80,1770,27,3,2,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great Pastrami, Light",,700,40,15,0,100,2140,49,5,4,,38,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Reuben The Great Pastrami, Regular",,940,57,20,0,160,3550,54,6,4,,55,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Wild Salmon-wich, Half",,260,12,1.5,0,30,430,24,2,1,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Famous Favorites,"Wild Salmon-wich, Regular",,540,25,3.5,0,60,880,48,5,3,,32,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"California Club, Half",,340,21,9,0,60,640,22,1,4,,19,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"California Club, Regular",,690,41,18,0,120,1280,44,2,7,,37,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"Club Royale, Half",,350,17,18,0,75,890,23,<1,5,,25,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"Club Royale, Regular",,690,35,37,0,155,1790,47,1,11,,49,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"Deli Club, Half",,430,19,6,0,65,1100,38,5,7,,29,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Clubs,"Deli Club, Regular",,860,38,12,0,130,2200,77,11,14,,58,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Caprese Panini, Half",,380,26,11,0,45,630,24,2,<1,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Caprese Panini, Regular",,760,52,22,0.5,90,1250,47,3,2,,34,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chicken Caprese Panini, Half",,460,28,12,0,100,930,24,2,2,,31,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chicken Caprese Panini, Regular",,910,56,23,0.5,200,1860,49,3,4,,62,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chicken Panini, Half",,390,22,6,0,75,830,24,<1,2,,24,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chicken Panini, Regular",,780,43,12,0,145,1660,48,2,3,,48,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chipotle Chicken & Avocado Panini, Half",,460,22,7,0,80,830,42,4,15,,25,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Chipotle Chicken & Avocado Panini, Regular",,920,44,14,0.5,155,1670,85,8,31,,50,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Smokey Jack Panini, Half",,400,21,26,0,70,1170,26,<1,3,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Paninis,"Smokey Jack Panini, Regular",,780,41,49,0,130,2270,52,2,5,,52,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Ham & Salami Muffaletta, Half",,1030,53,14,0,115,4290,82,6,4,,53,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Ham & Salami Muffaletta, Quarter",,510,26,7,0,55,2130,41,3,2,,26,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Ham & Salami Muffaletta, Whole",,2050,105,28,0,225,8520,164,11,8,,105,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Turkey Breast Muffaletta, Half",,990,47,11,0,115,4250,83,6,5,,57,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Turkey Breast Muffaletta, Quarter",,490,24,6,0,60,2130,41,3,3,,28,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Muffalettas,"Turkey Breast Muffaletta, Whole",,1980,95,23,0,230,8500,166,11,10,,113,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"CB Ranch Potato, Lighter",,1010,44,19,0,150,960,120,11,15,,37,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"CB Ranch Potato, Original",,1760,86,36,0,290,1900,183,17,24,,69,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Chicken Alfredo, Lighter",,800,44,19,0,145,2030,65,2,6,,35,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Chicken Alfredo, Original",,1480,84,38,0,285,3700,111,4,11,,67,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Chicken Pasta Primo, Lighter",,650,29,8,0,75,1940,69,4,12,,31,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Chicken Pasta Primo, Original",,1180,54,15,0,150,3490,118,7,22,,58,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Penne Pasta & Meatballs, Lighter",,800,43,13,0,95,1900,73,5,10,,31,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Penne Pasta & Meatballs, Original",,1400,75,24,0,165,3270,126,8,19,,53,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Plain Jane, Lighter",,920,38,21,0,120,700,119,11,13,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Plain Jane, Original",,1580,73,41,0,230,1390,181,17,20,,49,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Pollo Mexicano, Lighter",,840,27,15,0,130,860,121,12,14,,31,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Pollo Mexicano, Original",,1400,50,29,0,245,1450,183,17,21,,55,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Texas Style Spud, Lighter",,900,27,15,0,90,1130,142,13,32,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Texas Style Spud, Original",,1560,54,31,0,180,2250,228,20,59,,48,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Zucchini Garden Pasta, Lighter",,750,46,11,0,30,1440,71,9,6,,20,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Pastas & Potatoes,"Zucchini Garden Pasta, Original",,1320,81,20,0,60,2490,121,16,10,,36,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Chicken Caesar, Lighter",,510,35,8,0,80,1040,27,3,3,,24,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Chicken Caesar, Original",,1020,69,16,0,155,2080,54,6,7,,48,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Chicken Club Salad, Lighter",,560,46,12,0,110,880,12,4,4,,26,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Chicken Club Salad, Original",,1110,93,25,0,215,1760,23,7,8,,52,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Mesa Chicken Salad, Lighter",,430,31,7,0,75,810,18,6,5,,21,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Mesa Chicken Salad, Original",,850,62,13,0,155,1610,34,11,9,,41,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Nutty Mixed-Up Salad, Lighter",,370,23,4.5,0,65,840,30,4,23,,20,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"Nutty Mixed-Up Salad, Original",,750,47,9,0,130,1670,59,7,47,,40,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"The Big Chef, Lighter",,530,43,12,0,170,1180,11,2,4,,27,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Salads,"The Big Chef, Original",,1050,86,24,0,340,2360,20,4,7,,53,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Broccoli Cheese, Bowl",,350,17,7,0,70,1620,31,2,8,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Broccoli Cheese, Cup",,260,12,5,0,55,1210,23,1,6,,13,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chicken Noodle Soup, Bowl",,320,12,2.5,0,65,2400,32,3,4,,23,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chicken Noodle Soup, Cup",,240,9,2,0,50,1830,24,2,3,,18,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chicken Pot Pie, Bowl",,520,31,15,0,105,1800,41,5,5,,22,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chicken Pot Pie, Cup",,300,18,8,0,65,1300,22,3,3,,16,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chili, Bowl",,550,38,15,2,130,1800,17,3,4,,35,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Chili, Cup",,380,27,10,1.5,90,1280,12,2,3,,25,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Irish Potato, Bowl",,610,40,19,0,110,1960,32,3,9,,23,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Irish Potato, Cup",,380,25,12,0,65,1260,22,2,5,,13,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Spicy Seafood Gumbo, Bowl",,310,12,8,0,65,2290,42,4,4,,12,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Spicy Seafood Gumbo, Cup",,200,8,6,0,45,1610,26,3,3,,8,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Tomato Basil, Bowl",,380,24,10,0,45,1420,28,3,15,,13,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Soups,"Tomato Basil, Cup",,240,14,5,0,25,950,19,2,11,,7,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,American Potato Salad,,510,36,6,0,130,690,39,6,3,,8,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Blue Corn Tortilla Chips,,220,11,1,0,0,90,27,3,0,,3,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Broccoli Salad,,320,30,5,0,30,320,9,2,4,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Cup of Fresh Fruit with Creamy Fruit Dip,,240,9,5,0,30,20,40,3,34,,3,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Guacamole,,190,17,2.5,0,0,160,10,8,0,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,House Chips,,150,10,1,0,0,180,16,1,0,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Italian Pasta Salad,,350,18,3.5,0,0,990,38,2,2,,9,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Lay's Baked Chips,,110,3,0,0,0,120,18,1,2,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Lay's BBQ Potato Chips,,150,9,1.5,0,0,150,16,1,2,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Lay's Kettle Cooked Jalapeno Potato Chips,,150,8,1,0,0,130,16,1,1,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Lay's Salt & Vinegar Chips,,160,10,1.5,0,0,220,15,1,1,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Mac & Cheese side,,410,21,13,0,65,830,35,1,3,,19,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Organic Red Pepper Hummus,,200,12,1,0,0,470,16,4,3,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Pickle Chips,,5,0,0,0,0,350,1,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Roasted Corn & Black Bean,,240,9,1,0,0,370,34,7,2,,7,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Ruffles Chips,,160,10,1.5,0,0,150,15,1,1,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Salsa,,30,0,0,0,0,330,7,2,4,,1,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Steamed Veggies,,60,0,0,0,0,55,11,4,5,,4,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Sides,Tzatziki with Cucumber Slices,,160,6,4,0,20,380,17,<1,10,,9,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Barq's Olde Style Root Beer, 24 oz",,330,0,0,0,0,35,87,0,87,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Barq's Olde Style Root Beer, 32 oz",,440,0,0,0,0,50,116,0,116,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Coca-cola Classic, 24 oz",,300,0,0,0,0,20,81,0,81,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Coca-cola Classic, 32 oz",,400,0,0,0,0,25,108,0,108,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Coca-Cola Zero, 24 oz",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Coca-Cola Zero, 32 oz",,0,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Diet Coke, 24 oz",,0,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Diet Coke, 32 oz",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Diet Dr. Pepper, 24 oz",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Diet Dr. Pepper, 32 oz",,0,0,0,0,0,200,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Black Currant Tea, 24 oz",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Black Currant Tea, 32 oz",,0,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Sweetened Tea, 24 oz",,210,0,0,0,0,0,55,0,55,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Sweetened Tea, 32 oz",,280,0,0,0,0,0,74,0,74,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Unsweetened Tea, 24 oz",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Fresh-Brewed Unsweetened Tea, 32 oz",,0,0,0,0,0,15,0,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Jason's Deli Pomegranate Blueberry Sports Drink, 24 oz",,200,0,0,0,0,260,30,0,30,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Jason's Deli Pomegranate Blueberry Sports Drink, 32 oz",,260,0,0,0,0,350,40,0,40,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,Kid's Organic Chocolate LowFat Milk,,180,5,3,0,20,160,27,0,27,,8,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,Kid's Organic LowFat Milk,,110,2.5,1.5,0,10,130,13,0,12,,8,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,Kids Organic Apple Juice,,100,0,0,0,0,20,25,0,22,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Minute Maid Lemonade, 24 oz",,300,0,0,0,0,135,78,0,75,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Minute Maid Lemonade, 32 oz",,400,0,0,0,0,180,104,0,100,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,Sarah's Homegrown Peach Agua Fresca,,60,0,0,0,0,10,14,0,12,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,Sarah's Homegrown Strawberry Agua Fresca,,60,0,0,0,0,0,16,0,15,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Sprite, 24 oz",,290,0,0,0,0,65,78,0,78,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Sprite, 32 oz",,390,0,0,0,0,90,104,0,104,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Wild Berry Hibiscus Tea with Pure Cane Sugar, 24 oz",,70,0,0,0,0,0,19,0,19,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Drinks,"Wild Berry Hibiscus Tea with Pure Cane Sugar, 32 oz",,100,0,0,0,0,0,26,0,26,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Chewy Marshmallow Treat,,230,5,3,0,15,220,45,0,20,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Chocolate Chip Cookie,,310,15,7,0,25,220,43,2,27,,3,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Chocolate Ice Cream,,200,6,3.5,0,20,110,34,1,32,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Chocolate Syrup,,100,15,0,0,0,30,22,<1,22,,<1,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Classic Cheesecake,,680,46,26,0,175,470,57,2,40,,11,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Cranberry Walnut Cookie,,300,16,4,0,30,170,38,2,19,,4,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Fudge-Nut Brownie,,450,26,13,0,110,170,54,4,42,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Gingerbread Muffin,,60,2.5,0.5,0,<5,25,9,0,5,,<1,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Ice Cream Cone,,20,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,"Ice Cream Float, Coke",,640,15,8,0,55,260,121,0,121,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,"Ice Cream Float, Root Beer",,660,15,8,0,55,270,124,0,124,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Strawberry-Topped Cheesecake,,700,46,26,0,175,470,61,3,42,,12,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Strawberry Shortcake,,940,58,22,1,225,760,94,3,58,,11,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Texas Chocolate Cake,,560,27,1,1,85,360,80,1,63,,4,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Desserts,Vanilla Ice Cream,,210,6,3.5,0,25,100,35,0,34,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Cheese pizza,,470,21,7,0,40,820,52,4,4,,21,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Chicken Tenders,,180,2.5,0.5,0,65,520,18,<1,2,,21,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Grilled Cheese,,580,37,10,0,45,1130,50,7,9,,17,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Kid's Baked Potato,,680,32,18,0,100,580,77,7,8,,19,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Mac & Cheese,,410,21,13,0,65,830,35,1,3,,19,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Pasta & Chicken Alfredo,,620,31,15,0,125,1800,53,2,6,,28,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Pasta & Meatballs,,610,29,9,0,75,1650,62,4,10,,24,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Kids,Pepperoni Pizza,,520,25,9,0,50,1010,53,4,4,,23,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Apple Danish,,290,18,9,0,0,105,30,1,13,,2,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Blueberry Crumb Cake,,90,6,2.5,0,15,45,8,0,6,,1,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Breakfast Club,,630,29,12,0,270,1360,51,7,9,,43,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Breakfast Sammy,,270,15,5,0,205,480,20,3,2,,15,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Breakfast Veggie Wrap,,580,32,13,0,415,930,47,9,2,,33,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Cinnamon Walnut Coffee Cake,,380,19,6,0,65,390,47,1,31,,5,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Mini Croissant,,270,9,5,0,20,300,40,1,5,,6,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,New England Cranberry & Blueberry Coffee Cake,,340,16,6,0,65,390,47,1,32,,4,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Southwest Breakfast Wrap,,620,37,15,0,445,950,39,5,2,,31,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27
+jasonsdeli,Breakfast,Sunshine Croissant,,490,27,14,0,250,620,41,1,6,,20,,,https://www.nutritionix.com/jasons-deli/menu/premium,2026-10-27

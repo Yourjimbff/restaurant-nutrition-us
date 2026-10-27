@@ -1,0 +1,245 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+cicis,Pizza,Alfredo Deep Dish Pizza,,240,9,3,0,5,310,33,1,1,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Alfredo Flatbread,,70,3.5,2.5,0,5,170,6,0,0,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Alfredo Pizza, Giant",,250,6,3,0,10,390,40,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Alfredo Pizza, Large 14""",,230,6,3,0,10,360,35,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Alfredo Pizza, Medium 12""",,170,4.5,2,0,5,270,26,<1,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Alfredo Stuffed Crust Pizza,,290,13,5,0,15,440,33,1,1,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Chicken Deep Dish Pizza,,250,10,3,0,10,290,34,1,2,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Chicken Flatbread,,100,5,3,0,15,190,8,0,2,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Chicken Pizza, Giant",,300,9,4,0,20,430,42,1,4,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Chicken Pizza, Large 14""",,260,8,3.5,0,15,380,37,1,3,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Chicken Pizza, Medium 12""",,190,5,2.5,0,10,270,28,<1,2,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Chicken Stuffed Crust Pizza,,310,14,5,0,20,430,34,1,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Pork Deep Dish Pizza,,250,10,3,0,10,300,34,1,2,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Pork Flatbread,,100,5,3,0,15,190,8,0,2,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Pork Pizza, Giant",,300,9,4,0,20,460,43,2,4,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Pork Pizza, Large 14""",,260,8,3.5,0,15,380,37,1,3,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"BBQ Pork Pizza, Medium 12""",,120,4.5,2.5,0,10,210,14,<1,2,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,BBQ Pork Stuffed Crust Pizza,,310,14,5,0,20,440,34,1,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Buffalo Chicken Deep Dish Pizza,,300,12,3,0,10,550,39,1,1,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Buffalo Chicken Flatbread,,80,4.5,2,0,10,320,6,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Buffalo Chicken Pizza, Giant",,270,8,3,0,15,590,40,1,1,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Buffalo Chicken Pizza, Large 14""",,240,7,2.5,0,15,560,35,1,1,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Buffalo Chicken Pizza, Medium 12""",,180,5,2,0,10,430,26,<1,<1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Buffalo Chicken Stuffed Crust Pizza,,340,15,3.5,0,10,800,40,1,2,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Cheese Deep Dish Pizza,,260,10,3.5,0,10,320,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Cheese Flatbread,,90,5,3,0,10,190,6,0,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Cheese Pizza, Giant",,270,8,4,0,15,420,40,2,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Cheese Pizza, Large 14""",,250,7,3.5,0,15,380,35,1,2,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Cheese Pizza, Medium 12""",,190,6,3,0,10,310,26,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Cheese Stuffed Crust Pizza,,270,10,5,0,20,460,32,1,1,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Chicken Bacon Club Deep Dish Pizza,,270,12,3.5,0,15,330,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Chicken Bacon Club Flatbread,,120,8,3.5,0,20,240,6,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Chicken Bacon Club Pizza, Giant",,330,13,5,0,30,520,40,1,1,,14,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Chicken Bacon Club Pizza, Large 14""",,290,11,4.5,0,20,440,35,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Chicken Bacon Club Pizza, Medium 12""",,200,7,3,0,15,310,26,<1,<1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Chicken Bacon Club Stuffed Crust Pizza,,320,16,6,0,25,470,32,1,1,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Classic Chicken Deep Dish Pizza,,260,10,3,0,10,300,32,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Classic Chicken Flatbread,,80,4.5,2,0,10,160,6,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Classic Chicken Pizza, Giant",,270,8,3,0,10,380,39,1,1,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Classic Chicken Pizza, Large 14""",,240,7,2.5,0,10,340,34,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Classic Chicken Pizza, Medium 12""",,180,5,2,0,10,260,26,<1,<1,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Classic Chicken Stuffed Crust Pizza,,310,15,5,0,20,440,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Hawaiian Deep Dish Pizza,,250,9,3,0,10,340,33,1,2,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Hawaiian Flatbread,,90,4.5,2.5,0,10,230,7,0,1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Hawaiian Pizza, Giant",,280,7,3.5,0,15,480,41,2,3,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Hawaiian Pizza, Large 14""",,240,7,3,0,15,420,35,1,2,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Hawaiian Pizza, Medium 12""",,190,5,2.5,0,10,340,27,1,2,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Hawaiian Stuffed Crust Pizza,,300,13,5,0,20,470,33,1,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Mac & Cheese Flatbread,,100,3.5,2,0,5,170,12,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Mac & Cheese Pizza, Giant",,290,6,2.5,0,10,390,47,2,1,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Mac & Cheese Pizza, Large 14""",,260,6,2.5,0,10,360,42,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Mac & Cheese Pizza, Medium 12""",,190,4,1.5,0,<5,250,32,1,1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Meat Eater Deep Dish Pizza,,260,10,3,0,10,360,33,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Meat Eater Flatbread,,100,6,3,0,15,290,7,<1,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Meat Eater Pizza, Giant",,300,10,4.5,0,20,570,40,2,2,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Meat Eater Pizza, Large 14""",,260,9,4,0,20,510,35,2,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Meat Eater Pizza, Medium 12""",,200,7,3,0,15,370,26,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Meat Eater Stuffed Crust Pizza,,310,14,6,0,20,490,33,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Ole Flatbread,,70,3,1.5,0,5,85,7,<1,<1,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ole Pizza, Giant",,250,6,2.5,0,10,300,41,2,2,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ole Pizza, Large 14""",,200,3.5,1.5,0,5,220,35,2,2,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ole Pizza, Medium 12""",,160,3,1,0,5,170,27,1,1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Pepperoni Deep Dish Pizza,,260,11,3.5,0,10,340,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Pepperoni Flatbread,,100,6,3,0,15,250,6,0,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Pepperoni Pizza, Giant",,290,10,4,0,20,500,40,2,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Pepperoni Pizza, Large 14""",,260,9,4,0,15,450,35,1,2,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Pepperoni Pizza, Medium 12""",,200,7,3,0,15,350,26,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Pepperoni Stuffed Crust Pizza,,280,11,5,0,25,500,32,1,1,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Spinach Alfredo Deep Dish Pizza,,240,9,3,0,5,290,32,1,1,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Spinach Alfredo Flatbread,,70,3.5,2,0,5,150,6,0,0,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Spinach Alfredo Pizza, Giant",,250,6,3,0,10,370,40,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Spinach Alfredo Pizza, Large 14""",,220,6,2.5,0,10,340,35,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Spinach Alfredo Pizza, Medium 12""",,170,4.5,2,0,5,250,26,<1,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Spinach Alfredo Stuffed Crust Pizza,,290,13,5,0,15,420,32,1,1,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Supreme Deep Dish Pizza,,260,10,3,0,10,330,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Supreme Flatbread,,100,6,3,0,15,250,6,<1,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Supreme Pizza, Giant",,300,10,4.5,0,20,520,40,2,2,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Supreme Pizza, Large 14""",,260,9,4,0,15,460,35,2,2,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Supreme Pizza, Medium 12""",,200,7,3,0,15,340,26,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Supreme Stuffed Crust Pizza,,310,14,6,0,20,460,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Ultimate Pepperoni Deep Dish Pizza,,270,12,4,0,15,390,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Ultimate Pepperoni Flatbread,,120,8,4,0,20,310,6,0,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ultimate Pepperoni Pizza, Giant",,320,12,5,0,25,580,40,2,2,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ultimate Pepperoni Pizza, Large 14""",,280,11,4.5,0,20,530,35,1,2,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Ultimate Pepperoni Pizza, Medium 12""",,220,8,3.5,0,15,410,26,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Ultimate Pepperoni Stuffed Crust Pizza,,320,16,6,0,25,520,32,1,1,,13,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Veggie Deep Dish Pizza,,250,9,3,0,10,280,32,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Veggie Flatbread,,80,4.5,2.5,0,10,170,6,0,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Veggie Pizza, Giant",,280,8,3.5,0,15,410,40,2,2,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Veggie Pizza, Large 14""",,240,7,3,0,10,360,35,2,2,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Veggie Pizza, Medium 12""",,180,5,2.5,0,10,280,26,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Veggie Stuffed Crust Pizza,,300,13,5,0,20,420,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Ham & Cheddar Deep Dish Pizza,,260,11,3,0,10,340,32,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Ham & Cheddar Flatbread,,100,7,3,0,15,230,6,0,0,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Ham & Cheddar Pizza, Giant",,300,10,4,0,20,480,40,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Ham & Cheddar Pizza, Large 14""",,260,9,4,0,15,440,35,1,1,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Ham & Cheddar Pizza, Medium 12""",,190,7,2.5,0,10,320,26,<1,<1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Ham and Cheddar Stuffed Crust Pizza,,310,15,6,0,20,470,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Pepperoni Deep Dish Pizza,,270,11,3,0,10,330,32,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Pepperoni Flatbread,,100,6,2.5,0,10,220,6,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Pepperoni Pizza, Giant",,280,10,3.5,0,15,450,39,1,1,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Pepperoni Pizza, Large 14""",,260,9,3.5,0,15,420,34,1,1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Pepperoni Pizza, Medium 12""",,190,7,2.5,0,10,310,26,<1,<1,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Pepperoni Stuffed Crust Pizza,,310,16,6,0,20,470,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Veggie Deep Dish Pizza,,260,11,3,0,10,300,32,1,1,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Veggie Flatbread,,100,6,3,0,15,180,6,0,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Veggie Pizza, Giant",,300,10,4,0,15,410,40,2,2,,11,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Veggie Pizza, Large 14""",,270,9,4,0,15,370,35,1,1,,10,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,"Zesty Veggie Pizza, Medium 12""",,190,7,2.5,0,10,270,26,<1,1,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Pizza,Zesty Veggie Stuffed Crust Pizza,,310,15,6,0,20,430,32,1,1,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Alfredo Sauce",,30,2,1.5,0,0,220,3,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Anchovies",,0,0,0,0,<5,150,0,0,0,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Bacon",,140,12,4,0,40,390,0,0,0,,8,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Beef",,60,4.5,1.5,0,15,220,<1,<1,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Black Olives",,35,3,0.5,0,0,0,<1,<1,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Bruschetta Tomato",,25,1.5,0,0,0,25,2,0,1,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Cheddar Cheese",,110,9,5,25,0,0,2,0,194,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Chicken",,35,1.5,0.5,0,15,15,0,0,0,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Creamy Buffalo Sauce",,40,3.5,0,0,0,410,2,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Cupping Pepperoni",,110,10,4,0,25,420,0,0,0,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Deep Dish Crust",,160,1.5,0,0,0,150,32,1,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Flatbread Pizza Crust",,35,0.5,0,0,0,15,5,0,0,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Green Peppers",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Ham",,30,1,0,0,10,360,1,0,<1,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Honey BBQ Sauce",,20,0,0,0,0,80,5,0,5,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Jalapeno Peppers",,0,0,0,0,0,105,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Mac & Cheese Sauce",,15,0,0,0,0,130,3,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Mushrooms",,0,0,0,0,0,0,<1,0,<1,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Pepperoni",,130,12,4,0,25,490,0,0,0,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Pineapple",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Pizza Cheese",,90,7,4.5,0,20,250,0,0,0,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Red Onions",,10,0,0,0,0,0,2,<1,2,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Red Pizza Sauce",,10,0,0,0,0,75,2,0,1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Sausage",,60,4.5,1.5,0,10,230,1,1,<1,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Spinach Alfredo Sauce",,20,1.5,1,0,0,170,2,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Stuffed Crust",,200,5,2.5,0,10,280,32,1,<1,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Traditional Round Crust, Giant",,200,2,0,0,0,180,39,1,1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Traditional Round Crust, Large",,170,1.5,0,0,0,160,34,1,<1,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Traditional Round Crust, Medium",,130,1,0,0,0,180,39,1,1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Traditional Round Crust, Small",,130,1,0,0,0,120,25,<1,<1,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Create Your Own,"Create Your Own Pizza, Zesty Sauce",,40,4.5,0.5,0,0,125,<1,0,0,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,BBQ Boneless Wings,,60,2.5,0,0,10,200,5,0,2,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,BBQ Wings,,90,6,1.5,0,35,190,2,0,1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Garlic Parmesan Boneless Wings,,100,7,2,0,15,320,4,<1,0,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Garlic Parmesan Wings,,130,11,3,0,40,310,1,0,0,,7,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Hot Boneless Wings,,50,2.5,0,0,10,370,4,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Hot Buffalo Wings,,90,6,1.5,0,40,350,<1,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Lemon Pepper Boneless Wings,,80,5,1,0,10,230,3,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Lemon Pepper Wings,,110,9,2,0,40,210,<1,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Mild Buffalo Boneless Wings,,70,5,1,0,10,300,3,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Mild Buffalo Wings,,110,9,2,0,35,290,<1,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Naked Boneless Wings,,50,2.5,0,0,10,180,3,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Wings,Naked Wings,,80,6,1.5,0,40,160,0,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Apple Dessert,,160,3,1,0,0,120,31,<1,9,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Bavarian Dessert,,160,3,1,0,0,115,30,<1,8,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Brownies,,140,6,1.5,0,0,125,20,<1,12,,2,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Cinnamon Rolls,,150,5,1,0,0,140,23,<1,4,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Buffalo Chicken Poppers,,100,4.5,1,0,<5,160,12,0,0,,3,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Chicken Noodle Soup,,140,3,1,0,20,1610,16,<1,2,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Garlic Cheesy Bread,,210,10,3,0,10,270,24,1,<1,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Jalapeno Poppers,,110,4.5,1.5,0,5,130,12,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Pasta,,260,4,0,0,0,0,48,2,2,,9,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Pepperoni Poppers,,120,6,2,0,5,150,13,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Ranch Dipping Sauce,,220,23,4,0,15,450,2,0,1,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of Red Pasta Sauce,,15,0,0,0,0,150,3,<1,2,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Sides & Desserts,Side of White Pasta Sauce,,50,1.5,1,0,0,420,9,0,<1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Bacon Bits",,120,4,0,0,0,530,4,4,0,,12,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Banana Peppers",,10,0,0,0,0,300,1,1,1,,1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Beets",,10,0,0,0,0,60,<1,0,<1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Broccoli Florets",,5,0,0,0,0,5,0,<1,<1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Carrots (Baby)",,0,0,0,0,0,50,3,2,3,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Cheddar Cheese",,110,9,5,0,25,190,2,0,0,,6,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Crackers - 1 Package",,25,0.5,0,0,0,65,4,0,0,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Croutons",,120,4,0,0,0,300,16,0,0,,4,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Cucumber (sliced)",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Garbanzo Beans",,25,0.5,0,0,0,30,4,1,<1,,2,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Green Olives",,50,7,1,0,0,460,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Iceberg Salad Mix",,15,0,0,0,0,15,2,<1,2,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Pasta Salad",,160,4,0.5,0,0,450,25,2,2,,5,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Pickle Slices",,0,0,0,0,0,180,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Radishes (sliced)",,5,0,0,0,0,10,<1,0,<1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Shredded Lettuce (Ole Only)",,10,0,0,0,0,10,2,<1,2,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Spring Mix",,20,0,0,0,0,45,2,1,<1,,2,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Station,"Salad Station, Tomatoes (cherry, grape, wedged)",,10,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Barq's Root Beer, 12 fl oz",,150,0,0,0,0,70,40,0,40,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Barq's Root Beer, 18 fl oz",,220,0,0,0,0,70,60,0,60,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Barq's Root Beer, 30 fl oz",,400,0,0,0,0,170,101,0,101,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Canada Dry Ginger Ale, 12 fl oz",,140,0,0,0,0,50,36,0,35,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Canada Dry Ginger Ale, 18 fl oz",,200,0,0,0,0,75,54,0,53,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Canada Dry Ginger Ale, 30 fl oz",,340,0,0,0,0,125,90,0,89,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cherry Coca-Cola, 12 fl oz",,150,0,0,0,0,40,42,0,42,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cherry Coca-Cola, 18 fl oz",,230,0,0,0,0,60,63,0,63,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cherry Coca-Cola, 30 fl oz",,420,0,0,0,0,105,105,0,105,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cicis Brewed Sweet Tea (No Ice), 12 fl oz",,260,0,0,0,0,0,66,0,66,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cicis Brewed Sweet Tea (No Ice), 18 fl oz",,390,0,0,0,0,0,99,0,99,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Cicis Brewed Sweet Tea (No Ice), 30 fl oz",,650,0,0,0,0,0,165,0,165,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Coca-Cola, 12 fl oz",,150,0,0,0,0,40,40,0,40,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Coca-Cola, 18 fl oz",,220,0,0,0,0,60,60,0,60,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Coca-Cola, 30 fl oz",,400,0,0,0,0,100,100,0,100,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Coke, 12 fl oz",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Coke, 18 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Coke, 30 fl oz",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Dr. Pepper, 12 fl oz",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Dr. Pepper, 18 fl oz",,0,0,0,0,0,110,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Diet Dr. Pepper, 30 fl oz",,0,0,0,0,0,180,<1,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Dr. Pepper Fountain, 12 fl oz",,140,0,0,0,0,45,39,0,38,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Dr. Pepper Fountain, 18 fl oz",,220,0,0,0,0,65,59,0,57,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Dr. Pepper Fountain, 30 fl oz",,360,0,0,0,0,110,98,0,96,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Fanta Orange, 12 fl oz",,150,0,0,0,0,40,40,0,40,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Fanta Orange, 18 fl oz",,220,0,0,0,0,60,60,0,60,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Fanta Orange, 30 fl oz",,400,0,0,0,0,100,99,0,99,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Peach Tea, 12 fl oz",,90,0,0,0,0,65,23,0,23,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Peach Tea, 18 fl oz",,130,0,0,0,0,100,34,0,34,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Peach Tea, 30 fl oz",,240,0,0,0,0,170,57,0,57,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Premium Unsweetened Tea, 12 fl oz",,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Premium Unsweetened Tea, 18 fl oz",,0,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Premium Unsweetened Tea, 30 fl oz",,0,0,0,0,0,125,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Raspberry Tea, 12 fl oz",,90,0,0,0,0,65,23,0,23,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Raspberry Tea, 18 fl oz",,130,0,0,0,0,100,34,0,34,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Raspberry Tea, 30 fl oz",,240,0,0,0,0,170,57,0,57,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Sweetened Black Tea, 12 fl oz",,110,0,0,0,0,45,31,0,31,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Sweetened Black Tea, 18 fl oz",,170,0,0,0,0,70,47,0,47,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Gold Peak Sweetened Black Tea, 30 fl oz",,310,0,0,0,0,120,78,0,78,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Hawaiian Punch Fruit Juicy Red, 12 fl oz",,170,0,0,0,0,55,45,0,44,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Hawaiian Punch Fruit Juicy Red, 18 fl oz",,260,0,0,0,0,80,68,0,67,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Hawaiian Punch Fruit Juicy Red, 30 fl oz",,420,0,0,0,0,135,113,0,111,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Mello Yello, 12 fl oz",,170,0,0,0,0,50,44,0,44,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Mello Yello, 18 fl oz",,260,0,0,0,0,75,65,0,65,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Mello Yello, 30 fl oz",,430,0,0,0,0,125,109,0,109,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Minute Maid Premium Lemonade, 12 fl oz",,140,0,0,0,0,100,36,0,34,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Minute Maid Premium Lemonade, 18 fl oz",,210,0,0,0,0,150,54,0,52,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Minute Maid Premium Lemonade, 30 fl oz",,360,0,0,0,0,250,90,0,86,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Powerade Mountain Berry Blast, 12 fl oz",,90,0,0,0,0,110,22,0,22,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Powerade Mountain Berry Blast, 18 fl oz",,140,0,0,0,0,170,33,0,33,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Powerade Mountain Berry Blast, 30 fl oz",,230,0,0,0,0,280,55,0,55,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Sprite, 12 fl oz",,150,0,0,0,0,70,37,0,37,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Sprite, 18 fl oz",,220,0,0,0,0,105,56,0,56,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Beverages,"Sprite, 30 fl oz",,370,0,0,0,0,180,93,0,93,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,1000 Island Dressing,,200,16,3,0,20,400,16,0,8,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,Blue Cheese Dressing,,260,28,5,0,20,640,2,0,2,,2,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,Lite Italian Dressing,,20,0,0,0,0,910,2,0,2,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,Ranch Dressing,,220,23,4,0,15,450,2,0,1,,<1,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,Red Wine Vinegar,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27
+cicis,Salad Dressing,Soybean Oil,,460,57,8,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/cicis-pizza/menu/premium,2026-10-27

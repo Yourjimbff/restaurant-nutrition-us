@@ -1,0 +1,44 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+caferio,Tortillas,6 inch Corn Tortilla,,60,0.5,0,0,0,135,13,1,0,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,6 inch Flour Tortilla,,170,5,2.5,0,0,0,25,1,0,,3,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,6 inch Wheat Tortilla,,190,7,3,0,0,0,29,1,2,,5,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,12 inch Flour Tortilla,,420,14,7,0,0,0,63,2,0,,9,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,12 inch Wheat Tortilla,,390,14,6,0,0,5,58,1,4,,10,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,Tortilla Chips,,190,7,1,0,0,20,29,4,0,,4,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,Tortilla Strips,,100,3.5,0,0,0,10,15,2,0,,2,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Tortillas,Tostada Shell,,90,3.5,0,0,0,15,15,2,0,,2,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Beans & Rice,Black Beans,,180,1,0,0,0,240,28,10,1,,10,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Beans & Rice,Cilantro Lime Rice,,110,2,0.5,0,0,220,21,1,1,,3,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Beans & Rice,Pinto Beans,,190,1.5,0,0,0,240,31,10,1,,10,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Baja Citrus Shrimp,,260,4,1,0,95,150,38,1,0,,17,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Carne Asada,,120,6,2,0,40,80,1,0,2,,12,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Chile Roast Beef,,90,6,2,0,20,90,1,0,1,,7,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Coconut Shrimp,,230,7,3,0,45,135,32,2,6,,10,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Fire-Grilled Chicken,,80,2,0,0,40,125,0,0,0,,14,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Fire-Grilled Steak,,120,6,2,0,40,45,1,0,0,,14,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Pollo Asado,,110,4.5,1,0,65,180,2,0,2,,12,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Shredded Chicken Breast,,80,4.5,1.5,0,25,440,1,0,1,,8,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Meats,Sweet Pork Barbacoa,,70,2,0.5,0,15,130,10,0,9,,4,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Cilantro Lime Dressing,,130,2,0,0,0,320,11,0,9,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Creamy Tomatillo Dressing,,150,15,2.5,0,10,210,3,0,2,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Green Chile Sauce (Medium),,40,0.5,0,0,0,330,9,1,5,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Habanero (Hottest),,30,2,0,0,0,190,5,1,2,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Mango Salsa,,35,0,0,0,0,200,6,1,4,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Red Chile Sauce (Hot),,45,2.5,1,0,0,350,5,0,2,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Sauces & Dressings,Tomatillo Sauce (Mild),,25,1,0,0,0,160,3,1,1,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Cabbage,,5,0,0,0,0,5,2,1,1,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Cheddar Jack Blend,,220,18,11,0,55,360,1,0,0,,13,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Cotija Cheese,,25,2,1,0,<5,100,0,0,0,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Guacamole,,40,3.5,0,0,0,160,2,2,0,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Lettuce,,5,0,0,0,0,0,1,1,0,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Lime Wedge,,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Pico de Gallo,,10,0,0,0,0,70,1,0,1,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Queso,,130,9,6,0,25,550,6,1,4,,5,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Salsa Fresca,,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Shredded Jack Cheese,,210,17,11,0,50,340,0,0,0,,14,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Sour Cream,,60,5,3.5,0,20,15,1,0,1,,1,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Toppings & Specials,Tortilla Soup with Tortilla Strips,,380,18,7,0,65,2070,30,5,4,,24,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Desserts & Drinks,Fresh Lime Pie,,870,29,13,0,145,380,137,1,125,,20,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Desserts & Drinks,Horchata,,80,1.5,1,0,<5,20,15,0,12,,2,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Desserts & Drinks,Mint Limeade,,45,0,0,0,0,0,12,0,12,,0,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27
+caferio,Desserts & Drinks,Tres Leches,,240,3.5,1.5,0,105,180,47,1,30,,6,,,https://www.nutritionix.com/cafe-rio/menu/premium,2026-10-27

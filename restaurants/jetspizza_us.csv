@@ -1,0 +1,641 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+jetspizza,Small Hand Tossed Slices,All Meaty - Small Hand Tossed Slice,,430,16,6,0,45,880,45,3,1,,25,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Aloha BBQ Chicken - Small Hand Tossed Slice,,410,10,4.5,0,40,830,54,2,13,,24,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,BBQ Chicken - Small Hand Tossed Slice,,400,10,4.5,0,40,830,52,1,11,,25,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,BLT - Small Hand Tossed Slice,,410,17,6,0,35,640,41,2,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Buffalo Ranch Chicken - Small Hand Tossed Slice,,400,14,5,0,45,880,42,1,1,,25,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Cheese - Small Hand Tossed Slice,,350,9,4.5,0,25,590,45,2,<1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Chicken Bacon Ranch - Small Hand Tossed Slice,,430,17,7,0,60,770,41,1,<1,,26,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Eugene Supreme - Small Hand Tossed Slice,,360,10,4,0,25,680,47,3,2,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Hawaiian - Small Hand Tossed Slice,,370,10,4.5,0,35,730,47,3,3,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Jet 10 - Small Hand Tossed Slice,,390,13,5,0,35,820,46,3,1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Super Special - Small Hand Tossed Slice,,350,9,4,0,25,690,46,3,2,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Ultimate Pepperoni - Small Hand Tossed Slice,,430,18,7,0,40,970,44,2,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Hand Tossed Slices,Veggie - Small Hand Tossed Slice,,330,7,3,0,15,610,46,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,All Meaty - Small Thin Crust Slice,,330,18,7,0,45,710,22,2,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Aloha BBQ Chicken - Small Thin Crust Slice,,310,12,5,0,40,660,31,<1,12,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,BBQ Chicken - Small Thin Crust Slice,,300,12,5,0,40,660,30,<1,10,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,BLT - Small Thin Crust Slice,,280,16,6,0,35,440,18,<1,<1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Buffalo Ranch Chicken - Small Thin Crust Slice,,300,16,6,0,45,710,19,<1,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Cheese - Small Thin Crust Slice,,230,10,4.5,0,20,380,22,2,0,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Chicken Bacon Ranch - Small Thin Crust Slice,,320,19,7,0,60,600,18,<1,0,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Eugene Supreme - Small Thin Crust Slice,,270,13,5,0,25,530,24,3,2,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Hawaiian - Small Thin Crust Slice,,270,12,5,0,35,560,24,2,3,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Jet 10 - Small Thin Crust Slice,,290,15,6,0,35,650,23,2,<1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Super Special - Small Thin Crust Slice,,240,11,4.5,0,25,520,23,2,1,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Ultimate Pepperoni - Small Thin Crust Slice,,330,20,8,0,40,800,22,2,0,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Small Thin Crust Slices,Veggie - Small Thin Crust Slice,,230,10,3.5,0,15,440,23,3,1,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,*Build Your Own 1-2 Topping Medium Hand Tossed Slice,,220,5,2.5,0,15,380,28,2,<1,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,*Build Your Own 3+ Topping Medium Hand Tossed Slice,,210,4.5,2.5,0,10,360,28,2,<1,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,All Meaty - Medium Hand Tossed Slice,,290,11,4.5,0,30,610,29,2,<1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Aloha BBQ Chicken - Medium Hand Tossed Slice,,280,7,3.5,0,30,590,35,<1,9,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,BBQ Chicken - Medium Hand Tossed Slice,,270,7,3.5,0,30,590,34,<1,8,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,BLT - Medium Hand Tossed Slice,,310,15,5,0,25,470,26,1,1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Buffalo Ranch Chicken - Medium Hand Tossed Slice,,270,10,4,0,30,630,27,<1,<1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Cheese - Medium Hand Tossed Slice,,230,6,3,0,15,400,29,2,<1,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Eugene Supreme - Medium Hand Tossed Slice,,240,7,3,0,15,470,30,2,1,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Hawaiian - Medium Hand Tossed Slice,,250,7,3.5,0,25,500,30,2,2,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Jet 10 - Medium Hand Tossed Slice,,270,9,3.5,0,25,590,29,2,1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Super Special - Medium Hand Tossed Slice,,230,6,3,0,15,470,29,2,1,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Ultimate Pepperoni - Medium Hand Tossed Slice,,290,12,5,0,30,670,28,2,<1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Medium Hand Tossed Slices,Veggie - Medium Hand Tossed Slice,,220,5,2.5,0,10,430,30,2,1,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,All Meaty - Large Detroit-Style Slice,,450,20,7,0,45,860,40,3,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Aloha BBQ Chicken - Large Detroit-Style Slice,,420,14,4.5,0,45,820,49,2,13,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,BBQ Chicken - Large Detroit-Style Slice,,410,14,4.5,0,45,820,48,1,11,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,BLT - Large Detroit-Style Slice,,430,22,6,0,35,610,37,2,1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Buffalo Ranch Chicken - Large Detroit-Style Slice,,400,18,5,0,45,860,37,1,1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Cheese - Large Detroit-Style Slice,,360,13,5,0,25,580,40,2,<1,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Chicken Bacon Ranch - Large Detroit-Style Slice,,430,21,7,0,60,760,36,1,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Eugene Supreme - Large Detroit-Style Slice,,390,16,5,0,30,710,43,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Hawaiian - Large Detroit-Style Slice,,390,15,5,0,35,720,42,3,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Jet 10 - Large Detroit-Style Slice,,410,18,5,0,35,830,41,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Super Special - Large Detroit-Style Slice,,360,14,4.5,0,25,670,41,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Ultimate Pepperoni - Large Detroit-Style Slice,,440,22,8,0,45,940,40,2,<1,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Detroit-Style Slices,Veggie - Large Detroit-Style Slice,,350,12,4,0,20,620,41,3,2,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,All Meaty - Large Hand Tossed Slice,,400,15,6,0,45,830,40,3,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Aloha BBQ Chicken - Large Hand Tossed Slice,,420,14,4.5,0,45,820,49,2,13,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,BBQ Chicken - Large Hand Tossed Slice,,380,10,4.5,0,45,830,48,1,11,,24,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,BLT - Large Hand Tossed Slice,,400,18,6,0,35,620,37,2,1,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Buffalo Ranch Chicken - Large Hand Tossed Slice,,380,14,5,0,45,880,37,1,1,,25,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Cheese - Large Hand Tossed Slice,,330,9,5,0,25,590,40,2,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Chicken Bacon Ranch - Large Hand Tossed Slice,,380,15,6,0,50,670,36,1,<1,,24,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Eugene Supreme - Large Hand Tossed Slice,,330,10,4,0,25,650,42,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Hawaiian - Large Hand Tossed Slice,,340,9,4.5,0,30,690,42,2,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Jet 10 - Large Hand Tossed Slice,,380,13,5,0,35,820,41,3,2,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Super Special - Large Hand Tossed Slice,,320,8,4,0,20,640,41,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Ultimate Pepperoni - Large Hand Tossed Slice,,400,17,7,0,40,910,39,2,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Hand Tossed Slices,Veggie - Large Hand Tossed Slice,,310,7,3,0,15,590,41,3,2,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,All Meaty - Large Thin Crust Slice,,330,18,7,0,40,660,25,2,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Aloha BBQ Chicken - Large Thin Crust Slice,,330,13,5,0,45,690,34,<1,12,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,BBQ Chicken - Large Thin Crust Slice,,320,13,5,0,45,690,32,<1,10,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,BLT - Large Thin Crust Slice,,290,17,6,0,35,450,21,1,<1,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Buffalo Ranch Chicken - Large Thin Crust Slice,,320,17,6,0,45,740,22,<1,<1,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Cheese - Large Thin Crust Slice,,240,11,4.5,0,20,390,24,2,0,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Chicken Bacon Ranch - Large Thin Crust Slice,,340,20,7,0,60,630,21,<1,0,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Eugene Supreme - Large Thin Crust Slice,,290,14,5,0,25,540,27,3,2,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Hawaiian - Large Thin Crust Slice,,280,13,5,0,30,550,27,2,3,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Jet 10 - Large Thin Crust Slice,,320,16,6,0,35,680,26,3,1,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Super Special - Large Thin Crust Slice,,260,12,4.5,0,20,500,25,2,1,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Ultimate Pepperoni - Large Thin Crust Slice,,330,20,8,0,40,770,24,2,0,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large Thin Crust Slices,Veggie - Large Thin Crust Slice,,240,10,3.5,0,15,450,26,3,1,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,All Meaty - Large NY Style Slice,,430,20,8,0,60,1000,34,3,1,,27,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Aloha BBQ Chicken - Large NY Style Slice,,420,12,6,0,60,1000,46,1,17,,28,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,BBQ Chicken - Large NY Style Slice,,410,12,6,0,60,1000,44,1,14,,28,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,BLT - Large NY Style Slice,,450,26,9,0,45,750,30,2,2,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Buffalo Ranch Chicken - Large NY Style Slice,,400,17,7,0,60,1060,30,1,1,,28,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Cheese - Large NY Style Slice,,290,8,4.5,0,25,570,33,2,<1,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Eugene Supreme - Large NY Style Slice,,340,12,5,0,30,760,37,4,2,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Hawaiian - Large NY Style Slice,,350,12,6,0,45,810,36,3,4,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Jet 10 - Large NY Style Slice,,400,17,7,0,45,990,35,4,2,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Super Special - Large NY Style Slice,,320,11,5,0,30,750,35,3,2,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Ultimate Pepperoni - Large NY Style Slice,,420,21,9,0,55,1110,33,2,<1,,24,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Large NY Style Slices,Veggie - Large NY Style Slice,,300,9,4,0,20,680,35,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,All Meaty - X-Large Detroit-Style Slice,,440,20,7,0,45,860,40,3,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Aloha BBQ Chicken - X-Large Detroit-Style Slice,,400,13,4.5,0,40,780,48,1,12,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,BBQ Chicken - X-Large Detroit-Style Slice,,400,13,4.5,0,40,780,47,1,11,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,BLT - X-Large Detroit-Style Slice,,420,22,6,0,35,610,36,2,1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Buffalo Ranch Chicken - X-Large Detroit-Style Slice,,390,17,5,0,40,830,37,1,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Cheese - X-Large Detroit-Style Slice,,350,13,4.5,0,25,550,39,2,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Chicken Bacon Ranch - X-Large Detroit-Style Slice,,440,22,7,0,60,760,36,1,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Eugene Supreme - X-Large Detroit-Style Slice,,390,16,5,0,30,700,42,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Hawaiian - X-Large Detroit-Style Slice,,390,15,5,0,35,710,42,3,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Jet 10 - X-Large Detroit-Style Slice,,420,19,6,0,40,850,41,3,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Super Special - X-Large Detroit-Style Slice,,370,14,5,0,25,680,41,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Ultimate Pepperoni - X-Large Detroit-Style Slice,,440,21,8,0,45,920,39,2,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,X-Large Detroit-Style Slices,Veggie - X-Large Detroit-Style Slice,,350,13,4,0,20,630,41,3,2,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,All Meaty - Party Tray Slice,,440,20,7,0,45,860,40,3,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Aloha BBQ Chicken - Party Tray Slice,,400,13,4.5,0,40,780,48,1,12,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,BBQ Chicken - Party Tray Slice,,400,13,4.5,0,40,780,47,1,11,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,BLT - Party Tray Slice,,420,22,6,0,35,610,36,2,1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Buffalo Ranch Chicken - Party Tray Slice,,390,17,5,0,40,830,37,1,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Cheese - Party Tray Slice,,350,13,4.5,0,25,550,39,2,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Eugene Supreme - Party Tray Slice,,390,16,5,0,30,700,42,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Hawaiian - Party Tray Slice,,390,15,5,0,35,710,42,3,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Jet 10 - Party Tray Slice,,420,19,6,0,40,850,41,3,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Super Special - Party Tray Slice,,370,14,5,0,25,680,41,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Ultimate Pepperoni - Party Tray Slice,,440,21,8,0,45,920,39,2,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Party Tray Slices,Veggie - Party Tray Slice,,360,13,4,0,20,630,41,3,2,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,All Meaty - 4 Corner Pizza Detroit-Style Slice,,480,21,7,0,50,900,45,3,1,,24,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Aloha BBQ Chicken - 4 Corner Pizza Detroit-Style Slice,,440,14,4.5,0,40,810,54,2,13,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,BBQ Chicken - 4 Corner Pizza Detroit-Style Slice,,430,14,4.5,0,40,810,52,2,11,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,BLT - 4 Corner Pizza Detroit-Style Slice,,480,25,6,0,35,650,42,2,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Buffalo Ranch Chicken - 4 Corner Pizza Detroit-Style Slice,,430,18,5,0,45,860,42,2,1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Cheese - 4 Corner Pizza Detroit-Style Slice,,400,15,5,0,25,620,45,3,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Chicken Bacon Ranch - 4 Corner Pizza Detroit-Style Slice,,380,16,4,0,35,580,40,1,<1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Eugene Supreme - 4 Corner Pizza Detroit-Style Slice,,420,17,5,0,30,730,47,4,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Hawaiian - 4 Corner Pizza Detroit-Style Slice,,420,16,5,0,35,750,47,3,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Jet 10 - 4 Corner Pizza Detroit-Style Slice,,430,18,5,0,35,820,46,3,1,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Super Special - 4 Corner Pizza Detroit-Style Slice,,400,15,4.5,0,25,710,46,3,2,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Ultimate Pepperoni - 4 Corner Pizza Detroit-Style Slice,,480,23,8,0,45,1000,45,3,<1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,4 Corner Detroit-Style Pizza Slices,Veggie - 4 Corner Pizza Detroit-Style Slice,,380,13,4,0,20,640,46,3,2,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,All Meaty - 8 Corner Pizza Detroit-Style Slice,,450,21,7,0,50,870,40,3,<1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Aloha BBQ Chicken - 8 Corner Pizza Detroit-Style Slice,,410,14,4.5,0,40,790,49,2,13,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,BBQ Chicken - 8 Corner Pizza Detroit-Style Slice,,400,14,4.5,0,40,790,48,1,11,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,BLT - 8 Corner Pizza Detroit-Style Slice,,450,24,6,0,35,630,37,2,1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Buffalo Ranch Chicken - 8 Corner Pizza Detroit-Style Slice,,400,17,5,0,45,840,37,1,1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Cheese - 8 Corner Pizza Detroit-Style Slice,,370,14,5,0,25,600,40,2,<1,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Chicken Bacon Ranch - 8 Corner Pizza Detroit-Style Slice,,430,20,7,0,60,730,36,1,<1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Eugene Supreme - 8 Corner Pizza Detroit-Style Slice,,380,15,4.5,0,25,680,42,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Hawaiian - 8 Corner Pizza Detroit-Style Slice,,390,15,5,0,35,730,42,3,3,,20,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Jet 10 - 8 Corner Pizza Detroit-Style Slice,,400,17,5,0,35,790,41,3,1,,19,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Super Special - 8 Corner Pizza Detroit-Style Slice,,370,14,4.5,0,25,690,41,3,2,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Ultimate Pepperoni - 8 Corner Pizza Detroit-Style Slice,,450,23,8,0,45,970,40,2,<1,,21,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,8 Corner Detroit-Style Pizza Slices,Veggie - 8 Corner Pizza Detroit-Style Slice,,350,12,4,0,20,620,41,3,2,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,All Meaty - Gluten-Free Slice,,260,11,4,0,25,710,28,2,2,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Aloha BBQ Chicken - Gluten-Free Slice,,260,7,3,0,30,730,35,1,11,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,BBQ Chicken - Gluten-Free Slice,,250,7,3,0,30,730,34,1,10,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,BLT - Gluten-Free Slice,,260,13,4,0,25,580,25,1,2,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Buffalo Ranch Chicken - Gluten-Free Slice,,250,10,3.5,0,30,770,26,1,2,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Cheese - Gluten-Free Slice,,200,6,2.5,0,10,520,28,2,2,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Chicken Bacon Ranch - Gluten-Free Slice,,290,13,5,0,45,720,25,<1,2,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Eugene Supreme - Gluten-Free Slice,,230,8,3,0,20,630,30,3,3,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Hawaiian - Gluten-Free Slice,,210,6,2.5,0,15,580,29,2,3,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Jet 10 - Gluten-Free Slice,,240,9,3,0,20,710,29,2,3,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Super Special - Gluten-Free Slice,,210,7,2.5,0,15,600,28,2,3,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Ultimate Pepperoni - Gluten-Free Slice,,270,12,5,0,30,800,28,2,2,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Gluten-Free Slices,Veggie - Gluten-Free Slice,,200,5,2,0,10,540,29,2,3,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,*Build Your Own 1-2 Topping Cauliflower Crust Slice,,170,7,4,0,20,420,16,2,2,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,*Build Your Own 3+ Topping Cauliflower Crust Slice,,160,6,3.5,0,20,400,16,2,2,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,All Meaty - Cauliflower Crust Slice,,230,12,5,0,35,610,16,2,2,,13,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Aloha BBQ Chicken - Cauliflower Crust Slice,,230,8,4.5,0,40,630,23,<1,11,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,BBQ Chicken - Cauliflower Crust Slice,,230,8,4.5,0,40,630,22,<1,9,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,BLT - Cauliflower Crust Slice,,230,14,6,0,35,480,13,<1,2,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Buffalo Ranch Chicken - Cauliflower Crust Slice,,220,11,5,0,40,670,14,<1,2,,15,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Cheese - Cauliflower Crust Slice,,170,7,4,0,20,420,16,2,2,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Chicken Bacon Ranch - Cauliflower Crust Slice,,260,14,7,0,55,620,13,<1,1,,17,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Eugene Supreme - Cauliflower Crust Slice,,210,9,4.5,0,25,530,18,2,2,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Hawaiian - Cauliflower Crust Slice,,180,7,4,0,25,500,16,2,2,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Jet 10 - Cauliflower Crust Slice,,220,10,4.5,0,30,610,17,2,2,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Super Special - Cauliflower Crust Slice,,180,8,4,0,25,500,16,2,2,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Ultimate Pepperoni - Cauliflower Crust Slice,,240,13,6,0,35,700,16,1,2,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Seasoned Cauliflower Crust Slices,Veggie - Cauliflower Crust Slice,,170,6,3.5,0,20,440,16,2,2,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Pizza by the Slice,Cheese and Pepperoni Slice,,490,19,6,0,30,800,57,3,1,,23,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Pizza by the Slice,Cheese Only Slice,,460,16,5,0,25,700,57,3,1,,22,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Medium Antipasto Salad,,170,10,4,0,30,670,6,2,4,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Medium Garden Salad,,110,6,2.5,0,15,210,7,2,4,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Medium Greek Salad,,100,5,1.5,0,10,730,8,2,5,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Party Size Antipasto Salad,,120,8,2.5,0,20,490,3,1,2,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Party Size Garden Salad,,70,4,1.5,0,10,140,4,1,2,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Party Size Greek Salad,,80,4.5,1.5,0,10,600,6,1,3,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Small Antipasto Salad,,170,10,4.5,0,30,650,6,2,4,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Small Garden Salad,,100,5,2.5,0,15,180,7,2,4,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salads,Small Greek Salad,,90,4.5,1.5,0,10,690,8,2,5,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Small,"Catalina Dressing, Salad Dressings - Small",,80,7,1,0,0,260,5,0,5,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Small,"Fat Free Raspberry Vinaigrette, Salad Dressings - Small",,20,0,0,0,0,190,5,0,5,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Small,"Greek Dressing, Salad Dressings - Small",,230,23,4,0,0,135,6,0,4,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Small,"Italian Dressing, Salad Dressings - Small",,260,28,4,0,0,400,2,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Small,"Ranch Dressing, Salad Dressings - Small",,210,23,4,0,5,210,1,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Medium,"Catalina Dressing, Salad Dressings - Medium",,110,9,1.5,0,0,350,7,0,6,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Medium,"Fat Free Raspberry Vinaigrette, Salad Dressings - Medium",,25,0,0,0,0,250,6,0,6,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Medium,"Greek Dressing, Salad Dressings - Medium",,300,30,5,0,0,180,7,0,5,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Medium,"Italian Dressing, Salad Dressings - Medium",,340,38,5,0,0,530,2,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Medium,"Ranch Dressing, Salad Dressings - Medium",,280,31,5,0,5,280,1,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Party Size,"Catalina Dressing, Salad Dressings - Party Size",,110,9,1.5,0,0,350,7,0,6,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Party Size,"Fat Free Raspberry Vinaigrette, Salad Dressings - Party Size",,25,0,0,0,0,250,6,0,6,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Party Size,"Greek Dressing, Salad Dressings - Party Size",,90,9,1.5,0,0,55,2,0,2,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Party Size,"Italian Dressing, Salad Dressings - Party Size",,100,11,1.5,0,0,160,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Party Size,"Ranch Dressing, Salad Dressings - Party Size",,90,9,1.5,0,<5,85,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Bottle,"Cajun Ranch, Salad Dressings - Bottle",,1240,133,22,0,30,4220,6,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Bottle,"Greek Dressing, Salad Dressings - Bottle",,1360,135,24,0,0,800,33,0,24,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Bottle,"Italian Dressing, Salad Dressings - Bottle",,1540,170,23,0,0,2390,10,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Dressings - Bottle,"Ranch Dressing, Salad Dressings - Bottle",,1280,138,23,0,35,1280,7,0,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sidekicks,Boneless Wings,,50,2,0,0,10,170,3,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sidekicks,Deep Dish Bread,,130,6,1.5,0,5,160,13,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sidekicks,Jet's Bread,,130,4,1.5,0,5,170,17,<1,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sidekicks,Jet's Triple Cheese Turbo Stix,,140,7,2.5,0,10,180,13,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sidekicks,Traditional Wings,,80,6,1.5,0,20,125,1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,*Plain (No Sauce),,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,"BBQ, Wing Sauce - Traditional Wings",,15,0,0,0,0,55,3,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,"Honey BBQ, Wing Sauce - Traditional Wings",,15,0,0,0,0,70,4,0,4,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,"Hot Buffalo, Wing Sauce - Traditional Wings",,0,0,0,0,0,210,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,"Mild Buffalo, Wing Sauce - Traditional Wings",,0,0,0,0,0,210,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Traditional Wings,"Sweet Red Chili, Wing Sauce - Traditional Wings",,15,0,0,0,0,75,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,*Plain (No Sauce),,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,"BBQ, Wing Sauce - Boneless Wings",,10,0,0,0,0,45,3,0,2,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,"Honey BBQ, Wing Sauce - Boneless Wings",,15,0,0,0,0,55,3,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,"Hot Buffalo, Wing Sauce - Boneless Wings",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,"Mild Buffalo, Wing Sauce - Boneless Wings",,0,0,0,0,0,170,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Wing Sauce - Boneless Wings,"Sweet Red Chili, Wing Sauce - Boneless Wings",,10,0,0,0,0,60,3,0,2,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Jet's Boats,Cheese Only Jet's Boat,,710,22,8,0,35,1140,88,5,2,,36,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Deli Boats,Ham & Cheese Deli Boat,,990,54,13,0,60,1830,83,3,3,,41,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Deli Boats,Italian Deli Boat,,1090,63,16,0,75,2150,84,3,4,,44,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Deli Boats,Veggie Deli Boat,,990,54,12,0,30,1600,88,5,5,,33,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Dipping Sauces,Butter Garlic Dipping Sauce,,190,21,3.5,0,0,320,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Dipping Sauces,"Cajun Ranch, Dipping Sauces",,410,44,7,0,10,1410,2,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Dipping Sauces,Mike's Hot Honey Dipping Sauce,,70,0,0,0,0,0,17,0,16,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Dipping Sauces,"Pizza Sauce, Dipping Sauces",,80,0,0,0,0,510,17,4,1,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Dipping Sauces,"Ranch Dressing, Dipping Sauces",,430,46,8,0,10,430,2,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Desserts,Chocolate Chip Brownie,,150,7,1.5,0,0,45,20,<1,14,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Desserts,Chocolate Chip Cookie,,150,8,3.5,0,0,105,18,<1,9,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Desserts,Cinnamon Stix,,120,3,0,0,0,75,22,<1,8,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Small,"10"" Thin",,110,4,0.5,0,0,40,16,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Small,Cauliflower Crust,,90,3,1.5,0,10,190,12,<1,1,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Small,"Deep Dish, Crust - Small",,240,6,0,0,0,200,39,1,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Small,Gluten Free Crust,,120,2,0,0,0,280,24,<1,2,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Small,"Hand Tossed, Crust - Small",,210,1.5,0,0,0,210,39,1,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Large,"14"" Thin",,120,4.5,0.5,0,0,45,19,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Large,"Deep Dish, Crust - Large",,210,5,0,0,0,170,34,1,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Large,"Hand Tossed, Crust - Large",,180,1,0,0,0,180,34,1,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Large NY Style,"Hand Tossed, Crust - Large NY Style",,140,1,0,0,0,140,26,<1,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - X-Large or Party Tray,"Deep Dish, Crust - X-Large or Party Tray",,210,5,0,0,0,170,34,1,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - 4 Corner Pizza or 8 Corner Pizza,"Deep Dish, Crust - 4 Corner Pizza or 8 Corner Pizza",,240,6,0,0,0,200,39,1,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust - Jet's Boat,"Hand Tossed, Crust - Jet's Boat",,420,3,0,0,0,420,78,3,<1,,18,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Deep Dish or Hand Tossed,"BBQ, Sauces - Small Deep Dish or Hand Tossed",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Deep Dish or Hand Tossed,"Mild Buffalo, Sauces - Small Deep Dish or Hand Tossed",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Deep Dish or Hand Tossed,"Pizza Sauce, Sauces - Small Deep Dish or Hand Tossed",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Deep Dish or Hand Tossed,"Ranch Dressing, Sauces - Small Deep Dish or Hand Tossed",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Thin Crust,"BBQ, Sauces - Small Thin Crust",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Thin Crust,"Mild Buffalo, Sauces - Small Thin Crust",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Thin Crust,"Pizza Sauce, Sauces - Small Thin Crust",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Small Thin Crust,"Ranch Dressing, Sauces - Small Thin Crust",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Medium Hand Tossed,"BBQ, Sauces - Medium Hand Tossed",,30,0,0,0,0,130,8,0,7,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Medium Hand Tossed,"Mild Buffalo, Sauces - Medium Hand Tossed",,0,0,0,0,0,140,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Medium Hand Tossed,"Pizza Sauce, Sauces - Medium Hand Tossed",,15,0,0,0,0,95,3,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Medium Hand Tossed,"Ranch Dressing, Sauces - Medium Hand Tossed",,25,3,0,0,0,25,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Deep Dish or Hand Tossed,"BBQ, Sauces - Large Deep Dish or Hand Tossed",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Deep Dish or Hand Tossed,"Mild Buffalo, Sauces - Large Deep Dish or Hand Tossed",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Deep Dish or Hand Tossed,"Pizza Sauce, Sauces - Large Deep Dish or Hand Tossed",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Deep Dish or Hand Tossed,"Ranch Dressing, Sauces - Large Deep Dish or Hand Tossed",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Thin Crust,"BBQ, Sauces - Large Thin Crust",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Thin Crust,"Mild Buffalo, Sauces - Large Thin Crust",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Thin Crust,"Pizza Sauce, Sauces - Large Thin Crust",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large Thin Crust,"Ranch Dressing, Sauces - Large Thin Crust",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large NY Style,"BBQ, Sauces - Large NY Style",,60,0,0,0,0,230,14,0,13,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large NY Style,"Mild Buffalo, Sauces - Large NY Style",,0,0,0,0,0,250,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large NY Style,"Pizza Sauce, Sauces - Large NY Style",,25,0,0,0,0,170,6,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Large NY Style,"Ranch Dressing, Sauces - Large NY Style",,45,5,1,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - X-Large Deep Dish or Party Tray,"BBQ, Sauces - X-Large Deep Dish or Party Tray",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - X-Large Deep Dish or Party Tray,"Mild Buffalo, Sauces - X-Large Deep Dish or Party Tray",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - X-Large Deep Dish or Party Tray,"Pizza Sauce, Sauces - X-Large Deep Dish or Party Tray",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - X-Large Deep Dish or Party Tray,"Ranch Dressing, Sauces - X-Large Deep Dish or Party Tray",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - 4 Corner Pizza or 8 Corner Pizza,"BBQ, Sauces - 4 Corner Pizza or 8 Corner Pizza",,40,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - 4 Corner Pizza or 8 Corner Pizza,"Mild Buffalo, Sauces - 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - 4 Corner Pizza or 8 Corner Pizza,"Pizza Sauce, Sauces - 4 Corner Pizza or 8 Corner Pizza",,20,0,0,0,0,130,4,1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - 4 Corner Pizza or 8 Corner Pizza,"Ranch Dressing, Sauces - 4 Corner Pizza or 8 Corner Pizza",,35,3.5,0.5,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Gluten-Free,"BBQ, Sauces - Gluten-Free",,35,0,0,0,0,140,9,0,8,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Gluten-Free,"Mild Buffalo, Sauces - Gluten-Free",,0,0,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Gluten-Free,"Pizza Sauce, Sauces - Gluten-Free",,15,0,0,0,0,105,3,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Sauces - Gluten-Free,"Ranch Dressing, Sauces - Gluten-Free",,30,3,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Deep Dish,"Cheddar, Cheeses - Small Deep Dish",,110,9,5,0,30,180,1,0,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Deep Dish,"Feta, Cheeses - Small Deep Dish",,60,4,2.5,0,15,370,1,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Deep Dish,"Premium Mozzarella, Cheeses - Small Deep Dish",,80,5,3,0,15,170,1,0,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Hand Tossed,"Cheddar, Cheeses - Small Hand Tossed",,140,11,6,0,40,230,1,0,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Hand Tossed,"Feta, Cheeses - Small Hand Tossed",,80,5,3,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Hand Tossed,"Premium Mozzarella, Cheeses - Small Hand Tossed",,100,6,4,0,20,210,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Thin Crust,"Cheddar, Cheeses - Small Thin Crust",,140,11,6,0,40,230,1,0,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Thin Crust,"Feta, Cheeses - Small Thin Crust",,80,5,3,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Small Thin Crust,"Premium Mozzarella, Cheeses - Small Thin Crust",,100,6,4,0,20,210,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Medium Hand Tossed,"Cheddar, Cheeses - Medium Hand Tossed",,100,8,4.5,0,25,160,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Medium Hand Tossed,"Feta, Cheeses - Medium Hand Tossed",,50,3.5,2,0,15,320,<1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Medium Hand Tossed,"Premium Mozzarella, Cheeses - Medium Hand Tossed",,70,4.5,2.5,0,15,150,<1,0,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Deep Dish,"Cheddar, Cheeses - Large Deep Dish",,170,14,8,0,45,270,2,0,0,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Deep Dish,"Feta, Cheeses - Large Deep Dish",,90,6,4,0,25,560,2,0,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Deep Dish,"Premium Mozzarella, Cheeses - Large Deep Dish",,120,8,4.5,0,25,260,2,0,0,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Hand Tossed,"Cheddar, Cheeses - Large Hand Tossed",,140,11,6,0,40,230,1,0,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Hand Tossed,"Feta, Cheeses - Large Hand Tossed",,80,5,3,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Hand Tossed,"Premium Mozzarella, Cheeses - Large Hand Tossed",,100,6,4,0,20,210,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Thin Crust,"Cheddar, Cheeses - Large Thin Crust",,140,11,6,0,40,230,1,0,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Thin Crust,"Feta, Cheeses - Large Thin Crust",,80,5,3,0,20,460,1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large Thin Crust,"Premium Mozzarella, Cheeses - Large Thin Crust",,100,6,4,0,20,210,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large NY Style,"Cheddar, Cheeses - Large NY Style",,170,14,8,0,45,270,2,0,0,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large NY Style,"Feta, Cheeses - Large NY Style",,90,6,4,0,25,560,2,0,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Large NY Style,"Premium Mozzarella, Cheeses - Large NY Style",,120,8,4.5,0,25,260,2,0,0,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - X-Large Deep Dish or Party Tray,"Cheddar, Cheeses - X-Large Deep Dish or Party Tray",,160,13,7,0,45,260,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - X-Large Deep Dish or Party Tray,"Feta, Cheeses - X-Large Deep Dish or Party Tray",,90,6,3.5,0,20,520,1,0,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - X-Large Deep Dish or Party Tray,"Premium Mozzarella, Cheeses - X-Large Deep Dish or Party Tray",,110,7,4.5,0,20,240,1,0,0,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - 4 Corner Pizza or 8 Corner Pizza,"Cheddar, Cheeses - 4 Corner Pizza or 8 Corner Pizza",,170,14,8,0,45,270,2,0,0,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - 4 Corner Pizza or 8 Corner Pizza,"Feta, Cheeses - 4 Corner Pizza or 8 Corner Pizza",,90,6,4,0,25,560,2,0,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - 4 Corner Pizza or 8 Corner Pizza,"Premium Mozzarella, Cheeses - 4 Corner Pizza or 8 Corner Pizza",,120,8,4.5,0,25,260,2,0,0,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Gluten Free,"Cheddar, Cheeses - Gluten Free",,80,7,4,0,25,135,<1,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Gluten Free,"Feta, Cheeses - Gluten Free",,45,3,2,0,10,280,<1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Gluten Free,"Premium Mozzarella, Cheeses - Gluten Free",,60,4,2.5,0,10,130,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Anchovies, Small Deep Dish or Hand Tossed",,5,0,0,0,<5,240,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Bacon, Small Deep Dish or Hand Tossed",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Black Olives, Small Deep Dish or Hand Tossed",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Bold Pepperoni, Small Deep Dish or Hand Tossed",,50,4.5,1.5,0,10,210,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Greek Olives, Sliced, Small Deep Dish or Hand Tossed",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Green Peppers, Small Deep Dish or Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Grilled Chicken, Small Deep Dish or Hand Tossed",,30,0.5,0,0,15,150,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Ham, Small Deep Dish or Hand Tossed",,10,0.5,0,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Hamburger, Small Deep Dish or Hand Tossed",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Italian Sausage, Small Deep Dish or Hand Tossed",,80,7,1.5,0,15,140,1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Jalapenos, Small Deep Dish or Hand Tossed",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Mild Peppers, Small Deep Dish or Hand Tossed",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Mushrooms, Small Deep Dish or Hand Tossed",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Onions, Small Deep Dish or Hand Tossed",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Pepperoni, Small Deep Dish or Hand Tossed",,40,3.5,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Pineapple, Small Deep Dish or Hand Tossed",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Red Onions, Small Deep Dish or Hand Tossed",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Shredded Pepperoni, Small Deep Dish or Hand Tossed",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Deep Dish or Hand Tossed,"Tomatoes, Small Deep Dish or Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Anchovies, Small Thin Crust",,5,0,0,0,<5,240,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Bacon, Small Thin Crust",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Black Olives, Small Thin Crust",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Bold Pepperoni, Small Thin Crust",,50,4.5,1.5,0,10,210,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Greek Olives, Sliced, Small Thin Crust",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Green Peppers, Small Thin Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Grilled Chicken, Small Thin Crust",,30,0.5,0,0,15,150,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Ham, Small Thin Crust",,10,0.5,0,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Hamburger, Small Thin Crust",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Italian Sausage, Small Thin Crust",,80,7,1.5,0,15,140,1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Jalapenos, Small Thin Crust",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Mild Peppers, Small Thin Crust",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Mushrooms, Small Thin Crust",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Onions, Small Thin Crust",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Pepperoni, Small Thin Crust",,40,3.5,1.5,0,10,140,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Pineapple, Small Thin Crust",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Red Onions, Small Thin Crust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Shredded Pepperoni, Small Thin Crust",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Small Thin Crust,"Tomatoes, Small Thin Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Anchovies, Medium Hand Tossed",,0,0,0,0,<5,140,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Bacon, Medium Hand Tossed",,45,3,1.5,0,15,150,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Black Olives, Medium Hand Tossed",,20,1.5,0,0,0,115,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Bold Pepperoni, Medium Hand Tossed",,30,3,1,0,5,135,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Greek Olives, Sliced, Medium Hand Tossed",,30,3,0,0,0,270,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Green Peppers, Medium Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Grilled Chicken, Medium Hand Tossed",,25,0.5,0,0,10,125,<1,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Ham, Medium Hand Tossed",,5,0,0,0,<5,60,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Hamburger, Medium Hand Tossed",,30,2,1,0,5,70,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Italian Sausage, Medium Hand Tossed",,70,6,1.5,0,15,120,1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Jalapenos, Medium Hand Tossed",,0,0,0,0,0,105,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Mild Peppers, Medium Hand Tossed",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Mushrooms, Medium Hand Tossed",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Onions, Medium Hand Tossed",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Pepperoni, Medium Hand Tossed",,20,2,1,0,<5,85,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Pineapple, Medium Hand Tossed",,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Red Onions, Medium Hand Tossed",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Shredded Pepperoni, Medium Hand Tossed",,45,4.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Medium Hand Tossed,"Tomatoes, Medium Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Anchovies, Large Deep Dish or Hand Tossed",,5,0,0,0,<5,240,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Bacon, Large Deep Dish or Hand Tossed",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Black Olives, Large Deep Dish or Hand Tossed",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Bold Pepperoni, Large Deep Dish or Hand Tossed",,45,4,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Greek Olives, Sliced, Large Deep Dish or Hand Tossed",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Green Peppers, Large Deep Dish or Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Grilled Chicken, Large Deep Dish or Hand Tossed",,35,0.5,0,0,20,180,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Ham, Large Deep Dish or Hand Tossed",,10,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Hamburger, Large Deep Dish or Hand Tossed",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Italian Sausage, Large Deep Dish or Hand Tossed",,80,7,1.5,0,15,140,1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Jalapenos, Large Deep Dish or Hand Tossed",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Mild Peppers, Large Deep Dish or Hand Tossed",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Mushrooms, Large Deep Dish or Hand Tossed",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Onions, Large Deep Dish or Hand Tossed",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Pepperoni, Large Deep Dish or Hand Tossed",,35,3,1,0,5,125,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Pineapple, Large Deep Dish or Hand Tossed",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Red Onions, Large Deep Dish or Hand Tossed",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Shredded Pepperoni, Large Deep Dish or Hand Tossed",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Deep Dish or Hand Tossed,"Tomatoes, Large Deep Dish or Hand Tossed",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Anchovies, Large Thin Crust",,5,0,0,0,<5,240,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Bacon, Large Thin Crust",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Black Olives, Large Thin Crust",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Bold Pepperoni, Large Thin Crust",,45,4,1.5,0,10,180,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Greek Olives, Sliced, Large Thin Crust",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Green Peppers, Large Thin Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Grilled Chicken, Large Thin Crust",,35,0.5,0,0,20,180,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Ham, Large Thin Crust",,10,0,0,0,<5,80,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Hamburger, Large Thin Crust",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Italian Sausage, Large Thin Crust",,80,7,1.5,0,15,140,1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Jalapenos, Large Thin Crust",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Mild Peppers, Large Thin Crust",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Mushrooms, Large Thin Crust",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Onions, Large Thin Crust",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Pepperoni, Large Thin Crust",,35,3,1,0,5,125,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Pineapple, Large Thin Crust",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Red Onions, Large Thin Crust",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Shredded Pepperoni, Large Thin Crust",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large Thin Crust,"Tomatoes, Large Thin Crust",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Anchovies, Large NY Style",,10,0,0,0,5,290,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Bacon, Large NY Style",,80,5,2.5,0,25,270,0,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Black Olives, Large NY Style",,40,2.5,0,0,0,200,0,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Bold Pepperoni, Large NY Style",,60,5,2,0,10,240,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Greek Olives, Sliced, Large NY Style",,60,6,0,0,0,480,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Green Peppers, Large NY Style",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Grilled Chicken, Large NY Style",,45,1,0,0,25,230,1,0,0,,9,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Ham, Large NY Style",,15,0.5,0,0,5,110,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Hamburger, Large NY Style",,50,3.5,1.5,0,10,125,<1,<1,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Italian Sausage, Large NY Style",,110,9,2.5,0,25,190,2,<1,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Jalapenos, Large NY Style",,0,0,0,0,0,190,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Mild Peppers, Large NY Style",,0,0,0,0,0,180,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Mushrooms, Large NY Style",,5,0,0,0,0,85,<1,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Onions, Large NY Style",,10,0,0,0,0,0,2,<1,2,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Pepperoni, Large NY Style",,40,4,1.5,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Pineapple, Large NY Style",,20,0,0,0,0,0,5,0,4,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Red Onions, Large NY Style",,10,0,0,0,0,0,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Shredded Pepperoni, Large NY Style",,80,8,3,0,20,300,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Large NY Style,"Tomatoes, Large NY Style",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Anchovies, X-Large Deep Dish or Party Tray",,5,0,0,0,<5,200,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Bacon, X-Large Deep Dish or Party Tray",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Black Olives, X-Large Deep Dish or Party Tray",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Bold Pepperoni, X-Large Deep Dish or Party Tray",,40,3.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Greek Olives, Sliced, X-Large Deep Dish or Party Tray",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Green Peppers, X-Large Deep Dish or Party Tray",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Grilled Chicken, X-Large Deep Dish or Party Tray",,30,0.5,0,0,15,150,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Ham, X-Large Deep Dish or Party Tray",,10,0,0,0,<5,75,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Hamburger, X-Large Deep Dish or Party Tray",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Italian Sausage, X-Large Deep Dish or Party Tray",,70,6,1.5,0,15,125,1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Jalapenos, X-Large Deep Dish or Party Tray",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Mild Peppers, X-Large Deep Dish or Party Tray",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Mushrooms, X-Large Deep Dish or Party Tray",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Onions, X-Large Deep Dish or Party Tray",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Pepperoni, X-Large Deep Dish or Party Tray",,30,3,1,0,5,115,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Pineapple, X-Large Deep Dish or Party Tray",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Red Onions, X-Large Deep Dish or Party Tray",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Shredded Pepperoni, X-Large Deep Dish or Party Tray",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - X-Large Deep Dish or Party Tray,"Tomatoes, X-Large Deep Dish or Party Tray",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Anchovies, 4 Corner Pizza or 8 Corner Pizza",,5,0,0,0,<5,240,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Bacon, 4 Corner Pizza or 8 Corner Pizza",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Black Olives, 4 Corner Pizza or 8 Corner Pizza",,30,2,0,0,0,150,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Bold Pepperoni, 4 Corner Pizza or 8 Corner Pizza",,50,4.5,1.5,0,10,210,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Greek Olives, Sliced, 4 Corner Pizza or 8 Corner Pizza",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Green Peppers, 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Grilled Chicken, 4 Corner Pizza or 8 Corner Pizza",,30,0.5,0,0,15,150,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Ham, 4 Corner Pizza or 8 Corner Pizza",,10,0.5,0,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Hamburger, 4 Corner Pizza or 8 Corner Pizza",,40,3,1,0,5,95,<1,<1,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Italian Sausage, 4 Corner Pizza or 8 Corner Pizza",,80,7,1.5,0,15,140,1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Jalapenos, 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Mild Peppers, 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Mushrooms, 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,60,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Onions, 4 Corner Pizza or 8 Corner Pizza",,5,0,0,0,0,0,2,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Pepperoni, 4 Corner Pizza or 8 Corner Pizza",,35,3,1.5,0,5,130,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Pineapple, 4 Corner Pizza or 8 Corner Pizza",,15,0,0,0,0,0,4,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Red Onions, 4 Corner Pizza or 8 Corner Pizza",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Shredded Pepperoni, 4 Corner Pizza or 8 Corner Pizza",,60,6,2.5,0,15,230,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - 4 Corner Pizza or 8 Corner Pizza,"Tomatoes, 4 Corner Pizza or 8 Corner Pizza",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Anchovies, Gluten Free",,5,0,0,0,<5,200,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Bacon, Gluten Free",,45,3,1.5,0,15,150,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Black Olives, Gluten Free",,20,1.5,0,0,0,115,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Bold Pepperoni, Gluten Free",,35,3.5,1.5,0,10,150,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Greek Olives, Sliced, Gluten Free",,40,4,0,0,0,360,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Green Peppers, Gluten Free",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Grilled Chicken, Gluten Free",,25,0.5,0,0,10,125,<1,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Ham, Gluten Free",,10,0,0,0,<5,70,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Hamburger, Gluten Free",,30,2,1,0,5,70,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Italian Sausage, Gluten Free",,50,4.5,1,0,10,95,<1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Jalapenos, Gluten Free",,0,0,0,0,0,105,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Mild Peppers, Gluten Free",,0,0,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Mushrooms, Gluten Free",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Onions, Gluten Free",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Pepperoni, Gluten Free",,30,2.5,1,0,5,105,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Pineapple, Gluten Free",,10,0,0,0,0,0,3,0,3,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Red Onions, Gluten Free",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Shredded Pepperoni, Gluten Free",,45,4.5,1.5,0,10,170,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Gluten Free,"Tomatoes, Gluten Free",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,"Butter, Crust Flavors - Small Deep Dish or Hand Tossed",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,"Cajun, Crust Flavors - Small Deep Dish or Hand Tossed",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,"Romano, Crust Flavors - Small Deep Dish or Hand Tossed",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,"Sesame Seed, Crust Flavors - Small Deep Dish or Hand Tossed",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Deep Dish or Hand Tossed,"Turbo Crust, Crust Flavors - Small Deep Dish or Hand Tossed",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,"Butter, Crust Flavors - Small Thin Crust",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,"Cajun, Crust Flavors - Small Thin Crust",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,"Romano, Crust Flavors - Small Thin Crust",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,"Sesame Seed, Crust Flavors - Small Thin Crust",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Small Thin Crust,"Turbo Crust, Crust Flavors - Small Thin Crust",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,"Butter, Crust Flavors - Medium Hand Tossed",,0,0.5,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,"Cajun, Crust Flavors - Medium Hand Tossed",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,"Romano, Crust Flavors - Medium Hand Tossed",,0,0,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,"Sesame Seed, Crust Flavors - Medium Hand Tossed",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Medium Hand Tossed,"Turbo Crust, Crust Flavors - Medium Hand Tossed",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,"Butter, Crust Flavors - Large Deep Dish or Hand Tossed",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,"Cajun, Crust Flavors - Large Deep Dish or Hand Tossed",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,"Romano, Crust Flavors - Large Deep Dish or Hand Tossed",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,"Sesame Seed, Crust Flavors - Large Deep Dish or Hand Tossed",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Deep Dish or Hand Tossed,"Turbo Crust, Crust Flavors - Large Deep Dish or Hand Tossed",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,"Butter, Crust Flavors - Large Thin Crust",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,"Cajun, Crust Flavors - Large Thin Crust",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,"Romano, Crust Flavors - Large Thin Crust",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,"Sesame Seed, Crust Flavors - Large Thin Crust",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large Thin Crust,"Turbo Crust, Crust Flavors - Large Thin Crust",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,"Butter, Crust Flavors - Large NY Style",,10,1,0,0,0,10,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,"Cajun, Crust Flavors - Large NY Style",,0,0,0,0,0,160,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,"Romano, Crust Flavors - Large NY Style",,10,0,0,0,0,30,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,"Sesame Seed, Crust Flavors - Large NY Style",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Large NY Style,"Turbo Crust, Crust Flavors - Large NY Style",,15,0.5,0,0,0,5,3,0,<1,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,"Butter, Crust Flavors - X-Large Deep Dish or Party Tray",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,"Cajun, Crust Flavors - X-Large Deep Dish or Party Tray",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,"Romano, Crust Flavors - X-Large Deep Dish or Party Tray",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,"Sesame Seed, Crust Flavors - X-Large Deep Dish or Party Tray",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - X-Large Deep Dish or Party Tray,"Turbo Crust, Crust Flavors - X-Large Deep Dish or Party Tray",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,"Butter, Crust Flavors - 4 Corner PIzza or 8 Corner Pizza",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,"Cajun, Crust Flavors - 4 Corner PIzza or 8 Corner Pizza",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,"Romano, Crust Flavors - 4 Corner PIzza or 8 Corner Pizza",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,"Sesame Seed, Crust Flavors - 4 Corner PIzza or 8 Corner Pizza",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - 4 Corner PIzza or 8 Corner Pizza,"Turbo Crust, Crust Flavors - 4 Corner PIzza or 8 Corner Pizza",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,"Butter, Crust Flavors - Gluten Free",,10,1,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,"Cajun, Crust Flavors - Gluten Free",,0,0,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,Garlic,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,"Romano, Crust Flavors - Gluten Free",,5,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,"Sesame Seed, Crust Flavors - Gluten Free",,5,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Crust Flavors - Gluten Free,"Turbo Crust, Crust Flavors - Gluten Free",,10,0,0,0,0,5,2,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Jet's Boat,"Cheddar, Cheeses - Jet's Boat",,220,18,10,0,60,360,2,0,0,,14,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Jet's Boat,"Feta, Cheeses - Jet's Boat",,120,8,5,0,30,740,2,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Cheeses - Jet's Boat,"Premium Mozzarella, Cheeses - Jet's Boat",,160,10,6,0,30,340,2,0,0,,16,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Anchovies, Jet's Boat",,15,0.5,0,0,10,490,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Bacon, Jet's Boat",,120,8,4,0,40,400,0,0,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Black Olives, Jet's Boat",,60,4,0,0,0,300,0,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Bold Pepperoni, Jet's Boat",,100,9,3.5,0,20,410,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Greek Olives, Sliced, Jet's Boat",,80,8,0,0,0,720,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Green Peppers, Jet's Boat",,5,0,0,0,0,0,2,<1,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Grilled Chicken, Jet's Boat",,60,1.5,0,0,30,300,2,0,<1,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Ham, Jet's Boat",,20,1,0,0,10,180,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Hamburger, Jet's Boat",,80,6,2,0,15,190,1,1,<1,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Italian Sausage, Jet's Boat",,160,14,3.5,0,35,280,3,<1,0,,8,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Jalapenos, Jet's Boat",,5,0,0,0,0,280,1,1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Mild Peppers, Jet's Boat",,0,0,0,0,0,270,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Mushrooms, Jet's Boat",,10,0,0,0,0,125,1,<1,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Onions, Jet's Boat",,10,0,0,0,0,0,3,<1,2,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Pepperoni, Jet's Boat",,80,7,2.5,0,15,280,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Pineapple, Jet's Boat",,30,0,0,0,0,0,7,<1,7,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Red Onions, Jet's Boat",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Shredded Pepperoni, Jet's Boat",,130,12,4.5,0,30,450,0,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Boat,"Tomatoes, Jet's Boat",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Anchovies, Jet's Bread & Jetstix",,0,0,0,0,0,70,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Bacon, Jet's Bread & Jetstix",,20,1.5,0.5,0,5,65,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Black Olives, Jet's Bread & Jetstix",,10,0.5,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Bold Pepperoni, Jet's Bread & Jetstix",,15,1.5,0.5,0,<5,70,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Greek Olives, Sliced, Jet's Bread & Jetstix",,15,1.5,0,0,0,120,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Green Peppers, Jet's Bread & Jetstix",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Grilled Chicken, Jet's Bread & Jetstix",,10,0,0,0,<5,50,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Hamburger, Jet's Bread & Jetstix",,15,1,0,0,<5,30,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Italian Sausage, Jet's Bread & Jetstix",,25,2.5,0.5,0,5,45,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Jalapenos, Jet's Bread & Jetstix",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Mild Peppers, Jet's Bread & Jetstix",,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Mushrooms, Jet's Bread & Jetstix",,0,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Onions, Jet's Bread & Jetstix",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Pepperoni, Jet's Bread & Jetstix",,10,1,0,0,<5,45,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Pineapple, Jet's Bread & Jetstix",,5,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Red Onions, Jet's Bread & Jetstix",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Shredded Pepperoni, Jet's Bread & Jetstix",,20,2,1,0,5,75,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Toppings - Jet's Bread & Jetstix,"Tomatoes, Jet's Bread & Jetstix",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Anchovies, Salad Toppings - Small",,10,0,0,0,5,290,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Bacon, Salad Toppings - Small",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,Beets,,0,0,0,0,0,25,<1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Black Olives, Salad Toppings - Small",,15,1,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Bold Pepperoni, Salad Toppings - Small",,60,5,2,0,10,230,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Cheddar, Salad Toppings - Small",,60,4.5,2.5,0,15,90,<1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Feta, Salad Toppings - Small",,35,2.5,1.5,0,10,210,<1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Grape Tomatoes, Salad Toppings - Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Greek Olives, Sliced, Salad Toppings - Small",,20,2,0,0,0,180,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Green Peppers, Salad Toppings - Small",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Grilled Chicken, Salad Toppings - Small",,40,1,0,0,20,200,<1,0,0,,7,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Ham, Salad Toppings - Small",,20,1,0,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Jalapenos, Salad Toppings - Small",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Jet's Boneless Chicken, Salad Toppings - Small",,60,2.5,0,0,15,200,4,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Mild Peppers, Salad Toppings - Small",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Onions, Salad Toppings - Small",,0,0,0,0,0,0,<1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Pepperoncini, Salad Toppings - Small",,0,0,0,0,0,260,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Pepperoni, Salad Toppings - Small",,35,3,1.5,0,5,130,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Premium Mozzarella, Salad Toppings - Small",,45,3,1.5,0,10,95,<1,0,0,,5,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Provolone, Salad Toppings - Small",,30,2.5,1.5,0,5,80,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Red Onions, Salad Toppings - Small",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Small,"Salami, Salad Toppings - Small",,70,6,2,0,15,310,<1,0,<1,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Anchovies, Salad Toppings - Medium",,10,0,0,0,5,290,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Bacon, Salad Toppings - Medium",,60,4,2,0,20,200,0,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,Beets,,0,0,0,0,0,25,<1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Black Olives, Salad Toppings - Medium",,20,1.5,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Bold Pepperoni, Salad Toppings - Medium",,50,5,2,0,10,210,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Cheddar, Salad Toppings - Medium",,60,4.5,2.5,0,15,90,<1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Feta, Salad Toppings - Medium",,30,2,1.5,0,10,190,<1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Grape Tomatoes, Salad Toppings - Medium",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Greek Olives, Sliced, Salad Toppings - Medium",,30,3,0,0,0,240,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Green Peppers, Salad Toppings - Medium",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Grilled Chicken, Salad Toppings - Medium",,50,1,0,0,25,270,1,0,0,,10,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Ham, Salad Toppings - Medium",,20,1,0,0,10,150,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Jalapenos, Salad Toppings - Medium",,0,0,0,0,0,140,<1,<1,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Jet's Boneless Chicken, Salad Toppings - Medium",,120,4.5,1,0,25,390,8,<1,0,,11,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Mild Peppers, Salad Toppings - Medium",,0,0,0,0,0,135,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Onions, Salad Toppings - Medium",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Pepperoncini, Salad Toppings - Medium",,0,0,0,0,0,260,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Pepperoni, Salad Toppings - Medium",,35,3,1.5,0,5,130,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Premium Mozzarella, Salad Toppings - Medium",,40,2.5,1.5,0,10,85,<1,0,0,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Provolone, Salad Toppings - Medium",,30,2.5,1.5,0,5,80,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Red Onions, Salad Toppings - Medium",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Medium,"Salami, Salad Toppings - Medium",,70,6,2,0,15,310,<1,0,<1,,4,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Anchovies, Salad Toppings - Party Tray",,0,0,0,0,<5,135,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Bacon, Salad Toppings - Party Tray",,30,2,1,0,10,110,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,Beets,,0,0,0,0,0,25,<1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Black Olives, Salad Toppings - Party Tray",,20,1.5,0,0,0,100,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Bold Pepperoni, Salad Toppings - Party Tray",,25,2.5,1,0,5,100,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Cheddar, Salad Toppings - Party Tray",,35,3,1.5,0,10,60,0,0,0,,2,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Feta, Salad Toppings - Party Tray",,35,2.5,1.5,0,10,220,<1,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Grape Tomatoes, Salad Toppings - Party Tray",,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Greek Olives, Sliced, Salad Toppings - Party Tray",,20,2,0,0,0,190,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Green Peppers, Salad Toppings - Party Tray",,0,0,0,0,0,0,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Grilled Chicken, Salad Toppings - Party Tray",,30,0.5,0,0,15,160,<1,0,0,,6,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Ham, Salad Toppings - Party Tray",,10,0.5,0,0,<5,90,0,0,0,,1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Jalapenos, Salad Toppings - Party Tray",,0,0,0,0,0,85,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Mild Peppers, Salad Toppings - Party Tray",,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Onions, Salad Toppings - Party Tray",,0,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Pepperoncini, Salad Toppings - Party Tray",,0,0,0,0,0,160,<1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Pepperoni, Salad Toppings - Party Tray",,15,1.5,0.5,0,<5,60,0,0,0,,<1,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Premium Mozzarella, Salad Toppings - Party Tray",,30,2,1,0,5,60,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Provolone, Salad Toppings - Party Tray",,160,12,7,0,35,410,1,0,0,,12,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Red Onions, Salad Toppings - Party Tray",,0,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27
+jetspizza,Salad Toppings - Party Tray,"Salami, Salad Toppings - Party Tray",,45,4,1.5,0,10,210,0,0,0,,3,,,https://www.nutritionix.com/jets-pizza/menu/premium,2026-10-27

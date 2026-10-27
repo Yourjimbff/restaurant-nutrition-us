@@ -1,0 +1,782 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+perkins,Farm Fresh Omelets,Build Your Own Omelet,,230,17,5,0,645,200,3,0,0,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Farm Fresh Omelets,Farmer's Omelet,,660,54,22,0,705,930,8,<1,2,,39,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Farm Fresh Omelets,Granny's Country Omelet,,640,41,16,0,700,1420,34,3,5,,36,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Farm Fresh Omelets,Meat 'n Potatoes Omelet,,1030,79,29,0,715,1960,35,3,4,,47,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Farm Fresh Omelets,The Everything Omelet,,550,40,16,0,705,850,14,2,5,,37,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, American Cheese, Shredded",,170,14,8,0,45,240,<1,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Avocado",,100,9,1,0,0,0,6,2,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Bacon, Applewood Smoked",,35,3,1,0,10,125,0,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Cheddar Cheese, Shredded",,170,14,8,0,45,270,<1,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Cheese, Swiss - 2 slices",,170,12,8,0,40,170,2,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Diced Ham",,140,11,4,0,15,490,2,0,2,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Egg Whites - 2",,80,3.5,0.5,0,0,150,<1,0,0,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Egg Whites - 3",,110,3.5,0.5,0,0,230,2,0,0,,15,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Fresh Mushrooms",,5,0,0,0,0,0,1,<1,<1,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Fresh Spinach",,20,0,0,0,0,45,2,1,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Green Bell Peppers",,5,0,0,0,0,0,1,<1,<1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Hollandaise Sauce",,110,8,5,0,15,440,9,0,2,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Jalapeno Peppers",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Onions",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Pepper Jack Cheese, Shredded",,150,12,8,0,45,260,2,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Pork Sausage",,210,21,8,0,0,240,<1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Salsa, Medium",,10,0,0,0,0,190,2,1,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Three Large Fresh Eggs",,200,14,4.5,0,645,200,3,0,0,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Tomatoes, Diced",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Turkey Bacon (4 slices)",,100,6,0,0,40,640,0,0,0,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build Your Own Omelet,"Build Your Own Omelet, Turkey Sausage",,120,10,2.5,0,35,190,1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,3 Potato Pancakes,,490,30,10,0,115,1080,46,3,10,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Belgian Waffle,,410,21,9,0,130,1030,49,2,8,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Belgian Waffle Platter,,570,33,13,0,560,1160,51,2,8,,19,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Blueberry Pancakes (3),,520,21,6,0,55,1730,73,1,19,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,"Brioche French Toast, 2 Slices",,590,26,9,0,290,730,63,2,16,,26,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,"Brioche French Toast, 3 Slices",,840,35,13,0,435,1030,93,3,23,,39,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Brioche French Toast Platter,,730,33,13,0,720,730,68,2,19,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Buttermilk Short Stack Pancakes (3),,490,21,6,0,55,1730,66,0,12,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Cinnamon Roll French Toast Platter,,760,40,17,0,660,940,73,3,21,,29,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Creamed Chipped Beef,,300,18,9,0,60,1100,18,0,10,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,"French Toast, 3 slices",,440,18,5,0,275,680,51,2,8,,19,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,French Toast Platter,,570,27,8,0,705,810,53,2,8,,31,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Pigs in a Blanket,,1000,67,22,0,485,2290,69,0,12,,29,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Potato Pancake Platter,,650,42,13,0,545,1210,48,3,10,,23,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Griddle Greats,Strawberry Topping,,90,0,0,0,0,30,23,<1,20,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Apricot Syrup, 2 oz.",,120,0,0,0,0,25,30,0,26,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Glazed Blueberries, 6 oz",,200,0,0,0,0,25,51,5,44,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Glazed Strawberries, 6 oz",,140,0,0,0,0,0,36,0,6,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Pancake Syrup, 2 oz",,140,0,0,0,0,50,35,0,29,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Sugar Free Pancake Syrup, 2 oz",,20,0,0,0,0,95,6,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Syrups & Toppings,"Twinberry Syrup, 2 oz",,120,0,0,0,0,35,31,0,25,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, 3 Blueberry Pancakes",,510,21,6,0,55,1690,71,1,18,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, 3 Buttermilk Pancakes",,490,21,6,0,55,1730,66,0,12,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Applewood Smoked Bacon, 2 slices",,70,6,2,0,15,250,0,0,0,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Applewood Smoked Bacon, 4 slices",,140,12,4,0,30,500,0,0,0,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Biscuits - 2",,600,31,24,0,0,2110,68,2,6,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Breakfast Potatoes",,280,17,3.5,0,0,470,30,3,0,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Cinnamon Roll",,660,30,15,0,<5,800,90,3,38,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Corned Beef Hash",,380,26,11,1,70,900,20,2,1,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Egg Beaters Exchange - 2 eggs",,80,3.5,0.5,0,0,210,2,0,<1,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Egg Beaters Exchange - 3 eggs",,100,3.5,0.5,0,0,310,2,0,1,,15,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, English Muffin",,180,6,2.5,0,0,430,28,1,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Fresh Fruit, Side",,70,0,0,0,0,60,19,3,15,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Grits",,150,0,0,0,0,600,33,0,3,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Half Dozen Biscuits",,1790,92,73,0,0,6330,204,6,18,,36,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Ham Slice",,140,5,2,0,50,1150,4,0,2,,15,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Hash Browns",,210,13,2.5,0,0,460,22,2,1,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Muffin, Apple Cinnamon",,580,27,7,0,80,840,76,3,44,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Muffin, Banana Nut",,740,41,9,0,80,910,85,2,46,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Muffin, Blueberry",,600,27,7,0,85,840,81,3,42,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Oatmeal",,340,9,4,0,10,200,57,4,32,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Pork Roll - 3 pieces",,270,24,11,0,60,870,2,0,0,,14,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Pork Roll - 4 pieces",,360,32,14,0,80,1160,2,0,0,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Sausage, Links - 4",,460,44,17,0,0,580,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Sausage, Patties - 2",,380,38,15,0,0,480,1,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Sausage, Smoked",,380,34,13,0,70,980,8,0,8,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Scrapple",,300,24,8,0,70,620,10,0,0,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Sweet Sticky Bun",,740,36,13,0,0,740,98,5,48,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Toast, Rye - 2 Slices",,340,10,2.5,0,0,550,54,4,2,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Toast, Sourdough - 2 Slices",,340,8,2.5,0,0,730,58,2,2,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Toast, White - 2 Slices",,260,11,3.5,0,0,480,34,1,2,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Toast, Whole Wheat - 2 Slices",,260,8,2.5,0,0,510,38,6,4,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Tots, Side",,470,28,7,0,0,1050,47,5,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Turkey Bacon - 2 slices",,50,3,0,0,20,320,0,0,0,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Turkey Bacon - 4 Slices",,100,6,0,0,40,640,0,0,0,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Turkey Sausage Patty - 2",,210,16,4.5,0,70,380,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Hearty Extras,"Hearty Extras, Two Large Fresh Eggs, Any Style",,170,13,3.5,0,430,130,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Corned Beef Hash & Eggs,,520,35,14,1,500,1030,22,2,1,,30,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Country Biscuit & Eggs Breakfast,,890,56,25,0,430,2260,70,3,6,,28,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Country Fried Steak and Eggs,,770,47,14,0.5,515,1940,47,2,2,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Country Sausage Biscuit Breakfast,,1360,69,38,0,530,3570,85,2,8,,44,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Fabulous Five,,170,14,4,0,230,320,1,0,0,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Hearty Man's Combo,,800,69,26,0,515,1650,11,0,8,,34,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Magnificent Seven,,720,39,12,0,505,2110,68,0,12,,24,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Southern Fried Chicken Biscuit Breakfast,,1370,78,43,0,555,4230,110,3,10,,56,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Top Sirloin Steak and Eggs,,480,38,16,0,530,550,3,0,0,,31,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Tremendous Twelve,,870,43,13,0,720,2430,89,0,16,,29,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Triple Egg Dare Ya,,1330,79,27,0,890,2720,97,2,15,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fresh-Cracked Classics,Twice as Nice Breakfast,,740,31,9,0,485,2180,90,2,13,,23,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Egg-Cellent Benedicts,California Avocado Benedict,,970,61,22,0,505,1680,78,10,19,,36,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Egg-Cellent Benedicts,Classic Eggs Benedict,,660,31,13,0,495,2200,61,4,21,,34,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, 3 Buttermilk Pancakes",,490,21,6,0,55,1730,66,0,12,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Applewood Smoked Bacon, 2 slices",,70,6,2,0,15,250,0,0,0,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Bagel",,260,4,1.5,0,0,570,49,2,5,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Bagel & Cream Cheese",,630,41,24,0,120,840,51,2,5,,14,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Breakfast Potatoes",,280,17,3.5,0,0,470,30,3,0,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Buttered Rye Toast",,340,10,2.5,0,0,550,54,4,2,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Buttered Sourdough Toast",,340,8,2.5,0,0,730,58,2,2,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Buttered Wheat Toast",,260,8,2.5,0,0,510,40,6,4,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Buttered White Toast",,260,11,3.5,0,0,480,34,1,2,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Corned Beef Hash, Side",,350,22,10,1,70,900,20,2,1,,18,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Fresh Fruit, Side",,70,0,0,0,0,60,19,3,15,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Grits, Bowl",,150,0,0,0,0,600,33,0,3,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Ham Slice",,140,5,2,0,50,1150,4,0,2,,15,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Hash Browns",,210,13,2.5,0,0,460,22,2,1,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Muffin, Apple Cinnamon",,580,27,7,0,80,840,76,3,44,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Muffin, Banana Nut",,740,41,9,0,80,910,85,2,46,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Muffin, Blueberry",,600,27,7,0,85,840,81,3,42,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Pork Roll - 2 pieces",,180,16,7,0,40,580,1,0,0,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Pork Sausage, 2 links",,240,24,9,0,0,290,1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Pork Scrapple",,300,24,8,0,70,620,10,0,0,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Sausage, Patties - 2",,380,38,15,0,0,480,1,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Smoked Sausage",,380,34,13,0,70,980,8,0,8,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Tots, Side",,470,28,7,0,0,1050,47,5,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Turkey Sausage Patty - 2",,210,16,4.5,0,70,380,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Two Fresh Baked Biscuits",,600,31,24,0,0,2110,68,2,6,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Build-A-Breakfast,"Build-A-Breakfast, Two Large Fresh Eggs, Any Style",,170,13,3.5,0,430,130,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sunrise Skillets,Everything Skillet,,950,63,21,0,490,2010,59,7,7,,36,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sunrise Skillets,Spinach & Mushroom Skillet,,700,35,8,0,0,1630,68,11,4,,23,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sunrise Skillets,The Big Country Sunrise Skillet,,1180,74,24,0,510,2730,64,5,6,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Cherry Coke, Kids",,160,0,0,0,0,35,42,0,42,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Cherry Coke, Large",,210,0,0,0,0,45,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Chocolate Milk, Large",,400,0,0,0,0,550,78,0,70,,20,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Chocolate Milk, Small",,240,0,0,0,0,330,47,0,42,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Coca Cola, Kids",,150,0,0,0,0,50,39,0,39,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Coca Cola, Large",,200,0,0,0,0,65,52,0,52,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Diet Coke, Kids",,0,0,0,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Diet Coke, Large",,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Dr. Pepper,,150,0,0,0,0,55,40,0,39,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Dr. Pepper, Diet",,0,0,0,0,0,60,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Fat Free Chocolate Milk,,240,0,0,0,0,330,47,0,42,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Hot Chocolate,,120,2,1.5,0,0,105,24,<1,21,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Hot Tea,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Iced Tea,,10,0,0,0,0,0,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Apple Large",,280,0,0,0,0,60,73,0,61,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Apple Small",,180,0,0,0,0,35,45,0,38,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Cranberry Small",,170,0,0,0,0,10,43,0,43,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Orange Large",,260,0,0,0,0,35,61,0,56,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Orange Small",,170,0,0,0,0,25,39,0,36,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Tomato Large",,110,0,0,0,0,1640,23,5,14,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Juice, Tomato Small",,70,0,0,0,0,1020,15,3,9,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Lemonade, Kids",,150,0,0,0,0,50,38,0,37,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Lemonade, Large",,190,0,0,0,0,70,50,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Mello Yello,,170,0,0,0,0,45,47,0,47,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Milk, 2% White, Large",,340,13,8,0,55,340,34,0,30,,23,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Milk, 2% White, Small",,210,8,5,0,35,200,20,0,18,,14,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Raspberry Iced Tea,,130,0,0,0,0,75,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Root Beer, Kids",,170,0,0,0,0,70,43,0,43,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Root Beer, Large",,220,0,0,0,0,95,57,0,57,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Sprite, Kids",,150,0,0,0,0,70,38,0,38,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,"Sprite, Large",,200,0,0,0,0,95,51,0,51,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beverages,Sweet Tea,,100,0,0,0,0,0,24,0,24,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,AHA Blueberry Pomegranate,,5,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,AHA Lemon Lime Sparkling,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,AHA Peach Honey,,5,0,0,0,0,45,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,AHA Sparkling,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Orange Creme Soda,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Peach Creme Soda,,5,0,0,0,0,50,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Root Beer,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Root Beer Vanilla,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Strawberry Creme Soda,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Diet Vanilla Creme Soda,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Orange Creme Soda,,180,0,0,0,0,50,48,0,48,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Orange Vanilla Creme Soda,,200,0,0,0,0,50,53,0,53,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Peach Creme Soda,,180,0,0,0,0,50,48,0,48,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Peach Vanilla Creme Soda,,200,0,0,0,0,50,53,0,53,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Root Beer,,210,0,0,0,0,50,58,0,58,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Root Beer Vanilla,,210,0,0,0,0,50,58,0,58,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Strawberry Creme Sode,,180,0,0,0,0,45,48,0,48,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Strawberry Vanilla Creme Soda,,200,0,0,0,0,50,53,0,53,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Vanilla Creme Soda,,200,0,0,0,0,50,53,0,53,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Zero Orange Vanilla Creme Soda,,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Zero Peach Vanilla Creme Soda,,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Zero Strawberry Vanilla Creme Soda,,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Barq's Zero Vanilla Creme Soda,,5,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Cherry Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Cherry Vanilla Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Ginger Lemon Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Ginger Lime Coke,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Orange Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Raspberry Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Caffeine Free Diet Vanilla Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola,,200,0,0,0,0,50,53,0,53,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Cherry,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Cherry Vanilla,,210,0,0,0,0,50,44,56,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Cream Soda,,220,0,0,0,0,50,59,0,59,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Lemon,,210,0,0,0,0,50,55,0,55,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Lime,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Orange,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Orange Vanilla,,210,0,0,0,0,75,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Raspberry,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Vanilla,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Cherry,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Cherry Vanilla,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Lemon,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Lime,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Orange,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Orange Vanilla,,0,0,0,0,0,80,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Raspberry,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coca-Cola Zero Vanilla,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Coke Zero Cream Soda,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Cherry Coke,,0,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Cherry Vanilla Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Ginger Lemon Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Ginger Lime Coke,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Lemon Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Lime Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Orange Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Raspberry Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Raspberry Lemon Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Diet Vanilla Coke,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Cherry,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Fruit Punch,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Grape,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Lime,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Mystery Mix #1,,200,0,0,0,0,50,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Mystery Mix #2,,220,0,0,0,0,70,58,0,57,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Mystery Mix #3,,150,0,0,0,0,60,39,0,39,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Orange,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Peach,,170,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Raspberry,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Strawberry,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Cherry,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Fruit Punch,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Grape,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Lime,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Mystery Mix #1,,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Mystery Mix #2,,10,0,0,0,0,75,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Mystery Mix #3,,10,0,0,0,0,65,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Orange,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Peach,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Raspberry,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Fanta Zero Strawberry,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Cherry,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Fruit Punch,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Grape,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Orange,,210,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Orange Vanilla,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Raspberry,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Raspberry Lime,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Raspberry Vanilla,,220,0,0,0,0,50,57,0,55,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Hi-C Strawberry,,220,0,0,0,0,50,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Cherry,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Freestyle,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Fruit Punch,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Grape,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Limeade,,180,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Orange,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Peach,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Raspberry,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Raspberry Peach,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Strawberry,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Strawberry Orange,,170,0,0,0,0,50,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Cherry,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Fruit Punch,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Grape,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Limeade,,10,0,0,0,0,55,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Orange,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Peach,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Raspberry,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Raspberry Peach,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Strawberry,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Mello Yello Zero Strawberry Orange,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Aguas Frescas Limonada,,140,0,0,0,0,55,36,0,36,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Aguas Frescas Strawberry Limon,,130,0,0,0,0,50,32,0,32,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Cherry Lime,,260,0,0,0,0,95,66,0,66,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Cherry Limeade,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Fruit Punch,,260,0,0,0,0,95,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Grape,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Lemonade,,210,0,0,0,0,90,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Lemonade Lemon Lime,,220,0,0,0,0,95,56,0,56,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Cherry Limeade,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Fruit Punch,,20,0,0,0,0,95,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Grape,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade,,10,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade Lemon Lime,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade Orange,,10,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade Peach,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade Raspberry,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Lemonade Strawberry,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Limeade,,15,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Mixed Berry,,20,0,0,0,0,95,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Orange,,10,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Peach,,10,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Light Pink Lemonade,,10,0,0,0,0,95,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Limeade,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Lime Lemonade,,210,0,0,0,0,95,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Mixed Berry,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Orange,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Orange Lemonade,,210,0,0,0,0,95,55,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Peach,,250,0,0,0,0,90,64,0,64,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Peach Lemonade,,210,0,0,0,0,95,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Pink Lemonade,,210,0,0,0,0,95,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Raspberry Lemonade,,210,0,0,0,0,95,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Minute Maid Strawberry Lemonade,,210,0,0,0,0,95,54,0,54,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Diet Iced Tea,,0,0,0,0,0,50,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Diet Lemonade Iced Tea,,5,0,0,0,0,70,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Diet Lemon Iced Tea,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Diet Peach Iced Tea,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Iced Tea with Lemonade,,190,0,0,0,0,70,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Lemon Iced Tea,,170,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Peach Iced Tea,,170,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Sweet Iced Tea,,170,0,0,0,0,45,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Peace Unsweetened Iced Tea,,0,0,0,0,0,45,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Cherry,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Cherry Vanilla,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Raspberry,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Raspberry Vanilla,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Strawberry,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Xtra Vanilla,,190,0,0,0,0,50,50,0,50,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Zero,,0,0,0,0,0,55,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Zero Cherry,,5,0,0,0,0,55,1,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Zero Cherry Vanilla,,10,0,0,0,0,55,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Zero Strawberry,,10,0,0,0,0,55,2,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Pibb Zero Vanilla,,10,0,0,0,0,55,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Cherry,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Fruit Punch,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Grape,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Lemon,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Lime,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Orange,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Raspberry,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Strawberry,,130,0,0,0,0,150,34,0,34,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Cherry,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Fruit Punch,,10,0,0,0,0,150,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Grape,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Lemon,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Lime,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Orange,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Raspberry,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,POWERADE Zero Strawberry,,5,0,0,0,0,150,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale Cherry,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale Lime,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale Orange,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale Raspberry,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Diet Ginger Ale Vanilla,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale,,170,0,0,0,0,45,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale Cherry,,170,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale Lime,,170,0,0,0,0,45,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale Orange,,170,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale Raspberry,,170,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Seagram's Ginger Ale Vanilla,,170,0,0,0,0,45,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite,,180,0,0,0,0,50,49,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Cherry,,200,0,0,0,0,50,52,0,51,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Grape,,200,0,0,0,0,50,52,0,51,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Lymonade,,180,0,0,0,0,60,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Lymonade Peach,,180,0,0,0,0,60,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Lymonade Raspberry,,180,0,0,0,0,60,47,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Lymonade Strawberry,,180,0,0,0,0,60,46,0,46,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Orange,,180,0,0,0,0,50,49,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Peach,,190,0,0,0,0,50,49,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Raspberry,,190,0,0,0,0,50,49,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Strawberry,,190,0,0,0,0,50,49,0,49,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Vanilla,,190,0,0,0,0,50,45,0,45,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero,,5,0,0,0,0,50,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Cherry,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Grape,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Lymonade,,10,0,0,0,0,65,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Lymonade Peach,,10,0,0,0,0,50,1,65,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Lymonade Raspberry,,10,0,0,0,0,65,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Lymonade Strawberry,,10,0,0,0,0,65,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Orange,,5,0,0,0,0,55,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Peach,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Raspberry,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Strawberry,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Coca-Cola FreeStyle Drinks,Sprite Zero Vanilla,,10,0,0,0,0,50,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Alaskan Amber,,180,0,0,0,0,0,20,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Alexander Keith's,,150,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,AmberBock,,170,0,0,0,0,0,15,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Angry Orchard,,190,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Arthur Guiness,,130,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Bauhaus Wonderstuff Pilsner,,160,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Blue Moon,,160,0,0,0,0,10,13,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Boulevard Wheat,,130,0,0,0,0,0,17,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Bud Light,,110,0,0,0,0,10,7,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Budweiser,,150,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Budweiser Zero,,50,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Coors Banquet,,150,0,0,0,0,15,11,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Coors Light,,100,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Coors Original,,140,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Corona Extra,,150,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Dos Equis,,130,0,0,0,0,0,9,0,0,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Fat Tire,,160,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Heineken,,150,0,0,0,0,10,12,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,India Pale Ale,,150,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Labatt Blue,,150,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Labatt Blue Light,,110,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Landshark,,150,0,0,0,0,0,13,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Leinenkugal Honey Weiss,,150,0,0,0,0,5,12,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Lift Bridge Farm Girl,,160,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Michelob,,160,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Michelob Golden Draft Light,,110,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Michelob Light,,120,0,0,0,0,0,9,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Michelob Ultra,,100,0,0,0,0,10,3,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Miller Genuine Draft,,140,0,0,0,0,5,13,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Miller Genuine Draft Light,,60,0,0,0,0,0,2,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Miller High Life,,140,0,0,0,0,5,13,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Miller Lite,,100,0,0,0,0,5,3,0,0,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Modelo,,140,0,0,0,0,0,14,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Molson Canadian Ale,,150,0,0,0,0,10,11,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Molson Old Style Pilsner,,150,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Moosehead,,140,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,New Castle Brown Ale,,140,0,0,0,0,0,13,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,O'Doul's,,90,0,0,0,0,0,18,0,18,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Pabst Blue Ribbon,,140,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Rickard's Red Beer,,160,0,0,0,0,0,11,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Rolling Rock,,130,0,0,0,0,0,10,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Sam Adams Boston Lager,,170,0,0,0,0,0,18,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Shiner Bock,,140,0,0,0,0,0,12,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Sierra Nevada Pale Ale,,180,0,0,0,0,0,17,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Spotted Cow,,150,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Stella,,170,0,0,0,0,0,21,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Summit EPA,,160,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Surly Furious IPA,,200,0,0,0,0,0,19,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Surly Hell Pale Gold Lager,,150,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Voodoo Ranger IPA,,190,0,0,0,0,0,14,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,White Claw Hard Seltzer Black Cherry,,100,0,0,0,0,20,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Beer,Yuengling,,130,0,0,0,0,0,10,0,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Bacardi Strawberry,,230,0,0,0,0,0,33,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Bella Sera Pinot Grigio,,100,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Beringer White Zinfandel,,100,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Bloody Mary,,90,0,0,0,0,730,5,1,3,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Cabernet,,120,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Chardonnay,,120,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Merlot,,120,0,0,0,0,5,4,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Moscato,,130,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Pinot Grigio,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone Syrah,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Brownstone White Zinfandel,,110,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Cabernet,,120,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Canyon Road White Zinfadel,,110,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Cedar Creek Pinot Gris,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Chardonnay,,120,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Copa Chardonnay,,150,0,0,0,0,10,10,0,5,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Copa Merlot,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Copa Pinot,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Copa Zinfandel,,130,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Copper Moon Sauvignon Blanc,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Ecco Domani Pinot Grigio,,110,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Gallo Cabernet,,110,0,0,0,0,5,1,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Gallo Chardonnay,,100,0,0,0,0,5,1,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Gallo Merlot,,110,0,0,0,0,10,5,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Gallo White Zinfandel,,130,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Gerwurtztraminer,,130,0,0,0,0,0,7,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Jackson Triggs Malbec,,120,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Jackson Triggs Merlot,,120,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Jackson Triggs Sauvignon Blanc,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Josh Cellars Chardonnay,,120,0,0,0,0,5,3,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Kinky Pink,,220,0,0,0,0,0,32,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Merlot,,120,0,0,0,0,5,4,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Mimosa,,100,0,0,0,0,5,11,0,9,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails","Mimosa, Crandilicious",,170,0,0,0,0,0,10,0,7,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails","Mimosa, Lemonade/Blueberry",,170,0,0,0,0,10,10,0,6,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails","Mimosa, Orange",,170,0,0,0,0,0,9,0,6,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails","Mimosa, Strawberry",,190,0,0,0,0,10,17,0,12,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Mirassou Pinot Noir,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Moscato,,130,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Mott's Clamato Caesar,,170,1,0,0,0,1310,40,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Naked Grape Chardonnay,,120,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Pasqua Pinot Grigio Italy,,110,0,0,0,0,0,2,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Peller Estates Shiraz,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Pinot Grigio,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Pinot Noir,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Prosecco,,90,0,0,0,0,0,4,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Proverb Merlot,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Quails Gate Pinot Noir,,150,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Red Wine Blend,,120,0,0,0,0,5,4,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Riesling,,120,0,0,0,0,0,6,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Santa Carolina Cabernet-Chile,,120,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Santa Carolina Chardonnay-Chile,,120,0,0,0,0,5,5,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Santa Carolina Merlot-Chile,,120,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Santa Carolina Shiraz-Chile,,130,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sauvignon Blanc,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sawmill Creek Chardonnay,,110,0,0,0,0,20,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sawmill Creek Merlot,,120,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Screwdriver,,180,0,0,0,0,5,19,0,12,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Shiraz,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sileni Sauvignon Blanc,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Smirnoff Grape,,230,0,0,0,0,0,36,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Smirnoff Green Apple,,180,0,0,0,0,0,175,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sparkling Brut,,80,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home Cabernet,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home Chardonnay,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home Merlot,,120,0,0,0,0,0,9,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home Riesling,,130,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home White Wine Spritzer,,120,0,0,0,0,10,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Sutter Home White Zinfandel,,110,0,0,0,0,0,8,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Syrah Wine,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Tinhorn Creek Cab Franc,,110,0,0,0,0,5,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",White Wine Spritzer,,120,0,0,0,0,10,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",White Zinfandel,,110,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",William Hill Estates Chardonnay,,120,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,"Wines, Coolers & Cocktails",Woodbridge Chardonnay,,120,0,0,0,0,0,4,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Chicken Strips,,870,49,12,0,155,2200,62,0,15,,44,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Chicken Strips for Pick 3/4 with Honey Mustard Dressing,,750,44,11,0,130,1830,53,0,15,,36,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Chipotle Ranch Dressing for Appetizers,,140,15,2,0,10,530,3,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Crispy Fries,,570,36,8,0,0,820,55,6,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Crispy Tots,,470,28,7,0,0,1050,47,5,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Fried Pickles,,790,61,7,0,20,2670,53,3,5,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Fried Pickles with Ranch for Pick 3/4,,490,41,5,0,20,1580,27,1,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Honey Mustard Dressing for Appetizers,,290,25,4,0,20,380,15,0,15,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Marinara Sauce for Appetizers,,45,2.5,0,0,0,260,5,0,2,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,MozzaSticks,,420,18,6,0,35,1210,42,0,7,,16,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,MozzaSticks with Marinara for Pick 3/4,,320,15,4.5,0,30,980,33,0,6,,13,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Onion Rings,,880,45,7,0,30,1700,77,4,15,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Onion Rings with Chipotle Ranch for Pick 3/4,,470,26,4,0,15,970,39,2,8,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Pick 3 Sampler,,1550,85,19,0,175,3790,125,3,29,,53,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Ranch Dressing for Appetizers,,190,21,3,0,20,510,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Steak Quesadilla,,1030,66,33,0,205,2020,49,5,8,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Just for Starters,Strawberry & Cream Cheese Crispers Starter,,310,18,7,0,25,390,32,1,12,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Chicken Noodle Soup, Bowl",,260,6,0,0,10,1430,37,2,1,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Chicken Noodle Soup, Cup",,150,3.5,0,0,10,890,21,1,<1,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,Honey Mustard Chicken Crunch Salad,,980,63,17,0,155,2050,63,5,28,,44,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Loaded Potato Soup, Bowl",,460,26,11,0,40,1520,46,3,1,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Loaded Potato Soup, Cup",,280,17,8,0,25,960,27,2,<1,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,Southwest Avocado Chicken Salad,,820,50,10,0,95,2060,61,11,14,,35,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Tomato Basil Soup, Bowl",,460,26,15,0,75,1850,46,2,5,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salads & Soups,"Tomato Basil Soup, Cup",,280,17,10,0,50,1180,27,1,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Blue Cheese Dressing, 2 fl oz",,270,28,6,0,25,380,2,0,2,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Blue Cheese Dressing, 3 fl oz",,400,43,9,0,40,580,3,0,3,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Fat Free Italian Dressing, 2 fl oz",,15,0,0,0,0,820,5,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Fat Free Italian Dressing, 3 fl oz",,25,0,0,0,0,1230,8,0,5,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"French Dressing, 2 fl oz",,230,18,2.5,0,0,570,17,0,15,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"French Dressing, 3 fl oz",,350,28,4,0,0,850,25,0,23,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Honey Mustard Dressing, 2 fl oz",,250,22,3.5,0,15,330,13,0,13,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Honey Mustard Dressing, 3 fl oz",,380,33,5,0,25,500,20,0,20,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Ranch Dressing, 2 fl oz",,170,18,2.5,0,15,450,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Ranch Dressing, 3 fl oz",,250,28,4,0,25,680,3,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Thousand Island Dressing, 2 fl oz",,180,18,2.5,0,25,430,7,0,7,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"Thousand Island Dressing, 3 fl oz",,280,28,4,0,40,650,10,0,10,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"White Balsamic Dressing, 2 fl oz",,120,10,1.5,0,0,270,5,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Salad Dressings,"White Balsamic Dressing, 3 fl oz",,180,15,2.5,0,0,400,8,0,5,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,BBQ Tangler Burger,,1190,73,27,2,175,1960,82,2,35,,52,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Big BLT,,420,40,9,0,70,920,2,0,2,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Chicken Strips Melt,,1190,70,25,0,180,3060,88,2,4,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Country Club Melt,,940,52,20,0,165,3100,64,2,10,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,"Onion Rings, Substitute",,500,17,3.5,0,10,680,54,3,9,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Patty Melt,,1070,69,29,2,180,1390,61,4,2,,55,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Pot Roast Melt,,880,49,22,0,140,1790,63,2,3,,51,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Reuben Melt,,1000,50,21,0,155,3470,79,4,5,,56,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,The Breakfast Burger,,1070,69,27,2,390,1630,56,2,7,,62,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,The Classic Burger,,710,40,14,2,120,820,48,1,9,,40,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,The Classic Cheeseburger,,870,54,22,2,160,1180,48,1,8,,50,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Signature Burgers & Handhelds,Triple Decker Club,,600,49,9,0,120,1600,3,0,5,,32,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,"Add-on Breaded Fantail Shrimp, Fried, 4 shrimp",,270,7,2,0,65,1060,41,1,12,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Add-on Crimini Mushrooms,,45,3.5,0.5,0,0,0,3,1,1,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Chicken Bacon Broccoli Pasta,,1090,66,29,0,200,2890,75,7,7,,49,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Chicken Strips Dinner,,800,43,12,0,150,2110,59,0,11,,44,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Classic Pot Roast Dinner,,530,27,10,0,160,1450,17,3,5,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Country Fried Steak Dinner,,600,34,11,0.5,85,1810,45,2,2,,26,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Double Catch,,1370,82,17,0,125,3130,126,7,18,,34,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Fish 'n Chips with Garden Salad,,1300,83,17,0,85,2480,100,7,11,,37,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Grilled Cajun White Fish & Shrimp,,490,14,3.5,0,110,1520,57,4,11,,35,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Grilled Garlic White Fish & Shrimp Dinner,,580,24,8,0,135,1400,57,4,11,,35,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Grilled Pork Chop Dinner,,560,32,11,0,160,1680,8,<1,6,,58,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Grilled Salmon Dinner,,430,29,4.5,0,120,120,2,0,2,,40,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Holiday Turkey and Dressing Dinner,,800,31,8,0,145,2230,81,3,53,,46,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Jumbo Shrimp Dinner,,270,7,2,0,65,1060,41,1,12,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Meatloaf Dinner with Vegetable Option,,830,47,16,1.5,130,2640,62,4,15,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Mini Chicken Pot Pie,,690,43,19,0,95,1610,50,2,5,,20,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Mini Chicken Pot Pie Combo,,780,46,20,0,100,1750,61,4,8,,25,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Pot Roast Stroganoff Pasta,,1120,66,40,0,305,1160,71,3,7,,49,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Shrimp Bacon Broccoli Pasta,,950,59,27,0,235,2350,74,7,7,,31,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Tilapia Grille,,360,18,3.5,0,105,420,9,0,6,,42,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Top Sirloin Steak Dinner,,350,29,13,0,100,420,<1,0,0,,19,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Top Sirloin Steak with Shrimp Dinner,,620,36,14,0,165,1470,42,1,12,,29,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Comfort Classics,Turkey & Dressing Dinner,,400,17,3,0,90,1820,21,2,13,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Supper Skillets,Hibachi Fried Chicken Skillet,,780,29,11,0,80,3950,103,6,28,,29,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Supper Skillets,Hibachi Grilled Shrimp Skillet,,610,20,7,0,155,3940,85,6,28,,24,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Supper Skillets,Steak & Peppers Skillet with Breakfast Potatoes,,1020,65,21,0,160,1970,57,7,5,,46,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Applesauce",,40,0,0,0,0,0,9,<1,9,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Baked Potato",,250,7,4,0,10,170,42,4,5,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Baked Potato, Loaded",,340,14,8,0,30,380,42,4,5,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Broccoli, Fresh",,70,4.5,2.5,0,0,160,5,3,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Buttered Corn",,120,4,1.5,0,0,90,17,2,3,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Chicken Noodle Soup, Cup",,150,3.5,0,0,10,890,21,1,<1,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, French Fries",,570,36,8,0,0,830,56,6,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Fresh Fruit",,70,0,0,0,0,60,19,3,15,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Garden Salad",,110,4.5,1.5,0,10,270,13,2,3,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Gravy, Brown",,20,0,0,0,0,380,4,0,1,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Gravy, Cream",,50,2.5,1,0,0,240,6,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Gravy, Turkey",,20,0.5,0,0,0,280,3,0,<1,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Green Beans & Bacon",,45,2.5,0.5,0,<5,630,4,3,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Grilled Asparagus",,45,3.5,0.5,0,0,0,2,1,1,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Herb Rice Pilaf",,270,6,2,0,0,890,50,2,6,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Homestyle, Seasoned Potato",,210,3,1,0,0,210,40,4,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Kale Apple Walnut Salad",,260,13,3,0,15,340,33,4,20,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Loaded Potato Soup, Cup",,280,17,8,0,25,960,27,2,<1,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Macaroni & Cheese",,340,18,11,0.5,55,800,32,1,6,,13,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Mashed Potatoes and Gravy",,210,5,3,0,15,1040,36,3,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Potato Pancakes (2)",,280,17,5,0,75,630,27,1,3,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Sauteed Spinach",,70,3.5,0.5,0,0,90,4,2,0,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Tomato Basil Soup, Cup",,280,17,10,0,50,1180,27,1,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Dinner Sides,"Dinner Sides, Tots",,470,28,7,0,0,1050,47,5,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,BBQ Sauce,,45,0,0,0,0,170,11,0,10,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Buffalo Hot Sauce,,5,0,0,0,0,1100,1,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Candied Jalapenos,,30,0,0,0,0,0,7,0,5,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Caramelized Red Onions,,20,1,0,0,0,10,3,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, American - 2 slices",,170,14,9,0,45,600,2,0,2,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, American - Shredded",,110,9,5,0,30,160,<1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Cheddar, Monterey Jack and Swiss - Shredded",,110,9,5,0,30,180,1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Mild Cheddar - Shredded",,110,9,5,0,30,180,<1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Monterey Jack - Shredded",,100,8,5,0,30,170,0,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Parmesan - Grated",,120,8,5,0,25,510,1,0,0,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Parmesan - Shredded",,110,8,5,0,20,330,1,0,0,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Pepper Jack - 2 slices",,150,12,8,0,45,260,0,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Pepper Jack - Shredded",,100,8,5,0,30,170,1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Cheese, Swiss - 2 slices",,170,12,8,0,40,170,2,0,0,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Cocktail Sauce,,30,1,0.5,0,<5,330,6,0,5,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,French Fries,,570,36,8,0,0,830,56,6,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Fresh Avocado,,150,14,1.5,0,0,0,9,3,0,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Ketchup,,10,0,0,0,0,100,2,0,2,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Mayonnaise,,200,22,3,0,20,170,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Mustard,,5,0.5,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Onion Tanglers,,100,8,1.5,0,0,60,6,0,<1,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Salsa,,10,0,0,0,0,190,2,1,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,"Salsa, Medium",,10,0,0,0,0,190,2,1,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Steak Sauce,,25,0,0,0,0,500,6,0,4,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Sides & Toppings,Tartar Sauce,,100,9,1.5,0,10,250,5,0,3,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,"55 Plus Brioche French Toast Breakfast, 2 pieces",,590,26,9,0,290,730,63,2,16,,26,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus Buttermilk Pancake Breakfast,,490,21,6,0,55,1730,66,0,12,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus Continental,,340,9,4,0,10,210,57,4,32,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,"55 Plus French Toast Breakfast, 3 pieces",,440,18,5,0,275,680,51,2,8,,19,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus One Egg Benedict,,400,20,8,0,250,1200,40,3,18,,17,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus One Egg Classic,,70,4.5,1.5,0,215,65,1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus One Egg Traveler,,100,8,2,0,215,65,1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus Strawberry Topping,,170,0,0,0,0,60,46,2,39,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55 Plus Two Egg Omelete,,170,13,3.5,0,430,130,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,55+ Potato Pancakes,,460,28,9,0,110,1020,44,3,10,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,Egg Beaters Exchange - 1 egg,,50,3.5,0.5,0,0,105,<1,0,0,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,Egg Whites - 1,,50,3.5,0.5,0,0,75,0,0,0,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Breakfast,Two Buttermilk Pancakes,,330,15,5,0,40,1180,43,0,8,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Avocado",,100,9,1,0,0,0,6,2,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Bacon, Applewood Smoked",,35,3,1,0,10,125,0,0,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Cheese, American - Shredded",,110,9,5,0,30,160,<1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Cheese, Mild Cheddar - Shredded",,110,9,5,0,30,180,<1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Cheese, Pepper Jack - Shredded",,100,8,5,0,30,170,1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Cheese, Swiss",,110,8,5,0,25,110,1,0,0,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Fresh Mushrooms",,5,0,0,0,0,0,1,<1,<1,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Green Peppers",,5,0,0,0,0,0,1,<1,<1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Ham, Diced",,80,6,2,0,10,270,1,0,1,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Hollandaise Sauce",,110,8,5,0,15,440,9,0,2,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Jalapeno Peppers",,5,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Onions, Yellow",,10,0,0,0,0,0,3,0,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Pork Sausage",,210,21,8,0,0,240,<1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Salsa, Medium",,10,0,0,0,0,190,2,1,1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Sausage, Turkey",,120,10,2.5,0,35,190,1,0,0,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Spinach, Fresh",,10,0,0,0,0,20,1,<1,0,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Tomatoes, Diced",,5,0,0,0,0,0,1,0,<1,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Build Your Own Omelet,"55 Plus Build Your Own Omelet, Two Large Fresh Eggs",,170,13,3.5,0,430,130,2,0,0,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Cheeseburger,,640,34,12,1.5,110,880,41,1,8,,32,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Chicken Strips Dinner,,800,43,12,0,150,2110,59,0,11,,44,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Classic Pot Roast Dinner,,530,27,10,0,160,1450,17,3,5,,54,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Country Fried Steak,,600,34,11,0.5,85,1810,45,2,2,,26,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Fish n' Chips,,1290,85,17,0,80,2460,97,6,8,,33,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Grilled Chicken Breast,,200,8,1.5,0,95,790,0,0,0,,32,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Hamburger,,560,27,7,1.5,90,580,40,1,7,,27,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Pork Chop Dinner,,560,32,11,0,160,1680,8,<1,6,,58,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Tilapia Grille Dinner,,360,18,3.5,0,105,420,9,0,6,,42,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Top Sirloin Steak - 6 oz,,350,29,13,0,100,420,<1,0,0,,19,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,55 Plus Lunch & Dinner,55 Plus Turkey & Dressing Dinner,,400,17,3,0,90,1820,21,2,13,,38,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Applesauce, 3 oz.",,40,0,0,0,0,0,9,<1,9,,0,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Bacon 2 slices,,70,6,2,0,15,250,0,0,0,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Breakfast Potatoes,,170,10,2,0,0,280,18,2,0,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Brioche French Toast,,330,17,6,0,145,430,33,1,10,,13,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Broccoli, 4 oz.",,35,0,0,0,0,35,5,3,3,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Buttered Corn, 4 oz",,120,5,2.5,0,0,830,17,2,6,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Chicken Noodle Soup 6 oz,,70,2,0,0,10,680,8,0,<1,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Chicken Strips,,630,39,9,0,100,1470,43,0,15,,27,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Classic Cheeseburger,,610,32,11,1.5,105,890,41,1,8,,30,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Egg, Hash Browns and Toast",,330,13,3.5,0,215,700,40,3,2,,13,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' French Fries, 4 oz.",,320,20,4.5,0,0,460,31,3,0,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Fresh Cut Fruit,,70,0,0,0,0,60,19,3,15,,<1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Garden Salad,,110,4.5,1.5,0,10,270,13,2,3,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Grilled Cheese Sandwich,,460,29,15,0,45,1210,36,1,4,,16,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Hash Browns,,210,13,2.5,0,0,460,22,2,1,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Ice Cream Sundae, Hot Fudge",,380,21,15,0,40,150,45,<1,38,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,"Kids' Ice Cream Sundae, Strawberry",,300,14,9,0,40,60,43,0,24,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Mac & Cheese,,340,18,11,0.5,55,800,32,1,6,,13,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Mashed Potatoes & Gravy,,210,5,3,0,15,1030,36,3,2,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Perky Bear Pancakes,,330,19,8,0,30,1040,37,0,11,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Rainbow Pancake Breakfast,,290,12,5,0,30,790,40,0,13,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Silver Dollar Pancake Short-Stack,,200,11,4,0,20,720,24,0,5,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Strawberry Go-Gurt,,50,0.5,0,0,<5,30,10,0,8,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Tomato Basil Soup 6 oz,,200,15,10,0,50,970,14,0,3,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Tots,,200,12,3,0,0,450,20,2,1,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Treats - Chocolate Chip Cookie,,310,20,8,0,25,90,30,2,21,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Treats - Sugar Cookie,,310,14,7,0,50,115,42,0,21,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' Turkey Dinner,,130,2.5,0,0,30,680,13,0,10,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Kid's Menu,Kids' White Toast,,130,5,1.5,0,0,240,17,<1,1,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Chocolate Walnut Brownie,,560,27,10,1,90,220,76,4,55,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Eclair,,500,16,7,0,45,380,87,2,66,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Fudge Brownie Supreme,,860,43,24,1,135,370,111,4,84,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Ice Cream, One Scoop",,210,13,7,0,50,70,22,0,18,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Ice Cream, Two Scoops",,420,25,14,0,95,140,44,0,36,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Ice Cream Sundae, Hot Fudge, Two Scoops",,560,32,21,0,80,210,64,<1,53,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Ice Cream Sundae, Strawberry, Two Scoops",,480,24,15,0,80,120,62,0,39,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Malt, Chocolate",,1000,50,30,0,175,360,127,0,104,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Malt, Strawberry",,930,50,30,0,175,340,110,0,78,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Malt, Vanilla",,910,50,30,0,175,340,105,0,88,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Mango Smoothie,,200,1,0,0,0,40,49,0,45,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,New York Cheesecake,,510,35,20,0.5,85,310,42,1,25,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Oreo Cookie Cheesecake,,630,29,13,0,10,280,84,0,40,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Oreo Cookie Silk Pie,,590,35,18,0,150,370,64,1,48,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Pomegranate Berry Smoothie,,100,1,0,0,0,40,24,0,21,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Shake, Chocolate",,970,49,29,0,175,330,122,0,100,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Shake, Strawberry",,900,49,29,0,175,300,105,0,74,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,"Shake, Vanilla",,880,49,29,0,175,300,100,0,85,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Strawberry Smoothie,,190,1,0,0,0,40,47,0,42,,1,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Ice Cream & Sweet Treats,Sweet Sticky Bun,,740,36,13,0,0,740,98,5,48,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cakes,"Carrot Cake, Slice",,540,31,14,0,70,400,61,1,40,,4,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cakes,Chocolate Overload Cake,,940,65,34,0,215,450,82,3,57,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cakes,Chocolate Peanut Butter Drop,,710,39,14,0,45,500,75,1,62,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cakes,Raspberry Lemon Drop,,550,31,18,0.5,95,210,56,0,39,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Chocolate Chocolate Chip Mammoth Muffin,,670,31,9,0,80,810,88,3,42,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Cranberry Orange Mammoth Muffin,,530,20,7,0,80,680,75,0,39,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Lemon Poppy Seed Muffin,,650,29,7,0,80,800,90,2,51,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,"Muffin, Apple Cinnamon",,580,27,7,0,80,840,76,3,44,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,"Muffin, Banana Nut",,740,41,9,0,80,910,85,2,46,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,"Muffin, Blueberry",,600,27,7,0,85,840,81,3,42,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Pineapple Upside Down Mammoth Muffin,,730,30,7,0,90,820,111,3,69,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Pumpkin Cream Cheese Mammoth Muffin,,690,31,9,0,80,780,95,3,55,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Pumpkin Doughnut Mammoth Muffin,,700,33,11,0,110,810,91,3,52,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mammoth Muffins,Raspberry and Cream Muffin,,600,26,5,0,80,750,81,3,42,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,2 Chocolate Chip Cookies,,620,40,16,0,50,180,60,4,42,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Chocolate Chip Cookie,,310,20,8,0,25,90,30,2,21,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Crazy Cookie,,310,17,8,0,40,105,36,1,21,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Mini Chocolate Chip Cookie,,160,10,4,0,15,45,15,1,11,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Mini Oatmeal Cranberry Cookie,,150,11,3,0,20,135,23,<1,9,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Mini Sugar Cookie,,160,7,3.5,0,25,60,22,0,12,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Oatmeal Cranberry Cookie,,290,22,6,0,35,270,45,1,18,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cookies,Sugar Cookie,,310,14,7,0,50,115,42,0,21,,3,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Apple Pie, No Sugar Added, Slice",,370,15,6,0,15,420,52,2,15,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Caramel Apple Pie, Slice",,500,22,9,0,0,520,68,1,34,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Cherry Pie, Slice",,580,27,12,0,15,600,75,2,33,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Homestyle Apple Pie, Slice",,570,27,9,0,0,390,76,1,36,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Lemon Meringue Pie, Slice",,530,17,6,0,30,500,90,2,67,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Pumpkin Pie, Slice",,400,15,5,0,55,410,60,1,40,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Pumpkin Pie with Whipped Cream, Slice",,550,28,14,0,100,430,66,1,46,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Southern Pecan Pie, Slice",,670,33,9,0,100,430,86,1,58,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Fruit Pies,"Wildberry Pie, No Sugar Added, Slice",,470,27,12,0,0,470,50,3,6,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,"Banana Cream Pie, Slice",,650,43,23,0,80,320,62,1,35,,2,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,"Chocolate French Silk Pie, Slice",,730,52,27,0,180,330,63,3,44,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,"Coconut Cream Pie, Slice",,610,38,23,0,70,470,57,1,34,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,Heath Crunch Cheesecake Pie,,680,47,30,0,100,440,57,1,45,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,"Key Lime Pie, Slice",,590,28,17,1,70,300,76,0,63,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Cream Pies,"Peanut Butter Silk Pie, Slice",,890,63,33,0,125,420,68,2,47,,12,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,BLT Sandwich - Half,,210,20,4.5,0,35,460,1,0,<1,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,Chicken Strips Melt - Half,,670,40,15,0,110,1690,46,1,2,,32,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,Chocolate Chip Cookies - 2,,620,40,16,0,50,180,60,4,42,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,"Lunch Loaded Potato Soup, Bowl",,460,26,11,0,40,1520,46,3,1,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,Oatmeal Cranberry Cookies - 2,,580,44,12,0,70,540,90,2,36,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,"Soup, Chicken Noodle",,260,6,0,0,10,1430,37,2,1,,11,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,"Soup, Tomato Basil",,460,26,15,0,75,1850,46,2,5,,7,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,The Garden Salad,,110,4.5,1.5,0,10,270,13,2,3,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Lunch Duos & Trios,The Garden Salad with Chicken,,200,6,1.5,0,55,760,13,2,3,,20,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Cream Cheese Mammoth Muffin",,690,31,9,0,80,780,95,3,55,,10,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Pie, Slice",,400,15,5,0,55,410,60,1,40,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Pie with Whipped Cream, Slice",,550,28,14,0,100,430,66,1,46,,8,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Spice Pancake Platter",,630,27,9,0,500,1550,76,2,25,,21,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Spice Pancakes (2)",,330,11,4.5,0,50,970,51,2,18,,6,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Pumpkin Bakery,"Pumpkin Bakery, Pumpkin Spice Pancakes (3)",,470,14,5,0,70,1420,74,2,25,,9,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,Buffalo Chicken Melt,,1360,81,30,0,180,5340,101,4,17,,60,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,Caramel Apple Crisper,,260,11,6,0,25,410,33,1,12,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,Grilled Steak Melt,,1200,70,28,0,180,2830,78,4,8,,65,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,Strawberry & Cream Cheese Crispers,,310,18,7,0,25,390,32,1,12,,5,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,The Hangover Melt,,1710,100,41,0,790,2800,131,4,38,,75,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27
+perkins,Mega Melts,The O.G. Melt,,1860,124,33,3,280,3060,106,3,20,,71,,,https://www.nutritionix.com/perkins-restaurant-and-bakery/menu/premium,2026-10-27

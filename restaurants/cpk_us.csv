@@ -1,0 +1,250 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+cpk,Starters,Avocado Club Egg Rolls,,1240,82,21,0.5,220,1960,62,6,24,,63,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,"California Olive Oil with Mediterranean Herbs, 4 fl oz",,920,106,15,0,0,330,1,1,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,"California Olive Oil with Mediterranean Herbs, ½ fl oz",,110,13,2,0,0,40,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Dynamite Shrimp,,680,48,8,0,165,1750,41,4,15,,21,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Lettuce Wraps with Chicken,,570,26,3,0,85,3660,45,7,31,,40,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Lettuce Wraps with Chicken & Shrimp,,650,27,3,0,190,3970,45,7,31,,60,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Lettuce Wraps with Chinese Vegetables,,380,17,1.5,0,0,3170,52,11,33,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Lettuce Wraps with Shrimp,,430,17,2,0,110,3480,45,7,31,,29,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Mexican Street Corn,,440,21,8,0,35,850,53,3,10,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,"Sourdough Baguette, 1 Each",,1820,6,1,0,0,4320,373,13,4,,56,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,"Sourdough Baguette, 2 Slices",,130,0,0,0,0,300,26,1,0,,4,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Spicy Buffalo Cauliflower,,720,54,17,0,55,2010,49,5,13,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Spicy Buffalo Chicken Bites,,790,6,21,0.5,150,3570,37,2,9,,34,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Spinach Artichoke Dip,,1060,58,16,0,70,1240,108,15,5,,24,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,Szechwan Chicken Dumplings,,340,8,1,0,55,1340,45,2,11,,19,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,The Wedge,,300,27,6,0,55,360,8,2,5,,6,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Starters,White Corn Guacamole & Chips,,770,51,7,0,0,560,79,18,5,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Dakota Smashed Pea & Barley, Bowl",,340,0,0,0,0,1300,66,3,5,,23,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Dakota Smashed Pea & Barley, Cup",,170,0,0,0,0,650,33,2,3,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Sedona Tortilla, Bowl",,480,32,19,0,100,1330,44,6,7,,6,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Sedona Tortilla, Cup",,260,17,9,0,50,670,25,3,4,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Tomato Basil Bisque, Bowl",,540,39,12,0,70,1500,39,4,26,,6,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Soups,"Tomato Basil Bisque, Cup",,270,20,6,0,35,750,20,2,13,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,Banh Mi Bowl,,490,31,4.5,0,50,660,31,8,9,,26,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Caesar, Full",,530,40,12,0,60,810,27,8,6,,17,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Caesar, Half",,330,26,5,0,30,550,16,4,4,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"California Cobb, Full",,1020,79,18,0,370,1910,23,9,9,,53,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"California Cobb, Half",,510,39,9,0,185,960,12,5,5,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Italian Chopped, Full",,1010,82,17,0,110,1940,25,5,7,,48,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Italian Chopped, Half",,500,41,8,0,55,970,12,3,4,,24,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Thai Crunch, Full",,1110,69,8,0,85,1600,80,14,41,,53,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"Thai Crunch, Half",,550,34,4,0,40,800,40,7,21,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"The Original BBQ Chicken Chopped Salad, Full",,1320,84,20,0,160,1810,91,16,18,,57,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Salads,"The Original BBQ Chicken Chopped Salad, Half",,660,42,10,0,80,930,47,8,10,,29,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Main Plates,Cedar Plank Salmon,,650,34,8,0,115,640,35,4,12,,52,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Main Plates,Chicken Piccata,,1030,56,20,0,180,2080,73,4,5,,55,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Main Plates,"West Coast Burger ""The Wcb""",,1520,94,35,1.5,185,4110,110,6,23,,50,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Bolognese Spaghetti,,900,48,19,0.5,100,2050,88,5,12,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Braised Short Rib Ragu,,1350,81,30,1,240,2390,112,8,8,,42,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Chicken Tequila Fettuccine,,1240,68,34,1,230,1810,116,9,8,,45,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Garlic Cream Fettuccine,,1260,84,45,2,245,1280,97,6,6,,30,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Jambalaya Linguini Fini,,1230,71,19,0,225,2340,94,8,10,,58,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,"Jambalaya Linguini Fini, Nyc & Philadelphia Only",,1220,71,19,0,255,2200,93,8,10,,57,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Kung Pao Spaghetti,,890,37,3.5,0,0,1600,112,9,13,,28,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Shrimp Scampi Zucchini,,480,26,11,0,125,1030,30,4,5,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pastas,Tomato Basil Spaghetti Pasta,,950,52,4.5,0,0,1640,104,10,11,,20,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Burnt Ends BBQ Pizza,,200,7,3,0,20,520,24,1,3,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,California Club Pizza,,240,11,3.5,0,25,550,24,2,1,,12,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,California Veggie Pizza,,170,4.5,2,0,10,370,25,2,3,,8,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Carne Asada Pizza,,230,10,4.5,0,35,420,23,1,1,,12,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Five Cheese & Fresh Tomato Pizza,,200,8,5,0,25,480,22,1,1,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Hawaiian Pizza,,180,4.5,2,0,20,440,24,1,3,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Margherita Pizza,,220,10,4.5,0,25,440,22,1,1,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Mushroom Pepperoni Sausage Pizza,,200,8,3.5,0,20,500,23,1,1,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Pepperoni Pizza,,190,7,3,0,20,460,22,1,1,,8,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Sicilian Pizza,,240,11,4.5,0,35,610,24,1,2,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Spicy Chipotle Chicken Pizza,,220,10,4,0,25,470,24,1,2,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Thai Chicken Pizza,,210,7,2,0,15,470,26,2,4,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,The Original BBQ Chicken Pizza,,190,5,2.5,0,20,480,25,1,3,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,The Works Pizza,,210,9,3.5,0,20,550,24,1,2,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Pizzas,Wild Mushroom Pizza,,170,6,2.5,0,10,380,22,1,1,,7,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,GF Margherita Pizza,,220,12,6,0,35,360,15,1,1,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,GF Mushroom Pepperoni Sausage Pizza,,200,10,5,0,30,460,15,1,1,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,"GF Mushroom Pepperoni Sausage Pizza, Kids",,520,24,12,0,70,1180,47,1,4,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,GF Original BBQ Chicken Pizza,,180,7,4,0,30,440,17,0,3,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,"GF Original BBQ Chicken Pizza, Kids",,490,17,9,0,70,1210,52,1,10,,26,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,GF Pepperoni Pizza,,180,9,4.5,0,30,420,15,0,1,,8,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,"GF Pepperoni Pizza, Kids",,500,23,13,0,70,1140,46,1,4,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,GF Traditional Cheese Pizza,,180,8,5,0,30,350,15,0,2,,9,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Gluten-Free Pizzas,Kids GF Traditional Cheese Pizza,,460,18,11,0,55,930,48,1,5,,20,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,CPK Salad,,200,19,3,0,10,190,6,3,3,,2,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Crispy Chicken,,550,33,6,0,80,1960,39,2,13,,25,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Curly Mac N' Cheese,,820,53,28,1.5,160,760,66,4,5,,21,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fresh Fruit,,60,0,0,0,0,0,16,1,13,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fusilli Pasta & Alfredo,,750,47,24,1,135,510,63,4,3,,19,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fusilli Pasta & Butter,,460,20,8,0,30,520,59,3,1,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fusilli Pasta & Meat Sauce,,510,18,3,0,20,1130,67,4,6,,18,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fusilli Pasta & Olive Oil,,480,23,2,0,0,520,58,3,1,,11,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Fusilli Pasta & Tomato Sauce,,460,15,1.5,0,0,670,66,5,6,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Grilled Chicken Breast,,220,10,1.5,0,80,640,1,0,0,,30,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Brownie,,470,22,8,0,30,90,75,3,59,,5,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids GF Mushroom Pepperoni Sausage Pizza,,520,24,12,0,70,1180,47,1,4,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids GF Original BBQ Chicken Pizza,,490,17,9,0,70,1210,52,1,10,,26,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids GF Pepperoni Pizza,,500,23,13,0,70,1140,46,1,4,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Hawaiian Pizza,,650,14,7,0,60,1530,89,3,9,,35,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Hawaiian Pizza on Cauliflower Crust Pizza,,490,16,9,0,75,1100,52,2,9,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Mushroom Pepperoni Sausage Pizza,,680,23,9,0,60,1600,85,3,5,,29,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Original BBQ Chicken Pizza,,670,16,8,0,60,1720,92,3,13,,34,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Pepperoni Pizza,,620,18,8,0,50,1400,83,3,5,,24,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,CPKids,Kids Sundae,,590,39,27,1,135,140,54,1,48,,7,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Belgian Chocolate Souffle Cake,,680,48,31,0,200,125,64,4,29,,8,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Butter Cake,,1090,66,41,0.5,275,620,122,1,86,,7,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Coffee,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Key Lime Pie,,790,44,25,0.5,125,300,94,1,75,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,"Mini Butter Cake, Classic",,890,36,21,0.5,220,680,131,1,93,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,"Mini Butter Cake, Dark Chocolate & Brownie Crumble",,930,37,21,0.5,220,690,140,1,100,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,"Mini Butter Cake, Fresh Strawberries In Puree",,890,36,21,0.5,220,680,132,1,94,,13,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,"Mini Butter Cake, Smoked Bacon & Maple",,950,38,22,0.5,225,840,138,1,99,,14,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Mini Butter Cake Flight,,2090,61,34,0.5,435,2090,362,4,249,,31,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Red Velvet Cake,,960,54,25,0,155,580,120,1,86,,8,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Desserts,Tazo Hot Teas,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Burnt Ends BBQ Pizza",,720,22,9,0,55,1860,94,3,13,,32,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Burnt Ends BBQ Pizza on Cauliflower Crust",,620,28,13,0,80,1620,59,2,14,,29,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" California Club",,820,32,11,0,80,1830,87,6,4,,40,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" California Club Pizza on Cauliflower Crust",,730,38,15,0,105,1580,51,4,4,,37,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" California Veggie Pizza",,610,14,6,0,30,1320,92,5,9,,26,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" California Veggie Pizza on Cauliflower Crust",,510,20,11,0,55,1070,56,4,9,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Carne Asada",,790,30,13,0,105,1460,86,4,4,,40,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Carne Asada Pizza on Cauliflower Crust",,690,36,18,0,130,1210,50,2,5,,37,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Five Cheese & Fresh Tomato",,710,24,15,0,75,1610,82,3,3,,34,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Five Cheese & Fresh Tomato Pizza on Cauliflower Crust",,620,30,19,0,100,1360,46,1,4,,31,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Hawaiian",,650,14,7,0,60,1530,89,3,9,,35,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Hawaiian Pizza on Cauliflower Crust",,550,20,11,0,85,1280,54,2,10,,32,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Mushroom Pepperoni Sausage Pizza",,710,26,10,0,65,1720,85,3,5,,30,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Mushroom Pepperoni Sausage Pizza on Cauliflower Crust",,600,30,15,0,90,1380,49,2,6,,28,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Original BBQ Chicken Pizza on Cauliflower Crust",,560,22,12,0,85,1360,54,1,10,,31,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Pepperoni Pizza",,670,22,10,0,65,1600,84,3,5,,27,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Pepperoni Pizza on Cauliflower Crust",,550,26,13,0,80,1320,48,1,6,,23,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Sicilian",,790,34,14,0,100,1970,84,4,6,,40,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Sicilian Pizza on Cauliflower Crust",,730,39,18,0,125,1760,51,2,6,,38,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Spicy Chipotle Chicken",,760,29,11,0,80,1570,88,4,6,,35,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Spicy Chipotle Chicken Pizza on Cauliflower Crust",,670,35,16,0,105,1320,53,3,6,,32,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Thai Chicken",,790,26,7,0,45,1800,100,6,15,,36,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Thai Chicken Pizza on Cauliflower Crust",,690,32,11,0,70,1550,65,4,15,,33,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" The Original BBQ Chicken Pizza",,680,16,8,0,60,1720,93,3,13,,35,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" The Works",,740,28,11,0,65,1860,87,4,6,,31,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" The Works Pizza on Cauliflower Crust",,650,34,15,0,90,1610,52,2,7,,28,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Wild Mushroom",,610,19,8,0,30,1310,82,3,4,,24,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"7"" Wild Mushroom Pizza on Cauliflower Crust",,520,25,12,0,55,1060,47,2,4,,21,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"California Club - Chicken, Full",,1020,53,10,0,90,2290,88,9,3,,44,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"California Club - Chicken, Half",,510,26,5,0,45,1140,44,4,2,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"California Club - Turkey, Full",,950,45,9,0,80,2540,87,9,3,,43,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"California Club - Turkey, Half",,470,23,4.5,0,40,1270,44,4,2,,22,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"Catalina Chicken, Full",,1290,65,19,0,150,2610,123,6,6,,57,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"Catalina Chicken, Half",,650,32,9,0,75,1300,61,3,3,,29,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"Oven-Roasted Turkey & Brie, Full",,910,35,13,0,110,2600,96,5,17,,49,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,"Oven-Roasted Turkey & Brie, Half",,460,17,6,0,55,1300,48,3,9,,25,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,Spaghetti Bolognese,,500,25,10,0,50,1060,52,3,6,,15,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,The Original BBQ Chicken Chopped Salad,,330,21,5,0,40,470,24,4,5,,14,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,Tomato Basil Spaghetti,,480,26,2.5,0,0,820,52,5,5,,10,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Lunch Duos,Tomato Basil Spaghetti & Goat Cheese,,550,31,6,0,20,930,53,5,6,,15,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Blueberry Lemon Drop Martini,,240,0,0,0,0,0,26,0,9,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Bourbon Peach Smash,,210,0,0,0,0,5,26,0,24,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,California Colada,,200,0,0,0,0,5,33,0,28,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Cosmopolitan Martini,,160,0,0,0,0,0,8,0,7,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Espresso Martini,,240,0,0,0,0,20,19,0,19,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,French Martini,,190,0,0,0,0,0,16,<1,14,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Fresh Agave Lime Margarita,,170,0,0,0,0,20,20,0,16,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Golden Cadillac 'Rita,,220,0,0,0,0,910,26,0,22,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Moscow Mule,,190,0,0,0,0,15,23,0,20,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Platinum Margarita,,170,0,0,0,0,290,19,0,16,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Platinum Margarita & Chambord Float,,210,0,0,0,0,290,24,0,21,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Platinum Margarita & Cointreau Float,,220,0,0,0,0,290,23,0,20,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Platinum Margarita & Meiomi Pinot Noir Float,,180,0,0,0,0,910,30,0,26,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Skinny & Spicy 'Rita,,130,0,0,0,0,430,9,0,6,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Sparkling Mojito,,150,0,0,0,0,5,10,0,6,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Cocktails,Strawberry Lime Margarita,,190,0,0,0,0,25,26,2,21,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Acqua Panna,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Barq's Root Beer,,130,0,0,0,0,60,38,0,38,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Cherry Coke,,130,0,0,0,0,30,35,0,35,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Coca-Cola,,120,0,0,0,0,40,33,0,33,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Coke Zero,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK - Pacific Thyme,,110,0,0,0,0,0,28,2,18,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK Lemonade,,130,0,0,0,0,15,32,0,29,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK Mango Lemonade,,190,0,0,0,0,15,48,0,44,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK Peach Lemonade,,180,0,0,0,0,15,46,0,42,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK Raspberry Lemonade,,180,0,0,0,0,20,45,0,42,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,CPK Strawberry Lemonade,,180,0,0,0,0,20,45,0,41,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Cucumber Reviver,,70,0,0,0,0,50,19,0,17,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Diet Coke,,0,0,0,0,0,35,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Dr Pepper,,130,0,0,0,0,50,33,0,32,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Fresca,,0,0,0,0,0,30,1,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Freshly Brewed Iced Tea,,0,0,0,0,0,5,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Freshly Brewed Iced Tea - Mango,,80,0,0,0,0,10,20,0,19,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Freshly Brewed Iced Tea - Peach,,70,0,0,0,0,10,18,0,17,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Freshly Brewed Iced Tea - Raspberry,,70,0,0,0,0,15,17,0,17,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Freshly Brewed Iced Tea - Strawberry,,70,0,0,0,0,15,17,0,16,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Fresh Strawberry Mango Cooler,,80,0,0,0,0,5,19,1,16,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Frozen Lemonade,,180,0,0,0,0,15,46,1,41,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Frozen Peach Lemonade,,180,0,0,0,0,10,45,1,40,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Frozen Strawberry Lemonade,,210,0,0,0,0,30,52,1,47,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Passion Fruit Mango Iced Tea,,0,0,0,0,0,0,0,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Seagram's Ginger Ale,,80,0,0,0,0,30,22,0,22,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Sparkling Berry-Lemon,,40,0,0,0,0,35,12,2,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beverages,Sprite,,120,0,0,0,0,55,32,0,32,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Sangrias,Red-Berry,,270,0,0,0,0,10,39,2,32,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Sangrias,Sangria Flight,,150,0,0,0,0,10,22,1,16,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Sangrias,Sparkling Mango,,210,0,0,0,0,25,26,<1,21,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Sangrias,Strawberry Rosé Sangria,,270,0,0,0,0,0,38,0,34,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Wine Flights,Red Wine Flight,,220,0,0,0,0,0,7,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Wine Flights,White Wine Flight,,230,0,0,0,0,15,7,0,3,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Bonanza Cabernet Sauvignon // California, 6 oz",,150,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Bonanza Cabernet Sauvignon // California, 9 oz",,220,0,0,0,0,0,7,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Bonanza Cabernet Sauvignon // California, Bottle",,620,0,0,0,0,0,19,0,0,,<1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"CPK - Josh Cabernet Sauvignon, Bottle - 750 mL",,610,0,0,0,0,0,10,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"CPK - Pessimist Red Blend, 6 fl oz",,150,0,0,0,0,5,5,0,1,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"CPK - Pessimist Red Blend, Bottle - 750 mL",,630,0,0,0,0,25,19,0,5,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Francis Ford Coppola ""Diamond Collection"" Merlot // California, 6 oz",,140,0,0,0,0,5,4,2,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Francis Ford Coppola ""Diamond Collection"" Merlot // California, Bottle",,600,0,0,0,0,20,16,6,0,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Josh Cabernet Sauvignon, 6 fl oz",,140,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"La Crema Pinot Noir // Monterey, 6 oz",,140,0,0,0,0,5,4,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"La Crema Pinot Noir // Monterey, Bottle",,610,0,0,0,0,30,15,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Meiomi Pinot Noir // Monterey / Sonoma / Santa Barbara, 6 oz",,140,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Meiomi Pinot Noir // Monterey / Sonoma / Santa Barbara, Bottle",,600,0,0,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Oberon Cabernet Sauvignon // Napa County, 6 oz",,170,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Oberon Cabernet Sauvignon // Napa County, 9 oz",,250,0,0,0,0,0,7,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Red Wines,"Oberon Cabernet Sauvignon // Napa County, Bottle",,700,0,0,0,0,0,19,0,0,,<1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Emmolo Sauvignon Blanc // California, 6 fl oz",,130,0,0,0,0,0,1,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Emmolo Sauvignon Blanc // California, 9 fl oz",,220,0,0,0,0,0,5,0,1,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Emmolo Sauvignon Blanc // California, Bottle",,550,0,0,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Francis Ford Coppola, Bianco Pinot Grigio // California, 6 oz",,140,0,0,0,0,5,2,0,1,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Francis Ford Coppola, Bianco Pinot Grigio // California, Bottle",,570,0,0,0,0,30,10,0,3,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Harvey & Harriet White Blend // Central Coast, 6 oz",,170,0,0,0,0,10,5,0,2,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Harvey & Harriet White Blend // Central Coast, 9 oz",,250,0,0,0,0,15,7,0,3,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Harvey & Harriet White Blend // Central Coast, Bottle",,700,0,0,0,0,35,19,0,7,,<1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"J. Lohr Riverstone Chardonnay // Monterey, 6 oz",,150,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"J. Lohr Riverstone Chardonnay // Monterey, 9 oz",,220,0,0,0,0,0,5,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"J. Lohr Riverstone Chardonnay // Monterey, Bottle",,630,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Kendall-Jackson ""Vintner's Reserve"" Chardonnay // California, 6 oz",,160,0,0,0,0,10,5,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Kendall-Jackson ""Vintner's Reserve"" Chardonnay // California, Bottle",,660,0,0,0,0,35,20,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Kim Crawford Sauvignon Blanc // Marlborough, New Zealand, 6 oz",,130,0,0,0,0,0,1,0,1,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Kim Crawford Sauvignon Blanc // Marlborough, New Zealand, Bottle",,550,0,0,0,0,0,4,0,4,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"La Marca Prosecco // Veneto, Italy, Bottle",,630,0,0,0,0,95,32,0,13,,4,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"La Marca Prosecco // Veneto, Italy, Split",,160,0,0,0,0,25,8,0,3,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"M. Chapoutier Belleruche Rose // Cotes Du Rhone, France, 6 oz",,140,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"M. Chapoutier Belleruche Rose // Cotes Du Rhone, France, Bottle",,590,0,0,0,0,15,11,0,1,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Sonoma-Cutrer, Russian River Ranches Chardonnay // Sonoma Coast, 6 oz",,150,0,0,0,0,0,3,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Sonoma-Cutrer, Russian River Ranches Chardonnay // Sonoma Coast, Bottle",,630,0,0,0,0,0,13,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Unshackled Sparkling Rosé // California, 6 fl oz",,150,0,0,0,0,10,7,0,7,,<1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Unshackled Sparkling Rosé // California, 9 fl oz",,230,0,0,0,0,15,10,0,10,,<1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,White Wines,"Unshackled Sparkling Rosé // California, Bottle",,640,0,0,0,0,40,29,0,29,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Blue Moon,,260,0,0,0,0,5,18,0,16,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Boston Lager,,270,0,0,0,0,30,28,2,3,,2,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Cold Snap,,250,0,0,0,0,15,21,0,0,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Octoberfest,,280,0,0,0,0,25,28,0,1,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Rebel IPA,,290,0,0,0,0,80,24,2,1,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Summer Ale,,250,0,0,0,0,25,20,0,0,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Draft Beers,Samuel Adams Winter Lager,,290,0,0,0,0,20,28,0,1,,4,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Angry Orchard Crisp Apple Cider,,190,0,0,0,0,15,25,1,21,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Blue Moon Belgian White Ale,,170,0,0,0,0,10,14,0,0,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Bud Light,,110,0,0,0,0,10,7,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Coors Light,,100,0,0,0,0,15,5,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Corona Extra,,150,0,0,0,0,0,14,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Dos Equis Lager,,130,0,0,0,0,10,11,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Lagunitas Ipa,,190,0,0,0,0,15,14,0,2,,3,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Miller Lite,,100,0,0,0,0,0,3,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Modelo Especial,,150,0,0,0,0,0,4,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Bottled Beers,Stella Artois,,140,0,0,0,0,0,11,0,0,,1,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
+cpk,Non-Alcoholic Beers,Athletic Brewing Company - Upside Dawn,,45,0,0,0,0,0,12,0,0,,0,,,https://www.nutritionix.com/california-pizza-kitchen/menu/premium,2026-10-27
