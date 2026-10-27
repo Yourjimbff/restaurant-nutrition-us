@@ -1,0 +1,1312 @@
+chain,category,name,serving_g,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carb_g,fiber_g,sugars_g,added_sugars_g,protein_g,ingredients,parts,source,pulled
+goldencorral,Beef,4 oz. Cheeseburger — 1 each,199,530,27,9,1,15,1090,42,1,10,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,6 oz Cheeseburger — 1 each,197,580,32,12,1,115,790,33,0,9,,37,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,8 oz. Cheeseburger — 1 each,277,720,39,14,2,15,1160,42,1,10,,47,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Asian Beef — 3 oz,85,110,3.5,0.5,0,20,620,10,0,8,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Bacon Wrapped Sirloin Filet — 1 Each,109,190,12,5,0.5,70,630,1,0,0,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Barbacoa — 3 oz,85,270,23,12,0,90,490,0,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,BBQ Beef — 3 oz,85,120,5,1.5,0,50,160,0,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Enchiladas — 1 each,127,170,10,6,0,35,620,10,1,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Liver and Onions — 4 oz,113,220,10,2.5,0,305,300,9,0,1,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Pot Pie — 1 piece,121,190,11,6,0,35,390,14,1,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Quesadillas — 1 piece,56,130,9,3,0,15,200,9,0,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Roast — 4 oz,108,230,12,5,0,95,920,4,0,0,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Beef Stroganoff — 2/3 Cup,157,180,9,2.5,0,35,940,14,2,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Birria Tacos — 1 Taco,134,180,12,4.5,0,40,270,7,1,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Braised Beef and Vegetable Bowl — 1 each,405,610,37,12,0,135,1550,33,3,6,,38,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Braised Beef Sandwich — 1 each,164,430,32,11,0,130,610,3,1,2,,32,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Braised Beef w/ Vegetables and Gravy (Pot Roast) — About 7 oz,326,360,14,4.5,0,130,490,9,1,2,,48,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Buffalo Meatballs — 2 each with sauce,160,260,15,6,0,70,1350,15,0,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Carne Asada — 4 oz,113,170,7,1.5,0,75,400,1,0,1,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Carne Guisada — 1/2 cup,130,140,6,1.5,0,50,400,4,0,2,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Cheeseburger - 4 oz — 1 each,161,490,27,10,1,85,750,33,0,9,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Chicken Fried Steak — 2.68 oz,76,260,15,5,0.5,30,350,13,0,0,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Chicken Fried Steak ( made from scratch) — 1 each,113,230,6,2,0,25,1250,31,1,3,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,"Chuck Steak, Caramelized Onions & Mushrooms — 3 oz",85,160,10,4,0,55,450,2,0,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Chuck Tips — 3 oz,85,140,5,1.5,0,65,250,0,0,0,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Corned Beef and Cabbage — 2/3 Cup,143,200,13,5,0,35,580,9,1,2,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Country Style Steak — 1 each,71,180,12,5,0.5,35,460,8,1,3,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Grilled Chopped Steaks — 1 each,111,290,20,8,1.5,80,450,2,0,0,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Grilled Garlic Parmesan Chuck — 3 oz,85,190,12,4.5,0,75,390,1,6,0,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Grilled Honey Teriyaki Chuck — 3 oz,85,180,10,4,0,65,400,4,15,3,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Hot Dog — 1 each,131,380,26,10,0,50,1120,23,0,2,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Hot Dog (Lunch Option) — 1 each,66,190,13,5,0,25,560,11,0,1,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Hot Dog Chili — 1oz,28,50,3.5,1.5,0,15,150,2,0,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Hot Dogs with Onions & Peppers — 1 each (hot dog),362,410,31,11,0,50,990,21,4,8,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Italian Meatballs with Marinara — 2 each with sauce,166,230,15,5,0,60,640,12,1,3,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Machaca Beef — 3 oz,85,140,8,3,0,55,230,2,0,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf  (All Beef) — 1 Piece,116,220,13,5,1,50,610,10,0,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf - All Beef w/ Brown Gravy — 1 Piece,116,230,13,5,1,50,670,11,0,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf - Homeward — 2 pieces,208,380,21,8,0.5,80,1150,19,1,3,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf - Homeward All Beef — 2 pieces,208,420,25,10,1.5,85,1160,19,1,3,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf w/ Brown Gravy — 1 piece,104,230,13,5,0,50,670,11,2,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf w/ Brown Gravy — 1 piece,104,230,13,5,0,50,670,11,81,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf w/ Meatloaf Topping — 1 piece,104,190,11,4,0,40,550,9,0,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Meatloaf w/ Mushroom Gravy — 1 piece,104,200,11,4,0,40,600,10,0,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Menudo — 1 Cup,245,90,3,1,0,105,1020,2,1,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Mini Bacon Steakburger — 1 each,109,310,17,7,1,15,430,18,0,6,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Mini BBQ Brisket Sandwich — 1 each,51,150,7,2.5,0,5,280,19,0,6,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Mini Hot Dog — 1 each,59,160,8,2.5,0.5,15,380,17,0,4,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Mini Steakburger — 1 each,102,260,14,6,0.5,5,390,16,0,4,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Mongolian Beef — 1 cup,176,290,11,2.5,0,60,1380,24,1,17,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Oriental Pepper Beef — 1 cup,186,290,11,2.5,0,60,1400,24,1,18,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Patty Melt — 1 piece,171,460,23,9,1,55,1370,43,2,6,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Philly Cheese Braised Beef Sandwich — 1 each,287,560,24,10,0,120,910,47,4,3,,39,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Philly Cheesesteak Meatballs — 2 each with sauce,149,220,15,6,0,60,670,9,0,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Philly Steak Sandwich — 1 piece,148,360,20,7,0,60,830,22,1,3,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Picadillo — 6 oz,170,200,12,3.5,0,35,440,10,2,5,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Picadillo — 6 oz,170,250,14,4,0,60,350,10,2,5,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Pot Roast — 1/2 cup,130,150,7,3,0,55,320,8,1,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Pot Roast — 1/2 Cup,130,150,5,2,0,55,200,4,85,1,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Prime Rib — 3 oz,85,280,22,9,0,65,350,1,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Ribeye — 3 oz,85,170,9,4,1,50,440,0,0,0,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Roast Beef (beef flat) — 3 oz,85,180,10,3.5,1,65,280,1,0,0,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Roast Beef (inside round) — 3 oz,85,110,3,1,0,50,115,0,0,0,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Ropa Vieja — 4 oz,133,220,13,3.5,0,45,460,10,2,3,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Ropa Vieja — 10 oz,303,480,26,9,0,135,530,19,4,8,,37,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Salisbury Steak — 1 each,71,190,12,4.5,1,35,740,10,2,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Shepherd's Pie — 1 cup,226,350,22,6,0,60,1010,21,2,4,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Sirloin Steak — 3 oz,85,130,8,3,0,55,350,1,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Sirloin Steak (12 oz) — 12 oz,322,480,27,11,1.5,200,1330,3,0,0,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Sirloin Steak (8 oz) — 8 oz,227,340,20,8,1,140,930,2,0,0,,38,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Sirloin Steak Strips — 3 oz,85,130,8,3,0,55,350,1,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Sirloin Tips — 3 oz,85,170,8,3,0,70,250,0,0,0,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Slow-Smoked Sirloin — 3 oz,85,130,6,2.5,0.5,50,690,1,0,0,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Smoked Brisket — 3 oz,85,230,17,7,1,75,130,0,0,0,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Smoked Texas BBQ Beef — 3 oz,85,250,17,7,1.5,80,105,0,0,0,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Smokehouse Boneless Beef Ribs — 3 oz,113,220,8,3.5,0,60,890,15,1,12,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Smothered Chopped Steaks — 1 each,167,290,18,7,1,0,440,4,0,1,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Smothered Chopped Steaks — 1 each,167,290,18,7,1,0,470,4,109,1,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Steak Fajitas — 3 oz,85,60,2.5,0.5,0,5,60,6,1,3,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Swedish Meatballs — 2 each with sauce,120,210,13,6,0,65,620,9,0,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Taco Meat — 1/4 cup,57,110,8,3,0.5,30,240,2,1,1,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Teriyaki Beef — 1 cup,169,240,8,2,0,45,1090,22,1,16,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beef,Teriyaki Sirloin — 3 oz,85,200,13,5,1,55,660,3,0,3,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Apple Juice — 8 fl oz,227,110,0,0,0,0,0,28,0,26,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Barq's Root Beer© 12 oz — 12 fl oz,340,160,0,0,0,0,55,44,0,44,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Barq's Root Beer© 16 oz — 16 fl oz,454,210,0,0,0,0,70,58,0,58,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Barq's Root Beer© 32 oz — 32 fl oz,907,430,0,0,0,0,140,116,0,116,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Blue Raspberry 16 OZ — 16 Fl Oz,580,180,0,0,0,0,30,47,0,46,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Blue Raspberry Lemonade 32  OZ — 32 Fl Oz,1161,360,0,0,0,0,55,94,0,91,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Blue Raspberry Lemonade Bubbler — 1 cup,227,100,0,0,0,0,10,26,1,25,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Coffee — 8 oz,237,100,6,6,0,0,30,10,1,9,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Lemonade (Bubbler) - 16 oz — 16 fl oz,473,160,0,0,0,0,25,41,11,39,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Lemonade (Bubbler) 32 oz — 32 fl oz,946,430,0,0,0,0,70,110,12,104,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Sprite - 16 oz — 16 oz,473,220,0,0,0,0,85,56,2,56,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Sprite - 32 oz — 32 oz,946,440,0,0,0,0,170,113,6,111,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Tea - 16 oz — 16 oz,473,100,0,0,0,0,35,24,8,23,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Caramel Apple Tea - 32 oz — 32 oz,946,390,0,0,0,0,75,96,9,95,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Chocolate Milk — 1 container,227,200,2.5,1.5,0,15,240,34,0,32,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola - 2 Liter — 2 liters,2001,810,0,0,0,0,270,225,0,225,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Cherry© 12 oz — 12 fl oz,340,150,0,0,0,0,40,42,0,42,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Cherry© 16 oz — 16 fl oz,454,210,0,0,0,0,55,56,0,56,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Cherry© 32 oz — 32 fl oz,907,410,0,0,0,0,110,112,0,112,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Zero Sugar© 12 oz — 12 fl oz,340,0,0,0,0,0,40,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Zero Sugar© 16 oz — 16 fl oz,454,0,0,0,0,0,55,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola Zero Sugar© 32 oz — 32 fl oz,907,0,0,0,0,0,105,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola© 12 oz — 12 fl oz,340,150,0,0,0,0,40,40,0,40,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola© 16 oz — 16 fl oz,454,200,0,0,0,0,50,53,0,53,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coca Cola© 32 oz — 32 fl oz,907,390,0,0,0,0,100,107,0,107,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Coffee — 8 fl oz,227,0,0,0,0,0,0,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Cranberry Juice — 8 fl oz,227,110,0,0,0,0,5,28,0,28,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Coke - 2 Liter — 2 liters,2001,0,0,0,0,0,230,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Coke© 12 oz — 12 fl oz,340,0,0,0,0,0,50,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Coke© 16 oz — 16 fl oz,454,0,0,0,0,0,65,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Coke© 32 oz — 32 fl oz,907,0,0,0,0,0,130,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Dr. Pepper© 12 oz — 12 fl oz,340,0,0,0,0,0,75,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Dr. Pepper© 16 oz — 16 fl oz,454,0,0,0,0,0,100,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Diet Dr. Pepper© 32 oz — 32 fl oz,907,0,0,0,0,0,200,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dr. Pepper - 2 Liter — 2 liters,2000,850,0,0,0,0,340,223,0,216,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dr. Pepper© 12 oz — 12 fl oz,340,140,0,0,0,0,45,39,0,39,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dr. Pepper© 16 oz — 16 fl oz,454,180,0,0,0,0,60,52,0,52,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dr. Pepper© 32 oz — 32 fl oz,907,360,0,0,0,0,120,104,0,104,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dragon Fruit Lemonade — 12 fl oz,355,150,0,0,0,0,10,39,0,37,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dragon Fruit Sprite — 12 fl oz,355,210,0,0,0,0,70,58,0,56,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Dragon Fruit Tea — 12 fl oz,355,80,0,0,0,0,10,20,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Orange© 12 oz — 12 fl oz,340,150,0,0,0,0,40,40,0,40,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Orange© 16 oz — 16 fl oz,454,200,0,0,0,0,55,54,0,53,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Orange© 32 oz — 32 fl oz,907,390,0,0,0,0,105,108,0,106,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Strawberry© 12 oz — 12 fl oz,340,160,0,0,0,0,85,43,0,43,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Strawberry© 16 oz — 16 fl oz,454,210,0,0,0,0,110,57,0,57,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fanta Strawberry© 32 oz — 32 fl oz,907,420,0,0,0,0,220,115,0,113,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Frose (Bronx) — 12 ounces,345,430,0,0,0,0,100,99,0,96,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Frozen Strawberry Drink — 12 ounces,340,210,0,0,0,0,5,56,0,51,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fuze Raspberry Tea© 12 oz — 12 fl oz,340,80,0,0,0,0,50,23,0,22,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fuze Raspberry Tea© 16 oz — 16 fl oz,454,110,0,0,0,0,65,31,0,30,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Fuze Raspberry Tea© 32 oz — 32 fl oz,907,220,0,0,0,0,135,61,0,59,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Glaceau Vitamin Water© 12 oz — 12 fl oz,340,70,0,0,0,0,40,19,0,19,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Glaceau Vitamin Water© 16 oz — 16 fl oz,454,90,0,0,0,0,50,26,0,25,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Glaceau Vitamin Water© 32 oz — 32 fl oz,907,190,0,0,0,0,105,51,0,49,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Sweetened© 12 oz — 12 fl oz",340,130,0,0,0,0,10,33,0,32,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Sweetened© 16 oz — 16 fl oz",454,170,0,0,0,0,15,44,0,43,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Sweetened© 32 oz — 32 fl oz",907,340,0,0,0,0,25,88,0,85,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Unsweetened© 12 oz — 12 fl oz",340,0,0,0,0,0,40,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Unsweetened© 16 oz — 16 fl oz",454,0,0,0,0,0,55,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Gold Peak Tea, Unsweetened© 32 oz — 32 fl oz",907,10,0,0,0,0,25,3,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Grapefruit Juice — 8 fl oz,227,110,0,0,0,0,30,28,0,28,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Flashin Fruit Punch© 12 oz — 12 fl oz,340,150,0,0,0,0,75,42,0,41,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Flashin Fruit Punch© 16 oz — 16 fl oz,454,210,0,0,0,0,100,57,0,55,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Flashin Fruit Punch© 32 oz — 32 fl oz,907,410,0,0,0,0,200,113,0,110,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Poppin Pink Lemonade© 12 oz — 12 fl oz,340,130,0,0,0,0,100,37,0,35,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Poppin Pink Lemonade© 16 oz — 16 fl oz,454,180,0,0,0,0,130,49,0,47,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hi-C Poppin Pink Lemonade© 32 oz — 32 fl oz,907,360,0,0,0,0,260,98,0,94,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hibiscus Lemonade 16 OZ — 16 Fl Oz,580,180,0,0,0,0,30,48,0,46,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hibiscus Lemonade 32 OZ — 32 Fl Oz,1161,370,0,0,0,0,60,96,0,93,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Horchata 12 oz — 12 fl oz,340,230,4.5,3,0,20,140,43,0,36,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Horchata 16 oz — 16 fl oz,454,310,6,4,0,25,190,58,0,48,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Horchata 32 oz — 32 fl oz,907,620,12,8,0,50,370,115,0,96,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hot Chocolate — 8 fl oz,247,80,2.5,2,0,0,190,16,0,12,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Hot Tea — 8 fl oz,227,0,0,0,0,0,5,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Icee, Black Cherry — 8 oz",227,60,0,0,0,0,10,17,0,17,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Icee, Master Chill Cherry Limeade — 8 oz",227,70,0,0,0,0,5,18,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Icee, Orange — 8 oz",227,70,0,0,0,0,0,18,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,"Icee, Watermelon — 8 oz",227,70,0,0,0,0,10,18,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Jamaica 12 oz — 12 fl oz,340,150,0,0,0,0,25,38,0,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Jamaica 16 oz — 16 fl oz,454,200,0,0,0,0,35,50,0,48,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Jamaica 32 oz — 32 fl oz,907,400,0,0,0,0,70,100,0,97,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Margarita (Bronx) — 12 oz,354,500,0,0,0,0,35,100,0,92,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Mello Yello - 2 Liter — 2 liters,1998,980,0,0,0,0,270,264,0,264,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Mello Yello 12 oz — 12 fl oz,340,160,0,0,0,0,50,44,0,44,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Mello Yello 16 oz — 16 fl oz,454,210,0,0,0,0,65,58,0,58,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Mello Yello 32 oz — 32 fl oz,907,420,0,0,0,0,135,116,0,116,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Milk — 1 container,227,140,5,3,0,20,150,14,0,13,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Lemonade© 12 oz — 12 fl oz,340,140,0,0,0,0,95,38,0,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Lemonade© 16 oz — 16 fl oz,454,180,0,0,0,0,130,50,0,48,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Lemonade© 32 oz — 32 fl oz,907,360,0,0,0,0,260,101,0,96,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Light Lemonade© 12 oz — 12 fl oz,340,5,0,0,0,0,45,2,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Light Lemonade© 16 oz — 16 fl oz,454,10,0,0,0,0,55,3,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Minute Maid Light Lemonade© 32 oz — 32 fl oz,907,15,0,0,0,0,115,5,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Orange Fanta - 2 Liter — 2 liters,1998,910,0,0,0,0,300,247,0,247,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Orange Guava Juice — 8 fl oz,227,110,0,0,0,0,0,30,0,28,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Orange Juice — 8 fl oz,227,110,0,0,0,0,0,27,0,24,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pina Colada — 12 ounces,340,380,12,10,0,0,140,38,0,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pina Colada (Bronx) — 12 ounces,347,350,9,8,0,0,40,44,0,44,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Lemonade (Bubbler) - 16 oz — 16 fl oz,473,150,0,0,0,0,20,39,1,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Lemonade (Bubbler) 32 oz — 32 fl oz,946,400,0,0,0,0,45,104,2,97,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Sprite - 16 oz — 16 oz,473,190,0,0,0,0,65,51,6,50,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Sprite - 32 oz — 32 oz,946,380,0,0,0,0,135,103,8,99,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Tea - 16 oz — 16 oz,473,170,0,0,0,0,15,43,13,41,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Pomegranate Tea - 32 oz — 32 oz,946,330,0,0,0,0,35,86,14,83,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Powerade Mountain Berry Blast© 12 oz — 12 fl oz,340,80,0,0,0,0,110,22,0,22,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Powerade Mountain Berry Blast© 16 oz — 16 fl oz,454,110,0,0,0,0,150,29,0,29,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Powerade Mountain Berry Blast© 32 oz — 32 fl oz,907,220,0,0,0,0,300,58,0,58,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Lemonade 16 oz — 16 fl oz,473,240,0,0,0,0,30,62,0,60,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Lemonade 32 oz — 32 fl oz,946,480,0,0.5,0,0,65,124,0,120,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Sprite 16 oz — 16 fl oz,473,230,0,0,0,0,45,59,0,53,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Sprite 32 oz — 32 fl oz,946,470,0,0.5,0,0,90,117,0,107,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Sweet Tea 16 oz — 16 fl oz,473,110,0,0,0,0,20,28,0,27,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Premium Mango Sweet Tea 32 oz — 32 fl oz,946,230,0,0.5,0,0,40,57,0,54,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Prickly Pear Lemonade — 1 Cup,8,110,0,0,0,0,10,28,0,26,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Sangria (Bronx) — 12 oz,378,280,0,0,0,0,60,46,1,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Seagram's Ginger Ale© 12 oz — 12 fl oz,340,130,0,0,0,0,45,35,0,35,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Seagram's Ginger Ale© 16 oz — 16 fl oz,454,170,0,0,0,0,60,47,0,46,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Seagram's Ginger Ale© 32 oz — 32 fl oz,907,340,0,0,0,0,115,94,0,92,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Shark Bait  Lemonade 16 OZ — 16 Fl Oz,598,240,0,0,0,0,40,60,0,53,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Shark Bait Kids  Lemonade — Kids Cup,466,140,0,0,0,0,25,37,0,34,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Shark Bait Lemonade 32 OZ — 32 Fl Oz,1179,420,0,0,0,0,65,107,0,99,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Sprite -2 Liter — 2 liters,2235,890,0,0,0,0,200,227,0,201,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Sprite© 12 oz — 12 fl oz,340,140,0,0,0,0,70,37,0,36,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Sprite© 16 oz — 16 fl oz,454,180,0,0,0,0,90,49,0,49,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Sprite© 32 oz — 32 fl oz,907,360,0,0,0,0,180,98,0,97,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Strawberry Frose — 12 ounces,340,230,0,0,0,0,10,43,0,40,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Tomato Juice — 8 fl oz,227,50,0,0,0,0,680,10,2,7,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Watermelon Lemonade 16 OZ — 16 Fl Oz,580,180,0,0,0,0,30,48,0,46,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage,Watermelon Lemonade 32 OZ — 32 Fl Oz,1161,360,0,0,0,0,55,95,0,92,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Beverage  ,Margarita — 12 ounces,340,300,0,0,0,0,10,44,0,42,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Banana Nut Bread — 1 piece,75,190,4,0.5,0,5,240,40,1,25,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,BBQ Chicken Pizza — 1 Slice,132,300,9,5,0,35,850,36,2,7,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Blueberry Muffins — 1 each,120,330,14,4,0,30,420,54,0,29,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Bruschetta Bread — 1 each,43,130,8,2,0,0,240,11,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Buttermilk Biscuit (1 ea) — 1 each,67,230,14,7,0,0,630,24,1,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Buttermilk Biscuits — 1 each,67,230,14,7,0,0,630,24,1,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Buttermilk Biscuits (2 ea) — 2 each,135,470,28,14,0,0,1260,48,2,4,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Cheese Pizza — 1 slice,86,210,7,4.5,0,15,540,26,1,2,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Cheese Pizza (Whole Pie) — 1 Pizza,691,1670,60,35,1.5,135,4290,207,10,19,,74,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Chocolate Chip Muffins — 1 each,128,430,19,8,0,30,420,65,0,39,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Corn Muffins — 1 each,77,220,5,1,0,20,500,39,1,17,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Flour Tortillas — 1 each,32,100,3,1.5,0,0,160,15,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Focaccia — 1 Piece,34,80,1.5,0,0,0,230,14,0,0.7,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Focaccia With Caramelized Onions — 1 Piece,40,100,3.5,1.5,0,0,280,15,2,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Fresh Tomato Pizza — 1 slice,98,240,11,5,0,20,690,26,1,3,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Garlic Cheese Biscuits — 1 each,74,280,19,9,0,20,530,20,2,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Garlic Cheese Knots — 1 each,68,190,7,2.5,0,20,250,26,0,7,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Garlic Cheese Sticks — 1 each,45,120,5,2,0,10,290,14,0,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Hot Dog Bun — 1 each,40,110,1.5,0,0,0,190,20,0,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Hot Dog Bun - Yeast Roll — 1 each,63,170,3,1,0,0,230,32,0,8,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Jalapeno Corn Muffins — 1 each,73,240,13,2.5,0,60,370,26,1,11,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Mini Blueberry Muffins — 1 each,43,120,5,1.5,0,10,150,19,0,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Mini Chocolate Chip Muffins — 1 each,45,150,7,2.5,0,10,150,23,0,14,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Mini Yeast Rolls — 1 each,30,80,0.5,0,0,0,105,16,0,4,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,"Muffin, Maple Bacon — 1 each",150,490,25,10,0,85,860,47,2,31,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Pepperoni Pizza — 1 slice,94,250,11,6,0,25,680,26,1,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,"Pizza, Cheeseburger — 1 Slice",132,270,9,3.5,0,30,870,33,1,5,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Sausage Pizza — 1 slice,101,270,13,6,0,25,670,26,1,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Skillet Cornbread — 1 piece,52,150,5,2.5,0,20,320,23,0,8,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Skillet Cornbread - Homeward — 4 pieces,314,1190,74,30,1.5,70,2300,121,2,62,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Stromboli — 1 piece,99,240,10,5,0,25,700,25,1,2,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Texas Toast — 1 each,54,190,10,3.5,0,0,240,22,0,6,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Yeast Roll — 1 each,63,170,3,1,0,0,230,32,0,8,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Bread,Yeast Rolls — 1 each,63,170,3,1,0,0,230,32,0,8,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Biscuit - 1 — 1 each,92,330,19,11,0,0,1080,34,15,3,,40,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Biscuits - 12 — 12 each,1107,3930,227,137,0,0,12910,408,17,36,,480,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Biscuits - 6 — 6 each,553,1960,114,68,0,0,6450,204,18,18,,240,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Cinnamon Rolls - 3 — 3 each,145,500,22,8,1,2.9,380,68,47,29,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,"Corn Muffin Loaves, Mini — 1 each",130,380,9,1.5,0,35,870,69,53,29,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,"Corn Muffin Loaves, Mini (12) — 12 Loaves",1565,4580,110,17,2.5,400,10490,824,51,351,,75,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,"Corn Muffin Loaves, Mini (6) — 6 Loaves",780,2290,55,9,1,200,5250,412,52,175,,37,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Yeast Roll (1) — 1 each,43,170,8,2,0,0,140,21,113,5,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Yeast Roll (12) — 12 each,517,2050,92,26,1.5,0,1660,252,114,60,,48,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breads,Yeast Roll (6) — 6 each,259,1030,46,13,1,0,830,126,115,30,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Apple Topping — 2 Tbsp,35,50,0,0,0,0,40,12,0,10,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Apple-topped Waffle — 1 each,86,200,6,3,0,25,510,29,0,14,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Applesauce — 1/2 cup,126,110,0,0,0,0,0,27,1,25,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Bacon — 2 slices,17,80,6,2.5,0,20,230,0,0,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Bacon (2 Strips) — 4 each,38,210,19,7,0,30,680,0,1,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Bacon, Egg, Hash Brown & Cheese Breakfast Bowl — 1 Bowl",231,660,55,16,0,295,1150,21,10,2,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Bacon, Egg, Potato Tot & Cheese Breakfast Bowl — 1 Bowl",231,680,51,12,0,295,1060,30,11,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Banana Nut French Toast — 1 piece,115,280,10,2.5,0,100,290,48,1,32,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Bananas Foster French Toast Bake — 1 piece,69,140,4.5,1.5,0,90,135,22,0,10,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Blueberry French Toast Bake — 1 piece,71,140,4.5,1.5,0,90,135,21,0,10,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Blueberry Pancakes — 1 each,40,80,4,1,0,10,40,10,1,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Blueberry Pancakes (6 ea) — 6 each,239,500,24,7,0,65,230,60,4,20,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Breakfast Bake, Spinach Egg and Potato — 3 oz",121,140,8,3,0,145,550,8,1,2,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Breakfast Chicken Chilaquiles — 5 oz,149,260,16,10,0,135,620,12,1,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Breakfast Pizza — 1 slice,138,400,24,12,0,135,810,25,1,2,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Breakfast Pizza, Sausage & Gravy — 1 piece",103,260,11,5,0,50,580,29,1,3,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cheese Grits — 1/2 cup,128,170,9,4.5,0,20,310,16,0,0,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cherry Topping — 2 Tbsp,33,50,0,0,0,0,25,12,0,10,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chicken and Waffles — 1 Bowl,240,580,15,4,0,70,870,93,29,70,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chicken Biscuit — 1 each,163,500,27,13,0,60,1450,41,30,3,,56,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chicken Egg & Cheese Biscuit — 1 each,245,650,40,18,0,240,1740,43,1,4,,63,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chicken Fried Steak (1) — 1 piece,76,260,15,5,1,30,350,13,31,0,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chicken Fried Steak Biscuit w/ Gravy — 1 each,281,620,36,17,1,30,1560,50,32,3,,50,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Chicken Fried Steak, Egg & Cheese Biscuit w/ Gravy — 1 each",281,820,50,23,1,215,1920,55,1,4,,60,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Chicken, Hash Brown, Egg, & Cheese Breakfast Bowl — 1 Bowl",254,620,49,12,0,295,950,26,44,2,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Chicken, Potato Tot, Egg, & Cheese Breakfast Bowl — 1 Bowl",254,640,45,8,0,295,860,35,45,1,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chocolate Chip Pancakes — 1 each,45,150,8,3.5,0,10,40,18,0,11,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chocolate Chip Pancakes (6 ea) — 6 each,270,890,48,22,0,65,230,108,2,63,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chorizo and Egg Burrito — 1 each,156,310,18,7,0,105,760,22,1,1,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Chorizo and Eggs — 1/2 cup,115,200,16,6,0,205,370,2,0,1,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cinnamon French Toast Bake — 1 Slice,45,110,3,1,0,45,115,15,0,4,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cinnamon Pull Apart Rolls — 1 roll,71,200,3.5,1,0,0,230,35,1,11,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cinnamon Roll — 1 each,35,160,7,2.5,0,0,125,23,1,10,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Cocoa Krispies Cereal — 1 container,32,120,1,0.5,0,0,135,28,0,12,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Corn Pops Cereal — 1 container,21,80,0,0,0,0,75,19,2,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Corned Beef Hash — 4 oz,113,250,17,5,0,25,240,13,6,0.7,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Crabmeat, Surimi — 1 Tbsp",17,25,1,0,0,0,170,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Donut Holes - Blueberry — 3 each,49,190,10,5,0,10,190,23,7,12,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Donut Holes - Devils Food — 3 each,49,200,10,5,0,10,230,24,8,12,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Donut Holes - Old Fashioned — 3 each,49,210,10,4.5,0,5,190,27,9,14,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Donut Holes - Sour Cream — 3 each,49,210,11,5,0,0,190,26,10,13,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Down Home Fried Bacon — 2 piece,24,130,10,2.5,0,15,350,4,1,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Egg & Cheese Biscuit — 1 each,163,480,31,17,0,180,1360,36,1,4,,48,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Egg and Sausage Breakfast Skillet — 1 spoon,57,130,8,3.5,0,95,210,7,0,2,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Egg and Sausage Casserole — 1/2 cup,125,240,16,7,0,185,370,11,0,3,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Egg Bites, Bacon, Ham, and Sausage — 2 Each",159,330,26,12,0,285,920,6,0,2,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Egg Bites, Ham, Bacon, Sausage and Potato — 2 Each",198,310,21,9,0,385,550,11,1,2,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Egg Bites, Spinach — 2 Each",181,320,25,10,0,260,620,7,1,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Egg Bites, Spinach and Potato — 2 Each",227,290,19,7,0,360,370,14,2,3,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Eggs in a Basket — 1 piece,94,190,8,2,0,185,480,21,1,2,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Fantastic Favorites — 1 Serving,514,1120,72,36,1,545,2500,62,2,15,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,French Toast — 1 piece,94,220,8,2.5,0,130,220,30,0,13,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,French Toast — 1 Slice,92,210,8,2,0,130,260,24,1,9,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,French Toast (3 slices) — 3 pieces,279,610,18,6,0,395,620,91,1,39,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Frosted Flakes Cereal — 1 container,28,100,0,0,0,0,140,25,0,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Frozen Vanilla Yogurt-No Sugar Added — 1/2 cup,80,70,0,0,0,0,70,14,0,5,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Fruit Loops Cereal — 1 container,21,80,0.5,0,0,0,100,18,2,9,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Grits — 1/2 cup,128,110,2.5,1,0,0,210,19,1,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Grits (1/2 cup) — 1/2 cup,128,110,2.5,1,0,0,210,19,1,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Ham, Glazed (Carved) — 1 piece",99,200,7,3,0,70,1130,14,65,12,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Hash Brown Bake - Bacon Cheddar — 1/2 Cup,110,120,5,3,0,15,480,12,1,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Hash Brown Bake - Chorizo — 1/2 Cup,110,110,4.5,2.5,0,10,410,12,1,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Hash Brown Potato, Egg, & Cheese Breakfast Bowl — 1 Bowl",200,500,43,11,0,255,690,21,69,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Hash Browns- 4 oz — 4 oz,113,320,27,5,0,0,510,18,70,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Hashbrown Casserole — 1/2 cup,110,100,3.5,1.5,0,5,410,14,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Honey — 1 package,12,35,0,0,0,0,0,10,0,10,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Made-to-Order Eggs — 1 egg prepared,66,130,11,3,0,170,125,1,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Maple Bacon French Toast  Bake — 1 piece,82,210,6,2.5,0,100,270,32,0,21,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Maple Syrup — 2 Tbsp,34,120,0,0,0,0,0,30,0,30,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Migas — 7 oz,201,280,20,8,0,255,420,10,2,3,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Oatmeal — 1 cup,232,120,2.5,0,0,0,10,21,3,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Oatmeal, Maple Brown Sugar — 8 oz",227,230,4.5,2.5,0,10,150,43,12,22,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Omelet — 1 each,125,260,23,7,0,350,220,3,0,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Pancakes — 1 each,31,80,4,1,0,10,40,9,0,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Pancakes (3 ea) — 3 each,93,240,12,3.5,0,35,115,27,1,8,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Pancakes (6 ea) — 6 each,187,470,24,7,0,65,230,54,2,15,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Peach French Toast  Bake — 1 piece,76,140,4.5,1.5,0,90,135,21,0,10,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Peach Topping — 2 Tbsp,34,35,0,0,0,0,30,10,0,8,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Peach-topped Waffle — 1 each,86,190,6,3,0,25,510,28,0,13,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Pot Pie, Breakfast — 4 oz",113,210,15,7,0,115,420,11,14,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Potato Tot,  Egg, & Cheese Breakfast Bowl — 1 Bowl",200,520,39,7,0,255,600,30,87,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Quiche Bacon, Ham, Sausage — 1 Piece",85,210,13,6,0,115,490,13,1,1,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Quiche, Spinach — 1 piece",79,170,11,5,0,105,340,13,0,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Raisin Bran Cereal — 1 container,35,110,0.5,0,0,0,125,27,4,10,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Rice Krispies Cereal — 1 container,33,130,0,0,0,0,190,29,0,4,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage and Egg Burrito — 1 each,156,320,19,8,0,110,760,22,1,1,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage Breakfast Bowl w/ Tots — 1 Bowl,222,560,44,13,0,365,950,18,96,1,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage Gravy — 2 oz,57,80,7,2,0,15,230,4,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage Links — 1 each,33,120,11,4,0,15,250,1,0,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage Links (side) — 2 each,65,230,21,8,0,30,500,1,0,0,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sausage Patty (2 ea) — 2 pieces,57,130,12,4,0,35,310,0,100,0,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Sausage, Egg & Cheese Biscuit — 1 each",163,610,44,21,0,210,1720,36,101,4,,56,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Sausage, Egg, Potato Hash Brown & Cheese Breakfast Bowl — 1 Bowl",254,630,55,15,1,285,990,21,105,2,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Sausage, Egg, Potato Tot & Cheese Breakfast Bowl — 1 Bowl",254,660,51,11,0,285,900,30,106,1,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Scrambled Eggs — 6 oz,170,310,26,8,0,495,260,4,107,2,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Scrambled Eggs — 1/2 cup,110,180,14,5,0,330,150,2,0,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Skillet Hashbrowns — 1/2 cup,78,220,19,3.5,0,0,350,13,2,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Strawberry Cheesecake French Toast — 1 piece,93,220,9,4.5,0,95,170,24,0,17,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Strawberry Cheesecake Topping for French Toast — 1 piece,273,600,90,20,1.5,190,340,63,0,63,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Strawberry Topping — 2 Tbsp,34,40,0,0,0,0,0,10,0,10,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Strawberry Topping (for French Toast and Pancakes) — 6 Tbsp,102,120,0,0,0,0,0,30,0,30,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Sugar-free Syrup — 2 Tbsp,30,15,0,0,0,0,55,6,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Syrup, Blueberry — 2 Tbl",34,90,0,0,0,0,55,22,1,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,"Syrup, Maple — 2 Tbl",34,90,0,0,0,0,55,22,2,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Toast (1 slice) — 1 Slice,40,100,1,0,0,0,200,19,1,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Turkey Bacon — 2 slices,30,60,5,1,0,20,260,0,0,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Turkey Sausage — 1 piece,43,80,6,2,0,30,95,2,0,8,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Waffles — 1 each,57,120,2.5,0,0,5,460,22,0,7,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Waffles — 1 Bowl,240,360,2.5,0,0,5,460,82,112,67,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast,Waffles (Waffle Station) — 1 each,213,450,9,1.5,0,2.3,1620,84,6,26,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Bowls,Southwest Breakfast Bowl w/ Tots — 1 Bowl,272,520,41,13,0,355,570,22,108,3,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Bacon Breakfast Meal w/ Grits — 1 Meal,431,1000,67,29,0,560,2290,55,2,5,,75,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Bacon Breakfast Meal w/ Hashbrowns — 1 Meal,431,1220,93,33,0,560,2620,56,3,6,,75,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Bacon Breakfast Meal w/ Tater Tots — 1 Meal,431,1250,89,30,0,560,2530,66,4,5,,76,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Chicken Fried Steak Breakfast Meal w/ Grits — 1 Meal,431,1000,63,26,1,525,1880,68,33,5,,69,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Chicken Fried Steak Breakfast Meal w/ Hash Browns — 1 Meal,431,1220,88,30,1,525,2200,69,34,6,,68,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Chicken Fried Steak Breakfast Meal w/ Tater Tots — 1 Meal,431,1240,84,26,1,525,2110,79,35,5,,69,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Ham Breakfast Meal w/ Grits — 1 Meal,431,820,50,22,0,520,1970,59,66,8,,69,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Ham Breakfast Meal w/ Hashbrowns — 1 Meal,431,1030,75,26,0,520,2300,60,67,10,,68,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Ham Breakfast Meal w/ Tater Tots — 1 Meal,431,1060,72,23,0,520,2210,70,68,8,,70,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Sausage Breakfast Meal w/ Grits — 1 Meal,431,870,59,25,0,525,1830,55,97,5,,67,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Sausage Breakfast Meal w/ Hashbrowns — 1 Meal,431,1090,84,29,1,525,2160,56,98,6,,66,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Meals,Sausage Breakfast Meal w/ Tater Tots — 1 Meal,526,1110,81,25,0,525,2060,66,99,5,,68,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Bacon, Egg, and Cheese Breakfast Plate w/ Grits — 1 Meal",268,570,40,16,0,325,1170,20,6,1,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Bacon, Egg, and Cheese Breakfast Plate w/ Hashbrowns — 1 Meal",268,790,65,20,0,325,1490,21,8,2,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Bacon, Egg, and Cheese Breakfast Plate w/ Tater Tots — 1 Meal",268,810,61,17,0,325,1400,30,9,1,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Chicken, Egg and Cheese Breakfast Plate w/ Grits — 1 Meal",213,480,28,9,0,320,790,27,41,1,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Chicken, Egg and Cheese Breakfast Plate w/ Hashbrowns — 1 Meal",213,700,53,14,0,320,1110,28,42,3,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Chicken, Egg and Cheese Breakfast Plate w/ Tater Tots — 1 Meal",213,720,50,10,0,320,1020,38,43,1,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,Egg and Cheese Breakfast Plate w/ Grits — 1 Meal,213,310,20,8,0,260,410,20,55,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,Egg and Cheese Breakfast Plate w/ Hashbrowns — 1 Meal,213,530,45,12,0,260,730,21,56,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,Egg and Cheese Breakfast Plate w/ Tater Tots — 1 Meal,213,550,42,8,0,260,640,30,57,1,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Sausage, Egg, and Cheese Breakfast Plate w/ Grits — 1 Meal",363,600,45,16,0,540,850,21,102,2,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Sausage, Egg, and Cheese Breakfast Plate w/ Hashbrowns — 1 Meal",268,660,57,16,1,295,1040,21,103,2,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Breakfast Plates,"Sausage, Egg, and Cheese Breakfast Plate w/ Tater Tots — 1 Meal",268,680,54,12,0,295,950,30,104,1,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Arroz Con Pollo — 1 piece,357,510,28,8,0,85,1170,36,1,3,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Arroz Imperial — 5 oz,290,280,12,4,0,50,500,28,1,2,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Baked BBQ Chicken Legs — 1 each,91,150,7,2,0,100,610,6,1,5,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Baked Honey Teriyaki Chicken Legs — 1 each,91,150,7,2,0,100,740,7,0,6,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Baked Teriyaki Chicken Legs — 1 each,91,150,7,2,0,100,840,7,0,5,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Baked Chicken - Breast / Wing — Breast / Wing,204,330,13,4,0,155,1020,14,12,10,,40,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Baked Chicken - Leg / Thigh — Leg / Thigh,204,420,27,7,0,170,1120,14,13,10,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Chicken Breasts (Baked Bone-In) — 1 each,234,350,12,4,0,190,150,7,1,5,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Chicken Legs — 1 each,74,160,7,1.5,0,90,340,6,1,4,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Chicken Thighs (Baked Bone-In) — 1 each,175,360,24,8,0,185,1280,8,1,6,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,BBQ Chicken Wings — 3 each,122,250,15,4,0,100,360,11,1,8,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Boneless BBQ Chicken Wings — 2 each,122,180,6,1,0,45,820,13,0,4,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Boneless Buffalo Chicken Wings — 2 each,113,180,8,1.5,0,40,1130,7,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Boneless Franks Red Hot Chicken Wings — 2 each,114,180,7,1.5,0,60,1450,6,1,0,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Boneless Nashville Chicken Wings — 2 each,114,190,6,1,0,40,1170,13,0,4,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken — 3 oz,85,170,9,2.5,0,95,350,4,0,4,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken — 3 oz,87,180,9,2.5,0,95,520,5,39,4,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken Bowl — 1 Each,249,400,18,6,0,130,750,30,1,6,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken Burrito — 1 Each,266,570,30,14,0,180,790,39,0,9,,32,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken Wings — 3 each,117,240,15,4,0,100,850,10,0,7,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Bourbon Street Chicken with Rice — About 9 oz,255,470,22,7,0,195,910,26,0,8,,41,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Breaded Boneless Chicken Wings (Thighs) — 1 each,85,180,10,1,0,70,520,10,2,0,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Breaded Chicken Wings — 3 each,111,290,21,5,0,100,400,7,0,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Brown Sugar Glazed Chicken Thighs — 1 Piece,123,250,13,3,0,155,220,3,0,3,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Boneless Wings — 2 Pieces,113,280,15,3.5,0,145,910,13,1,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Chicken Breast Bites — 3 each,60,170,9,1.5,0,65,860,10,0,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Chicken Sandwich — 1 each,89,200,9,2.5,0,25,740,21,0,4,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Fried Chicken — 4 pieces,662,1140,70,17,1,395,11690,37,10,2,,90,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Wings — 3 each,117,250,20,5,0,100,750,0,0,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Buffalo Wings with Frank's RedHot Sauce — 3 each,116,210,15,4,0,100,830,1,0,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Cajun Chicken Breast Bites — 3 each,65,150,7,1,0,60,560,9,0,0,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Carved Turkey - Dark Meat — 3 oz,86,180,9,2.5,0,115,160,0,0,0,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Carved Turkey - White Meat — 3 oz,86,170,7,2,0,65,125,0,0,0,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Carved Turkey Breast — 3 oz,85,110,6,2,0,45,640,2,0,0,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken - Wings Mango Habanero (10  pc portion) — 10 Wings,200,370,22,6,0,185,320,12,0,12,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Bacon Cobb — 1 each,522,710,47,15,0,495,1420,25,1,4,,51,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Dumplings — 1 cup,245,210,7,2,0,45,1100,25,27,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Noodle Dumplings — 1 cup,245,210,7,2,0,45,1100,25,1,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Waffle Bowl — 1 Bowl,240,630,18,3.5,0,70,1070,99,2,68,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Waffle Bowl — 1 Bowl,240,630,18,2.5,0,65,960,98,28,67,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken and Waffles — 1 Serving,283,750,42,10,0,235,1680,39,3,7,,53,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Bacon Cheddar Ranch — 3 oz,85,210,13,4.5,0,90,410,2,0,0.6,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Bacon Cheddar Ranch — 1 Breast,113,210,12,4.5,0,70,430,2,0,1,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Bistro Melt — 1 Piece,128,320,17,7,0,60,680,22,1,3,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Breast Bites — 3 each,60,150,7,1,0,65,590,10,0,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Cacciatore — 1 piece,201,280,18,5,0,140,960,6,2,3,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Chilaquiles Red — 4.5 oz,128,300,18,6,0,55,550,18,2,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Cobb Salad (grilled) — 1 each,520,650,40,14,0,530,1440,17,9,4,,59,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Enchiladas — 1 each,127,150,7,4.5,0,35,550,9,1,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Fajitas — 3 oz,85,60,1.5,0,0,15,85,5,1,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Fried Chicken — 1 each,131,270,14,2.5,0,60,710,14,1,0,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Gizzards — 3 Each,52,160,10,2,0,90,310,10,0,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Grilled Bruschetta — 4 oz,128,170,7,2,0,60,830,11,0.8,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Lemonata — 1 each,105,140,6,2.5,0,35,1220,4,1,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Machaca — 3 oz,85,120,6,1.5,0,60,470,2,0,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Parmesan — 1 piece,122,240,11,3.5,0,40,570,16,0,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Pot Pie — 1 piece,113,130,7,4.5,0,10,420,13,1,2,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Quesadillas — 1 piece,56,130,8,3,0,15,230,9,0,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Sofrito — 1 Piece,136,280,20,5,0,85,600,2,0,1,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Strips — 3 oz,85,80,1,0,0,40,240,0,0,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Strips (breast) Cold Bar — 3 oz,85,90,1.5,0,0,40,380,1,0,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Stuffed Burritos — 1 each,131,300,18,9,0,60,740,18,0,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Tender Value Meal — 1 Meal,372,920,47,12,0,135,1470,83,3,19,,39,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Tenders — 1 each,138,260,13,2.5,0,115,370,7,37,0,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Thigh Bites — 3 each,77,190,10,2,0,100,490,9,0,0,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Thigh Bites, Buffalo — 3 each",77,200,11,2.5,0,100,720,9,0,0,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Thigh Bites, Honey Teriyaki — 3 Pieces",85,200,9,2,0,95,670,13,0,5,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Thigh Bites, Mandarin Orange — 3 Pieces",85,200,9,2,0,95,500,13,0,5,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Thigh Bites, Nashville Hot — 3 Pieces",85,230,14,3,0,95,810,10,1,1,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings (10  pc portion) — 10 each,207,400,27,7,0,230,170,0,0,0,,36,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings (5 pc portion) — 5 Wings,83,160,11,3,0,90,70,0,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - Asian Zing (10  pc portion) — 10 Wings,200,400,22,6,0,185,660,19,0,16,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - Asian Zing (5 pc portion) — 5 Wings,117,240,11,3,0,90,590,19,0,16,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - BBQ (10  pc portion) — 5 Wings,200,380,22,6,0,185,500,14,1,10,,30,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - BBQ (5 pc portion) — 5 Wings,117,220,11,3,0,90,430,14,1,10,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - Hot (10  pc portion) — 10 Wings,200,330,22,6,0,185,1330,1,1,0,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - HOT (5 pc portion) — 5 Wings,117,170,11,3,0,90,1260,1,1,0,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken Wings - Mango Habanero (5 pc portion) — 5 Wings,117,210,11,3,0,90,250,12,0,12,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Wings, Garlic Parmesan — 3 each",122,280,23,4.5,0,100,520,2,1,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken Wings, Sauced Mango Habanero  (Bone In) — 3 Pieces",125,250,15,3.5,0,100,230,11,8,11,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Chicken with Gravy — 1/2 cup,121,130,3,1,0,70,330,3,38,0,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Baked Leg, BBQ — 1 each",91,150,7,2,0,100,510,7,0,7,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Broccoli and Rice Bake — 1/2 Cup",123,140,7,3,0,35,730,11,0,0,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Cajun Baked- Breast and Wing — Breast and Wing",170,350,19,5,0,175,1690,1,23,1,,43,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Cajun Baked- Thigh and Leg — Leg and Thigh",170,440,35,9,0,180,770,0,24,0,,30,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Garlic Herb — 1 Piece",113,300,24,4.5,0,75,640,4,8,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Lemon Pepper (Bone In) — I Piece",73,170,13,3,0,60,280,2,0,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Lemon Pepper -  Thigh and Leg — Leg and Thigh",170,440,35,9,0,180,190,1,78,0,,30,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Lemon Pepper - Breast and Wing — Breast and Wing",170,350,19,5,0,175,1110,1,77,1,,43,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Chicken, Sesame Honey — 3.75 oz",106,260,13,1.5,0,25,1170,23,0,11,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken — 3 oz,85,240,15,3.5,0,85,460,6,0,0,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken — 1 Piece,145,340,19,4.5,0,105,870,16,61,1,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken - Piece Variety (12 pc portion) — 3 pcs,1296,3610,227,55,2,1310,7020,98,0,2,,291,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken - Piece Variety (20 pc portion) — 20 pcs,2160,6010,379,91,3.5,2180,11710,164,0,3,,486,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken - Piece Variety (3 pc portion) — 3 pcs,324,900,57,14,0.5,325,1760,25,4,0,,73,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken Legs — 1 each,78,200,12,3,0,80,220,3,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken Livers — 3 each,103,230,12,3,0,325,370,9,1,0,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken Sandwich — 1 Sandwich,168,530,36,6,0,65,870,39,4,8,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Fried Chicken Sandwich — 1 each,200,680,47,9,0,110,1190,44,0,8,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Garlic Buffalo Wings (Bone In) — 3 Pieces,117,250,20,4.5,0,100,500,1,1,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Garlic Buffalo Wings (Boneless) — 2 Pieces,113,290,15,3.5,0,145,850,13,10,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Garlic Herb Chicken — 1 piece,162,340,24,6,0,135,340,1,63,0,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Garlic Parmesan Boneless Wings — 2 Pieces,113,290,16,3.5,0,145,810,13,2,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Garlic Parmesan Grilled Chicken Tenders — 2 tenders,88,140,10,1.5,0,30,760,2,0,0,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Golden Roasted Chicken (Dark Meat) — 3 oz,85,160,9,3,0,105,330,0,0,0,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Golden Roasted Chicken (White Meat) — 3 oz,85,140,6,2,0,75,310,0,0,0,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled BBQ Chicken — 1 each,100,170,2,0.5,0,45,730,12,1,14,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Chicken and Avocado Sandwich — 1 Piece,132,320,17,6,0,35,600,22,3,2,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Chicken Breast — 10 oz,283,430,11,3,0,325,1370,0,1,0,,83,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Chicken Livers — 3 each,119,210,4.5,1.5,0,260,620,23,1,1,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Honey Teriyaki Chicken Breast — 1 each,117,200,3,1,0,90,1170,18,0,17,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Mandarin Orange Chicken — 1 each,100,170,2.5,0.5,0,65,430,21,0,20,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Sweet Buffalo Chicken — 1 each,108,190,3,0.5,0,65,840,23,1,19,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Teriyaki Chicken — 1 each,100,170,2.5,0.5,0,65,1420,18,0,14,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Grilled Turkey and Cheese Sandwich — 1 Piece,142,350,19,7,0,50,780,23,1,3,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hand-Breaded Cajun Chicken Tenders — 1 Each,57,100,5,1,0,50,550,5,1,0,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hand-breaded Chicken Tenders — 1 each,81,150,7,1.5,0,50,520,8,0,0,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hand-breaded Chicken Tenders — 1 Order,109,220,11,2,0,70,690,10,0,1,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Dipped Fried Chicken — 4 pieces,604,1650,68,17,0.5,395,3130,183,6,153,,88,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Dipped Fried Chicken — 3 oz,115,320,15,3.5,0,85,600,28,1,21,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki  Wings — 3 wings,125,260,15,4,0,100,670,14,0,12,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Chicken Breasts (Baked Bone-in) — 1 each,234,360,12,4,0,190,280,7,1,6,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Chicken Thighs — 1 each,175,360,24,8,0,185,1410,8,1,7,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Chicken Thighs — 1 Piece,97,230,11,2.5,0,110,730,14,0,5,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Pineapple Chicken Legs — 1 each,74,160,7,1.5,0,90,470,7,0,6,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Pineapple Chicken WIngs — 3 each,125,260,15,4,0,100,670,14,0,12,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Honey Teriyaki Pineapple Chicken Wings (Bone In) — 3 Pieces,125,260,15,3.5,0,100,670,14,2,12,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hot Buffalo Chicken Legs — 1 each,74,150,7,1.5,0,90,400,2,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hot Buffalo Chicken Wings — 3 each,120,230,16,4,0,100,450,4,0,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hot Honey Boneless Wings — 2 Pieces,113,280,14,3,0,145,790,17,8,4,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Hot Honey Chicken Wings (Bone In) — 3 Pieces,120,250,15,3.5,0,100,350,11,6,10,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Jamaican Jerk Chicken — 1 piece,198,460,35,8,0,110,780,16,8,14,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Jamaican Jerk Chicken Wings — 3 each,120,260,17,3.5,0,100,430,10,2,9,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,King Ranch Chicken — 6 oz,170,250,16,8,0,55,990,11,1,3,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Korean Style Fried Chicken - Homeward — 4 Pieces,606,1530,68,16,0.5,395,5170,130,9,80,,93,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Lemon Herb Chicken — 1 cup,147,190,9,2.5,0,55,125,12,1,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mac and Cheese Buffalo Chicken Bowl — 1 each,289,510,31,9,0,80,2030,31,0,4,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mac and Cheese Nashville Chicken Bowl — 1 Bowl,272,530,32,8,0,110,2190,41,6,5,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mandarin Orange Chicken Breasts (Baked Bone-in) — 1 each,234,360,12,4,0,190,50,7,1,7,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mandarin Orange Chicken Thighs (Baked Bone-in) — 1 each,175,360,24,8,0,185,1180,9,1,8,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mandarin Orange Chicken Wings — 3 each,123,260,15,4,0,100,180,13,0,13,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mango Habanero Wings (Boneless) — 2 Pieces,113,280,14,3,0,145,740,16,11,4,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mild Buffalo Chicken Legs — 1 each,74,150,7,1.5,0,90,450,2,1,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mild Buffalo Chicken Wings — 3 each,120,230,16,4,0,100,540,4,1,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Mini Corn Dogs — 5 each,95,240,13,3,0,40,440,22,1,5,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Fried Chicken (3 ounces) — 3 oz,113,430,34,7,0,85,1930,11,7,1,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Fried Chicken - Homeward — 4 pieces,546,2050,166,31,0.5,395,9590,58,16,6,,93,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Fried Chicken Sandwich — 1 each,273,860,63,11,0,110,2680,55,3,14,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Fried Chicken Sandwich — 1 Sandwich,272,850,60,12,0,105,2730,56,8,15,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Hot Chicken Thighs — 1 piece,101,270,17,3.5,0,110,1070,12,9,0.8,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Nashville Wings — 3 each,117,340,29,6,0,100,1060,4,1,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Orange Chicken — 1 cup,167,360,14,2.5,0,60,560,35,0,25,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Paella Chicken and Sausage — 3 oz,85,150,9,3.5,0,35,470,8,0,0.8,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Pamesan Crusted Chicken — 1 Piece,185,260,11,5,0,120,1020,14,0,1,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Pasta Alfredo with Chicken and Spinach — 1/2 cup,120,220,15,8,0,45,570,13,1,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Plain Boneless Wings — 2 Pieces,113,270,14,3,0,145,700,13,1,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Posole w/ Chicken — 8 Ounces,227,100,2.5,0,0,20,860,12,4,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Pulled BBQ Chicken — 3 oz,85,130,1.5,0,0,40,450,15,1,10,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Pulled Chicken in Poultry Gravy — 3 oz,85,80,2,0.5,0,40,280,3,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Ranch Fried Chicken — 3 oz,86,240,15,3.5,0,85,750,7,1,0,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Ranch Fried Chicken - Homeward — 4 Pieces,444,1220,76,18,0.5,435,4640,36,5,1,,99,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Roasted Grilled Bone-in Chicken — 3 oz,84,160,9,2.5,0,85,300,1,0,0,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Rotisserie Chicken — 1 piece,170,310,15,4.5,0,175,1070,1,1,1,,43,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,San Francisco Chicken — 1 each,210,370,18,8,0,70,1240,31,4,2,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,"Sandwich, Chicken Mini — 1 Sandwich",83,210,10,3,0,30,400,19,10,4,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Smoked BBQ Turkey Breast — 3 oz,85,120,4,1,0,55,700,3,0,1,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Smoked BBQ Wings — 3 each,99,180,11,3,0,105,220,3,0,2,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Smoked Chicken (Dark Meat) — 3 oz,85,170,11,3.5,0,95,670,0,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Smoked Chicken (White Meat) — 3 oz,85,150,6,2,0,85,340,0,0,0,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Smothered Grilled Chicken — 1 each,141,200,10,3.5,0,100,870,2,0,0,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Spicy BBQ Wings — 3 each,121,250,15,4,0,100,360,11,1,8,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Spicy Garlic Wings — 3 each,120,220,15,4,0,100,860,3,0,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Spicy Peach Grilled Chicken Tenders — 2 tenders,88,120,1.5,0,0,30,650,16,0,14,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Sweet Buffalo Chicken Thighs — 1 each,186,400,26,8,0,215,570,6,1,6,,36,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Sweet Chili Boneless Wings — 2 Pieces,113,290,14,3,0,145,760,17,9,5,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Sweet Chili Wings (Bone In) — 3 Pieces,121,260,15,3.5,0,100,290,14,9,14,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Teriyaki Chicken Breasts (Baked Bone-in) — 1 each,234,350,12,4,0,190,380,7,1,5,,55,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Teriyaki Chicken Thighs (Baked Bone-in) — 1 each,175,360,24,8,0,185,1510,8,1,6,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Turkey Bistro Sandwich with Bacon — 1 Piece,123,350,19,8,0,60,850,20,1,2,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Turkey Pot Pie — 1 piece,95,160,8,5,0,30,240,12,0.6,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Turkey Sausage (side) — 2 each,86,160,10,3,0,50,620,2,0,2,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Turkey Slices with Poultry Gravy — 3 oz,85,90,4.5,1.5,0,35,510,3,0,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Chicken/Turkey,Turkey with Stuffing — 1 each,120,110,5,2,0,15,630,10,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Apple Cinnamon Bread Pudding — 1 piece,148,340,15,7,0,70,260,45,3,32,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Apple Cobbler — 1 piece,95,190,6,4,0,0,160,33,0,23,,0.9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Apple Pie — 1 slice,156,330,13,5,0,10,400,49,2,16,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Apple Spice Coffee Cake — 1 serving,96,230,8,1,0,20,250,38,1,29,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Arroz Con Leche — 4 oz,113,130,4.5,2.5,0,15,135,18,1,7,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Banana Pudding — 1/2 cup,112,240,10,7,0,0,190,35,0,21,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Banana Pudding — 1 each,170,360,15,11,0,2.4,290,53,89,32,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Banana Pudding (10 oz) — 10 oz,283,600,25,18,0,5,490,88,1,54,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Banana Pudding - Homeward — 6 oz,170,360,15,11,0,0,290,53,1,32,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Blueberry Lemon Cake — 1 slice,71,180,5,1,0,3.3,280,33,0,25,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Blueberry Pie - No Sugar Added — 1 slice,156,280,8,3,0,0,380,49,4,6,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Bread Pudding — 1/2 cup,110,270,10,5,0,55,220,40,0,29,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Bread Pudding — 1/2 Cup,110,270,10,5,0,55,220,38,90,27,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Bread Pudding (9.5 oz) — 9.5 oz,269,650,25,13,0,140,530,98,1,72,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Bread Pudding (9.5 oz) — 9.5 oz,269,630,26,14,0,150,560,85,0,59,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Bread Pudding, Blueberry — 4 oz",109,230,10,5,0,55,200,33,0,23,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Bread Pudding, Peach — 4 oz",112,220,9,4.5,0,50,180,31,0,22,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Bread Pudding, Smores — 4 oz",114,320,16,9,0,55,240,39,1,28,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Brownie (1) — 1 each,96,320,14,3.5,0,105,105,45,21,20,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Brownie Cheesecake — 1 Slice,66,260,17,9,1.5,75,220,18,6,13,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Cake, Chocolate with Peanut Butter Frosting — 1 piece",66,240,12,2.5,0,30,320,32,9,22,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Cake, Chocolate with Strawberry Frosting — 1 piece",66,230,11,2.5,0,30,310,32,5,22,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Cake, Cookies & Cream — 1 Slice",68,230,11,2.5,0,20,340,34,1,23,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Cake, Luscious Lemon — 1 piece",47,200,6,1,0,3.9,330,38,4,28,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Candy Corn — 10 each,17,70,0,0,0,0,30,16,0,13,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Carrot Cake — 1 slice,82,290,14,5,0,25,260,38,1,30,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Carrot Cake - Homeward — 1 slice,144,500,25,9,0,40,460,67,1,53,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cherry Cobbler — 1 piece,95,200,6,4,0,0,130,35,0.8,24,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cherry Pie — 1 slice,97,260,10,4.5,0,0,230,40,1,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate and Vanilla Swirl Soft Serve — 1/2 cup,87,100,2,1.5,0,5,75,21,0,15,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cake with Cherries — 1 slice,57,180,9,2.5,0,20,210,27,1,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cake with Chocolate Chips — 1 slice,66,240,12,5,0,20,210,33,0,25,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Chocolate Chess Pie 
+(Updated 2024) — 1 Slice",107,390,17,10,0,55,340,54,1,40,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Chocolate Chess Pie 
+(Updated 2024) — 1 Slice",107,390,17,10,0,55,340,54,46,40,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chip Cookie Crumbles — 2 Tbsp,14,70,3,1.5,0,0,35,9,0,5,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chip Cookies — 1 each,14,70,3,1.5,0,0,35,9,0,5,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chip Cookies (12) — 12 Each,170,790,36,18,0,0,430,103,49,55,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chip Cookies (2 ea) — 2 each,28,130,6,3,0,0,70,17,0,9,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chip Cookies (2) — 2 Each,28,130,6,3,0,0,70,17,50,9,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Chips — 2 Tbsp,28,140,8,5,0,0,0,18,0,16,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cookie - Sugar Free — 1 each,19,70,3.5,1,0,5,45,12,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cookie Crumbles — 2 Tbsp,12,60,2,0.5,0,0,55,9,0,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Chocolate Chip Cookies — 1 Each,28,150,9,6,0,0,55,16,1,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Grapes — 1 bunch,44,100,6,4.5,0,0,20,13,1,11,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Marshmallows — 1 each,21,110,6,4.5,0,0,25,13,1,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Oatmeal Raisin Cookies — 1 each,31,160,10,6,0,5,80,17,1,16,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Peanut Butter Cookies — 1 each,28,150,9,6,0,10,50,15,2,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Pineapple — 1 each,64,110,6,4.5,0,0,20,14,1,11,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Rice Krispie Treats — 1 each,24,120,7,4.5,0,0,65,15,1,9,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered S'mores — 1 each,26,130,8,5,0,0,45,15,1,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Strawberries — 1 each,33,90,6,4.5,0,0,20,9,1,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Strawberries To- Go 12 — 12,386,1060,72,53,0,0,210,103,13,82,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Covered Sugar Cookies — 1 each,28,140,9,6,0,5,65,16,1,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Crinkle Cookies — 1 each,15,70,2.5,0.5,0,5,70,9,0,6,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cupcakes — 1 each,57,190,9,2.5,0,20,210,28,1,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Cupcakes w/ Peanut Butter Icing — 1 each,77,300,15,4.5,0,20,250,40,11,32,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Dipped Truffle — 1 each,42,210,12,7,0,0,75,24,1,17,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Fudge — 1 piece,30,130,4.5,2,0,0,50,22,0,19,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Pudding - No Sugar Added — 1/2 cup,108,120,4.5,3,0,10,230,16,0,6,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Soft Serve — 1/2 cup,87,100,2,1.5,0,5,50,20,0,15,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Soft Serve Ice Cream — 1/2 cup,113,140,2.5,2,0,4.9,65,27,0,26,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Sprinkle Cookies — 1 each,17,70,3,1,0,5,75,10,0,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Chocolate Syrup — 1 oz,28,70,0,0,0,0,5,17,0,14,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cinnamon Sugar Churros — 4 each,58,240,15,5,0,0,180,23,0,4,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cocoa Sugar Cookies — 1 each,14,60,2.5,0.5,0,5,70,8,0,5,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Coconut Cake — 1 Slice,89,300,16,9,0,5,340,40,0,27,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Coconut Cream Pie — 1 slice,74,240,15,10,0,0,200,9,0,14,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Coconut Tres Leche Cake — 1 Slice,134,380,20,9,0,10,530,51,0.8,34,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Coconut Tres Leche Cake — 4 oz,122,350,19,9,0,10,460,46,0,31,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cookies 'n' Cream — 1/4 cup,21,70,5,4,0,0,20,7,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cookies and Cream Cupcakes — 1 each,69,250,12,3,0,15,300,36,2,25,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cookies and Cream Mini Cupcakes — 1 each,30,130,6,1.5,0,5,150,19,3,14,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cotton Candy — 1 each,42,110,0,0,0,0,10,25,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cotton Candy Cake — 1 Piece,69,250,12,4.5,0,5,240,37,0,30,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cotton Candy Cupcakes — 1 Cupcake,56,220,11,3,2,5,170,31,0,26,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Cream Puffs — 1 Each,75,260,20,12,0,85,45,18,0,8,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Cupcakes, Sugar-Free Vanilla — 1 each",83,230,13,4.5,0,30,270,34,3,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Flan — 1 serving,136,270,8,4.5,0,80,180,42,1,33,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Flan — 6 oz,169,420,12,7,0,150,170,67,0,67,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Fudgy Brownies — 1 each,147,510,23,5,0,170,170,71,2,32,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Fudgy Brownies — 1 each,46,160,7,1.5,0,55,55,22,1,10,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Funnel Cake — 1 cake,57,250,12,2.5,0,30,10,30,6,9,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Glazed Chocolate Cake Donut Holes — 3 each,49,200,10,5,0,10,230,24,1,12,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Gummy Bears — 10 each,27,90,0,0,0,0,5,19,0,13,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Hot Caramel — 1 oz,28,90,1,0.5,0,5,50,20,0,13,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Hot Fudge — 1 oz,28,90,3,3,0,0,70,16,1,13,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Ice Cream - Soft Serve Vanilla (1/2 Cup) — 1/2 cup,87,110,2,1.5,0,5,100,22,0,16,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Ice Cream - Soft Serve Vanilla (1/2 Cup)  A la Mode — 1/2 cup,87,110,2,1.5,0,5,100,22,0,16,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Ice Cream Cones — 1 each,5,20,0,0,0,0,10,4,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Ice Cream, Butter Pecan — 2/3 Cup",113,190,11,5,0,35,65,21,1,14,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Ice Cream, Cookies and Cream — 2/3 Cup",113,200,10,5,0,30,90,27,2,17,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Ice Cream, Pineapple Soft Serve — 8 fl oz",237,140,1,1,0,0,30,33,1,33,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Ice Cream, Rainbow Sherbet — 2/3 Cup",113,140,1.5,1,0,4.9,25,32,6,28,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,"Ice Cream, Strawberry — 2/3 Cup",113,160,8,5,0,30,45,22,8,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Jellybeans — 10 each,30,110,0,0,0,0,10,27,0,18,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Key Lime Pie — 1 Slice,77,290,14,8,0,40,90,38,16,25,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Large Marshmallows — 3 each,22,70,0,0,0,0,25,18,0,13,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Lemon Meringue Pie — 1 slice,128,270,7,3,0,5,340,50,0,33,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Marshmallows — 3 each,21,70,0,0,0,0,20,17,0,11,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Chocolate Cupcakes — 1 each,30,100,5,1.5,0,10,105,15,0,11,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Chocolate Cupcakes w/ Peanut Butter icing — 1 each,46,170,9,2,0,15,170,21,10,16,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Eclairs — 6 each,85,260,16,10,0,85,85,24,0,14,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Marshmallows — 2 Tbsp,6,20,0,0,0,0,5,5,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Pumpkin Cupcakes — 1 each,32,110,6,2,0,5,105,16,0,13,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Vanilla Cupcakes — 1 each,30,110,5,1.5,0,0,105,16,0,13,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mini Vanilla Cupcakes w/ Peanut Butter Icing — 1 each,43,170,8,2,0,2.1,180,23,12,17,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Mocha Cake - No Sugar Added — 1 slice,100,230,12,4.5,0,25,340,37,1,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Oatmeal Raisin Cookies — 1 each,17,70,3.5,2,0,5,60,10,1,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Orange Cream Cake — 1 Slice,85,290,11,3,2.5,10,300,50,1,37,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Orange Sherbet — 1/2 cup,89,110,1,0.5,0,5,25,27,0,22,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peach Cobbler — 1 piece,95,170,6,4,0,0,135,29,0,18,,0.9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peach Pie - No Sugar Added — 1 slice,150,330,21,9,0,0,370,36,2,5,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peanut Butter Cookie Crumbles — 2 Tbsp,19,90,5,1.5,0,15,40,10,1,5,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peanut Butter Cookies — 1 each,14,70,3.5,1.5,0,10,30,8,1,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peanut Butter Fudge Tart — 1 piece,44,180,8,3,0,15,70,27,2,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Peanut Butter Pie — 1 Slice,97,460,32,10,2,20,380,38,2,23,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Pecan Pie — 1 slice,102,410,20,7,0,60,420,56,0,21,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Pecan Pie — 1 Slice,102,400,20,6,0,50,480,53,84,22,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Pina Colada Cake — 1 slice,71,180,7,2,0.5,5,200,31,1,21,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Pumpkin Donut Holes — 3 each,49,190,10,4.5,0,0,210,25,1,13,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Pumpkin Pie — 1 slice,122,300,11,5,0,45,380,46,0,20,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Rainbow Cookies — 1 each,16,70,3.5,1.5,0,5,50,11,0,6,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Red Gelatin - Sugar Free — 1/2 cup,85,5,0,0,0,0,5,0,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Red Velvet Cake — 1 slice,72,260,14,4.5,0,10,310,33,1,24,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Red Velvet Donut Holes — 3 each,49,190,10,5,0,5,230,23,2,11,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Red Velvet Mini Cupcakes — 1 each,30,120,6,2.5,0,5,110,14,0,11,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Rice Krispies© Cereal Topping — 2 Tbsp,7,30,0,0,0,0,40,6,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Rice Krispies© Treats — 1 each,10,40,1,0,0,0,45,8,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Shadow Cake — 1 Slice,143,520,26,8,0,25,480,75,1,59,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Skillet Bread Pudding - Homeward — 1/4 pan,350,840,32,16,0,180,680,127,1,93,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Sour Worms — 5 each,23,80,0,0,0,0,5,18,0,13,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Sprinkles — 2 Tbsp,30,140,5,4.5,0,0,20,24,0,21,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Strawberry Cake — 1 Slice,93,270,11,4.5,0,5,290,43,1,29,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Strawberry Cheesecake — 1 slice,58,230,16,9,0,60,200,14,0,11,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Strawberry Shortcake — 1 each,54,130,4.5,1,0,5,170,22,0,16,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Strawberry Supreme Cake — 1 slice,81,270,13,4,0,5,250,41,0,34,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Sugar Cookie — 1 each,14,60,3,1.5,0,5,45,9,0,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Sweet Home Carolina Cake — 1 Slice,71,190,8,2,0,5,240,32,0,22,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Sweet Potato Pie — 1 slice,113,340,16,7,0,20,330,46,1,26,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Toasted Coconut — 2 Tbsp,10,60,4.5,4,0,0,0,4,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Truffles with Cake Crumbs — 1 each,75,310,11,4.5,0,0,85,52,1,48,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Truffles with Peanuts — 1 each,75,320,12,4.5,0,0,70,52,1,47,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Truffles with Sprinkles — 1 each,75,320,11,4.5,0,0,75,54,1,49,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Turtle Cheesecake — 1 slice,64,250,16,9,0,60,210,18,0,14,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cake - Sugar Free — 1 slice,52,130,8,5,0,10,105,17,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cake w/ Lemon Icing GC — 1 piece,71,240,11,2.5,0,4.9,350,37,17,26,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cake w/ Peanut Butter Icing — 1 piece,71,250,11,2.5,0,4.9,370,38,17,26,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cake w/ Strawberry Icing GC — 1 piece,71,240,11,2.5,0,4.9,350,37,18,26,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cupcakes — 1 each,59,210,10,3,0,5,220,31,0,24,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Cupcakes with Peanut Butter Icing — 1 each,59,250,12,2.5,0,4.6,360,38,13,27,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Soft Serve — 1/2 cup,87,110,2,1.5,0,5,100,22,0,16,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Vanilla Wafer Crumbles — 2 Tbsp,18,80,4,2,0,0,60,11,0,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,Whipped Topping — 2 Tbsp,8,25,2,2,0,0,0,2,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,White Fudge — 1 piece,32,110,3.5,1,0,0,25,19,15,18,,0.5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,White Fudge with Cookies - GC — 1 piece,30,130,4.5,1.5,0,0,45,22,16,19,,0.7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,White Fudge with Cranberries - GC — 1 piece,32,130,3.5,1,0,0,30,24,17,22,,0.5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Desserts,White Fudge with Peanuts - GC — 1 piece,32,140,6,1.5,0,0,30,20,18,18,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Baked Fish — 1 each,85,150,8,3,0,45,330,1,0,0,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Baked Fish — 1 each,85,150,8,3,0,45,330,1,58,0,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Baked Fish with Lemon Herb Sauce — 3 oz,85,150,13,6,0,25,470,1,0,0,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Baked Florentine Fish — 1 each,86,170,12,4,0,30,260,1,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Bone-in Catfish — 3 oz,85,210,14,2.5,0,50,430,7,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Breaded Flounder — 1 each,72,120,4.5,1,0,20,390,11,3,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Buffalo Shrimp — 6 each,104,220,9,1.5,0,55,630,25,1,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Butterfly Shrimp — 3 each,82,210,9,1.5,0,50,470,20,1,0,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Cajun Fried Breaded Fish — 3 oz,85,150,9,2,0,60,450,9,0,0,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Carved Salmon — 3 oz,85,130,6,2,0,35,620,1,1,0,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Catfish Fillets — 2 piece,91,200,11,2,0,50,500,10,1,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Catfish Strips — 4 oz,114,270,16,4,0,80,320,9,0,0,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Clam Strips — 10 each,39,140,9,1.5,0,5,290,12,0,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Crab Legs — 1 Cluster,96,80,2,1,0,55,500,1,0,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Crawfish Boil — 6 oz,163,260,21,8,0,60,550,11,10,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Fish Taco, Crispy — 1 each",150,360,19,4,0,20,1200,35,1,13,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Fish, Beer Battered — 4 oz",115,190,10,2.5,0,70,300,10,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Fried Breaded Fish — 1 piece,57,90,5,1,0,20,360,4,1,0,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Fried Breaded Fish — 1 piece,94,220,12,2.5,0,50,530,11,59,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Fried Breaded Fish (3 pc) — 3 pieces,171,270,14,3,0,55,1090,11,2,0,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Fried Catfish — 3 oz,85,180,10,2,0,20,860,12,1,0,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Fried Catfish — 2 pieces,87,180,10,2,0,25,890,13,60,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Golden Delicious Shrimp — 6 each,84,210,9,1.5,0,55,330,23,1,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Grilled Seafood Cakes — 1 Cake,71,190,15,3,0,50,410,9,0,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Grilled Whitefish Skewers — 1 skewer,113,170,15,2.5,0,30,430,1,0,0,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Lobster Mac and Cheese — 6 oz,170,250,12,3.5,0,30,830,26,2,4,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Lobster Tail — 4 oz,113,120,3,1,0,145,620,1,6,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Mandarin Orange Shrimp — 6 each,90,200,7,1.5,0,45,330,28,1,11,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Parmesan Crusted Whitefish — 1 Fillet,172,290,16,5,0,100,680,5,1,0,,29,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Pasta, Cajun Shrimp — 5 oz",153,230,15,8,0,80,1050,15,1,2,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Peel and Eat Shrimp — 4 oz,113,100,0,0,0,145,340,0,9,0,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Popcorn Shrimp — 15 each,45,130,6,1,0,30,490,14,1,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Popcorn Shrimp (1/4 cup) — 1/4 cup,30,90,4,1,0,20,330,9,1,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Salmon Lemonata — 6 oz,170,270,21,9,0,40,820,4,1,1,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Salmon Lemonata — 3 oz,85,140,10,4.5,0,20,410,2,1,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp and Grits — 1 cup,427,390,8,2,0,235,890,40,1,0,,36,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Boil — 6 oz,163,330,23,9,0,100,660,12,10,2,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Creole — 8 oz,227,140,8,2,0,35,1340,11,2,5,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Paella with Chicken and Sausage — 1/2 Cup,93,140,7,2.5,0,45,630,10,0,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Platter — 1 Platter,558,1370,52,10,1,385,4190,160,8,2,,63,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Scampi — 4 oz,113,200,11,4,0,100,270,12,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,Shrimp Topped Baked Fish with Lemon Herb Butter Sauce — 3 oz,85,120,9,4,0,65,440,1,0,0,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Shrimp, Garlic Parmesan — 3 oz",85,370,25,4,0,60,1220,27,1,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Shrimp, Spicy Peach — 3 oz",85,330,9,2,0,60,1060,55,1,29,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fish/Seafood,"Whitefish, Peach Salsa — 7.5 oz",213,200,13,5,0,35,390,11,18,9,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Apples — 1/4 cup,31,15,0,0,0,0,0,4,1,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Bananas — 1 each,101,90,0,0,0,0,0,23,3,12,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Blueberries — 1/4 cup,37,20,0,0,0,0,0,5,1,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Cantaloupe — 1/2 cup,80,25,0,0,0,0,15,7,1,6,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Fresh Grapefruit — 1 each,154,60,0,0,0,0,0,16,0,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Grapefruit Sections — 1/4 cup,60,30,0,0,0,0,0,7,1,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Honeydew Melon — 1/2 cup,85,30,0,0,0,0,15,8,1,7,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Kiwi — 1/2 cup,89,50,0,0,0,0,0,13,3,8,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Lemon Wedges — 2 each,14,5,0,0,0,0,0,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Lime — 1 each,13,5,0,0,0,0,0,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Mango — 1/4 cup,41,25,0,0,0,0,0,6,1,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Orange Slices — 1/2 cup,90,40,0,0,0,0,0,11,2,8,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Papaya — 1/4 cup,36,15,0,0,0,0,0,4,1,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Peaches — 1/2 cup,126,70,0,0,0,0,10,17,0,16,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Pears — 1/2 cup,126,80,0,0,0,0,0,19,2,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Pineapple — 1/2 cup,83,40,0,0,0,0,0,11,1,8,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Pineapple Tidbits — 1/4 cup,70,40,0,0,0,0,0,10,1,9,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Fruits,Watermelon — 1/4 cup,38,10,0,0,0,0,0,3,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids,Kids Chicken Tender (1) — 1 Tender,81,170,8,1.5,0,60,380,7,74,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Chicken Tender Value Meal,Kids Chicken Tender Value Meal — 1 Meal,290,750,38,11,0,70,1090,76,5,19,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Menu,Kids Bourbon Chicken — 1 Meal,198,330,16,5,0,130,860,20,71,6,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Menu,Kids Breakfast Plate — 1 Plate,254,770,51,21,0,280,1950,52,72,4,,58,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Menu,Kids Chicken Drumstick (1) — 1 Drumstick,77,190,12,3,0,80,220,3,73,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Menu,Kids Fish — 1 piece,96,150,8,1.5,0,30,440,9,75,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Kids Menu,Kids Macaroni & Cheese - 4 oz — 4 oz,113,170,9,3,0,10,490,17,76,2,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Baby Back Pork Ribs — 1 piece,87,190,13,4.5,0,55,350,4,0,3,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Bacon (side) — 3 slices,85,400,30,13,0,100,1150,0,0,0,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,BBQ Pork — 3 oz,85,170,8,2.5,0,75,100,5,0,4,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,BBQ Pork Loin — 3 oz,113,180,7,2.5,0,45,740,13,1,9,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,BBQ Pork Ribs — 3 oz,101,230,12,4,0,75,440,6,0,5,,23,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,BBQ Pork Ribs (Full Rack) — Full Rack,1146,2430,155,55,1.5,690,4420,64,4,47,,195,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,BBQ Pork Ribs (Half Rack) — Half Rack,577,1250,82,29,0.5,345,2210,32,2,24,,97,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"BBQ Pork Ribs, Boneless — 1 each",63,120,7,2.5,0,30,210,5,0,4,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Bratwurst (Lunch Size) — 1 Each,66,210,15,5,0,35,600,12,0,2,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Bratwurst (Whole - with Bun) — 1 Each,131,430,30,10,0,65,1190,25,0,3,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Bratwurst -  Dinner Size — 1 Each,148,350,30,10,0,65,1010,9,1,3,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Brisket Style Pork, Bacon Rubbed — 4.5 oz",124,220,16,6,0,65,920,2,1,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Brisket Style Pork, BBQ Rubbed — 4.5 oz",124,220,16,6,0,65,890,2,2,1,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Brisket Style Pork, Cajun Rubbed — 4.5 oz",124,220,16,6,0,65,830,2,6,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Cajun Double Smoked Sausage — 1 piece,71,240,21,9,0,50,640,2,1,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Cajun Pasta with Sausage — 1 cup,227,390,23,9,0,70,890,29,2,3,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Cajun Sausage Hash — 2 oz,57,110,8,3,0,10,180,5,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Carnitas Asada Pork — 1 Slice,143,390,26,9,0,110,310,2,6,1,,36,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Country Rope Sausage — 1 piece,57,180,15,4.5,0,50,380,0,0,0,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Double Smoked Cajun Sausage (w/Onions and Peppers) — 3 oz,85,250,21,9,0,50,650,3,1,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Fatback — 3 each,28,180,17,5,0,20,970,1,0,0,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Glazed Ham — 3 oz,85,130,3.5,1.5,0,35,620,10,0,9,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled BBQ Pork — 3 oz,85,240,15,5,0,65,600,5,1,4,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled BBQ Pork Loin — 3 oz,85,150,6,2.5,0,40,610,5,1,4,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled BBQ Pork Steaks — 3 oz,85,210,13,5,0,70,790,6,11,4,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Cajun Sausage with Apples — 3 oz,85,210,18,8,0,30,320,5,1,4,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Ham Steaks — 2 piece,87,110,4.5,1.5,0,40,870,5,0,5,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Hickory Bourbon Pork — 3 oz,85,250,15,5,0,65,560,7,0,7,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Hickory Bourbon Pork Loin — 3 oz,85,160,6,2.5,0,40,570,7,0,7,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Hickory Bourbon Pork Steaks — 3 oz,85,220,13,5,0,70,710,9,0,7,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Pork Steaks w/ Garlic Parmesan — 3 oz,85,250,19,6,0,70,1000,3,16,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Pork Steaks w/ Mushroom Gravy — 3 oz,85,210,14,5,0,70,930,5,12,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Pork Steaks w/ Onion Gravy — 3 oz,85,220,14,6,0,70,930,5,13,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pineapple Pork — 3 oz,85,240,15,5,0,65,710,5,0,5,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pineapple Pork Loin — 3 oz,85,150,6,2.5,0,40,720,5,0,5,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pineapple Pork Steaks — 3 oz,85,220,13,5,0,70,890,7,15,5,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pork — 3 oz,85,240,15,5,0,65,790,5,0,4,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pork Loin — 3 oz,85,150,6,2.5,0,40,800,5,0,4,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Grilled Teriyaki Pork Steaks — 3 oz,85,220,13,5,0,70,970,7,14,4,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Ham and Cheese Bistro Melt — 1 Piece,115,310,18,8,0,40,1060,20,1,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Italian Sausage — 3 oz,85,200,15,6,0,50,470,0,0,0,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Italian Sausage with Onions and Peppers — 3 oz,85,190,16,5,0,35,350,2,0,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Kickin Bourbon BBQ Ends — 2 ribs,163,350,19,7,0,85,770,23,0,20,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Mac and Cheese Smoked Pork Bowl — 1 each,337,570,28,8,0,130,1200,45,1,18,,37,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Mandarin Orange Pork — 1 cup,167,360,18,4.5,0,65,860,26,0,21,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Mini BBQ Pork Sandwich — 1 each,98,240,11,3.5,0,50,280,22,0,9,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork  Sofrito — 1 Piece,85,140,10,2,0,25,270,3,0,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Carnitas — 4 oz,113,200,14,5,0,50,680,4,1,3,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Pork Chop, Bone-In — 6 oz",170,210,9,2.5,0,85,1380,1,8,1,,32,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Collar Grilled — 3 oz,85,260,18,7,0,75,130,0,0,0,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Enchiladas — 1 each,127,180,11,6,0,35,610,8,1,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Fillets — 1 each,130,250,17,6,0,75,790,1,0,0,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Liver Mush — 1 piece,63,120,8,1.5,0,55,310,9,2,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Loin — 3 oz,85,140,7,2.5,0,45,440,1,1,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Loin with Poultry Gravy — 3 oz,113,150,8,2.5,0,45,590,3,1,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Pork Loin, Bone-In Carved — 4 oz",113,220,15,4,0,60,1480,5,0,1,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Machaca — 3 oz,85,170,10,3,0,50,340,2,1,1,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Pot Roast — 3 oz with sauce,136,200,12,4.5,0,55,510,5,0,2,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,"Pork Pot Roast, Awesome — 3 oz",85,160,10,3.5,0,55,290,3,0,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Quesadillas — 1 piece,56,140,9,3,0,15,210,9,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Steak with Spicy Orange Sauce — I steak,122,300,17,7,0,85,910,16,1,13,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Steaks — 1 each,130,250,13,4.5,0,55,1030,17,0,14,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Tamales — 3 each,127,400,30,10,0,300,580,26,13,1,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Pork Tips — 3 oz,85,140,6,2,0,60,360,2,0,0.5,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Posole w/ Pork — 8 Ounces,227,120,5,1.5,0,15,1070,12,3,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Red Beans and Sausage — 1/2 cup,198,270,11,4,0,20,1010,28,10,4,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Red Beans and Sausage — 1/2 Cup,198,270,11,4,0,20,1010,28,91,4,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Roasted Cuban Pork — 3 oz,85,150,8,2,0,55,400,0,0,0,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Salisbury Steak Southern Style — 1 each,71,190,12,4.5,0,35,740,10,3,2,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sausage - Spicy Southwest — 4 oz,113,320,27,11,0,70,760,2,0,1,,17,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sausage and Egg Skillet — 1/2 cup,125,240,19,7,0,145,430,8,0,1,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sausage Crumbles — 1 oz,28,120,11,4,0,15,270,1,0,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sausage Patties — 1 each,32,80,7,2.5,0,20,170,0,0,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sausage Skillet — 1/2 cup,125,270,21,9,0,35,450,11,0,1,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Sliced Ham — 3 oz,85,120,4,1.5,0,40,660,4,0,4,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked BBQ Pork — 3 oz,85,210,12,5,0,75,160,0,0,0,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked BBQ Sausage — 3 oz,85,240,18,6,0,40,830,12,1,8,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Cajun Sausage — 3 oz,85,320,30,14,0,60,560,0,0,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Kickin BBQ Ends — 2 ribs,115,410,30,11,0,75,800,18,0,16,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Pitt Ham — 3 oz,85,110,6,2,0,50,1070,1,0,1,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Pork Spare Ribs — 1 each (2 bones with rib meat),77,310,27,10,0,70,430,0,0,0,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Pulled Pork Sandwich with BBQ Sauce — 1 each,253,520,17,5,0,125,1610,55,2,20,,37,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Pulled Pork with BBQ Sauce — 5 oz,146,290,14,4.5,0,125,220,11,0,9,,30,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Sausage — 1 piece,56,180,16,6,0,35,530,3,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Sausage with Onions and Peppers — 3 oz,85,220,19,7,0,40,640,4,0,2,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Sausage with Sauerkraut — 1 piece,112,210,16,6,0,35,1660,10,5,2,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smoked Spicy Cayenne BBQ Pork Ribs — 2 ribs,113,390,30,11,0,75,780,12,1,9,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Smokehouse Baby Back Ribs — 1 each (2 rib bones with meat),135,300,17,6,0,115,240,4,1,3,,33,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Southern Style Pork Chops — 3 oz,85,230,16,4.5,0,60,400,8,0,0,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Pork,Split Smoked Sausage — 1 each,78,240,21,7,0,50,730,1,0,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salad,Buffalo Lettuce Wedge — 1 each,367,550,44,9,0,95,1850,15,2,6,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Bacon Bits — 2 Tbsp,12,50,3.5,1.5,0,15,240,0,0,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Bacon Dressing — 2 Tbsp,30,150,14,2,0,0,300,5,0,5,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Balsamic Vinaigrette — 2 Tbsp,30,20,0,0,0,0,260,5,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Balsamic Vinegar — 1 Tbsp,16,15,0,0,0,0,0,3,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Blue Cheese Dressing — 2 Tbsp,30,150,16,2,0,10,260,1,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Caesar Dressing — 2 Tbsp,30,150,15,2.5,0,25,340,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Catalina Dressing — 2 Tbsp,30,120,11,1.5,0,0,370,7,0,7,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings","Dressing, Fat Free French — 2 Tbl",33,35,0,0,0,0,340,9,1,7,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings","Dressing, Thousand Island — 2 Tbl",30,130,13,2,0,15,240,4,11,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",French Dressing — 2 Tbsp,31,130,12,1.5,0,0,270,6,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Ginger Dressing — 2 Tbsp,31,120,12,2,0,0,220,4,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Green Goddess Dressing — 2 Tbsp,29,140,15,2.5,0,10,220,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Homestyle Ranch Dressing — 2 Tbsp,29,100,11,1.5,0,10,250,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Honey Mustard Dressing — 2 Tbsp.,30,130,11,1.5,0,15,180,7,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Lite Olive Oil Vinaigrette — 2 Tbsp,30,70,6,1,0,0,230,3,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Radishes — 1/4 cup,29,5,0,0,0,0,10,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Raisins — 1/4 cup,21,60,0,0,0,0,0,16,1,12,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Ranch Dressing — 2 Tbsp,30,110,12,2,0,10,450,2,4,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Ranch Dressing — 2 Tbsp,30,100,11,1.5,0,10,270,1,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Ranch Dressing - Lite — 2 Tbl,30,80,8,1,0,10,270,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Ranch Fat Free Dressing — 2 Tbsp,30,35,0,0,0,0,300,9,0,5,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Red Wine Vinegar — 1 Tbsp,15,5,0,0,0,0,0,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Sour Cream — 2 Tbsp,30,60,6,3.5,0,20,0,1,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",Thousand Island Fat Free Dressing — 2 Tbsp,30,40,0,0,0,0,250,10,1,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,"Salad, Toppings &amp; Dressings",White Balsamic Vinaigrette — 2 Tbsp,31,130,12,2,0,0,150,5,0,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Apple Salad — 1/2 cup,130,170,6,1,0,5,160,30,2,23,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Baby Carrots — 5 each,50,20,0,0,0,0,40,4,1,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Beet and Onion Salad — 1/2 cup,152,50,0,0,0,0,260,11,2,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Beets — 1/4 cup,60,20,0,0,0,0,125,4,1,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Black Olives — 10 each,30,40,4,2,0,0,220,2,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,BLT Salad — 1 cup,89,80,6,1.5,0,10,240,4,1,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Blue Cheese Crumbles — 2 Tbsp,14,50,4,2.5,0,15,190,0,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Broccoli — 1/4 cup,18,5,0,0,0,0,0,1,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Broccoli Salad — 1/2 cup,54,110,8,1.5,0,10,110,9,1,6,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,"Broccoli Salad, Southern Style — 1/2 cup",54,170,15,2,0,15,105,10,1,6,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Caesar Salad — 1 cup,79,110,8,2,0,15,290,8,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Carrot Raisin Salad — 1/2 cup,64,110,7,1,0,5,75,11,1,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Carrot Sticks — 2 sticks,23,10,0,0,0,0,15,2,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Carrots — 1/4 cup,28,10,0,0,0,0,20,3,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cauliflower — 1/4 cup,27,5,0,0,0,0,10,1,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Celery Sticks — 1 each,17,5,0,0,0,0,15,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cheddar Cheese — 2 Tbsp,14,60,4.5,2.5,0,15,90,0,0,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cherry Peppers — 3 each,42,10,0,0,0,0,740,2,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cherry Tomatoes — 5 each,85,15,0,0,0,0,0,3,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Chicken Salad — 1/3 cup,100,160,11,1.5,0,25,530,12,1,9,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Chickpea Salad — 1/2 Cup,123,110,6,1,0,0,470,12,5,3,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Chickpeas — 1/4 cup,60,60,1,0,0,0,180,9,4,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Chopped Peanuts — 2 Tbsp,18,110,9,1.5,0,0,0,4,2,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cilantro- Fresh — 1.25 Tbsp,7,0,0,0,0,0,0,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Coleslaw — 1/2 cup,110,160,10,1.5,0,10,440,17,2,6,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Coleslaw - Prepared — 1/2 Cup,100,130,9,1.5,0,10,240,11,93,8,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cottage Cheese — 1/2 cup,113,90,2.5,1.5,0,15,460,5,0,5,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Croutons — 2 Tbsp,5,20,0.5,0,0,0,85,4,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cucumber Salad - Prepared — 1/2 Cup,100,45,0,0,0,0,490,11,1,9,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Cucumbers — 1/4 cup,33,5,0,0,0,0,0,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Deviled Eggs — 1 each,31,70,5,1,0,95,70,1,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Diced Eggs — 1/4 cup,34,50,3.5,1,0,125,40,0,0,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Diced Ham — 3 oz,85,110,4,1.5,0,45,1030,4,0,2,,14,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Diced Onions — 1/4 cup,40,15,0,0,0,0,0,4,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Diced Tomatoes — 1/4 cup,45,10,0,0,0,0,0,2,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Dill Pickle Spears — 1 each,28,0,0,0,0,0,320,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Dill Pickles — 4 each,13,0,0,0,0,0,180,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Dried Cranberries — 2 Tbsp,20,60,0,0,0,0,0,17,1,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Dried Onions — 2 Tbsp,7,45,3.5,1.5,0,0,60,3,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Egg Salad — 1/2 cup,93,200,17,3.5,0,260,280,3,0,2,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Fresh Onion Strips — 1/4 cup,29,10,0,0,0,0,0,3,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Fruit Cocktail — 1/2 cup,126,70,0,0,0,0,15,18,1,16,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Fruit Salad — 1/2 cup,85,35,0,0,0,0,10,9,1,7,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Green Grapes — 10 each,49,35,0,0,0,0,0,9,0,8,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Green Olives — 2 Tbsp,30,50,4,0,0,0,580,0,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Green Peppers — 3 each,30,5,0,0,0,0,0,1,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Guacamole — 1/4 cup,58,70,7,1,0,0,90,5,3,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Iceberg Lettuce — 1 cup,72,10,0,0,0,0,5,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Kidney Bean Salad — 1/2 cup,117,180,10,1.5,0,10,390,16,4,4,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Kidney Beans — 1/4 cup,60,50,0,0,0,0,180,8,3,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Lettuce — 1 cup,65,10,0,0,0,0,5,2,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Lettuce — 1 cup,72,10,0,0,0,0,5,2,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Lettuce Wedge — 1 cup,72,10,0,0,0,0,5,2,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Macaroni Salad - Housemade — 1/2 Cup,114,280,11,1,0,10,490,41,94,12,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Mandarin Oranges — 1/4 cup,47,30,0,0,0,0,5,7,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Marinated Garden Salad — 1/2 cup,96,90,6,1,0,0,230,7,1,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Marinated Mushroom Salad — 1/2 cup,76,80,6,1,0,0,240,5,0,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Marinated Vegetable Salad — 1/2 cup,50,35,2,0,0,0,90,3,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Mexican Fruit Salad — 2/3 cup,236,90,1,0,0,0,50,21,2,17,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Mozzarella Cheese — 2 Tbsp,39,110,8,5,0,30,280,1,0,0,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Mushrooms — 1/4 cup,18,5,0,0,0,0,0,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Onions — 3 each,12,5,0,0,0,0,0,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Parmesan Cheese — 2 Tbsp,10,45,4,2,0,10,110,0,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pasta Salad — 1 cup,127,150,6,1,0,0,220,20,2,4,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pea Salad — 1/2 cup,119,220,14,3,0,50,410,16,0,7,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pepperjack Cheese — 5 each,47,170,13,8,0,40,300,0,0,0,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pepperoncinis — 3 each,34,10,0,0,0,0,600,2,1,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pepperoni — 5 each,10,50,4.5,2,0,10,190,0,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pickled Beets — 1/4 cup,60,60,0,0,0,0,85,14,0,13,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Pico de Gallo — 1/4 cup,64,15,0,0,0,0,0,3,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Potato Salad — 2/3 Cup,140,340,27,4,0,20,620,23,6,6,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Potato Salad - Prepared — 1/2 Cup,140,200,12,2,0,10,560,21,95,7,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Red Grapes — 10 each,24,15,0,0,0,0,0,4,0,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Rice Noodles — 2 Tbsp,7,35,1,0,0,0,90,5,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Roasted Peppers — 1/2 cup,84,90,8,1.5,0,0,210,5,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Romaine Lettuce — 1 cup,47,10,0,0,0,0,0,2,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,"Salad, Black Eyed Pea — 4 oz",113,110,3,0,0,0,660,16,3,3,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,"Salad, Cucumber Tomato and Onion — 1/2 cup",85,45,2.5,0,0,0,150,4,1,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Seafood Salad — 1/2 cup,85,110,6,1,0,10,390,8,0,3,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sliced Almonds — 2 Tbsp,12,70,6,0,0,0,0,2,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sliced Almonds — 2 Tbl,12,70,6,0,0,0,0,2,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sliced Jalapenos — 1/4 cup,30,10,0,0,0,0,410,2,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Spinach — 1 cup,57,15,0,0,0,0,45,2,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Spinach Artichoke Dip (8 oz) — 1 ea,224,350,22,7,0,25,1210,26,3,8,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Spring Lettuce Mix — 1 cup,19,5,0,0,0,0,5,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Squash — 5 each,49,10,0,0,0,0,0,2,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Strawberries — 5 each,60,20,0,0,0,0,0,5,1,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Strawberry Spinach Salad — 1 cup,63,40,2.5,0,0,0,45,5,2,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Summer Salad — 1/2 cup,87,70,5,1,0,0,200,5,1,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sunflower Seeds — 2 Tbsp,16,90,8,1,0,0,105,4,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sweet Pickle Chips — 5 each,28,30,0,0,0,0,140,7,0,5,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Sweet Pickle Relish — 1 Tbsp,15,15,0,0,0,0,150,4,0,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Taco Tortilla Bowl — 1 Shell,51,200,12,3.5,0,0,250,22,1,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Three Bean Salad — 1/2 cup,86,90,0.5,0,0,0,15,19,3,12,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Tomato and Onion Salad — 1/2 cup,82,40,2,0,0,0,85,5,1,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Tomato Slices — 1 slice,24,5,0,0,0,0,0,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Tomato Wedges — 5 piece,82,15,0,0,0,0,0,3,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Tuna Salad - Housemade — 1/2 cup,103,190,12,1.5,0,45,560,4,0,3,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Tuna Salad - Prepared — 1/2 Cup,100,240,19,3.5,0,30,520,6,0,3,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Water Chestnuts — 1/4 cup,62,20,0,0,0,0,10,5,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,White Macaroni Salad — 1/2 cup,106,190,8,1,0,10,370,27,8,8,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Whole Eggs — 1 each,50,80,5,1.5,0,185,60,1,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Salads,Zucchini — 5 each,49,10,0,0,0,0,0,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sandwiches,Meatloaf Sandwich — 1 Each,208,440,20,6,0.5,40,990,47,1,14,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sandwiches,Meatloaf Sandwich All Beef — 1 Each,208,460,22,7,1,40,990,47,1,14,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sandwiches,"Sandwich, Pulled Pork — 1 Each",218,470,20,5,0,80,670,50,2,22,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sandwiches,Smokehouse/Farm House Chicken Sandwich — 1 Each,259,640,40,8,0,115,1830,45,1,16,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Alfredo Sauce — 1/4 cup,63,150,14,3.5,0,5,380,3,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Au Jus Gravy — 2 oz,57,30,2.5,1,0,5,380,2,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,BBQ Sauce — 2 Tbsp,36,60,0,0,0,0,380,15,1,11,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Brown Gravy — 2 oz,57,20,0,0,0,0,330,4,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Brown Gravy (side) — 1/2 cup,117,40,1,0,0,0,680,8,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Brown Gravy (topping) — 1/4 cup,58,20,0,0,0,0,340,4,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Brown Sugar — 1 Tbsp,14,50,0,0,0,0,0,14,0,13,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Butter PC — 1 ea,5,35,4,2.5,0,10,30,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Cheese Sauce — 1/4 cup,57,100,8,3,0,10,450,3,0,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Cocktail Sauce — 2 Tbsp,33,25,0,0,0,0,450,7,1,5,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Cranberry Sauce — 2 Tbsp,35,60,0,0,0,0,5,13,1,11,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,GC Steak Sauce — 1 Tbl,17,15,0,0,0,0,300,3,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Grape Jelly PC — 1 each,14,35,0,0,0,0,0,9,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Honey Butter — 1 Tbsp,14,80,8,3,0,0,35,3,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Honey Butter Cup — 1 Cup,10,50,4.5,2,0,5,35,3,0,3,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Horseradish Sauce — 2 Tbsp,28,100,10,2,0,15,130,2,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Italian Red Sauce — 1/2 cup,58,40,3,0.5,0,0,160,3,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Italian Red Sauce with Ground Beef — 1/2 Cup,204,190,13,3.5,0,0,520,11,2,5,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Jelly - Grape Packet — 1 Packet,14,35,0,0,0,0,0,9,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Jelly - Strawberry Packet — 1 Packet,14,35,0,0,0,0,0,9,0,8,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,"Jelly, Reduced Sugar — 1 each",12,10,0,0,0,0,0,3,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Ketchup — 1 Tbl,17,20,0,0,0,0,190,5,0,4,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Ketchup Packets — 1 each,9,10,0,0,0,0,95,3,0,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Margarine — 1 Tbsp,14,100,11,4.5,0,0,105,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Mayonnaise — 1 Tbl,17,120,13,2,0,10,90,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Mayonnaise Packets — 1 each,12,80,8,1.5,0,5,75,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Mushroom Gravy — 2 oz,57,20,0,0,0,0,310,4,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Mustard — 1 Tsp,5,5,0,0,0,0,60,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Mustard Packets — 1 each,6,5,0,0,0,0,65,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Olive Oil — 1 Tbsp,15,120,14,2,0,0,0,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Poultry Gravy — 2 oz,57,20,0.5,0,0,0,310,4,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Queso Cheese Sauce — 1/4 cup,58,70,6,2,0,10,390,3,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Salsa — 2 Tbsp,30,10,0,0,0,0,200,2,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,"Salsa, Mexican Red — 2 ounces",57,10,0,0,0,0,140,3,1,2,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Smokehouse BBQ Sauce — 2 Tablespoons,30,45,0,0,0,0,300,12,0,10,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Spicy BBQ Sauce — 2 Tablespoons,37,70,0,0,0,0,290,16,0,14,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Strawberry Jelly PC — 1 each,14,35,0,0,0,0,0,9,0,6,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Sweet BBQ Sauce — 2 Tablespoons,37,70,0,0,0,0,300,17,0,15,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Tartar Sauce — 2 Tbsp,30,150,16,2.5,0,10,240,1,0,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Texas Pete Hot Sauce — 1 tsp,4,0,0,0,0,0,65,1,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Tomatillo Salsa Verde — 2 ounces,57,20,0,0,0,0,550,4,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Vegetable Oil — 1 Tbsp,14,120,14,2.5,0,0,0,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,Whipped Margarine — 1 Tbsp,10,70,8,2.5,0,0,75,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sauces and Condiments,White Gravy — 2 oz,57,40,2.5,1,0,0,180,5,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Side,Macaroni and Cheese - Side — 1 Each,189,310,18,7,0,25,840,26,79,3,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Arroz Con Leche — 10 oz,295,340,6,3.5,0,20,190,64,0,47,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Baked Potatoes — 1 each,173,160,0,0,0,0,15,37,4,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Baked Spaghetti — 1/2 cup,96,160,10,4,0,20,310,9,1,1,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,BBQ Baked Beans — 1/2 cup,130,170,1,0,0,0,650,37,5,21,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Biscuit and Gravy — 1 each,181,320,19,9,0,0,990,33,16,3,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Broccoli and Rice Casserole — 1/2 Cup,120,130,1.5,1,0,2.4,210,24,19,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Broccoli and Rice Casserole — 1/2 cup,120,130,6,2,0,5,560,16,1,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Brown Gravy — 2 fl oz,59,20,0,0,0,0,310,4,64,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Brown Rice, Whole Grain Rice Pilaf — 1/2 cup",119,180,6,2,0,0,570,28,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Carrot Souffle — 1/2 cup,124,180,8,3,0,35,135,25,2,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Carrots, Steamed — 1/2 Cup",85,80,6,2.5,0,0,290,8,25,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Charro Beans — 1/2 cup,115,100,2.5,0,0,0,490,16,5,2,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheddar and Roasted Garlic Mashed Potatoes (16 oz Side) — 2 Cups,420,840,63,17,0,35,2440,55,4,6,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheddar and Roasted Garlic Mashed Potatoes (32 oz Side) — 4 Cups,840,1670,127,34,0,75,4880,111,9,13,,25,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheddar Grits (4 oz) — 4 oz,113,150,8,4,0,20,270,15,26,0,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheddar Stuffed Potatoes — 1 each,190,230,7,3,0,20,530,35,2,3,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheese Enchiladas — 1 each,112,210,15,9,0,40,620,7,0,0,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cheesy Cauliflower Bake — 1/2 Cup,100,100,6,3,0,15,470,7,1,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cilantro White Rice — 1/2 Cup,85,80,2.5,1,0,0,115,13,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cinnamon Apples — 1/4 cup,60,80,2.5,1,0,0,50,15,1,13,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Cranberry Sauce — 1/4 Cup,70,110,0,0,0,0,75,30,1,27,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Diced Sauteed Onions — 1/4 cup,57,70,6,1,0,0,50,5,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Fries, Seasoned Wedge — 10 each",106,200,12,2.5,0,0,480,19,2,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Fries, Steakhouse — 10 each",102,170,12,2,0,0,270,14,2,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Fruit Cup, Strawberry and Blueberry — 3/4 Cup",136,60,0,0,0,0,0,15,62,10,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Garlic Parmesan Potatoes — 1/2 cup,75,120,8,2,0,0,310,12,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Golden Bite — 3 oz,85,210,13,4.5,0,35,180,18,1,2,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Green Bean Casserole — 1/2 cup,125,80,5,1.5,0,0,660,8,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Green Beans — 1/2 Cup,127,35,1.5,0,0,0,550,4,14,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Grilled Cheese Sandwich — 1 Piece,65,230,14,6,0,15,470,21,1,3,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Homestyle Stuffing — 1/2 cup,125,110,5,2,0,0,530,15,1,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Homestyle Stuffing — 1/2 cup,119,140,6,2.5,0,0,550,19,1,3,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Hominy — 1/2 cup,86,70,3,1,0,0,500,9,3,0,,0.6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Hushpuppies — 3 each,68,240,13,2.5,0,0,430,30,2,5,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Italian Red Potatoes — 1/2 Cup,75,110,6,1,0,0,370,13,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Lo Mein — 3 oz,87,100,3.5,0.5,0,0,280,16,1,7,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Louisiana-style Dirty Rice — 1/2 cup,90,150,8,3.5,0,10,470,15,0,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mac-n-Cheese Fritters — 5 Each,231,550,36,8,0,90,950,42,0,4,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Macaroni and Cheese — 1/2 cup,125,180,10,3,0,10,540,19,0,2,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Macaroni and Cheese  (8 oz Side) — 1 Cup,225,330,18,6,0,15,960,33,0,4,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Macaroni and Cheese (16 oz Side) — 2 cups,450,660,36,11,0.5,30,1930,67,0,9,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Macaroni and Cheese (32 oz Side) — 4 cups,900,1320,71,23,1.5,65,3860,133,0,18,,39,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Macaroni and Cheese, Down Home — 1/2 cup",125,260,17,7,0,40,820,14,0,2,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mashed Potatoes — 1/2 cup,113,200,15,3,0,0,660,16,0,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mashed Potatoes (16 oz Side) — 2 Cups,484,870,66,13,0,5,2820,67,5,8,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mashed Potatoes (8 oz Side) — 1 Cup,242,440,33,7,0,0,1410,33,3,4,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mashed Potatoes w/ Gravy — 1/2 Cup,168,270,14,3,0,0,1000,32,80,3,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Mashed Potatoes, Garlic — 1/2 cup",113,200,15,3,0,0,660,16,1,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Mexican Rice — 1/2 cup,100,140,7,2,0,5,590,18,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Okra - Fried (5.2 oz) — 5.2 oz,147,290,16,2.5,0,0,990,31,6,3,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Okra and Tomato Stew — 1/2 cup,118,60,2.5,1,0,0,530,7,2,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Okra, Fried — 10 each",48,110,7,1,0,0,310,10,2,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Okra, Fried — 10 each",48,110,7,1,0,0,310,10,82,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Onion Rings — 2 each,47,150,11,2,0,0,180,10,1,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Onion Rings, Fresh Battered — 2 each",40,140,7,1.5,0,0,900,17,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Onions and Peppers, Sauteed — 1/4 cup",57,30,1.5,0,0,0,15,4,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Pagoda Rice — 1/2 cup,115,150,6,2,0,0,600,21,1,3,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Peas, Black Eyed Southern Style — 1/2 Cup",131,170,7,2.5,0,15,1580,20,83,4,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Penne Pasta — 1 cup,139,200,2,0,0,0,0,40,2,1,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Plantains, Fried — 2 piece",47,150,6,1.5,0,0,0,23,2,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Pot Roast Vegetables — 1/2 Cup,142,45,1,0,0,0,370,9,86,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Potato Chips, Homemade — 20 each",44,120,10,1.5,0,0,190,6,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Potato Chips, Homemade BBQ — 20 each",45,120,10,1.5,0,0,180,6,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Potato Chips, Homemade Seasoned — 20 each",44,120,10,1.5,0,0,180,6,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Potato Tots — 2 oz,66,160,11,1.5,0,0,1150,15,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Potatoes, French Fried — 6 each",79,130,9,1.5,0,0,210,11,2,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Potatoes, Fried Cubed — 1/2 cup",110,160,9,1.5,0,0,160,19,2,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Ranch Potatoes — 1/2 cup,120,150,7,1.5,0,0,620,21,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Rice Pilaf — 1/2 cup,85,130,4.5,1.5,0,0,520,18,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Roasted Corn on the Cobb — 2 each,254,380,20,5,0,0,760,43,9,17,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Roasted Spiced Sweet Potatoes (16 oz) — 16 oz,281,450,25,3.5,0,0,2300,57,9,13,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Roasted Spiced Sweet Potatoes (32 oz) — 32 oz,562,910,49,7,0,0,4600,113,18,26,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sauteed Onions — 1/4 cup,57,70,6,1,0,0,50,5,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sauteed Onions (1/4 cup) — 1/4 cup,57,70,6,1,0,0,50,5,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Scalloped Potatoes — 1/2 cup,125,160,8,4.5,0,25,470,17,1,1,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Skillet Potatoes and Onions — 1/2 cup,125,120,3.5,0.5,0,0,95,19,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Smokehouse Macaroni and Cheese — 1/2 cup,130,290,20,8,0.5,45,630,13,0,2,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Smokey Cheese Potato Bake — 1/2 cup,125,160,8,4,0,25,490,14,1,2,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Spaghetti Noodles — 1/2 cup,98,150,4.5,0,0,0,0,24,0,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Steak Fries — 6 Each,79,110,6,1,0,0,330,12,6,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Steakhouse Fries (16 oz side) — 2 cups,204,280,16,3,0,0,340,29,4,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Steakhouse Fries (8 oz side) — 1 Cup,102,170,12,2,0,0,270,14,2,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Stuffed Cheddar and Bacon Potato — 1 stuffed potato,283,410,17,6,0,35,620,49,3,1,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Stuffed Peppers — 1 each,238,280,18,7,1,75,580,13,2,5,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Stuffing — 1/2 Cup,84,170,8,2.5,0,0,630,22,1,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Corn Pudding — 1/2 cup,125,340,14,6,0,5,400,50,1,26,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Corn Pudding (16 oz side) — 16 oz,500,1350,55,23,0,25,1600,200,2,105,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Corn Pudding (8 oz side) — 8 oz,250,680,28,11,0,15,800,100,1,53,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Potato Casserole — 1/2 cup,115,210,3.5,1,0,5,30,41,2,27,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Potato Casserole (16oz Side) — 16 oz,460,830,14,5,1.5,15,115,165,6,110,,10,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Sweet Potato Casserole (8oz Side) — 8 oz,230,420,7,2.5,1,10,55,82,3,55,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Taco Shells — 1 Each,11,20,0,2.5,0,0,0,4,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Tater Tots - 4 oz — 4 oz,113,440,35,3.5,0,0,420,28,110,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Tortilla Chips — 40 chips,84,310,15,2,0,0,500,41,3,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Tortilla Chips — 10 each,28,120,8,1,0,0,260,12,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,"Turnip Greens, Fresh — 1/2 Cup",98,70,3,1,0,5,420,9,111,5,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Vegetable and Rice Casserole — 1/2 Cup,120,140,6,2.5,0,5,350,17,1,1,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Corn Tortilla — 1 Each,28,70,2.5,0,0,0,20,11,1,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Macaroni and Cheese — 1/2 cup,127,260,17,9,0,45,770,17,1,3,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Rice — 1/2 cup,85,120,4.5,1.5,0,0,210,17,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Rice — 1/2 Cup,93,130,5,2,0,0,230,19,92,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Rice  (16 oz Side) — 2 Cups,340,480,17,7,0,0,830,69,0,0,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,White Rice (8 oz Side) — 1 Cup,170,240,9,3.5,0,0,420,35,0,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Sides,Yellow Rice — 1/2 cup,85,130,4,1.5,0,0,660,19,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Broccoli and Cheese Soup — 1 cup,235,190,12,7,0,35,1030,13,0,8,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Brunswick Stew — 1 cup,246,130,2.5,1,0,20,620,18,2,7,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Captain's Wafers — 10 each,28,140,5,0,0,0,210,18,0,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Chicken Noodle Soup — 1 cup,232,80,1.5,0,0,20,900,12,0,1,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Clam Chowder — 1 cup,235,160,5,2.5,0,15,730,18,1,9,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Green Chicken Chili Verde Soup — 1/2 cup,128,120,6,1.5,0,25,850,9,2,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Green Chili Stew — 1 cup,240,230,11,4,0,50,570,13,0,3,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Oyster Crackers — 1 package,14,60,1.5,0,0,0,135,10,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Potato Soup with Bacon — 1 cup,240,200,9,4,0,20,870,22,1,8,,7,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Saltines — 1 package,6,25,0.5,0,0,0,55,4,0,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Timberline Chili — 1 cup,248,230,9,3,1,40,890,26,8,5,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Soup,Vegetable Soup Homemade — 1 cup,237,110,6,3,0,5,630,12,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Avocado Egg and Cheese Sandwich — 1 Each,258,390,17,5,0,15,560,37,3,10,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Bacon (4 ea) — 1 each,38,210,19,7,0,30,680,0,0,0,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Biscuits and Gravy To Go — 1 Each,372,820,49,24,0,0,2430,86,3,7,,13,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Breakfast Feast-with Bacon — 4 servings,1163,2930,143,49,0.5,1850,2420,324,3,266,,94,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Breakfast Feast-with Sausage Links — 4 servings,1347,3430,189,67,0.5,1905,3070,328,3,266,,109,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Breakfast Feast-with Sausage Patty — 4 servings,1343,3110,160,53,1.5,1935,2450,324,3,266,,109,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Breakfast Feast-with Turkey Sausage — 4 servings,1431,3150,145,47,0.5,1985,3550,332,3,274,,137,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Buttermilk Biscuits (2 ea)- to go — 2 each,135,470,28,14,0,0,1260,48,2,4,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Bacon and Biscuit — 1 each,285,610,44,18,0,440,1340,32,0,4,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Bacon and Pancake — 1 each,291,730,36,12,0,460,600,81,0,67,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Sausage Link and Biscuit — 1 each,331,740,56,23,0,455,1500,33,0,4,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Sausage Links and Pancake — 1 each,337,860,47,17,0,475,770,82,0,67,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Sausage Patty and Biscuit — 1 each,330,660,48,19,0,465,1350,32,1,4,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Sausage Patty and Pancake — 1 each,336,780,40,13,0,485,610,81,1,67,,27,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Classic Breakfast Combo - Turkey Sausage and Biscuit — 1 each,352,670,45,18,0,475,1620,34,1,6,,35,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Fresh Fruit - 8 ounces — 1 each,227,100,0,0,0,0,20,24,3,20,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Sausage Breakfast Bowl w/ Grits — 1 Each,342,530,34,13,0,380,1030,31,1,1,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Sausage Breakfast Bowl w/ Hash Browns — 1 Each,276,670,55,17,0,380,1220,22,2,3,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Sausage Breakfast Bowl w/ Tots — 1 Each,222,530,40,14,0,380,1080,19,2,2,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Sausage Link (4 ea) — 1 Each,130,460,42,16,0,60,1000,2,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Sausage Patty (4 ea) — 1 each,128,300,27,9,0,75,690,0,0,0,,18,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Southwest Breakfast Bowl w/ Tots — 1 Each,272,500,37,14,0,375,730,23,3,3,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Southwest Breakfast Bowl w/grits — 1 Each,392,510,32,13,0,375,750,35,2,3,,21,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Southwest Breakfast Bowl w/Hash Browns — 1 Each,326,650,53,17,0,375,870,26,4,4,,19,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Southwest Breakfast Burrito — 1 Each,234,510,30,14,0,250,950,34,0,1,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Turkey Sausage (4 ea) — 4 each,172,320,24,8,0,120,380,8,0,32,,28,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Bacon and Grits — 1 each,289,450,30,11,0,440,740,23,1,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Bacon and Hashbrowns — 1 each,289,450,30,11,0,440,740,23,1,1,,22,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Sausage Links and Grits — 1 each,335,570,42,15,0,455,900,24,1,1,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Sausage Links and Hashbrowns — 1 each,285,680,58,18,0,455,1040,17,2,2,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Sausage Patty and Grits — 1 each,334,490,34,12,0,460,750,23,1,1,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Sausage Patty and Hashbrowns — 1 each,284,600,51,15,0.5,460,890,16,2,2,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Turkey Sausage and Grits — 1 each,356,500,31,10,0,475,1020,25,1,3,,33,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,To-Go Breakfast,Two Egg Breakfast - Turkey Sausage and Hash Browns — 1 each,306,610,47,13,0,475,1160,18,2,4,,31,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,2 Slider Value Meal — Meal,345,840,47,17,1.5,15,1150,65,3,19,,36,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,BBQ Pork Value Meal — Meal,379,830,43,13,0,110,940,79,4,29,,31,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Bourbon Chicken Value Meal — Meal,408,720,31,12,0,140,1500,76,0,24,,34,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Cheese Pizza Pack — Meal,1719,4220,120,69,2.5,265,8670,612,19,179,,148,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Fried Chicken Value Meal -  White Meat — Meal,386,1020,58,16,0,190,1590,78,5,18,,47,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Fried Chicken Value Meal - Dark Meat — Meal,387,1000,56,16,0,190,1390,75,4,19,,48,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Fried Fish Value Meal — Meal,425,1190,80,16,1,60,2290,92,8,20,,24,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Kids Baked Pasta Value Meal — Meal,209,530,25,11,0,35,690,60,1,19,,16,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Kids Drumstick Value Meal — Meal,287,730,39,12,0,90,850,67,3,18,,26,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Kids Slider Value Meal — Meal,243,580,33,11,1,5,760,49,3,14,,20,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Value Menu-To Go and Drive-Thru,Pepperoni Pizza Pack Meal — Meal,920,2410,88,45,1.5,200,5490,306,10,89,,87,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Asian Stir Fry Vegetables — 1 cup,150,120,2.5,0,0,0,620,22,1,15,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Asparagus, Steamed — 4 each",70,80,7,3,0,0,280,2,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Baby Lima Beans — 1/2 cup,85,150,5,2,0,0,420,19,5,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Baked Sweet Potatoes — 1 each,130,110,0,0,0,0,70,26,4,5,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Beans, Asian Green — 3 oz",85,100,3.5,0,0,0,510,16,2,12,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Black Beans, Seasoned — 1/2 cup",130,180,5,0.5,0,0,770,26,6,3,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Black-eyed Peas — 1/2 cup,120,100,2.5,0.5,0,0,570,14,3,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Black-eyed Peas, Southern Style — 1/2 cup",131,170,7,2.5,0,15,1560,20,5,4,,8,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Broccoli, Steamed — 1/2 cup",78,25,0,0,0,0,85,6,3,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Broccoli, Steamed — 1/2 Cup",78,25,0,0,0,0,190,5,20,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Brussels Sprouts — 1/2 cup,78,80,6,2,0,0,240,4,2,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Brussels Sprouts with Lemon Herb Butter Sauce — 1/2 cup,85,100,8,3.5,0,5,125,4,2,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Cabbage — 1/2 cup,75,60,5,2,0,0,200,4,2,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Cabbage, Kettle Cooked — 1/2 cup",85,45,2.5,0.5,0,5,180,4,1,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Cabbage, Kettle Cooked — 1/2 Cup",85,45,2.5,1,0,3.7,180,4,22,2,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Cauliflower, Steamed — 1/2 cup",78,20,0,0,0,0,65,3,2,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Collard Greens - Seasoned (16 oz side) — 16 oz,392,140,4,0,0,0,1330,16,8,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Collard Greens, Seasoned — 1/2 Cup",98,30,1,0,0,0,15,5,48,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Collard Greens, Seasoned — 1/2 cup",98,35,1,0,0,0,330,4,2,0,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Collards, Kettle Cooked — 1/2 cup",98,80,3,1,0,5,370,9,3,5,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Corn - Steamed (16 oz side) — 2 cups,296,460,20,7,0,0,670,65,0,16,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Corn - Steamed (8 oz side) — 1 Cup,148,230,10,3.5,0,0,340,32,0,8,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Corn, Steamed — 1/2 cup",85,130,6,2,0,0,190,19,0,5,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Corn-on-the-Cob — 1 each,84,70,0.5,0,0,0,90,13,0,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Corn-on-the-Cob, Fresh — 1 each",64,50,2,0,0,0,60,9,1,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Cottage Fries — 1/2 cup,113,290,15,2.5,0,0,260,36,3,4,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Creamed Spinach — 1/2 cup,110,110,8,4.5,0,20,660,7,1,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Diced Sauteed Green Peppers — 1/4 cup,57,50,5,1,0,0,40,2,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Fresh Grilled Street Corn — 1 each,98,260,21,8,0,10,830,14,0,3,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Fried Green Tomatoes — 2 Slices,80,220,14,2,0,0,460,22,0.9,2,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Fried Jalapenos — 1 each,30,20,1.5,0,0,0,0,2,1,1,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Fried Mushrooms — 7 each,98,160,9,1.5,0,0,680,17,0,2,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Fried Pickles — 10 each,70,160,9,1.5,0,0,700,16,1,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Green Beans — 1/2 cup,121,35,1.5,0,0,0,520,4,0,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Green Beans - Fresh (16 oz side) — 2 cups,250,270,23,9,0.5,0,990,17,6,8,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Green Beans - Fresh (32 oz side) — 4 cups,919,1010,84,32,2,0,3640,62,22,30,,15,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Green Beans - Fresh (8 oz side) — 1 cup,125,170,15,6,0,0,620,8,3,4,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Green Beans, Fresh — 1/2 cup",50,70,6,2.5,0,0,250,3,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Green Chilies — 2 Tbsp,25,10,0,0,0,0,70,2,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Grilled Cajun Corn on the Cobb — 1 Each,127,190,10,2.5,0,0,380,22,4,8,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Grilled Corn-on-the-Cob — 1 each,70,100,4,1,0,0,310,14,0,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Grilled Street Corn — 1 each,83,170,11,3.5,0,10,280,13,0,3,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Home Fries — 1/2 cup,110,110,3,0.5,0,0,125,18,0,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Jalapenos - Sliced Fresh (1/4 cup) — 1/4 cup,41,10,0,0,0,0,630,0,0,0,,0,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Lima Beans, Kettle Cooked — 1/2 cup",120,160,3,1,0,5,570,24,6,3,,9,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Lima Beans, Southern Style — 1/2 cup",131,180,4,1,0,10,810,26,8,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Machaca Beans — 1/2 cup,120,90,0,0,0,0,370,15,5,0,,5,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Northern Beans, Seasoned — 1/2 cup",120,110,2.5,0.5,0,0,570,15,4,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Northern Beans, Southern Style — 1/2 cup",131,170,4,1.5,0,10,780,24,8,1,,11,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Peas, Steamed — 1/2 cup",80,110,4.5,2,0,0,210,11,0,3,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Pinto Beans, Seasoned — 1/2 cup",120,110,2.5,0.5,0,0,570,15,5,0,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Pinto Beans, Southern Style — 1/2 cup",131,200,4,1.5,0,10,810,29,10,1,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Ranch Style Beans — 1/2 cup,130,130,2.5,0.5,0,5,550,21,7,2,,6,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Red Bliss Potatoes — 1/2 cup,75,80,2,1,0,0,85,13,1,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Red Bliss Potatoes, Roasted — 1/2 cup",75,140,9,2,0,0,550,12,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Refried Beans — 1/2 cup,115,160,12,4.5,0,10,610,10,3,0,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Roasted Broccoli — 1/2 cup,118,70,7,1,0,0,310,3,1,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Sauerkraut — 2 Tbsp,30,15,0,0,0,0,600,4,3,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Sauteed Mushrooms — 1/2 cup,78,60,5,1,0,0,260,3,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Sauteed Sliced Mushrooms — 1/2 cup,78,60,5,1,0,0,260,3,0,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Sauteed Sliced Mushrooms (1/4 cup) — 1/4 cup,39,30,2.5,0.5,0,0,130,2,0,1,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Skillet Corn — 3 oz,85,120,3.5,1,0,5,230,19,0,5,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Skillet Vegetables — 1/2 cup,90,90,8,1.5,0,0,250,5,1,3,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Spinach Greens — 1/2 Cup,95,50,3,1,0,0,320,5,1,1,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Spinach, Sauteed Fresh — 1/2 cup",90,110,10,1.5,0,0,60,3,2,0,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Squash Casserole — 4 oz,113,60,10,4.5,0,15,380,10,9,0,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Squash Medley — 1/2 cup,90,45,3,0.5,0,0,220,4,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Squash, Yellow, Sauteed — 1/2 cup",90,60,5,1,0,0,170,4,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Steamed Carrots — 1/2 cup,85,80,6,2.5,0,0,290,8,0,4,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Stewed Tomatoes — 1/2 cup,130,30,0,0,0,0,270,6,0,4,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Succotash — 4 oz,113,80,0,0,0,0,550,16,3,4,,4,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Turnip Greens — 1/2 Cup,98,60,2.5,1,0,0,270,4,2,1,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Turnip Greens, Kettle Cooked — 1/2 cup",98,70,3,1,0,5,380,8,3,5,,3,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Vegetable Trio — 1/2 cup,90,30,0,0,0,0,210,6,2,3,,2,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Vegetable Trio with Lemon Butter Herb Sauce — 1/2 cup,90,90,7,3,0,0,250,5,2,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,Veggie Burger — 1 each,171,350,9,1,0,0,770,55,6,11,,12,,,https://www.goldencorral.com/nutrition/,2026-10-27
+goldencorral,Vegetables,"Zucchini, Sauteed — 1/2 cup",90,60,5,1,0,0,160,3,1,2,,1,,,https://www.goldencorral.com/nutrition/,2026-10-27
